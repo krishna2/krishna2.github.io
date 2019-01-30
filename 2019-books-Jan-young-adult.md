@@ -1,3 +1,7 @@
+---
+title: Review of Young Adult Books
+---
+
 # Review of Young Adult Books
 
 1. "Inside Out and Back Again" by Thanhha Lai
