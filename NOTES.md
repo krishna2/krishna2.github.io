@@ -5,7 +5,13 @@ title: scratchpad
 # Scratchpad
 
 This is the url of the current page:
-{{site.url}}{{page.url}}
+<a href="{{site.url}}{{page.url}}">{{site.url}}{{page.url}}</a>
+
+The site url is : {{site.url}}
+
+The page url is : {{page.url}}
+
+The date and time is : {{site.date}} and {{site.time}} and {{page.date}}
 
 https://github.com/pages-themes/cayman
 
