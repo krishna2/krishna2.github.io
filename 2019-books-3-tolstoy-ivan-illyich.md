@@ -2,6 +2,12 @@
 title: The Death of Ivan Illyich by Leo Tolstoy
 ---
 
+<style type="text/css">
+.highlight pre{
+  white-space: pre-wrap;
+}
+</style>
+
 # The Death of Ivan Illyich
 ## by Leo Tolstoy
 
@@ -24,45 +30,38 @@ The story begins with Ivan's colleagues discussing the news that Ivan Illyich is
 The next few chapters go about setting up the story for us of Ivan Illyich's life. I liked how Tolstoy described the late 1800s Russia to us of how there are some Government jobs which exists solely for its own reason.
 
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight" style=overflow-wrap: break-word;">
+```
 which brings men to positions from which by reason of their long service they cannot be dismissed, though they are obviously unfit to hold any responsible position, and for whom therefore posts are specially created, which though fictitious carry salaries of from six to ten thousand rubles that are not fictitious.
-</pre></div></div>
+```
 
 Yet again explaining the average individual that Ivan was, Tolstoy explains how he rationalizes about getting married thus.
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight" style=overflow-wrap: break-word;">
+```
 He was swayed by both these considerations: the marriage gave him personal satisfaction, and at the same time it was considered the right thing by the most highly placed of his associates. So Ivan Ilych got married.
 
 And Ivan Ilych evolved such an attitude towards married life. He only required of it those conveniences—dinner at home, housewife, and bed—which it could give him, and above all that propriety of external forms required by public opinion.
-</pre></div></div>
-
+```
 
 Of course, after a few months, things are not as it seems and there is constant fight between Ivan and his wife. And how he tries to balance his life. Then he doesn't get a promotion he has been hoping for and gets mad at the authorities, quits his job and moves cities and then eventually gets a better job and proves him. All the usual mid-life drama with class.
 
 Fast forward to the part where he eventually feels terribly ill, he contemplates each action of his wondering if a small fall could've caused all this.
 
 ```
-<div>
 "What is it all for?" "It really is so! I lost my life over that curtain as I might have done when storming a fort. Is that possible? How terrible and how stupid. It can't be true! It can't, but it is."
-</div>
 ```
 
 At this point in the story appears the most beautiful character, Gerasim. He is an assistant to the butler but has a very honest outlook on life. And he is Ivan Illyich's only consolation. There is this one exchange where Ivan feels very bad that someone has to help him with doing his daily duties.
 
 ```
-<div>
 this was a torment to him every time—a torment from the uncleanliness, the unseemliness, and the smell, and from knowing that another person had to take part in it.
-</div>
 ```
 
 And he calls Gerasim and explains his sad situation.
 
 ```
-<div>
 "That must be very unpleasant for you. You must forgive me. I am helpless." "Oh, why, sir," and Gerasim's eyes beamed and he showed his glistening white teeth, "what's a little trouble? It's a case of illness with you, sir."
 
 Gerasim did it all easily, willingly, simply, and with a good nature that touched Ivan Ilych. Health, strength, and vitality in other people were offensive to him, but Gerasim's strength and vitality did not mortify but soothed him. What tormented Ivan Ilych most was the deception, the lie, which for some reason they all accepted, that he was not dying but was simply ill, and that he only need keep quiet and undergo a treatment and then something very good would result.
-</div>
 ```
 
 Gerasim's view of life is that it is one's duty to help another. That if he helps someone, then someone else may help him when his time comes. And very outright knowledge : "we shall all of us die".
