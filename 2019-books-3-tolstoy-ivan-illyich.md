@@ -2,7 +2,7 @@
 title: The Death of Ivan Illyich by Leo Tolstoy
 ---
 
-<!-- 23.141 -->
+<!-- 23.1415 -->
 <style>
 pre {
   white-space: pre-wrap;
@@ -10,9 +10,13 @@ pre {
 code {
   white-space: pre-wrap;
 }
-  
+
 pre>code {
-white-space: pre-wrap;
+  white-space: pre-wrap;
+}
+
+.main-content pre>code {
+  white-space: pre-wrap;
 }
 </style>
 
