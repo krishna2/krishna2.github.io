@@ -2,8 +2,8 @@
 title: The Death of Ivan Illyich by Leo Tolstoy
 ---
 
-<!-- 23 -->
-<style>pre {white-space: pre-wrap;}</style>
+<!-- 23.1 -->
+<style>code {white-space: pre-wrap;}</style>
 
 # The Death of Ivan Illyich
 ## by Leo Tolstoy
