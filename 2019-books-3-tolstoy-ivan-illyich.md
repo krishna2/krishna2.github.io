@@ -2,13 +2,17 @@
 title: The Death of Ivan Illyich by Leo Tolstoy
 ---
 
-<!-- 23.14 -->
+<!-- 23.141 -->
 <style>
 pre {
   white-space: pre-wrap;
 }
 code {
   white-space: pre-wrap;
+}
+  
+pre>code {
+white-space: pre-wrap;
 }
 </style>
 
