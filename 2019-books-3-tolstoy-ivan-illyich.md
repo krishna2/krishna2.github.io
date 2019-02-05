@@ -22,21 +22,19 @@ The story begins with Ivan's colleagues discussing the news that Ivan Illyich is
 
 The next few chapters go about setting up the story for us of Ivan Illyich's life. I liked how Tolstoy described the late 1800s Russia to us of how there are some Government jobs which exists solely for its own reason.
 
-```
-<div>
-which brings men to positions from which by reason of their long service they cannot be dismissed, though they are obviously unfit to hold any responsible position, and for whom therefore posts are specially created, which though fictitious carry salaries of from six to ten thousand rubles that are not fictitious,
-</div>
-```
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight">
+which brings men to positions from which by reason of their long service they cannot be dismissed, though they are obviously unfit to hold any responsible position, and for whom therefore posts are specially created, which though fictitious carry salaries of from six to ten thousand rubles that are not fictitious.
+</pre></div></div>
 
 Yet again explaining the average individual that Ivan was, Tolstoy explains how he rationalizes about getting married thus.
 
-```
-<div>
+<div class="highlighter-rouge"><div class="highlight">
 He was swayed by both these considerations: the marriage gave him personal satisfaction, and at the same time it was considered the right thing by the most highly placed of his associates. So Ivan Ilych got married.
 
 And Ivan Ilych evolved such an attitude towards married life. He only required of it those conveniences—dinner at home, housewife, and bed—which it could give him, and above all that propriety of external forms required by public opinion.
-</div>
-```
+</div></div>
+
 
 Of course, after a few months, things are not as it seems and there is constant fight between Ivan and his wife. And how he tries to balance his life. Then he doesn't get a promotion he has been hoping for and gets mad at the authorities, quits his job and moves cities and then eventually gets a better job and proves him. All the usual mid-life drama with class.
 
