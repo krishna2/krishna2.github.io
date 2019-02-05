@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
-pre{
+pre {
+  white-space: pre-wrap;
+}
+
+code {
   white-space: pre-wrap;
 }
