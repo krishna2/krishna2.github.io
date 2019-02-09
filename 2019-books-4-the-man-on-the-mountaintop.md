@@ -1,3 +1,26 @@
+---
+title: The Man on the Mountaintop by Susan Trott
+---
+
+<!-- 23.1415 -->
+<style>
+pre {
+  white-space: pre-wrap;
+}
+code {
+  white-space: pre-wrap;
+}
+
+pre>code {
+  white-space: pre-wrap;
+}
+
+.main-content pre>code {
+  white-space: pre-wrap;
+}
+</style>
+
+
 # The Man on the Mountaintop 
 
 The Man on the Mountaintop is a story about a Holy Man who lives in a small hut atop a small Mountain. People who wish to see him should trek the 10 miles (one way) up. He is popular and hence there is generally a long queue to reach his hut. Sometimes during the day, he would stop taking visitors. In which case, those on the line just retreat back to the Village in the valley and then trek up the next day and stand in line and hope to see the Old Man. There is no cheating the "line system" or buying their way in.
