@@ -238,22 +238,19 @@ Have I that non-violence of the brave in me? My death alone will show that. If s
 
 ## References and Links
 
-This seems to be the main site: https://www.mkgandhi.org/main.htm
+This seems to be the [Main Site](https://www.mkgandhi.org/main.htm).
 
-The link to the above book is here: https://www.mkgandhi.org/own_wrds/main.htm
+The link to the [above book](https://www.mkgandhi.org/own_wrds/main.htm)
 
 Here is a list of all of his works and various compilations - a treasure trove. Available to read online or download as PDF or EPUB. Thanks to the good folks who did this work. Printed editions of his entire works are available too.
 
-https://www.mkgandhi.org/bk123.htm
+[https://www.mkgandhi.org/bk123.htm](https://www.mkgandhi.org/bk123.htm)
 
-Some Wikipedia links for completeness.
 
-https://en.wikipedia.org/wiki/Mahatma_Gandhi
-
-https://en.wikipedia.org/wiki/Gandhism
-
-https://en.wikipedia.org/wiki/The_Story_of_My_Experiments_with_Truth
+Some Wikipedia links for completeness : [Mahatma Gandhi](https://en.wikipedia.org/wiki/Mahatma_Gandhi), [Gandhism](https://en.wikipedia.org/wiki/Gandhism) and his [Autobiography](https://en.wikipedia.org/wiki/The_Story_of_My_Experiments_with_Truth).
 
 ---
+
+I am planning to read the full autobiography next and also his writings on Bhagavad Gita. This is also part of the "Meaning of Life" series. To be continued.
 
 Happy Reading!
