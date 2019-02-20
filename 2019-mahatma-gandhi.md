@@ -2,29 +2,6 @@
 title: Mahatma Gandhi's Life in his Own Words
 ---
 
-<!-- 23.1 -->
-<style>
-.page-header {
-    padding: 8px;
-}
-
-pre {
-  white-space: pre-wrap;
-}
-code {
-  white-space: pre-wrap;
-}
-
-pre>code {
-  white-space: pre-wrap;
-}
-
-.main-content pre>code {
-  white-space: pre-wrap;
-}
-</style>
-
-
 # Mahatma Gandhi's Life in his Own Words
 
 I chanced upon this little booklet that is a compilation of Mahatma Gandhi's own writings. His autobiography is the main one, "The Story of My Experiments with Truth", originally written in Gujarati as "Sathiya Sodhani". I finally decided to buckle down and read at least some of his own words rather than interpretations across articles, history chapters and movies (movie in singular maybe? the main one that won a gazillion oscars?). It is one thing to learn through secondary sources but it is totally a different experience to read his own words. 
