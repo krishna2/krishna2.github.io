@@ -2,27 +2,6 @@
 title: The Man on the Mountaintop by Susan Trott
 ---
 
-<!-- 23.1 -->
-<style>
-.page-header {
-    padding: 8px;
-}
-pre {
-  white-space: pre-wrap;
-}
-code {
-  white-space: pre-wrap;
-}
-
-pre>code {
-  white-space: pre-wrap;
-}
-
-.main-content pre>code {
-  white-space: pre-wrap;
-}
-</style>
-
 
 # The Man on the Mountaintop 
 
