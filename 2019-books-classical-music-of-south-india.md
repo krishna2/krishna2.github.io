@@ -92,7 +92,7 @@ Some fun Tukkadas I read.
   - The word pallavi is derived from the three syllables pa-la-vi: padam (words), laya (rhythm) and vinyasam (variations).
 
 
-Interesting to note that his father was the first (he says first) to play a Varnam in lot many speeds and innovate playing techniques to facilitate that. He cited his own performance of playing the Mohanam varnam in 15 speeds. He pointed out to two more works to illustrate hte talas and nadais. I hadn't listened to these before so I noted them down.
+Interesting to note that his father was the first (he says first) to play a Varnam in lot many speeds and innovate playing techniques to facilitate that. He cited his own performance of playing the Mohanam varnam in 15 speeds. He pointed out to two more works to illustrate the talas and nadais. I hadn't listened to these before so I noted them down.
 
 ```
 I have composed a pancha-nadai varnam in Kannada to showcase all the different nadais in the same varnam.
