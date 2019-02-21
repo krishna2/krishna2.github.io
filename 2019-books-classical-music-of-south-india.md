@@ -106,10 +106,8 @@ There is a good section devoted to the various instruments but the book goes on 
 
 I can see this easily being translated to a full fledged one semester course.
 
-I wish that he publishes his current work soon with even more enriching educational information and of course, lots of demo videos too.
+I wish that he publishes his current work soon with even more enriching educational information and of course, lots of demo videos too. An interesting personal find for me while looking up on his wikipedia article - Dr. LS and I share the same birthday! (although, years apart in age and light-years apart in music).
 
 -----
 
 Happy reading!
-
-
