@@ -2,8 +2,8 @@
 title: Walden on Wheels
 ---
 
-# Walden on Wheels: On the Open Road from Debt to Freedom
-## Ilgunas, Ken
+# Walden on Wheels
+## by Ilgunas, Ken
 
 "Walden on Wheels" is a good fun read about one student's realization of how expensive education is and colleges are (thank goodness he realizes the burden of debt and indebtedness way earlier). It is about how he overcomes the debt and finally when wanting to pursue a Masters degree, he avows to himself that he will do it without any more loans and as a homage to his idol, Henry David Thoreau, decides that he will live out of a van thereby saving on rent and such expenses.
 
@@ -15,7 +15,9 @@ Remember who you wanted to be. —BUMPER STICKER ON VOLVO IN THE HOME DEPOT PARK
 I’ve learned that the vandweller doesn’t become a vandweller simply by purchasing a van. Rather, some personal change or transformation must first occur.
 ```
 
-![https://images-na.ssl-images-amazon.com/images/I/51N-DRiGpLL._SY346_.jpg](https://www.amazon.com/Walden-Wheels-Open-Road-Freedom-ebook/dp/B00B77UDWU/)
+<a href="https://www.amazon.com/Walden-Wheels-Open-Road-Freedom-ebook/dp/B00B77UDWU/">
+![https://images-na.ssl-images-amazon.com/images/I/51N-DRiGpLL._SY346_.jpg](Walden on Wheels)
+</a>
 
 
 ## Bachelors Degree
