@@ -15,7 +15,7 @@ I’ve learned that the vandweller doesn’t become a vandweller simply by purch
 ```
 
 <a href="https://www.amazon.com/Walden-Wheels-Open-Road-Freedom-ebook/dp/B00B77UDWU/">
-![https://images-na.ssl-images-amazon.com/images/I/51N-DRiGpLL._SY346_.jpg](Walden on Wheels)
+![Walden on Wheels](https://images-na.ssl-images-amazon.com/images/I/51N-DRiGpLL._SY346_.jpg)
 </a>
 
 
