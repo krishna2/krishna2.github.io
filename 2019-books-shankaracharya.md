@@ -38,10 +38,6 @@ I will brielfly mention the story highlights.
 
 4. He walks all the way to [Omkareshwar Temple](https://en.wikipedia.org/wiki/Omkareshwar) in Madhya Pradesh, situationed along the banks of river Narmada to find and learn from his Guru Govindapada.
 
-```
-The Narmada is the only major river in India that flows from east to west. Nar stands for male, and mada for female: the river symbolises the powers of both, or even a fusion of the powers of both as depicted in the unisex concept of Ardhanarishwara, an androgynous deity very much a part of Hindu mythology.
-```
-
 5. The story where he asks one of his disciples to come along. The ever obedient disciple (Sanandana) starts walking without realizing he is walking on water and the river Ganga providing Lotuses to support him. Hence the disciple is named Padmapada (lotus footed).
 
 6. The one where a Chandala (one who works in the graveyard) says that ne need not move from the way since if what Shankara says is true, then both of them are the same Brahman. Shankara’s five-stanza composition, the Manishapanchakam, goes on to confirm that it is the truth and anyone who has thus realized is his Guru.
@@ -57,6 +53,12 @@ The Narmada is the only major river in India that flows from east to west. Nar s
 11. It is believed that Shankara wrote the Saundarya Lahari, his passionate ode to Shakti, while he lived in this cave in Kashmir and was well versed with the Kashmiri tantric tradition.
 
 12. The author goes on to mention that the matha at Kanchipuram, in Tamil Nadu, is a matter of some controversy. Many scholars believed that Shankara established only four Mathas. The Kanchi Matha claim that it was set up by Shankara to oversee the rest.
+
+A nice info on the River Narmada.
+
+```
+The Narmada is the only major river in India that flows from east to west. Nar stands for male, and mada for female: the river symbolises the powers of both, or even a fusion of the powers of both as depicted in the unisex concept of Ardhanarishwara, an androgynous deity very much a part of Hindu mythology.
+```
 
 All said, in the space of a mere thirty two years, Shankara "plumbed the depths of the great legacy of Hindu philosophy, systematised and developed the Advaita doctrine into an imperishable school of thought, revived and reformed Hinduism, toured the length and breadth of India, from Kaladi in Kerala to Kedarnath in the Himalayas, and set up the four mathas to ensure Hinduism’s preservation and propagation".
 
