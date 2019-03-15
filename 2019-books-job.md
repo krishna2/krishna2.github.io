@@ -95,34 +95,24 @@ I added some snippets of Job's and his friends's in all its glory, from the King
 
 ## References
 
-1. King James Bible (Book of Genesis and Book of Job)
-https://www.amazon.com/gp/product/B00D19RE92
+1. [King James Bible](https://www.amazon.com/gp/product/B00D19RE92) (Book of Genesis and Book of Job): There are many versions (I meant electronic versions since this in public domain) that are sold. I found this version to be well formatted and clear and easy to read. The books, chapters and verses are all well linked and hence easy to navigate back and forth.
 
-There are many versions (I meant electronic versions since this in public domain) that are sold. I found this version to be well formatted and clear and easy to read. The books, chapters and verses are all well linked and hence easy to navigate back and forth.
+2. The [History of the Bible](https://www.audible.com/pd/The-History-of-the-Bible-The-Making-of-the-New-Testament-Canon-Audiobook/B00DEK374E
+): The Making of the New Testament Canon, Great courses by Prof. Bart Ehrman : A fascinating series of 24 lectures that gives a very good context of what the Bible is (new testament), the historic context starting all the way from the Old Testament and about all the books in the New Testament (starting with the disciples, the gospels, the languages, then through the epistles and finally Revelation).
 
-2. The History of the Bible: The Making of the New Testament Canon, Great courses by Prof. Bart Ehrman
-https://www.audible.com/pd/The-History-of-the-Bible-The-Making-of-the-New-Testament-Canon-Audiobook/B00DEK374E
+3. [What's in the Bible](https://smile.amazon.com/gp/product/B006IIXCD0/
+): A One-Volume Guidebook to God's Word by R.C. Sproul, Robert Wolgemuth : A very good summary of each and every book of the Bible in one chapter. This is in simple English and in narrational style. Each chapter also gives the context of the why and the important lesson it teaches.
 
-A fascinating series of 24 lectures that gives a very good context of what the Bible is (new testament), the historic context starting all the way from the Old Testament and about all the books in the New Testament (starting with the disciples, the gospels, the languages, then through the epistles and finally Revelation).
+4. The [Old Testament](https://www.audible.com/pd/The-Old-Testament-Audiobook/B00DII1TBA
+), Great courses by Prof. Amy-Jill Levine : Another wonderful course from the Great courses series. 24 lectures analyzing all the books of Old Testament. Some books in more detail than others. Fascinating history and stories.
 
-3. What's in the Bible: A One-Volume Guidebook to God's Word by R.C. Sproul, Robert Wolgemuth
-https://smile.amazon.com/gp/product/B006IIXCD0/
+5. [Understanding The Book Of Job](https://www.amazon.com/Understanding-Book-Job-Separating-Truth-ebook/dp/B00ILVIU5C/
+) - Separating What Is True From What Is Truth by Pastor Tom Tompkins : I got this hoping for a more deeper analysis of the Book of Job. This is more (all?) towards the religious and preaching angle. All the justifications for various passages that are prone to misinterpretation.
 
-A very good summary of each and every book of the Bible in one chapter. This is in simple English and in narrational style. Each chapter also gives the context of the why and the important lesson it teaches.
+6. G.K. Chesterton: [Introduction to Job](https://www.chesterton.org/introduction-to-job/)
 
-4. The Old Testament, Great courses by Prof. Amy-Jill Levine
-https://www.audible.com/pd/The-Old-Testament-Audiobook/B00DII1TBA
+7. Wikipedia : [Book of Job[(https://en.wikipedia.org/wiki/Book_of_Job)
 
-Another wonderful course from the Great courses series. 24 lectures analyzing all the books of Old Testament. Some books in more detail than others. Fascinating history and stories.
-
-5. Understanding The Book Of Job - Separating What Is True From What Is Truth by Pastor Tom Tompkins
-https://www.amazon.com/Understanding-Book-Job-Separating-Truth-ebook/dp/B00ILVIU5C/
-
-I got this hoping for a more deeper analysis of the Book of Job. This is more (all?) towards the religious and preaching angle. All the justifications for various passages that are prone to misinterpretation.
-
-6. G.K. Chesterton: https://www.chesterton.org/introduction-to-job/
-
-7. https://en.wikipedia.org/wiki/Book_of_Job
 
 I read these in this order : 2, 3, 4, 1, 5, 7, 6
 
