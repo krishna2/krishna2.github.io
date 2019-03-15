@@ -95,6 +95,8 @@ I added some snippets of Job's and his friends's in all its glory, from the King
 
 ## References
 
+These are the books I read to get a good understanding of the Bible, the history and what it is all about and of course, the Book of Job.
+
 1. [King James Bible](https://www.amazon.com/gp/product/B00D19RE92) (Book of Genesis and Book of Job): There are many versions (I meant electronic versions since this in public domain) that are sold. I found this version to be well formatted and clear and easy to read. The books, chapters and verses are all well linked and hence easy to navigate back and forth.
 
 2. The [History of the Bible](https://www.audible.com/pd/The-History-of-the-Bible-The-Making-of-the-New-Testament-Canon-Audiobook/B00DEK374E
@@ -123,17 +125,17 @@ The Hebrew Bible / Jewish Holy Scripture is called TNK - pronounced Tanakh. Anci
 
 TNK stands for the first letters of the three main books:
 
-T for Torah which means Teaching, also known as the Five Books of Moses
+  - T for Torah which means Teaching, also known as the Five Books of Moses
 
-N for Ne'Vim - Prophets
+  - N for Ne'Vim - Prophets
 
-K for Ketuvim - Writings
+  - K for Ketuvim - Writings
 
 The god is called Yahweh, spelled YHWH - pronounced roughly as "Yaw Way". Well, the Germans would be the first to translate this, hence we get JHVH.
 
 You can correlate the German version easily.
-J for Y - Johann vs Yohann 
-V for W - Volkswagen - FolksWagon, literally meaning people's vehicle, FV (roughly fuh wah).
+  - J for Y - Johann vs Yohann 
+  - V for W - Volkswagen - FolksWagon, literally meaning people's vehicle, FV (roughly fuh wah).
 
 And now you fill that up with vowels, you get Jehovah! Ah, now I am reminded of the last scene in the Indiana Jones and Raiders of the Lost Ark movie where Indiana Jones has to step on the right letters that spell Jehovah to cross a dangerous pit fall area and his father, Sean Connery whispers but "it begins with a J". Another fun coincidence, (yesterday was Pi day for 3:14). Mission Impossible (the first) has a scene where Ethan Hunt (Tom Cruise) is contemplating what "Job 3:14" means - it is this book of Job and the chapter and verse, which when he searches leads him to the next clue.
 
