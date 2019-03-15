@@ -1,6 +1,6 @@
------
+---
 title: Book of Job from the Old Testament
------
+---
 
 # Book of Job
 
