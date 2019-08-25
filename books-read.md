@@ -431,7 +431,6 @@
 
 18. Walter Dailey: JingleMoney
 
-
 19. Amos Clarke: 56 Mix Tips for the Small Recording Studio
 
 20. Robin Frederick: Song Starters: 365 Lyric, Melody, & Chord Idea
@@ -532,53 +531,31 @@
 
 
 
-
-
 ## Books I read in 2016
 
 
 
-1. Children's Shakespeare Series:
-
-- Othello
-
-- The Winterâ€™s Tale
-
-- Merchant of Venice
-
-- Julius Caesar
-
-- Romeo and Juliet
-
-- Macbeth
-
-- Taming of the Shrew
-
-- King Lear
-
-- The Tempest
-
-- Anthony and Cleopatra
-
-- Much Ado about Nothing
-
-- A Midsummer Nightâ€™s Dream
-
-- Timon of Athens
-
-- Cymbeline, King of Britain
-
-- Twelfth Night
-
-- Hamlet, Prince of Denmark
-
-- Two Gentlemen of Verona
-
-- Alls well that ends well
-
-- As you like it
-
-- Comedy of Errors
+1. Children's Shakespeare Series
+   - Othello
+   - The Winter's Tale
+   - Merchant of Venice
+   - Julius Caesar
+   - Romeo and Juliet
+   - Macbeth
+   - Taming of the Shrew
+   - King Lear
+   - The Tempest
+   - Anthony and Cleopatra
+   - Much Ado about Nothing
+   - A Midsummer Night's Dream
+   - Timon of Athens
+   - Cymbeline, King of Britain
+   - Twelfth Night
+   - Hamlet, Prince of Denmark
+   - Two Gentlemen of Verona
+   - Alls well that ends well
+   - As you like it
+   - Comedy of Errors
 
 2. Prof. Robert Greenberg: How to listen to and understand Opera [great courses]
 
@@ -963,7 +940,7 @@
 
 35. Timoty Pychyl: Solving the procrastination puzzle
 
-36. Shakespeare Abridged:
+36. Shakespeare Abridged
     - Merchant of Venice
     - Taming of the Shrew
     - Twelfth Night
