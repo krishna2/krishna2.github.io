@@ -1,5 +1,7 @@
 # Books I have read
 
+[Link to this page](https://krishna2.github.io/books-read)
+
 ## Books in 2019
 
 1. Thanhha Lai:	Inside Out and Back Again
@@ -141,6 +143,10 @@
 1. Warren Berger:	A More Beautiful Question
 
 1. Greg Mckeown:	Essentialism
+
+1. Prof. Alan Charles Kors: The Birth of the Modern Mind
+
+1. Lawrence Krauss: A Universe from Nothing
 
 
 ## Books in 2018
