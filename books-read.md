@@ -148,6 +148,17 @@
 
 1. Lawrence Krauss: A Universe from Nothing
 
+1. Robert Maurer: One Small Step Can Change Your Life: The Kaizen Way
+
+1. Laszlo Bock: Work Rules!: Insights from Inside Google
+
+1. William Ury: Getting to Yes with Yourself
+
+1. Kelly Leonard, Tom Yorton: Yes, And: How Improvisation Reverses "No, But" Thinking
+
+1. Susan David: Emotional Agility*
+
+
 
 ## Books in 2018
 
