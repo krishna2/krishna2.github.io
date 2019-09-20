@@ -156,7 +156,11 @@
 
 1. Kelly Leonard, Tom Yorton: Yes, And: How Improvisation Reverses "No, But" Thinking
 
-1. Susan David: Emotional Agility*
+1. Susan David: Emotional Agility
+
+1. Napoleon Hill: Selling You!
+
+1. Daniel Pink: Drive: The Surprising Truth About What Motivates Us
 
 
 
