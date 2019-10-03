@@ -162,6 +162,10 @@
 
 1. Daniel Pink: Drive: The Surprising Truth About What Motivates Us
 
+1. Tina Fey: Bossypants
+
+1. Albert-Laszlo Barabasi: The Formula: The Universal Laws of Success
+
 
 
 ## Books in 2018
