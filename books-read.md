@@ -166,6 +166,19 @@
 
 1. Albert-Laszlo Barabasi: The Formula: The Universal Laws of Success
 
+1. Bernard Roth: The Achievement Habit
+
+1. Veronica Roth: Ark
+
+1. Blake Crouch: Summer Frost
+
+1. N. K. Jemisin: Emergency Skin
+
+1. Amor Towles: You Have Arrived at Your Destination
+
+1. Paul Tremblay: The Last Conversation
+
+1. Andy Weir: Randomize
 
 
 ## Books in 2018
