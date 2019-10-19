@@ -180,6 +180,8 @@
 
 1. Andy Weir: Randomize
 
+1. Brian Grazer: A Curious Mind
+
 
 ## Books in 2018
 
