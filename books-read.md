@@ -182,6 +182,15 @@
 
 1. Brian Grazer: A Curious Mind
 
+1. Jeff Goins: The Art of Work
+
+1. Peter Thiel, Blake Masters: Zero to One: Notes on Startups, or How to Build the Future
+
+1. Sonia Faruqi: Project Animal Farm
+
+1. Brian Tracy: The Science of Motivation
+
+
 
 ## Books in 2018
 
