@@ -164,6 +164,8 @@
 
 1. Tina Fey: Bossypants
 
+1. Prof. Robert Solomon: No Excuses: Existentialism and the Meaning of Life
+
 1. Albert-Laszlo Barabasi: The Formula: The Universal Laws of Success
 
 1. Bernard Roth: The Achievement Habit
@@ -190,6 +192,13 @@
 
 1. Brian Tracy: The Science of Motivation
 
+1. Amy Poehler: Yes, Please!
+
+1. Kathryn Schulz: Being Wrong: Adventures in the Margin of Error
+
+1. *Ron Chernow: Titan: The Life of John D. Rockefeller
+
+1. *Stick with it
 
 
 ## Books in 2018
