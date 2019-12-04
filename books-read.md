@@ -196,9 +196,21 @@
 
 1. Kathryn Schulz: Being Wrong: Adventures in the Margin of Error
 
-1. *Ron Chernow: Titan: The Life of John D. Rockefeller
+1. Ron Chernow: Titan: The Life of John D. Rockefeller
 
-1. *Stick with it
+1. Sean Young: Stick with it
+
+1. Dr. Herbert Benson: The Relaxation Response
+
+1. Austin Kleon: Show Your Work
+
+1. *Katherine Reynolds Lewis: The Good News About Bad Behavior
+
+1. *Merrill Markoe, Megan Koester: The Indignities of being a Woman
+
+1. *Epictetus and Sharon Lebell: The Art of Living
+
+1. *Mary Roach: Stiff
 
 
 ## Books in 2018
