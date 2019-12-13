@@ -204,13 +204,31 @@
 
 1. Austin Kleon: Show Your Work
 
-1. *Katherine Reynolds Lewis: The Good News About Bad Behavior
+1. Katherine Reynolds Lewis: The Good News About Bad Behavior
 
-1. *Merrill Markoe, Megan Koester: The Indignities of being a Woman
+1. Merrill Markoe, Megan Koester: The Indignities of being a Woman
 
-1. *Epictetus and Sharon Lebell: The Art of Living
+1. Epictetus and Sharon Lebell: The Art of Living
+
+1. John Maxwell: 3 Things Successful People Do
+
+1. Laura Ingalls Wilder: Book 1: Little House in the Big Woods
+
+1. Mary Roach: Gulp : Adventures on the Alimentary Canal
+
+### Currently Reading
+
+1. *Virginia Cowles: The Rothschilds
+
+1. *Bill Bryson: The Lost Continent : Travels in Small Town America
 
 1. *Mary Roach: Stiff
+
+1. *Herman Hesse: The Gladd Bead Game
+
+1. Laura Ingalls Wilder: Book 2: Farmer Boy
+
+1. *Ming-Dao Deng: 365 Tao: Daily Meditations
 
 
 ## Books in 2018
