@@ -216,17 +216,25 @@
 
 1. Mary Roach: Gulp : Adventures on the Alimentary Canal
 
+1. Virginia Cowles: The Rothschilds
+
+1. Bill Bryson: The Lost Continent : Travels in Small Town America
+
+1. Howard Schultz, Rajiv Chandrasekaran: Upstanders (Season 1)
+
+1. Mary Robinette Kowal: The Calculating Stars (Lady Astronaut Series : Book 1)
+
 ### Currently Reading
 
-1. *Virginia Cowles: The Rothschilds
+1. *Nir Eyal: Indistractable
 
-1. *Bill Bryson: The Lost Continent : Travels in Small Town America
+1. *Tara Westover: Educated
 
 1. *Mary Roach: Stiff
 
-1. *Herman Hesse: The Gladd Bead Game
+1. *Herman Hesse: The Glass Bead Game
 
-1. Laura Ingalls Wilder: Book 2: Farmer Boy
+1. *Laura Ingalls Wilder: Book 2: Farmer Boy
 
 1. *Ming-Dao Deng: 365 Tao: Daily Meditations
 
