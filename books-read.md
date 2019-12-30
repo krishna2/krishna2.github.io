@@ -86,23 +86,23 @@
 
 1. Sara Pennypacker:	Pax
 
-1. Joan Druett:	Island of the Lost
+1. Joan Druett: Island of the Lost
 
-1. Xenophon:	The Memorable Thoughts of Socrates
+1. Xenophon: The Memorable Thoughts of Socrates
 
-1. Plato:	Apology
+1. Plato: Apology
 
-1. Plato:	Crito
+1. Plato: Crito
 
-1. Tom Tompkins:	Understanding the Book of Job
+1. Tom Tompkins: Understanding the Book of Job
 
-1. Charles Duhigg:	The Power of Habit
+1. Charles Duhigg: The Power of Habit
 
 1. Plato:	Meno
 
 1. Hans Christian Andersen:	Snow Queen
 
-1. Dr. Wendy Mogel:	Voice Lessons for Parents
+1. Dr. Wendy Mogel: Voice Lessons for Parents
 
 1. Prof. Tilar J J Mazzeo:	Creative Non-fiction Writing [great courses]
 
@@ -112,37 +112,37 @@
 
 1. Prof. Daniel Robinson:	Great Ideas of Philosophy [great courses]
 
-1. Dr. Jason Fung:	Diabetes Code
+1. Dr. Jason Fung: Diabetes Code
 
-1. Dr. Ronald Siegel:	Science of Mindfulness [great courses]
+1. Dr. Ronald Siegel: Science of Mindfulness [great courses]
 
 1. Dr. Valter Longo:	The Longevity Diet
 
 1. Prof. Mark Leary:	Why you are Who you are
 
-1. Jacqueline Davies:	Lemonade War
+1. Jacqueline Davies: Lemonade War
 
-1. Dr. Jason Fung:	The Complete Guide to Fasting
+1. Dr. Jason Fung: The Complete Guide to Fasting
 
 1. Max Muller:	Dhammapada: Wisdom of the Buddha
 
-1. Lama Surya Das:	Awakening the Buddha Within
+1. Lama Surya Das: Awakening the Buddha Within
 
 1. Dr. Patrick Grim:	Philosophy of Mind [great courses]
 
-1. Connel Fullenkamp:	Crashes and Crises
+1. Connel Fullenkamp: Crashes and Crises
 
-1. Dr. Steven Gimbel:	Redefining Reality [great courses]
+1. Dr. Steven Gimbel: Redefining Reality [great courses]
 
-1. Dan Rust:	Workplace Poker
+1. Dan Rust: Workplace Poker
 
 1. Shane Snow:	Smartcuts
 
-1. Bobby Bones:	Fail Until You Don't : Fight Grind Repeat
+1. Bobby Bones: Fail Until You Don't : Fight Grind Repeat
 
 1. Warren Berger:	A More Beautiful Question
 
-1. Greg Mckeown:	Essentialism
+1. Greg Mckeown: Essentialism
 
 1. Prof. Alan Charles Kors: The Birth of the Modern Mind
 
@@ -224,11 +224,12 @@
 
 1. Mary Robinette Kowal: The Calculating Stars (Lady Astronaut Series : Book 1)
 
+1. Tara Westover: Educated
+
+
 ### Currently Reading
 
 1. *Nir Eyal: Indistractable
-
-1. *Tara Westover: Educated
 
 1. *Mary Roach: Stiff
 
