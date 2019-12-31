@@ -226,6 +226,9 @@
 
 1. Tara Westover: Educated
 
+1. Komal Singh: Ara the Explorer
+
+1. Jeff Kinney: The Diary of a Wimpy Kid : Getaway (book 12)
 
 ### Currently Reading
 
