@@ -232,6 +232,8 @@
 
 ### Currently Reading
 
+1. *Abbot George Burke (Swami Nirmalananda Giri): The Upanishads for Awakening
+
 1. *Nir Eyal: Indistractable
 
 1. *Mary Roach: Stiff
