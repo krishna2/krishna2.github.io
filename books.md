@@ -1,6 +1,8 @@
 # Books I have read
 
+<!--
 [Link to this page](https://krishna2.github.io/books)
+-->
 
 ## Books in 2019
 
