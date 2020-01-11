@@ -320,6 +320,16 @@ https://towardsdatascience.com/visualisation-of-embedding-relations-word2vec-ber
 
 
 
+Attention and Augmented Recurrent Neural Networks
+
+https://distill.pub/2016/augmented-rnns/
+
+https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html
+
+https://towardsdatascience.com/simple-transformers-introducing-the-easiest-bert-roberta-xlnet-and-xlm-library-58bf8c59b2a3
+
+
+
 -----
 
 
@@ -469,7 +479,9 @@ Hacker's guide to Neural Networks
 http://karpathy.github.io/neuralnets/
 
 
+-----
 
+### CNN
 
 Conv Nets: A Modular Perspective - colah's blog
 http://colah.github.io/posts/2014-07-Conv-Nets-Modular/
@@ -489,10 +501,6 @@ http://colah.github.io/posts/2014-10-Visualizing-MNIST/
 Visualizing Representations: Deep Learning and Human Beings - colah's blog
 http://colah.github.io/posts/2015-01-Visualizing-Representations/
 
-
------
-
-### CNN
 
 Simple Introduction to Convolutional Neural Networks
 https://towardsdatascience.com/simple-introduction-to-convolutional-neural-networks-cdf8d3077bac
@@ -713,9 +721,6 @@ https://news.ycombinator.com/item?id=21240057
 Lots of ML: https://blog.floydhub.com/
 
 
-
-### COURSES : STANFORD, COURSERA, FASTAI AND OTHER
-
 https://www.coursera.org/specializations/tensorflow-in-practice
 
 https://www.coursera.org/learn/introduction-tensorflow/home/welcome
@@ -739,13 +744,11 @@ https://www.coursera.org/learn/reinforcement-learning-in-finance/home/welcome
 https://www.coursera.org/learn/advanced-methods-reinforcement-learning-finance/home/welcome
 
 
-
 https://www.coursera.org/specializations/tensorflow-in-practice
 
 https://www.coursera.org/specializations/aml
 
 https://www.coursera.org/specializations/machine-learning-reinforcement-finance
-
 
 https://www.coursera.org/specializations/tensorflow-in-practice
 
@@ -754,7 +757,6 @@ Couple of course links from Stanford NLP + DL :
 http://web.stanford.edu/class/cs224n/
 
 https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1184/syllabus.html
-
 
 http://web.stanford.edu/class/cs224u/
 
@@ -1164,9 +1166,7 @@ Optima Optometry | Optometrist | Eye Doctor | Eye Care | Eyeglasses | Contact Le
 
 https://www.optimaoptometry.com/
 
-Attention and Augmented Recurrent Neural Networks
 
-https://distill.pub/2016/augmented-rnns/
 
 
 
@@ -1218,7 +1218,6 @@ https://en.wikipedia.org/wiki/Universal_approximation_theorem
 
 https://heartbeat.fritz.ai/k-means-clustering-using-sklearn-and-python-4a054d67b187
 
-https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html
 
 https://arxiv.org/pdf/1409.0473.pdf
 
@@ -1257,7 +1256,7 @@ https://towardsdatascience.com/teaching-a-neural-net-to-play-blackjack-8ec5f3980
 
 https://towardsdatascience.com/tensorflow-2-0-create-and-train-a-vanilla-cnn-on-google-colab-c7a0ac86d61b
 
-https://towardsdatascience.com/simple-transformers-introducing-the-easiest-bert-roberta-xlnet-and-xlm-library-58bf8c59b2a3
+
 
 https://www.apptic.me/blog/how-to-train-a-neural-net-to-play-cards.php
 
