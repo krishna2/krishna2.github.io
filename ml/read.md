@@ -468,6 +468,16 @@ https://www.ethanhein.com/wp/2016/visualizing-hip-hop-melodies/
 Text Generation With LSTM Recurrent Neural Networks in Python with Keras
 https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
 
+Some interesting articles on language / nlp:
+
+http://nautil.us/issue/54/the-unspoken/the-rise-and-fall-of-the-english-sentence
+
+https://hackernoon.com/generating-lyrics-using-deep-multi-layer-lstm-b28ee8124936
+
+https://towardsdatascience.com/ai-generates-taylor-swifts-song-lyrics-6fd92a03ef7e
+
+http://warmspringwinds.github.io/pytorch/rnns/2018/01/27/learning-to-generate-lyrics-and-music-with-recurrent-neural-networks/
+
 
 
 -----
@@ -601,27 +611,37 @@ https://github.com/tensorflow/nmt
 
 
 
-Very good text generation example: (in keras. trains with Nietzsche's text):https://keras.io/examples/lstm_text_generation/
+Very good text generation example: (in keras. trains with Nietzsche's text):
+
+https://keras.io/examples/lstm_text_generation/
 
 DeepLizard : seems to have a full playlist of three ml/dl courses. Here are the top 4 that is of interest.
+
 Machine Learning & Deep Learning Fundamentals
+
 https://deeplizard.com/learn/playlist/PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU
 
 Keras - Python Deep Learning Neural Network API
+
 https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL
 
 Neural Network Programming - Deep Learning with PyTorch
+
 https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG
 
 Reinforcement Learning - Introducing Goal Oriented Intelligence
+
 https://deeplizard.com/learn/playlist/PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv
 
 
 Amazing visualization and analysis of every Nature paper published and their connections.
+
 https://www.youtube.com/watch?v=GW4s58u8PZo&feature=youtu.be
 
 https://www.nature.com/immersive/d41586-019-03165-4/index.html
+
 https://www.nature.com/immersive/d41586-019-03165-4/reftree-home.html
+
 
 Wonder if such a history exists for ML, NLP, esp. Music/ML.
 
@@ -844,7 +864,9 @@ https://www.reddit.com/r/MachineLearning/comments/ds1xvc/d_deep_learning_has_a_s
 
 https://ai.googleblog.com/2019/11/highlights-from-2019-google-ai.html
 
-Enrolled in all these classes today in audit mode:
+
+
+### COURSERA
 
 https://www.coursera.org/specializations/tensorflow-in-practice
 https://www.coursera.org/learn/introduction-tensorflow/home/welcome
@@ -862,117 +884,144 @@ https://www.coursera.org/learn/advanced-methods-reinforcement-learning-finance/h
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-On Mon, Nov 11, 2019 at 8:08 PM Krishna Srinivasan <krishna2@gmail.com> wrote:
 CNN, RNN, LSTM, Word2Vec, Transformer : Tutorials, intuitive explanations.
+
 https://stackoverflow.com/questions/57048120/pytorch-lstm-vs-lstmcell
+
 https://stackoverflow.com/questions/48187283/whats-the-difference-between-lstm-and-lstmcell
+
 https://colab.research.google.com/drive/1-UdelAqtD_2KrUIV_NTL59kgqo8m1Y2H#scrollTo=lJLcUBF5GOyU
+
 https://towardsdatascience.com/nlp-learning-series-part-3-attention-cnn-and-what-not-for-text-classification-4313930ed566
+
 https://www.kaggle.com/mlwhiz/textcnn-pytorch-and-keras
+
 https://github.com/cmasch/cnn-text-classification
+
 https://scholar.google.com/citations?user=32w7x1cAAAAJ&hl=en
-https://nlp.seas.harvard.edu/2018/04/03/attention.html
-https://bastings.github.io/annotated_encoder_decoder/
-https://en.wikipedia.org/wiki/Receiver_operating_characteristic
+
+
 https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5
+
 https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62
-http://jalammar.github.io/illustrated-word2vec/
-https://towardsdatascience.com/learn-word2vec-by-implementing-it-in-tensorflow-45641adaf2ac
-https://machinelearningmastery.com/develop-word-embeddings-python-gensim/
+
+
 https://machinelearningmastery.com/deep-learning-for-nlp/
+
 https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
-https://magenta.tensorflow.org/
+
+
 https://magenta.tensorflow.org/piano-transformer
+
 https://magenta.tensorflow.org/studio
+
 https://www.midi.org/articles-old/google-magenta-making-music-with-midi-and-machine-learning
+
 https://blog.google/technology/ai/behind-magenta-tech-rocked-io/
+
 https://towardsdatascience.com/simple-introduction-to-convolutional-neural-networks-cdf8d3077bac
+
+
 https://towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d
+
 https://www.freecodecamp.org/news/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050/
+
 https://medium.com/technologymadeeasy/the-best-explanation-of-convolutional-neural-networks-on-the-internet-fbb8b1ad5df8
+
 https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
-https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9
+
+
 http://kurious.pub/blog/4
+
 https://builtin.com/data-science/recurrent-neural-networks-and-lstm
+
 https://medium.com/@annikabrundyn1/the-beginners-guide-to-recurrent-neural-networks-and-text-generation-44a70c34067f
+
 https://skymind.ai/wiki/lstm
 
 
-
-On Mon, Nov 4, 2019 at 7:20 PM Krishna Srinivasan <krishna2@gmail.com> wrote:
 https://en.wikipedia.org/wiki/Universal_approximation_theorem
+
 https://heartbeat.fritz.ai/k-means-clustering-using-sklearn-and-python-4a054d67b187
+
 https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html
+
 https://arxiv.org/pdf/1409.0473.pdf
+
 https://arxiv.org/pdf/1902.02181.pdf
-https://www.saama.com/blog/attention-mechanism-benefits-and-applications/
-https://explosion.ai/blog/deep-learning-formula-nlp
-https://ruder.io/deep-learning-nlp-best-practices/index.html#attention
-https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3
+
 https://arxiv.org/pdf/1703.03906.pdf
 
--------------------------
 https://www.kalzumeus.com/2019/10/28/tether-and-bitfinex/
 
--------------------------
 https://www.technologyreview.com/s/614666/ai-machine-learning-music-feel-good/amp/
-https://towardsdatascience.com/beginning-machine-learning-650add627e79
-https://www.sciencealert.com/prime-number-theorems-conjectures-explained/amp
-https://www.searchenginejournal.com/bert-generate-meta-descriptions/332585/amp/
-https://medium.com/tensorflow/using-tensorflow-2-for-state-of-the-art-natural-language-processing-102445cda54a
-http://www.bbc.com/culture/story/20191022-what-are-the-best-first-lines-in-fiction
-https://towardsdatascience.com/creating-word-embeddings-for-out-of-vocabulary-oov-words-such-as-singlish-3fe33083d466
-https://marketingland.com/welcome-bert-googles-latest-search-algorithm-to-better-understand-natural-language-269910/amp
-https://towardsdatascience.com/nlp-extract-contextualized-word-embeddings-from-bert-keras-tf-67ef29f60a7b
-https://blog.scaleway.com/2019/understanding-text-with-bert/amp/
-https://www.sciencealert.com/mathematicians-have-discovered-an-astonishing-new-way-to-multiply-large-numbers/amp
-https://towardsdatascience.com/visualisation-of-embedding-relations-word2vec-bert-64d695b7f36
-https://aiweirdness.com/post/188342947482/halloween-costumes-by-the-neural-net-gpt-2/amp
-https://towardsdatascience.com/understanding-bert-is-it-a-game-changer-in-nlp-7cca943cf3ad
-https://israelg99.github.io/2017-03-23-Word2Vec-Explained/
-https://www.wired.com/story/ai-pioneer-algorithms-understand-why/amp
-https://towardsdatascience.com/teaching-a-neural-net-to-play-blackjack-8ec5f39809e2
-https://towardsdatascience.com/tensorflow-2-0-create-and-train-a-vanilla-cnn-on-google-colab-c7a0ac86d61b
-https://towardsdatascience.com/simple-transformers-introducing-the-easiest-bert-roberta-xlnet-and-xlm-library-58bf8c59b2a3
-https://www.apptic.me/blog/how-to-train-a-neural-net-to-play-cards.php
-https://towardsdatascience.com/implementing-word2vec-in-pytorch-skip-gram-model-e6bae040d2fb
-https://towardsdatascience.com/machine-learning-word-embedding-sentiment-classification-using-keras-b83c28087456
-https://appliedmachinelearning.blog/2019/03/04/state-of-the-art-text-classification-using-bert-model-predict-the-happiness-hackerearth-challenge/amp/
-https://towardsdatascience.com/deconstructing-bert-reveals-clues-to-its-state-of-art-performance-in-nlp-tasks-76a7e828c0f1
-https://classicalpoets.org/2018/05/24/10-favorite-shakespeare-sonnets/
-https://towardsdatascience.com/nlp-extract-contextualized-word-embeddings-from-bert-keras-tf-67ef29f60a7b
-https://towardsdatascience.com/bert-classifier-just-another-pytorch-model-881b3cf05784
-https://towardsdatascience.com/fse-2b1ffa791cf9
-https://github.com/tensorflow/text
-https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
-https://medium.com/syncedreview/going-beyond-gan-new-deepmind-vae-model-generates-high-fidelity-human-faces-b1cc08fa4bbb
-https://github.com/bollu/bollu.github.io#everything-you-know-about-word2vec-is-wrong
-https://www.pyimagesearch.com/2018/09/10/keras-tutorial-how-to-get-started-with-keras-deep-learning-and-python/
-https://medium.com/datadriveninvestor/deep-learning-with-python-and-fast-ai-part-2-nlp-classification-with-transfer-learning-e7aaf7514e04
-https://medium.com/@narjes.karmani/reinforcement-learning-fundamentals-469a91e40fce
-https://medium.com/apache-mxnet/gluon-nlp-bert-6a489bdd3340
-http://jalammar.github.io/illustrated-transformer/
 
-------------------------
+
+
+
+https://towardsdatascience.com/beginning-machine-learning-650add627e79
+
+https://www.sciencealert.com/prime-number-theorems-conjectures-explained/amp
+
+
+https://medium.com/tensorflow/using-tensorflow-2-for-state-of-the-art-natural-language-processing-102445cda54a
+
+http://www.bbc.com/culture/story/20191022-what-are-the-best-first-lines-in-fiction
+
+https://towardsdatascience.com/creating-word-embeddings-for-out-of-vocabulary-oov-words-such-as-singlish-3fe33083d466
+
+https://marketingland.com/welcome-bert-googles-latest-search-algorithm-to-better-understand-natural-language-269910/amp
+
+
+https://www.sciencealert.com/mathematicians-have-discovered-an-astonishing-new-way-to-multiply-large-numbers/amp
+
+https://towardsdatascience.com/visualisation-of-embedding-relations-word2vec-bert-64d695b7f36
+
+https://aiweirdness.com/post/188342947482/halloween-costumes-by-the-neural-net-gpt-2/amp
+
+
+https://towardsdatascience.com/teaching-a-neural-net-to-play-blackjack-8ec5f39809e2
+
+https://towardsdatascience.com/tensorflow-2-0-create-and-train-a-vanilla-cnn-on-google-colab-c7a0ac86d61b
+
+https://towardsdatascience.com/simple-transformers-introducing-the-easiest-bert-roberta-xlnet-and-xlm-library-58bf8c59b2a3
+
+https://www.apptic.me/blog/how-to-train-a-neural-net-to-play-cards.php
+
+https://towardsdatascience.com/implementing-word2vec-in-pytorch-skip-gram-model-e6bae040d2fb
+
+https://towardsdatascience.com/machine-learning-word-embedding-sentiment-classification-using-keras-b83c28087456
+
+https://appliedmachinelearning.blog/2019/03/04/state-of-the-art-text-classification-using-bert-model-predict-the-happiness-
+hackerearth-challenge/amp/
+
+
+https://classicalpoets.org/2018/05/24/10-favorite-shakespeare-sonnets/
+
+
+https://towardsdatascience.com/fse-2b1ffa791cf9
+
+https://github.com/tensorflow/text
+
+https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
+
+https://medium.com/syncedreview/going-beyond-gan-new-deepmind-vae-model-generates-high-fidelity-human-faces-b1cc08fa4bbb
+
+
+https://www.pyimagesearch.com/2018/09/10/keras-tutorial-how-to-get-started-with-keras-deep-learning-and-python/
+
+
+https://medium.com/datadriveninvestor/deep-learning-with-python-and-fast-ai-part-2-nlp-classification-with-transfer-learning-e7aaf7514e04
+
+https://medium.com/@narjes.karmani/reinforcement-learning-fundamentals-469a91e40fce
+
+
+
+
 https://www.coursera.org/specializations/tensorflow-in-practice
+
 https://www.coursera.org/specializations/aml
+
 https://www.coursera.org/specializations/machine-learning-reinforcement-finance
 
 
@@ -980,48 +1029,49 @@ https://www.coursera.org/specializations/machine-learning-reinforcement-finance
 
 
 
-On Tue, Oct 22, 2019 at 5:20 AM Krishna Srinivasan <krishna2@gmail.com> wrote:
 https://news.ycombinator.com/item?id=21242343
+
 https://www.newyorker.com/magazine/2019/10/14/can-a-machine-learn-to-write-for-the-new-yorker
+
 http://www.oranlooney.com/post/ml-from-scratch-part-6-pca/
 
 
-On Fri, Oct 18, 2019 at 2:17 PM Krishna Srinivasan <krishna2@gmail.com> wrote:
 Math for Machine Learning book:https://mml-book.github.io/book/mml-book.pdf
 
 Deep Learning with PyTorch:https://news.ycombinator.com/item?id=21240057
 
 
+Deep Learning Reading List:
 
-On Mon, Sep 16, 2019 at 6:11 PM Krishna Srinivasan <krishna2@gmail.com> wrote:
-Deep Learning Reading List:https://github.com/ChristosChristofidis/awesome-deep-learning
+https://github.com/ChristosChristofidis/awesome-deep-learning
 
 https://github.com/aikorea/awesome-rl#papers--thesis
 
-http://web.archive.org/web/20170612030342/http://karpathy.github.io/2016/09/07/phd/
+http://web.archive.org/web/20170612030342/
+
+http://karpathy.github.io/2016/09/07/phd/
 
 https://spinningup.openai.com/en/latest/spinningup/keypapers.html
 
 
 
-On Tue, Sep 10, 2019 at 4:59 PM Krishna Srinivasan <krishna2@gmail.com> wrote:
-http://nlp.fast.ai/classification/2018/05/15/introducting-ulmfit.html
-https://towardsdatascience.com/document-embedding-techniques-fed3e7a6a25d
-https://blog.scaleway.com/2019/building-a-machine-reading-comprehension-system-using-the-latest-advances-in-deep-learning-for-nlp/
+
 https://news.ycombinator.com/item?id=15938082
+
 https://ai.google/research/people/author37567/
+
 https://news.ycombinator.com/item?id=20773992
+
 https://blog.usejournal.com/opengpt-2-we-replicated-gpt-2-because-you-can-too-45e34e6d36dc
-https://blog.floydhub.com/gpt2/
-https://transformer.huggingface.co/
+
+
 https://blog.dominodatalab.com/deep-reinforcement-learning/
+
 https://towardsdatascience.com/why-do-we-use-embeddings-in-nlp-2f20e1b632d2
 
 
 
 
-On Sun, Aug 25, 2019 at 10:46 AM Krishna Srinivasan <krishna2@gmail.com> wrote:
-https://towardsdatascience.com/an-implementation-guide-to-word2vec-using-numpy-and-google-sheets-13445eebd281
 
 https://towardsdatascience.com/step-by-step-tutorial-on-linear-regression-with-stochastic-gradient-descent-1d35b088a843
 
@@ -1033,162 +1083,208 @@ https://sites.google.com/view/deep-rl-bootcamp/lectures
 
 
 
-On Sun, Aug 25, 2019 at 9:15 AM Krishna Srinivasan <krishna2@gmail.com> wrote:
 https://towardsdatascience.com/deep-learning-from-scratch-and-using-tensorflow-in-python-34aad75f939
 
 Lots of ML: https://blog.floydhub.com/
 
-Information theory for intelligent people:http://tuvalu.santafe.edu/~simon/it.pdf
-Shannon's entropy:http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf
-Visual information theory:https://colah.github.io/posts/2015-09-Visual-Information/
+Information theory for intelligent people:
 
-Are we making progress:https://arxiv.org/pdf/1907.06902v1.pdf
+http://tuvalu.santafe.edu/~simon/it.pdf
 
-Statistical modeling : Two cultures:http://www2.math.uu.se/~thulin/mm/breiman.pdf
+Shannon's entropy:
 
-Singapore's how to build good software:https://www.csc.gov.sg/articles/how-to-build-good-software
+http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf
 
+Visual information theory:
 
-On Fri, Aug 23, 2019 at 9:00 AM Krishna Srinivasan <krishna2@gmail.com> wrote:
-http://ruder.io/state-of-transfer-learning-in-nlp/
+https://colah.github.io/posts/2015-09-Visual-Information/
 
-http://www.peterbloem.nl/blog/transformers
+Are we making progress:
+
+https://arxiv.org/pdf/1907.06902v1.pdf
+
+Statistical modeling : Two cultures:
+
+http://www2.math.uu.se/~thulin/mm/breiman.pdf
+
+Singapore's how to build good software:
+
+https://www.csc.gov.sg/articles/how-to-build-good-software
+
 https://news.ycombinator.com/item?id=20773992
 
+
 https://medium.com/@vanya_cohen/opengpt-2-we-replicated-gpt-2-because-you-can-too-45e34e6d36dc
+
 https://news.ycombinator.com/item?id=20771604
 
 
 
-
-On Thu, Aug 15, 2019 at 6:48 PM Krishna Srinivasan <krishna2@gmail.com> wrote:
-http://nlp.seas.harvard.edu/2018/04/03/attention.html
-
-On Sun, Jun 23, 2019 at 6:55 PM Krishna Srinivasan <krishna2@gmail.com> wrote:
 http://web.stanford.edu/class/cs224u/
 
-On Fri, Jun 21, 2019 at 9:22 PM Krishna Srinivasan <krishna2@gmail.com> wrote:
 Current top tabs for learning:
-https://course.fast.ai/videos/?lesson=1http://course18.fast.ai/part2.htmlhttps://www.fast.ai/2018/04/29/categorical-embeddings/https://hackernoon.com/interview-with-deep-learning-researcher-and-leader-of-openmined-andrew-trask-77cd33570a8chttps://www.fast.ai/2018/07/12/auto-ml-1/
+
+https://course.fast.ai/videos/?lesson=1
+
+http://course18.fast.ai/part2.html
+
+https://www.fast.ai/2018/04/29/categorical-embeddings/
+
+https://www.fast.ai/2018/07/12/auto-ml-1/
+
 https://www.fast.ai/2018/07/16/auto-ml2/
+
 https://www.fast.ai/2018/07/23/auto-ml-3/
+
 http://nlp.fast.ai/
+
+https://hackernoon.com/interview-with-deep-learning-researcher-and-leader-of-openmined-andrew-trask-77cd33570a8c
+
 
 https://www.coursera.org/specializations/tensorflow-in-practice
 
-https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45
-https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3
-https://towardsdatascience.com/illustrated-efficient-neural-architecture-search-5f7387f9fb6
 
 https://towardsdatascience.com/step-by-step-tutorial-on-linear-regression-with-stochastic-gradient-descent-1d35b088a843
-https://towardsdatascience.com/an-implementation-guide-to-word2vec-using-numpy-and-google-sheets-13445eebd281
 
 
 
-On Fri, Apr 5, 2019 at 6:56 PM Krishna Srinivasan <krishna2@gmail.com> wrote:
-Nice article on word2vec and has a bunch of awesome links:https://jalammar.github.io/illustrated-word2vec/
-https://www.preview.nearist.ai/paid-ebook-and-tutorial
-http://ruder.io/word-embeddings-1/index.html
-http://ruder.io/word-embeddings-softmax/
-https://web.stanford.edu/~jurafsky/slp3/
 
-This is the main article's (first link) hn post with good comments and more links:https://news.ycombinator.com/item?id=19498356
+This is the main article's (first link) hn post with good comments and more links:
 
-https://jalammar.github.io/illustrated-bert/
+https://news.ycombinator.com/item?id=19498356
 
 
 
-On Thu, Apr 4, 2019 at 10:59 AM Krishna Srinivasan <krishna2@gmail.com> wrote:
-Couple of course links from Stanford NLP + DL :http://web.stanford.edu/class/cs224n/
+
+Couple of course links from Stanford NLP + DL :
+
+http://web.stanford.edu/class/cs224n/
+
 https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1184/syllabus.html
+
 The first one is new but uses pytorch. The second one is bit old but uses tensorflow.
 https://monkeylearn.com/text-analysis/
 
 
 
-On Fri, Mar 8, 2019 at 7:04 PM Krishna Srinivasan <krishna2@gmail.com> wrote:
 Writing a Neural Network from scratch in Python:
+
 https://victorzhou.com/blog/intro-to-neural-networks/
 
-On Fri, Mar 8, 2019 at 5:28 PM Krishna Srinivasan <krishna2@gmail.com> wrote:
 CMU LTI NLP course:http://phontron.com/class/nn4nlp2019/schedule.html
 
-On Tue, Mar 5, 2019 at 12:07 PM Krishna Srinivasan <krishna2@gmail.com> wrote:
-Very good book on Theoretical COmputer Science:https://introtcs.org/public/lec_13_Cook_Levin.html
+Very good book on Theoretical Computer Science:
+
+https://introtcs.org/public/lec_13_Cook_Levin.html
 
 The chapter on p, np, ..etc is good - I should use this as model for simplified explanation for savit.
 
 
-On Fri, Feb 15, 2019 at 6:36 PM Krishna Srinivasan <krishna2@gmail.com> wrote:
 A free book on Reinforcement Learning:
 https://arxiv.org/pdf/1811.12560.pdf
 
-GANs :https://medium.com/@jonathan_hui/gan-whats-generative-adversarial-networks-and-its-application-f39ed278ef09
+
+GANs:
+
+https://medium.com/@jonathan_hui/gan-whats-generative-adversarial-networks-and-its-application-f39ed278ef09
+
 https://medium.com/@jonathan_hui/gan-some-cool-applications-of-gans-4c9ecca35900
 
 https://ai.googleblog.com/2018/08/introducing-new-framework-for-flexible.html
 
 https://blog.openai.com/better-language-models/#
+
 https://news.ycombinator.com/item?id=19163522
 
 
 
-On Thu, Jan 31, 2019 at 4:01 PM Krishna Srinivasan <krishna2@gmail.com> wrote:
-Some long pending C++ links:https://boredzo.org/pointers/http://www.c-faq.com/aryptr/index.htmlhttp://www.dietmar-kuehl.de/mirror/c++-faq/references.htmlhttps://isocpp.org/faq
+Some long pending C++ links:
 
-On Sun, Jan 27, 2019 at 12:53 AM Krishna Srinivasan <krishna2@gmail.com> wrote:
-Looks like fast.ai is the best way to go about this. They have a new V3 of their course completely redone.https://news.ycombinator.com/item?id=19000027
+https://boredzo.org/pointers/http://www.c-faq.com/aryptr/index.html
+
+http://www.dietmar-kuehl.de/mirror/c++-faq/references.html
+
+https://isocpp.org/faq
+
+
+Looks like fast.ai is the best way to go about this. They have a new V3 of their course completely redone.
+
+https://news.ycombinator.com/item?id=19000027
+
 https://www.fast.ai/2019/01/24/course-v3/
+
 https://course.fast.ai/
+
 http://course18.fast.ai/part2.html
+
 https://explained.ai/matrix-calculus/index.html
+
 https://blog.openai.com/spinning-up-in-deep-rl/
+
+
 
 https://towardsdatascience.com/everything-you-need-to-know-about-neural-networks-and-backpropagation-machine-learning-made-easy-e5285bc2be3a
 
 https://austingwalters.com/neural-networks-to-production-from-an-engineer/
+
 https://austingwalters.com/word-embedding-and-data-splitting/
 
 https://bair.berkeley.edu/blog/2017/09/12/learning-to-optimize-with-rl/
 
 https://www.kdnuggets.com/2019/01/burkov-self-supervised-learning-word-embeddings.html
 
-And a slightly off-topic post by Sam Altman : How to be Successful:http://blog.samaltman.com/how-to-be-successful
 
-And a bit in to the C++ land:https://quuxplusone.github.io/blog/2019/01/20/covariance-and-contravariance/
+
+And a slightly off-topic post by Sam Altman : How to be Successful:
+
+http://blog.samaltman.com/how-to-be-successful
+
+And a bit in to the C++ land:
+
+https://quuxplusone.github.io/blog/2019/01/20/covariance-and-contravariance/
+
 https://github.com/ssloy/tinyraytracer/wiki
 
 
-On Sat, Jan 12, 2019 at 8:13 AM Krishna Srinivasan <krishna2@gmail.com> wrote:
-Few more good links to read:https://towardsdatascience.com/neural-networks-and-philosophy-of-language-31c34c0796da
-https://allennlp.org/elmo
-https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
+Few more good links to read:
+
+
 https://en.wikipedia.org/wiki/Distributional_semantics
+
 https://aurelieherbelot.net/research/distributional-semantics-intro/
 
 
-Some interesting articles on language / nlp:http://nautil.us/issue/54/the-unspoken/the-rise-and-fall-of-the-english-sentence
 
 
-On Sun, Jan 6, 2019 at 3:18 PM Krishna Srinivasan <krishna2@gmail.com> wrote:
-UC Berkeley's Deep Learning course with sections on CNN / RNN / NLP and Word Embeddings:http://d2l.ai/chapter_natural-language-processing/index.html
+
+UC Berkeley's Deep Learning course with sections on CNN / RNN / NLP and Word Embeddings:
+
+http://d2l.ai/chapter_natural-language-processing/index.html
 
 
-On Sat, Jan 5, 2019 at 7:22 PM Krishna Srinivasan <krishna2@gmail.com> wrote:
-ML / NLP related articles and readings:https://mlwhiz.com/blog/2017/04/09/word_vec_embeddings_examples_understanding/
+
+
+ML / NLP related articles and readings:
+
+https://mlwhiz.com/blog/2017/04/09/word_vec_embeddings_examples_understanding/
+
 https://mlwhiz.com/blog/2018/12/17/text_classification/
+
 https://mlwhiz.com/blog/2017/02/05/Machine_learning_algorithms_for_data_scientist/
+
 https://mlwhiz.com/blog/2015/08/19/MCMC_Algorithms_Beta_Distribution/
+
 https://mlwhiz.com/blog/2015/08/21/MCMC_Algorithms_Cryptography/
 
+
 https://jeffhuang.com/best_paper_awards.html
-https://jalammar.github.io/illustrated-bert/
+
+
 https://thegradient.pub/nlp-imagenet/
 
-https://hackernoon.com/generating-lyrics-using-deep-multi-layer-lstm-b28ee8124936
-https://towardsdatascience.com/ai-generates-taylor-swifts-song-lyrics-6fd92a03ef7e
-http://warmspringwinds.github.io/pytorch/rnns/2018/01/27/learning-to-generate-lyrics-and-music-with-recurrent-neural-networks/
 
 
-On Thu, Dec 27, 2018 at 6:01 PM Krishna Srinivasan <krishna2@gmail.com> wrote:
 https://www.coursera.org/learn/language-processing/home/welcome
+
+
+
