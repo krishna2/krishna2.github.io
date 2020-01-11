@@ -1,4 +1,4 @@
-# How to be Successful
+# How to be Successful by Sam Altman
 
 I’ve observed thousands of founders and thought a lot about what it takes to make a huge amount of money or to create something important. Usually, people start off wanting the former and end up wanting the latter.
 
