@@ -74,4 +74,39 @@ http://www.peterbloem.nl/blog/transformers
 http://nlp.seas.harvard.edu/2018/04/03/attention.html
 
 
+https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45
+
+https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3
+
+https://towardsdatascience.com/illustrated-efficient-neural-architecture-search-5f7387f9fb6
+
+https://towardsdatascience.com/an-implementation-guide-to-word2vec-using-numpy-and-google-sheets-13445eebd281
+
+
+https://jalammar.github.io/illustrated-word2vec/
+
+https://www.preview.nearist.ai/paid-ebook-and-tutorial
+
+http://ruder.io/word-embeddings-1/index.html
+
+http://ruder.io/word-embeddings-softmax/
+
+https://web.stanford.edu/~jurafsky/slp3/
+
+
+https://jalammar.github.io/illustrated-bert/
+
+
+https://towardsdatascience.com/neural-networks-and-philosophy-of-language-31c34c0796da
+
+https://allennlp.org/elmo
+
+https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
+
+
+
+
+
+
+
 
