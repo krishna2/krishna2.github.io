@@ -1,16 +1,148 @@
-Gmail	Krishna Srinivasan <krishna2@gmail.com>
-Entire NLP/ML/DL literature (Was: Advanced NLP Course to do on Coursera)
-1 message
-Krishna Srinivasan <krishna2@gmail.com>	Sat, Jan 11, 2020 at 8:39 AM
-To: Krishna Srinivasan <krishna2@gmail.com>
-This is the entire email thread of the original subject ("Advanced NLP Course to do on Coursera"). This email has the replies unindented - so it is easy to read in "print" view - as a page of all links. Next step is to edit this and order them in the right order to read.
+# ML Reading List
 
----------- Forwarded message ---------
-From: Krishna Srinivasan <krishna2@gmail.com>
-Date: Fri, Dec 6, 2019 at 5:42 PM
-Subject: Re: Advanced NLP Course to do on Coursera
-To: Krishna Srinivasan <krishna2@gmail.com>
+## WORD2VEC 
 
+The Illustrated Word2vec – Jay Alammar – Visualizing machine learning one concept at a time
+http://jalammar.github.io/illustrated-word2vec/
+
+
+Learn Word2Vec by implementing it in tensorflow - Towards Data Science
+https://towardsdatascience.com/learn-word2vec-by-implementing-it-in-tensorflow-45641adaf2ac
+
+
+How to Develop Word Embeddings in Python with Gensim
+https://machinelearningmastery.com/develop-word-embeddings-python-gensim/
+
+
+Deep Learning For Natural Language Processing
+https://machinelearningmastery.com/deep-learning-for-nlp/
+
+The Illustrated Word2vec – Jay Alammar – Visualizing machine learning one concept at a time
+http://jalammar.github.io/illustrated-word2vec/
+
+
+A Visual and Interactive Guide to the Basics of Neural Networks – Jay Alammar – Visualizing machine learning one concept at a time
+http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/
+
+
+A Visual And Interactive Look at Basic Neural Network Math – Jay Alammar – Visualizing machine learning one concept at a time
+http://jalammar.github.io/feedforward-neural-networks-visual-interactive/
+
+A Brief History of Word Embeddings | Gavagai
+https://www.gavagai.io/text-analytics/a-brief-history-of-word-embeddings/
+
+
+On word embeddings - Part 1
+https://ruder.io/word-embeddings-1/index.html
+
+Approximating the Softmax for Learning Word Embeddings
+https://ruder.io/word-embeddings-softmax/
+
+On word embeddings - Part 3: The secret ingredients of word2vec
+https://ruder.io/secret-word2vec/index.html
+
+
+A survey of cross-lingual word embedding models
+https://ruder.io/cross-lingual-embeddings/index.html
+
+Word embeddings in 2017: Trends and future directions
+https://ruder.io/word-embeddings-2017/index.html
+
+
+
+
+
+## EMBEDDINGS, TRANSFORMERS AND BERT
+
+Copy of BERT_lab.ipynb - Colaboratory
+https://colab.research.google.com/drive/1-UdelAqtD_2KrUIV_NTL59kgqo8m1Y2H#scrollTo=lJLcUBF5GOyU
+
+Attention, CNN and what not for Text Classification
+https://towardsdatascience.com/nlp-learning-series-part-3-attention-cnn-and-what-not-for-text-classification-4313930ed566
+
+
+The Annotated Transformer
+https://nlp.seas.harvard.edu/2018/04/03/attention.html
+
+The Annotated Encoder Decoder | A PyTorch tutorial implementing Bahdanau et al. (2015)
+https://bastings.github.io/annotated_encoder_decoder/
+
+
+
+Neural Networks, Types, and Functional Programming -- colah's blog
+https://colah.github.io/posts/2015-09-NN-Types-FP/
+
+BERT Explained: A Complete Guide with Theory and Tutorial – Towards Machine Learning
+https://towardsml.com/2019/09/17/bert-explained-a-complete-guide-with-theory-and-tutorial/
+
+[1910.10683] Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer
+https://arxiv.org/abs/1910.10683
+
+[1911.11423] Single Headed Attention RNN: Stop Thinking With Your Head
+https://arxiv.org/abs/1911.11423
+
+1910.11664.pdf
+https://arxiv.org/pdf/1910.11664.pdf
+
+
+-----
+
+### CNN
+
+Simple Introduction to Convolutional Neural Networks
+https://towardsdatascience.com/simple-introduction-to-convolutional-neural-networks-cdf8d3077bac
+
+Illustrated: 10 CNN Architectures - Towards Data Science
+https://towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d
+
+An intuitive guide to Convolutional Neural Networks
+https://www.freecodecamp.org/news/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050/
+
+The best explanation of Convolutional Neural Networks on the Internet!
+https://medium.com/technologymadeeasy/the-best-explanation-of-convolutional-neural-networks-on-the-internet-fbb8b1ad5df8
+
+An Intuitive Explanation of Convolutional Neural Networks – the data science blog
+https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
+
+CS231n Convolutional Neural Networks for Visual Recognition
+http://cs231n.github.io/neural-networks-1/
+
+
+
+-----
+
+### RNN / LSTM
+
+
+Illustrated Guide to Recurrent Neural Networks - Towards Data Science
+https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9
+
+
+Illustrated Guide to Recurrent Neural Networks
+http://kurious.pub/blog/4
+
+The Basics Of Recurrent Neural Networks (RNN) | Built In
+https://builtin.com/data-science/recurrent-neural-networks-and-lstm
+
+The Beginner’s Guide to Recurrent Neural Networks and Text Generation
+https://medium.com/@annikabrundyn1/the-beginners-guide-to-recurrent-neural-networks-and-text-generation-44a70c34067f
+
+A Beginner's Guide to LSTMs and Recurrent Neural Networks | Skymind
+https://skymind.ai/wiki/lstm
+
+karpathy/char-rnn: Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch
+https://github.com/karpathy/char-rnn
+
+
+
+-----
+
+
+## PAPERS AND BOOKS
+
+-----
+
+## MISC
 
 GitHub - trekhleb/nano-neuron: NanoNeuron is 7 simple JavaScript functions that will give you a feeling of how machines can actually "learn"
 https://github.com/trekhleb/nano-neuron
@@ -33,347 +165,255 @@ https://arxiv.org/pdf/1701.06538.pdf
 How to apply machine learning and deep learning methods to audio analysis
 https://medium.com/comet-ml/applyingmachinelearningtoaudioanalysis-utm-source-kdnuggets11-19-e160b069e88
 
-Neural Networks, Types, and Functional Programming -- colah's blog
-https://colah.github.io/posts/2015-09-NN-Types-FP/
-
 [1911.08265] Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model
 https://arxiv.org/abs/1911.08265
 
-BERT Explained: A Complete Guide with Theory and Tutorial – Towards Machine Learning
-https://towardsml.com/2019/09/17/bert-explained-a-complete-guide-with-theory-and-tutorial/
 
-[1910.10683] Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer
-https://arxiv.org/abs/1910.10683
+-----
 
-[1911.11423] Single Headed Attention RNN: Stop Thinking With Your Head
-https://arxiv.org/abs/1911.11423
-
-1910.11664.pdf
-https://arxiv.org/pdf/1910.11664.pdf
+### FINANCE
 
 
 
-On Tue, Dec 3, 2019 at 3:27 PM Krishna Srinivasan <krishna2@gmail.com> wrote:
 https://www.tradientblog.com/2019/11/lessons-learned-building-an-ml-trading-system-that-turned-5k-into-200k/
 https://news.ycombinator.com/item?id=21647038
 
 https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos-ebook-dp-B079KLDW21/dp/B079KLDW21/ref=mt_kindle?_encoding=UTF8&me=&qid=
 https://arxiv.org/list/q-fin/recent
 
+
+
 https://arxiv.org/abs/1911.12540
 
 
-https://www.amazon.com/Python-Finance-Mastering-Data-Driven-ebook/dp/B07L8NMW2P/ref=pd_sim_351_1/146-4144694-8829567?_encoding=UTF8&pd_rd_i=B07L8NMW2P&pd_rd_r=c06af488-9699-4a09-8052-fbfe21eabfce&pd_rd_w=BMT8T&pd_rd_wg=WxTNm&pf_rd_p=04d27813-a1f2-4e7b-a32b-b5ab374ce3f9&pf_rd_r=1V2BQF6YFMJNTDGMZCDB&psc=1&refRID=1V2BQF6YFMJNTDGMZCDB
+https://www.amazon.com/Python-Finance-Mastering-Data-Driven-ebook/dp/B07L8NMW2P/
 
 
+-----
 
-On Tue, Dec 3, 2019 at 1:46 PM Krishna Srinivasan <krishna2@gmail.com> wrote:
-Terence Parr : Matrics Calculus for DL:
-https://explained.ai/matrix-calculus/index.html
-https://explained.ai/
-
-https://www.ethanhein.com/wp/2016/visualizing-hip-hop-melodies/
-
-Calculus explained with GIFs:https://news.ycombinator.com/item?id=21671112
-
-
-Trouble in ML:
-https://arxiv.org/abs/1807.03341
-
-Hofstader on Google Translate:https://www.theatlantic.com/technology/archive/2018/01/the-shallowness-of-google-translate/551570/
-
-
-
-
-On Sun, Dec 1, 2019 at 7:41 PM Krishna Srinivasan <krishna2@gmail.com> wrote:
-Calculus: https://0a.io/chapter1/calculus-explained.htmlJim Fowler Calculus: https://www.youtube.com/channel/UCt1n_c_lbPIvz_ycw3Eq96w
-
-
-
-On Fri, Nov 22, 2019 at 9:09 AM Krishna Srinivasan <krishna2@gmail.com> wrote:
-Copy of BERT_lab.ipynb - Colaboratory
-https://colab.research.google.com/drive/1-UdelAqtD_2KrUIV_NTL59kgqo8m1Y2H#scrollTo=lJLcUBF5GOyU
-------
-
-Attention, CNN and what not for Text Classification
-https://towardsdatascience.com/nlp-learning-series-part-3-attention-cnn-and-what-not-for-text-classification-4313930ed566
-------
-
-TextCNN - Pytorch and Keras | Kaggle
-https://www.kaggle.com/mlwhiz/textcnn-pytorch-and-keras
-------
-
-cmasch/cnn-text-classification: Text classification with Convolution Neural Networks on Yelp, IMDB & sentence polarity dataset v1.0
-https://github.com/cmasch/cnn-text-classification
-------
-
-Ronan Collobert - Google Scholar Citations
-https://scholar.google.com/citations?user=32w7x1cAAAAJ&hl=en
-------
-
-The Annotated Transformer
-https://nlp.seas.harvard.edu/2018/04/03/attention.html
-------
-
-The Annotated Encoder Decoder | A PyTorch tutorial implementing Bahdanau et al. (2015)
-https://bastings.github.io/annotated_encoder_decoder/
-------
-
-Receiver operating characteristic - Wikipedia
-https://en.wikipedia.org/wiki/Receiver_operating_characteristic
-------
-
-Understanding AUC - ROC Curve - Towards Data Science
-https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5
-------
-
-Understanding Confusion Matrix - Towards Data Science
-https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62
-------
-
-The Illustrated Word2vec – Jay Alammar – Visualizing machine learning one concept at a time
-http://jalammar.github.io/illustrated-word2vec/
-------
-
-Learn Word2Vec by implementing it in tensorflow - Towards Data Science
-https://towardsdatascience.com/learn-word2vec-by-implementing-it-in-tensorflow-45641adaf2ac
-------
-
-How to Develop Word Embeddings in Python with Gensim
-https://machinelearningmastery.com/develop-word-embeddings-python-gensim/
-------
-
-Deep Learning For Natural Language Processing
-https://machinelearningmastery.com/deep-learning-for-nlp/
-------
-
-Text Generation With LSTM Recurrent Neural Networks in Python with Keras
-https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
-------
+### MUSIC / LANGUAGE / GAME
 
 Magenta
 https://magenta.tensorflow.org/
-------
+
 
 Generating Piano Music with Transformer
 https://magenta.tensorflow.org/piano-transformer
-------
+
 
 Magenta Studio
 https://magenta.tensorflow.org/studio
-------
+
 
 Google Magenta-Making Music with MIDI and Machine Learning -
 https://www.midi.org/articles-old/google-magenta-making-music-with-midi-and-machine-learning
-------
 
 Behind Magenta, the tech that rocked I/O
 https://blog.google/technology/ai/behind-magenta-tech-rocked-io/
-------
 
-Simple Introduction to Convolutional Neural Networks
-https://towardsdatascience.com/simple-introduction-to-convolutional-neural-networks-cdf8d3077bac
-------
+https://www.ethanhein.com/wp/2016/visualizing-hip-hop-melodies/
 
-Illustrated: 10 CNN Architectures - Towards Data Science
-https://towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d
-------
 
-An intuitive guide to Convolutional Neural Networks
-https://www.freecodecamp.org/news/an-intuitive-guide-to-convolutional-neural-networks-260c2de0a050/
-------
+Text Generation With LSTM Recurrent Neural Networks in Python with Keras
+https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
 
-The best explanation of Convolutional Neural Networks on the Internet!
-https://medium.com/technologymadeeasy/the-best-explanation-of-convolutional-neural-networks-on-the-internet-fbb8b1ad5df8
-------
 
-An Intuitive Explanation of Convolutional Neural Networks – the data science blog
-https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
-------
 
-Illustrated Guide to Recurrent Neural Networks - Towards Data Science
-https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9
-------
+-----
 
-Illustrated Guide to Recurrent Neural Networks
-http://kurious.pub/blog/4
-------
+### MATH
 
-The Basics Of Recurrent Neural Networks (RNN) | Built In
-https://builtin.com/data-science/recurrent-neural-networks-and-lstm
-------
+Terence Parr : Matrics Calculus for DL:
 
-The Beginner’s Guide to Recurrent Neural Networks and Text Generation
-https://medium.com/@annikabrundyn1/the-beginners-guide-to-recurrent-neural-networks-and-text-generation-44a70c34067f
-------
+https://explained.ai/matrix-calculus/index.html
 
-A Beginner's Guide to LSTMs and Recurrent Neural Networks | Skymind
-https://skymind.ai/wiki/lstm
-------
+https://explained.ai/
 
-karpathy/char-rnn: Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch
-https://github.com/karpathy/char-rnn
-------
+Calculus explained with GIFs:https://news.ycombinator.com/item?id=21671112
 
-A Brief History of Word Embeddings | Gavagai
-https://www.gavagai.io/text-analytics/a-brief-history-of-word-embeddings/
-------
+Calculus: https://0a.io/chapter1/calculus-explained.html
 
-On word embeddings - Part 1
-https://ruder.io/word-embeddings-1/index.html
-------
+Jim Fowler Calculus: https://www.youtube.com/channel/UCt1n_c_lbPIvz_ycw3Eq96w
 
-Approximating the Softmax for Learning Word Embeddings
-https://ruder.io/word-embeddings-softmax/
-------
 
-On word embeddings - Part 3: The secret ingredients of word2vec
-https://ruder.io/secret-word2vec/index.html
-------
+-----
 
-A survey of cross-lingual word embedding models
-https://ruder.io/cross-lingual-embeddings/index.html
-------
 
-Word embeddings in 2017: Trends and future directions
-https://ruder.io/word-embeddings-2017/index.html
-------
+### WIKI LINKS AND TERMINOLOGY
+
+Receiver operating characteristic - Wikipedia
+https://en.wikipedia.org/wiki/Receiver_operating_characteristic
+
+
+Understanding AUC - ROC Curve - Towards Data Science
+https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5
+
+
+Understanding Confusion Matrix - Towards Data Science
+https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62
+
+
+
+-----
+
+
+### MORE MISC
+
+
+Trouble in ML:
+
+https://arxiv.org/abs/1807.03341
+
+Hofstader on Google Translate:
+
+https://www.theatlantic.com/technology/archive/2018/01/the-shallowness-of-google-translate/551570/
+
+
+
+
+
+TextCNN - Pytorch and Keras | Kaggle
+https://www.kaggle.com/mlwhiz/textcnn-pytorch-and-keras
+
+cmasch/cnn-text-classification: Text classification with Convolution Neural Networks on Yelp, IMDB & sentence polarity dataset v1.0
+https://github.com/cmasch/cnn-text-classification
+
+
+Ronan Collobert - Google Scholar Citations
+https://scholar.google.com/citations?user=32w7x1cAAAAJ&hl=en
+
+
 
 Neural networks [10.7] : Natural language processing - hierarchical output layer - YouTube
 https://www.youtube.com/watch?v=B95LTf2rVWM
-------
 
 Neural networks [1.1] : Feedforward neural network - artificial neuron - YouTube
 https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH
-------
 
 Sebastian Ruder
 https://ruder.io/
-------
 
 Thread by @seb_ruder: "David Silver on Principles for Reinforcement Learning at the . Important principles that are not only applicable to RL, but to […]" #DLIndaba2018
 https://threadreaderapp.com/thread/1040235236284669952.html
-------
 
 10 Exciting Ideas of 2018 in NLP
 https://ruder.io/10-exciting-ideas-of-2018-in-nlp/
-------
 
 HackerNoon Interview
 https://ruder.io/hackernoon-interview/
-------
+
 
 Requests for Research
 https://ruder.io/requests-for-research/
-------
+
 
 1909.04547.pdf
 https://arxiv.org/pdf/1909.04547.pdf
-------
+
 
 David Silver (computer scientist) - Wikipedia
 https://en.wikipedia.org/wiki/David_Silver_(computer_scientist)
-------
+
 
 David Silver - Google Scholar Citations
 https://scholar.google.com/citations?user=-8DNE4UAAAAJ&hl=en
-------
+
 
 neural networks non linearity - Google Search
 https://www.google.com/search?q=neural+networks+non+linearity&oq=neural+networks+non-lin&aqs=chrome.2.69i57j0l5.7420j0j1&sourceid=chrome&ie=UTF-8
-------
+
 
 Neural networks and deep learning
 http://neuralnetworksanddeeplearning.com/chap4.html
-------
+
 
 A Neural Network Playground
 http://playground.tensorflow.org/#activation=linear&batchSize=20&dataset=circle&regDataset=reg-gauss&learningRate=0.003&regularizationRate=0.001&noise=0&networkShape=4,2&seed=0.87118&showTestData=false&discretize=true&percTrainData=80&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=regression&initZero=false&hideText=false
-------
+
 
 A Neural Network Playground
 http://playground.tensorflow.org/#activation=relu&batchSize=20&dataset=circle&regDataset=reg-gauss&learningRate=0.003&regularizationRate=0.001&noise=0&networkShape=4,2&seed=0.97957&showTestData=false&discretize=true&percTrainData=80&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=regression&initZero=false&hideText=false
-------
+
 
 Visualizing The Non-linearity of Neural Networks - Towards Data Science
 https://towardsdatascience.com/visualizing-the-non-linearity-of-neural-networks-c55b2a14ad7a
-------
+
 
 Why do you need non-linear activation functions? - Shallow neural networks | Coursera
 https://www.coursera.org/lecture/neural-networks-deep-learning/why-do-you-need-non-linear-activation-functions-OASKH
-------
+
 
 what makes neural networks a nonlinear classification model? - Cross Validated
 https://stats.stackexchange.com/questions/222639/what-makes-neural-networks-a-nonlinear-classification-model/222642
-------
+
 
 1905.12337.pdf
 https://arxiv.org/pdf/1905.12337.pdf
-------
+
 
 How neural networks learn nonlinear functions and classify linearly non-separable data?
 https://medium.com/@vivek.yadav/how-neural-networks-learn-nonlinear-functions-and-classify-linearly-non-separable-data-22328e7e5be1
-------
 
-CS231n Convolutional Neural Networks for Visual Recognition
-http://cs231n.github.io/neural-networks-1/
-------
 
-The Illustrated Word2vec – Jay Alammar – Visualizing machine learning one concept at a time
-http://jalammar.github.io/illustrated-word2vec/
-------
 
-A Visual and Interactive Guide to the Basics of Neural Networks – Jay Alammar – Visualizing machine learning one concept at a time
-http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/
-------
 
-A Visual And Interactive Look at Basic Neural Network Math – Jay Alammar – Visualizing machine learning one concept at a time
-http://jalammar.github.io/feedforward-neural-networks-visual-interactive/
-------
 
-CS231n Convolutional Neural Networks for Visual Recognition
-https://cs231n.github.io/neural-networks-1/
-------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention) – Jay Alammar – Visualizing machine learning one concept at a time
 http://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
-------
+
 
 A friendly introduction to Recurrent Neural Networks - YouTube
 https://www.youtube.com/watch?v=UNmqTiOnRfg
-------
 
 The Illustrated Transformer – Jay Alammar – Visualizing machine learning one concept at a time
 http://jalammar.github.io/illustrated-transformer/
-------
 
 tensorflow/tensor2tensor: Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
 https://github.com/tensorflow/tensor2tensor
-------
+
 
 The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) – Jay Alammar – Visualizing machine learning one concept at a time
 http://jalammar.github.io/illustrated-bert/
-------
 
 The Illustrated GPT-2 (Visualizing Transformer Language Models) – Jay Alammar – Visualizing machine learning one concept at a time
 http://jalammar.github.io/illustrated-gpt2/
-------
+
 
 Deep Learning, NLP, and Representations - colah's blog
 http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
-------
 
 Neural Networks, Types, and Functional Programming -- colah's blog
 http://colah.github.io/posts/2015-09-NN-Types-FP/
-------
+
 
 Understanding LSTM Networks -- colah's blog
 http://colah.github.io/posts/2015-08-Understanding-LSTMs/
-------
 
 The Unreasonable Effectiveness of Recurrent Neural Networks
 http://karpathy.github.io/2015/05/21/rnn-effectiveness/
-------
+
 
 Andrej Karpathy Academic Website
 https://cs.stanford.edu/people/karpathy/
