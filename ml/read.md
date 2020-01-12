@@ -329,6 +329,72 @@ https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html
 https://towardsdatascience.com/simple-transformers-introducing-the-easiest-bert-roberta-xlnet-and-xlm-library-58bf8c59b2a3
 
 
+ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators | OpenReview
+
+https://openreview.net/forum?id=r1xMH1BtvB
+
+
+-----
+
+### PAPERS WITH CODE
+
+Papers With Code : ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
+
+https://paperswithcode.com/paper/albert-a-lite-bert-for-self-supervised
+
+Papers With Code : Language Models as Knowledge Bases?
+
+https://paperswithcode.com/paper/language-models-as-knowledge-bases
+
+Papers With Code : Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks
+
+https://paperswithcode.com/paper/sentence-bert-sentence-embeddings-using
+
+huggingface/transformers: 🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
+
+https://github.com/huggingface/transformers
+
+Papers With Code : Improved Knowledge Distillation via Teacher Assistant
+
+https://paperswithcode.com/paper/improved-knowledge-distillation-via-teacher
+
+Papers With Code : Plug and Play Language Models: A Simple Approach to Controlled Text Generation
+
+https://paperswithcode.com/paper/plug-and-play-language-models-a-simple
+
+Papers With Code : wav2vec: Unsupervised Pre-training for Speech Recognition
+
+https://paperswithcode.com/paper/wav2vec-unsupervised-pre-training-for-speech
+
+Papers With Code : Large Batch Optimization for Deep Learning: Training BERT in 76 minutes
+
+https://paperswithcode.com/paper/reducing-bert-pre-training-time-from-3-days
+
+Papers With Code : deepsing: Generating Sentiment-aware Visual Stories using Cross-modal Music Translation
+
+https://paperswithcode.com/paper/deepsing-generating-sentiment-aware-visual
+
+graykode/nlp-tutorial: Natural Language Processing Tutorial for Deep Learning Researchers
+
+https://github.com/graykode/nlp-tutorial
+
+Papers With Code : SpanBERT: Improving Pre-training by Representing and Predicting Spans
+
+https://paperswithcode.com/paper/spanbert-improving-pre-training-by
+
+Papers With Code : Star-Transformer
+
+https://paperswithcode.com/paper/star-transformer
+
+
+------
+
+### CONFERENCES
+
+
+https://iclr.cc/
+
+https://icml.cc/
 
 -----
 
