@@ -2,10 +2,121 @@
 
 ## EMBEDDINGS, WORD2VEC, TRANSFORMERS AND BERT
 
+### Jay Alamar
 
 The Illustrated Word2vec – Jay Alammar – Visualizing machine learning one concept at a time
 http://jalammar.github.io/illustrated-word2vec/
 
+A Visual and Interactive Guide to the Basics of Neural Networks – Jay Alammar – Visualizing machine learning one concept at a time
+http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/
+
+A Visual And Interactive Look at Basic Neural Network Math – Jay Alammar – Visualizing machine learning one concept at a time
+http://jalammar.github.io/feedforward-neural-networks-visual-interactive/
+
+Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention) – Jay Alammar – Visualizing machine learning one concept at a time
+http://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
+
+The Illustrated Transformer – Jay Alammar – Visualizing machine learning one concept at a time
+http://jalammar.github.io/illustrated-transformer/
+
+The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) – Jay Alammar – Visualizing machine learning one concept at a time
+http://jalammar.github.io/illustrated-bert/
+
+The Illustrated GPT-2 (Visualizing Transformer Language Models) – Jay Alammar – Visualizing machine learning one concept at a time
+http://jalammar.github.io/illustrated-gpt2/
+
+
+
+### Chris Olah
+
+Deep Learning, NLP, and Representations - colah's blog
+http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
+
+Neural Networks, Types, and Functional Programming -- colah's blog
+http://colah.github.io/posts/2015-09-NN-Types-FP/
+
+Understanding LSTM Networks -- colah's blog
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+Neural Networks, Types, and Functional Programming -- colah's blog
+https://colah.github.io/posts/2015-09-NN-Types-FP/
+
+Deep Learning, NLP, and Representations - colah's blog
+http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
+
+
+Understanding LSTM Networks -- colah's blog
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+Understanding Convolutions - colah's blog
+http://colah.github.io/posts/2014-07-Understanding-Convolutions/imagenet.pdf
+
+
+
+### Sebastian Ruder
+
+On word embeddings - Part 1
+https://ruder.io/word-embeddings-1/index.html
+
+Approximating the Softmax for Learning Word Embeddings
+https://ruder.io/word-embeddings-softmax/
+
+On word embeddings - Part 3: The secret ingredients of word2vec
+https://ruder.io/secret-word2vec/index.html
+
+A survey of cross-lingual word embedding models
+https://ruder.io/cross-lingual-embeddings/index.html
+
+Word embeddings in 2017: Trends and future directions
+https://ruder.io/word-embeddings-2017/index.html
+
+https://ruder.io/deep-learning-nlp-best-practices/index.html#attention
+
+http://ruder.io/state-of-transfer-learning-in-nlp/
+
+
+### Chris McCormick
+
+Chris McCormick tutorials / links:
+About · Chris McCormick
+https://mccormickml.com/about/
+
+Chris McCormick ML
+https://www.chrismccormick.ai/offers/GFUU2mEb/checkout
+
+BERT Word Embeddings Tutorial · Chris McCormick
+https://mccormickml.com/2019/05/14/BERT-word-embeddings-tutorial/
+
+BERT Fine-Tuning Tutorial with PyTorch · Chris McCormick
+https://mccormickml.com/2019/07/22/BERT-fine-tuning/
+
+Tutorials · Chris McCormick
+https://mccormickml.com/tutorials/
+
+Word2Vec Tutorial - The Skip-Gram Model · Chris McCormick
+http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
+
+Word2Vec Tutorial Part 2 - Negative Sampling · Chris McCormick
+http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/
+
+Word2Vec Resources · Chris McCormick
+http://mccormickml.com/2016/04/27/word2vec-resources/
+
+https://mccormickml.com/2019/05/14/BERT-word-embeddings-tutorial/
+
+
+### Annotated Papers and Concepts
+
+The Annotated Transformer
+https://nlp.seas.harvard.edu/2018/04/03/attention.html
+
+The Annotated Encoder Decoder | A PyTorch tutorial implementing Bahdanau et al. (2015)
+https://bastings.github.io/annotated_encoder_decoder/
+
+
+
+
+### Others
 
 Learn Word2Vec by implementing it in tensorflow - Towards Data Science
 https://towardsdatascience.com/learn-word2vec-by-implementing-it-in-tensorflow-45641adaf2ac
@@ -18,98 +129,12 @@ https://machinelearningmastery.com/develop-word-embeddings-python-gensim/
 Deep Learning For Natural Language Processing
 https://machinelearningmastery.com/deep-learning-for-nlp/
 
-The Illustrated Word2vec – Jay Alammar – Visualizing machine learning one concept at a time
-http://jalammar.github.io/illustrated-word2vec/
-
-
-A Visual and Interactive Guide to the Basics of Neural Networks – Jay Alammar – Visualizing machine learning one concept at a time
-http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/
-
-
-A Visual And Interactive Look at Basic Neural Network Math – Jay Alammar – Visualizing machine learning one concept at a time
-http://jalammar.github.io/feedforward-neural-networks-visual-interactive/
-
 A Brief History of Word Embeddings | Gavagai
 https://www.gavagai.io/text-analytics/a-brief-history-of-word-embeddings/
 
 
-On word embeddings - Part 1
-https://ruder.io/word-embeddings-1/index.html
-
-Approximating the Softmax for Learning Word Embeddings
-https://ruder.io/word-embeddings-softmax/
-
-On word embeddings - Part 3: The secret ingredients of word2vec
-https://ruder.io/secret-word2vec/index.html
-
-
-A survey of cross-lingual word embedding models
-https://ruder.io/cross-lingual-embeddings/index.html
-
-Word embeddings in 2017: Trends and future directions
-https://ruder.io/word-embeddings-2017/index.html
-
-
-Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention) – Jay Alammar – Visualizing machine learning one concept at a time
-http://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
-
-
-The Illustrated Transformer – Jay Alammar – Visualizing machine learning one concept at a time
-http://jalammar.github.io/illustrated-transformer/
-
-
-The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) – Jay Alammar – Visualizing machine learning one concept at a time
-http://jalammar.github.io/illustrated-bert/
-
-The Illustrated GPT-2 (Visualizing Transformer Language Models) – Jay Alammar – Visualizing machine learning one concept at a time
-http://jalammar.github.io/illustrated-gpt2/
-
-
-Deep Learning, NLP, and Representations - colah's blog
-http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
-
-Neural Networks, Types, and Functional Programming -- colah's blog
-http://colah.github.io/posts/2015-09-NN-Types-FP/
-
-
-Understanding LSTM Networks -- colah's blog
-http://colah.github.io/posts/2015-08-Understanding-LSTMs/
-
 The Unreasonable Effectiveness of Recurrent Neural Networks
 http://karpathy.github.io/2015/05/21/rnn-effectiveness/
-
-
-Chris McCormick tutorials / links:
-About · Chris McCormick
-https://mccormickml.com/about/
-
-
-Chris McCormick ML
-https://www.chrismccormick.ai/offers/GFUU2mEb/checkout
-
-
-BERT Word Embeddings Tutorial · Chris McCormick
-https://mccormickml.com/2019/05/14/BERT-word-embeddings-tutorial/
-
-
-BERT Fine-Tuning Tutorial with PyTorch · Chris McCormick
-https://mccormickml.com/2019/07/22/BERT-fine-tuning/
-
-
-Tutorials · Chris McCormick
-https://mccormickml.com/tutorials/
-
-
-Word2Vec Tutorial - The Skip-Gram Model · Chris McCormick
-http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
-
-
-Word2Vec Tutorial Part 2 - Negative Sampling · Chris McCormick
-http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/
-
-Word2Vec Resources · Chris McCormick
-http://mccormickml.com/2016/04/27/word2vec-resources/
-
 
 
 Copy of BERT_lab.ipynb - Colaboratory
@@ -119,28 +144,10 @@ Attention, CNN and what not for Text Classification
 https://towardsdatascience.com/nlp-learning-series-part-3-attention-cnn-and-what-not-for-text-classification-4313930ed566
 
 
-The Annotated Transformer
-https://nlp.seas.harvard.edu/2018/04/03/attention.html
 
-The Annotated Encoder Decoder | A PyTorch tutorial implementing Bahdanau et al. (2015)
-https://bastings.github.io/annotated_encoder_decoder/
-
-
-
-Neural Networks, Types, and Functional Programming -- colah's blog
-https://colah.github.io/posts/2015-09-NN-Types-FP/
 
 BERT Explained: A Complete Guide with Theory and Tutorial – Towards Machine Learning
 https://towardsml.com/2019/09/17/bert-explained-a-complete-guide-with-theory-and-tutorial/
-
-[1910.10683] Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer
-https://arxiv.org/abs/1910.10683
-
-[1911.11423] Single Headed Attention RNN: Stop Thinking With Your Head
-https://arxiv.org/abs/1911.11423
-
-1910.11664.pdf
-https://arxiv.org/pdf/1910.11664.pdf
 
 
 Google AI Blog: Open Sourcing BERT: State-of-the-Art Pre-training for Natural Language Processing
@@ -155,13 +162,14 @@ https://ai.googleblog.com/2019/11/highlights-from-2019-google-ai.html
 
 
 
+[1910.10683] Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer
+https://arxiv.org/abs/1910.10683
 
-Deep Learning, NLP, and Representations - colah's blog
-http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
+[1911.11423] Single Headed Attention RNN: Stop Thinking With Your Head
+https://arxiv.org/abs/1911.11423
 
-
-Understanding LSTM Networks -- colah's blog
-http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+1910.11664.pdf
+https://arxiv.org/pdf/1910.11664.pdf
 
 
 [1506.02078] Visualizing and Understanding Recurrent Networks
@@ -177,8 +185,6 @@ https://arxiv.org/pdf/1502.01710v5.pdf
 
 
 
-https://mccormickml.com/2019/05/14/BERT-word-embeddings-tutorial/
-
 https://towardsdatascience.com/nlp-extract-contextualized-word-embeddings-from-bert-keras-tf-67ef29f60a7b
 
 https://medium.com/swlh/transfer-learning-in-nlp-f5035cc3f62f
@@ -187,18 +193,6 @@ https://searchengineland.com/a-deep-dive-into-bert-how-bert-launched-a-rocket-in
 
 https://bytes.grubhub.com/search-query-embeddings-using-query2vec-f5931df27d79?gi=808bf4e3e025
 
-Understanding Convolutions - colah's blog
-
-http://colah.github.io/posts/2014-07-Understanding-Convolutions/imagenet.pdf
-
-
-
-https://nlp.seas.harvard.edu/2018/04/03/attention.html
-
-https://bastings.github.io/annotated_encoder_decoder/
-
-
-http://jalammar.github.io/illustrated-word2vec/
 
 https://towardsdatascience.com/learn-word2vec-by-implementing-it-in-tensorflow-45641adaf2ac
 
@@ -210,7 +204,6 @@ https://www.saama.com/blog/attention-mechanism-benefits-and-applications/
 
 https://explosion.ai/blog/deep-learning-formula-nlp
 
-https://ruder.io/deep-learning-nlp-best-practices/index.html#attention
 
 https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3
 
@@ -262,11 +255,8 @@ https://transformer.huggingface.co/
 https://towardsdatascience.com/an-implementation-guide-to-word2vec-using-numpy-and-google-sheets-13445eebd281
 
 
-http://ruder.io/state-of-transfer-learning-in-nlp/
 
 http://www.peterbloem.nl/blog/transformers
-
-http://nlp.seas.harvard.edu/2018/04/03/attention.html
 
 
 https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45
@@ -278,18 +268,6 @@ https://towardsdatascience.com/illustrated-efficient-neural-architecture-search-
 https://towardsdatascience.com/an-implementation-guide-to-word2vec-using-numpy-and-google-sheets-13445eebd281
 
 
-https://jalammar.github.io/illustrated-word2vec/
-
-https://www.preview.nearist.ai/paid-ebook-and-tutorial
-
-http://ruder.io/word-embeddings-1/index.html
-
-http://ruder.io/word-embeddings-softmax/
-
-https://web.stanford.edu/~jurafsky/slp3/
-
-
-https://jalammar.github.io/illustrated-bert/
 
 
 https://towardsdatascience.com/neural-networks-and-philosophy-of-language-31c34c0796da
@@ -307,7 +285,6 @@ https://austingwalters.com/word-embedding-and-data-splitting/
 
 https://www.kdnuggets.com/2019/01/burkov-self-supervised-learning-word-embeddings.html
 
-
 https://mlwhiz.com/blog/2017/04/09/word_vec_embeddings_examples_understanding/
 
 https://towardsdatascience.com/why-do-we-use-embeddings-in-nlp-2f20e1b632d2
@@ -317,7 +294,6 @@ https://towardsdatascience.com/creating-word-embeddings-for-out-of-vocabulary-oo
 https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
 
 https://towardsdatascience.com/visualisation-of-embedding-relations-word2vec-bert-64d695b7f36
-
 
 
 Attention and Augmented Recurrent Neural Networks
@@ -552,17 +528,14 @@ http://karpathy.github.io/neuralnets/
 Conv Nets: A Modular Perspective - colah's blog
 http://colah.github.io/posts/2014-07-Conv-Nets-Modular/
 
-
 Understanding Convolutions - colah's blog
 http://colah.github.io/posts/2014-07-Understanding-Convolutions/
 
 Groups & Group Convolutions - colah's blog
 http://colah.github.io/posts/2014-12-Groups-Convolution/
 
-
 Visualizing MNIST: An Exploration of Dimensionality Reduction - colah's blog
 http://colah.github.io/posts/2014-10-Visualizing-MNIST/
-
 
 Visualizing Representations: Deep Learning and Human Beings - colah's blog
 http://colah.github.io/posts/2015-01-Visualizing-Representations/
@@ -638,6 +611,9 @@ https://github.com/karpathy/char-rnn
 ## COURSES, PAPERS AND BOOKS
 
 
+https://web.stanford.edu/~jurafsky/slp3/
+
+https://www.preview.nearist.ai/paid-ebook-and-tutorial
 
 
 DeepLizard : seems to have a full playlist of three ml/dl courses. Here are the top 4 that is of interest.
@@ -659,13 +635,8 @@ Reinforcement Learning - Introducing Goal Oriented Intelligence
 https://deeplizard.com/learn/playlist/PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv
 
 
-
 Convolutional Neural Networks (CNN) - Deep Learning Wizard
 https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_convolutional_neuralnetwork/
-
-
-
-
 
 Neural networks [10.7] : Natural language processing - hierarchical output layer - YouTube
 https://www.youtube.com/watch?v=B95LTf2rVWM
@@ -673,12 +644,8 @@ https://www.youtube.com/watch?v=B95LTf2rVWM
 Neural networks [1.1] : Feedforward neural network - artificial neuron - YouTube
 https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH
 
-
-
 A friendly introduction to Recurrent Neural Networks - YouTube
 https://www.youtube.com/watch?v=UNmqTiOnRfg
-
-
 
 Home - Keras Documentation
 https://keras.io/#getting-started-30-seconds-to-keras
@@ -949,8 +916,6 @@ https://arxiv.org/abs/1911.08265
 
 ### FINANCE
 
-
-
 https://www.tradientblog.com/2019/11/lessons-learned-building-an-ml-trading-system-that-turned-5k-into-200k/
 https://news.ycombinator.com/item?id=21647038
 
@@ -960,9 +925,7 @@ https://arxiv.org/list/q-fin/recent
 Deep Learning for Time Series Forecasting
 https://machinelearningmastery.com/deep-learning-for-time-series-forecasting/
 
-
 https://arxiv.org/abs/1911.12540
-
 
 https://www.amazon.com/Python-Finance-Mastering-Data-Driven-ebook/dp/B07L8NMW2P/
 
@@ -1118,7 +1081,6 @@ Very good text generation example: (in keras. trains with Nietzsche's text):
 https://keras.io/examples/lstm_text_generation/
 
 
-
 Amazing visualization and analysis of every Nature paper published and their connections.
 
 https://www.youtube.com/watch?v=GW4s58u8PZo&feature=youtu.be
@@ -1233,9 +1195,6 @@ Optima Optometry | Optometrist | Eye Doctor | Eye Care | Eyeglasses | Contact Le
 https://www.optimaoptometry.com/
 
 
-
-
-
 Visualizing memorization in RNNs
 
 https://distill.pub/2019/memorization-in-rnns/
@@ -1267,10 +1226,6 @@ https://www.reddit.com/r/MachineLearning/comments/ds1xvc/d_deep_learning_has_a_s
 https://ai.googleblog.com/2019/11/highlights-from-2019-google-ai.html
 
 
-
-
-
-
 http://kurious.pub/blog/4
 
 https://builtin.com/data-science/recurrent-neural-networks-and-lstm
@@ -1279,11 +1234,9 @@ https://medium.com/@annikabrundyn1/the-beginners-guide-to-recurrent-neural-netwo
 
 https://skymind.ai/wiki/lstm
 
-
 https://en.wikipedia.org/wiki/Universal_approximation_theorem
 
 https://heartbeat.fritz.ai/k-means-clustering-using-sklearn-and-python-4a054d67b187
-
 
 https://arxiv.org/pdf/1409.0473.pdf
 
@@ -1295,77 +1248,50 @@ https://www.kalzumeus.com/2019/10/28/tether-and-bitfinex/
 
 https://www.technologyreview.com/s/614666/ai-machine-learning-music-feel-good/amp/
 
-
-
-
 https://towardsdatascience.com/beginning-machine-learning-650add627e79
 
 https://www.sciencealert.com/prime-number-theorems-conjectures-explained/amp
-
 
 https://medium.com/tensorflow/using-tensorflow-2-for-state-of-the-art-natural-language-processing-102445cda54a
 
 http://www.bbc.com/culture/story/20191022-what-are-the-best-first-lines-in-fiction
 
-
 https://marketingland.com/welcome-bert-googles-latest-search-algorithm-to-better-understand-natural-language-269910/amp
-
 
 https://www.sciencealert.com/mathematicians-have-discovered-an-astonishing-new-way-to-multiply-large-numbers/amp
 
-
-
 https://aiweirdness.com/post/188342947482/halloween-costumes-by-the-neural-net-gpt-2/amp
-
 
 https://towardsdatascience.com/teaching-a-neural-net-to-play-blackjack-8ec5f39809e2
 
 https://towardsdatascience.com/tensorflow-2-0-create-and-train-a-vanilla-cnn-on-google-colab-c7a0ac86d61b
 
-
-
 https://www.apptic.me/blog/how-to-train-a-neural-net-to-play-cards.php
-
 
 https://towardsdatascience.com/machine-learning-word-embedding-sentiment-classification-using-keras-b83c28087456
 
 https://appliedmachinelearning.blog/2019/03/04/state-of-the-art-text-classification-using-bert-model-predict-the-happiness-
 hackerearth-challenge/amp/
 
-
 https://classicalpoets.org/2018/05/24/10-favorite-shakespeare-sonnets/
-
 
 https://towardsdatascience.com/fse-2b1ffa791cf9
 
 https://github.com/tensorflow/text
 
-
-
 https://medium.com/syncedreview/going-beyond-gan-new-deepmind-vae-model-generates-high-fidelity-human-faces-b1cc08fa4bbb
 
-
 https://www.pyimagesearch.com/2018/09/10/keras-tutorial-how-to-get-started-with-keras-deep-learning-and-python/
-
 
 https://medium.com/datadriveninvestor/deep-learning-with-python-and-fast-ai-part-2-nlp-classification-with-transfer-learning-e7aaf7514e04
 
 https://medium.com/@narjes.karmani/reinforcement-learning-fundamentals-469a91e40fce
-
-
-
-
-
-
-
 
 https://news.ycombinator.com/item?id=21242343
 
 https://www.newyorker.com/magazine/2019/10/14/can-a-machine-learn-to-write-for-the-new-yorker
 
 http://www.oranlooney.com/post/ml-from-scratch-part-6-pca/
-
-
 
 
 Deep Learning Reading List:
@@ -1392,8 +1318,6 @@ https://blog.usejournal.com/opengpt-2-we-replicated-gpt-2-because-you-can-too-45
 
 
 https://blog.dominodatalab.com/deep-reinforcement-learning/
-
-
 
 https://towardsdatascience.com/step-by-step-tutorial-on-linear-regression-with-stochastic-gradient-descent-1d35b088a843
 
