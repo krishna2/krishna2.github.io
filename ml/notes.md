@@ -77,6 +77,9 @@ https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-fo
 BERT Technology introduced in 3-minutes - Towards Data Science
 https://towardsdatascience.com/bert-technology-introduced-in-3-minutes-2c2f9968268c
 
+Attention is all you need : Paper explained
+http://mlexplained.com/2017/12/29/attention-is-all-you-need-explained/
+
 -----
 
 
