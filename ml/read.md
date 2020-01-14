@@ -26,31 +26,19 @@ The Illustrated GPT-2 (Visualizing Transformer Language Models) – Jay Alammar 
 http://jalammar.github.io/illustrated-gpt2/
 
 
-
 ### Chris Olah
-
-Deep Learning, NLP, and Representations - colah's blog
-http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
-
-Neural Networks, Types, and Functional Programming -- colah's blog
-http://colah.github.io/posts/2015-09-NN-Types-FP/
-
-Understanding LSTM Networks -- colah's blog
-http://colah.github.io/posts/2015-08-Understanding-LSTMs/
-
-Neural Networks, Types, and Functional Programming -- colah's blog
-https://colah.github.io/posts/2015-09-NN-Types-FP/
-
-Deep Learning, NLP, and Representations - colah's blog
-http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
-
-
-Understanding LSTM Networks -- colah's blog
-http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
 Understanding Convolutions - colah's blog
 http://colah.github.io/posts/2014-07-Understanding-Convolutions/imagenet.pdf
 
+Deep Learning, NLP, and Representations - colah's blog
+http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
+
+Understanding LSTM Networks -- colah's blog
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+Neural Networks, Types, and Functional Programming -- colah's blog
+http://colah.github.io/posts/2015-09-NN-Types-FP/
 
 
 ### Sebastian Ruder
@@ -114,6 +102,43 @@ The Annotated Encoder Decoder | A PyTorch tutorial implementing Bahdanau et al. 
 https://bastings.github.io/annotated_encoder_decoder/
 
 
+### Temp : check out first
+
+Copy of BERT_lab.ipynb - Colaboratory
+https://colab.research.google.com/drive/1-UdelAqtD_2KrUIV_NTL59kgqo8m1Y2H#scrollTo=lJLcUBF5GOyU
+
+BERT Explained: A Complete Guide with Theory and Tutorial – Towards Machine Learning
+https://towardsml.com/2019/09/17/bert-explained-a-complete-guide-with-theory-and-tutorial/
+
+https://medium.com/swlh/transfer-learning-in-nlp-f5035cc3f62f
+
+https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3
+
+https://towardsdatascience.com/nlp-extract-contextualized-word-embeddings-from-bert-keras-tf-67ef29f60a7b
+
+https://towardsdatascience.com/deconstructing-bert-reveals-clues-to-its-state-of-art-performance-in-nlp-tasks-76a7e828c0f1
+
+https://towardsdatascience.com/bert-classifier-just-another-pytorch-model-881b3cf05784
+
+
+https://github.com/bollu/bollu.github.io#everything-you-know-about-word2vec-is-wrong
+
+http://www.peterbloem.nl/blog/transformers
+
+https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45
+
+https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3
+
+https://towardsdatascience.com/illustrated-efficient-neural-architecture-search-5f7387f9fb6
+
+https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
+
+https://towardsdatascience.com/visualisation-of-embedding-relations-word2vec-bert-64d695b7f36
+
+https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html
+
+https://towardsdatascience.com/simple-transformers-introducing-the-easiest-bert-roberta-xlnet-and-xlm-library-58bf8c59b2a3
+
 
 
 ### Others
@@ -121,10 +146,8 @@ https://bastings.github.io/annotated_encoder_decoder/
 Learn Word2Vec by implementing it in tensorflow - Towards Data Science
 https://towardsdatascience.com/learn-word2vec-by-implementing-it-in-tensorflow-45641adaf2ac
 
-
 How to Develop Word Embeddings in Python with Gensim
 https://machinelearningmastery.com/develop-word-embeddings-python-gensim/
-
 
 Deep Learning For Natural Language Processing
 https://machinelearningmastery.com/deep-learning-for-nlp/
@@ -132,22 +155,11 @@ https://machinelearningmastery.com/deep-learning-for-nlp/
 A Brief History of Word Embeddings | Gavagai
 https://www.gavagai.io/text-analytics/a-brief-history-of-word-embeddings/
 
-
 The Unreasonable Effectiveness of Recurrent Neural Networks
 http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 
-
-Copy of BERT_lab.ipynb - Colaboratory
-https://colab.research.google.com/drive/1-UdelAqtD_2KrUIV_NTL59kgqo8m1Y2H#scrollTo=lJLcUBF5GOyU
-
 Attention, CNN and what not for Text Classification
 https://towardsdatascience.com/nlp-learning-series-part-3-attention-cnn-and-what-not-for-text-classification-4313930ed566
-
-
-
-
-BERT Explained: A Complete Guide with Theory and Tutorial – Towards Machine Learning
-https://towardsml.com/2019/09/17/bert-explained-a-complete-guide-with-theory-and-tutorial/
 
 
 Google AI Blog: Open Sourcing BERT: State-of-the-Art Pre-training for Natural Language Processing
@@ -171,7 +183,6 @@ https://arxiv.org/abs/1911.11423
 1910.11664.pdf
 https://arxiv.org/pdf/1910.11664.pdf
 
-
 [1506.02078] Visualizing and Understanding Recurrent Networks
 https://arxiv.org/abs/1506.02078
 
@@ -187,12 +198,8 @@ https://arxiv.org/pdf/1502.01710v5.pdf
 
 https://towardsdatascience.com/nlp-extract-contextualized-word-embeddings-from-bert-keras-tf-67ef29f60a7b
 
-https://medium.com/swlh/transfer-learning-in-nlp-f5035cc3f62f
 
 https://searchengineland.com/a-deep-dive-into-bert-how-bert-launched-a-rocket-into-natural-language-understanding-324522/amp
-
-https://bytes.grubhub.com/search-query-embeddings-using-query2vec-f5931df27d79?gi=808bf4e3e025
-
 
 https://towardsdatascience.com/learn-word2vec-by-implementing-it-in-tensorflow-45641adaf2ac
 
@@ -205,16 +212,10 @@ https://www.saama.com/blog/attention-mechanism-benefits-and-applications/
 https://explosion.ai/blog/deep-learning-formula-nlp
 
 
-https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3
-
 
 https://www.searchenginejournal.com/bert-generate-meta-descriptions/332585/amp/
 
-
-https://towardsdatascience.com/nlp-extract-contextualized-word-embeddings-from-bert-keras-tf-67ef29f60a7b
-
 https://blog.scaleway.com/2019/understanding-text-with-bert/amp/
-
 
 https://towardsdatascience.com/understanding-bert-is-it-a-game-changer-in-nlp-7cca943cf3ad
 
@@ -222,23 +223,7 @@ https://israelg99.github.io/2017-03-23-Word2Vec-Explained/
 
 https://www.wired.com/story/ai-pioneer-algorithms-understand-why/amp
 
-
-https://towardsdatascience.com/deconstructing-bert-reveals-clues-to-its-state-of-art-performance-in-nlp-tasks-76a7e828c0f1
-
-
-https://towardsdatascience.com/nlp-extract-contextualized-word-embeddings-from-bert-keras-tf-67ef29f60a7b
-
-https://towardsdatascience.com/bert-classifier-just-another-pytorch-model-881b3cf05784
-
-
-https://github.com/bollu/bollu.github.io#everything-you-know-about-word2vec-is-wrong
-
-
 https://medium.com/apache-mxnet/gluon-nlp-bert-6a489bdd3340
-
-http://jalammar.github.io/illustrated-transformer/
-
-
 
 http://nlp.fast.ai/classification/2018/05/15/introducting-ulmfit.html
 
@@ -247,28 +232,11 @@ https://towardsdatascience.com/document-embedding-techniques-fed3e7a6a25d
 https://blog.scaleway.com/2019/building-a-machine-reading-comprehension-system-using-the-latest-advances-in-deep-learning-for-nlp/
 
 
-
 https://blog.floydhub.com/gpt2/
 
 https://transformer.huggingface.co/
 
 https://towardsdatascience.com/an-implementation-guide-to-word2vec-using-numpy-and-google-sheets-13445eebd281
-
-
-
-http://www.peterbloem.nl/blog/transformers
-
-
-https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45
-
-https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3
-
-https://towardsdatascience.com/illustrated-efficient-neural-architecture-search-5f7387f9fb6
-
-https://towardsdatascience.com/an-implementation-guide-to-word2vec-using-numpy-and-google-sheets-13445eebd281
-
-
-
 
 https://towardsdatascience.com/neural-networks-and-philosophy-of-language-31c34c0796da
 
@@ -291,19 +259,9 @@ https://towardsdatascience.com/why-do-we-use-embeddings-in-nlp-2f20e1b632d2
 
 https://towardsdatascience.com/creating-word-embeddings-for-out-of-vocabulary-oov-words-such-as-singlish-3fe33083d466
 
-https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
-
-https://towardsdatascience.com/visualisation-of-embedding-relations-word2vec-bert-64d695b7f36
-
-
 Attention and Augmented Recurrent Neural Networks
 
 https://distill.pub/2016/augmented-rnns/
-
-https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html
-
-https://towardsdatascience.com/simple-transformers-introducing-the-easiest-bert-roberta-xlnet-and-xlm-library-58bf8c59b2a3
-
 
 ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators | OpenReview
 
@@ -417,6 +375,9 @@ https://arxiv.org/abs/1803.02349
 https://arxiv.org/abs/1905.06874
 
 
+https://bytes.grubhub.com/search-query-embeddings-using-query2vec-f5931df27d79?gi=808bf4e3e025
+
+
 Order Matters: Alibaba’s Transformer-based Recommender System
 
 https://www.kdnuggets.com/2019/08/order-matters-alibabas-transformer-based-recommender-system.html
@@ -506,14 +467,12 @@ what makes neural networks a nonlinear classification model? - Cross Validated
 
 https://stats.stackexchange.com/questions/222639/what-makes-neural-networks-a-nonlinear-classification-model/222642
 
-
 https://arxiv.org/pdf/1905.12337.pdf
 
 
 How neural networks learn nonlinear functions and classify linearly non-separable data?
 
 https://medium.com/@vivek.yadav/how-neural-networks-learn-nonlinear-functions-and-classify-linearly-non-separable-data-22328e7e5be1
-
 
 
 Hacker's guide to Neural Networks
