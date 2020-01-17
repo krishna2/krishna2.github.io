@@ -4,6 +4,31 @@
 [Link to this page](https://krishna2.github.io/books)
 -->
 
+
+## Books in 2020
+
+1. Edwin Abbott: Flatland: A Romance of Many Dimensions
+
+2. Nir Eyal: Indistractable
+
+3. Prof. Sean Carroll: The Higgs Boson and Beyond
+
+4. Stanislas Dehaene: Consciousness and the Brain
+
+
+### Currently Reading
+
+*Jimmy Soni and Rob Goodman: A Mind at Play
+
+*Abbot George Burke (Swami Nirmalananda Giri): The Upanishads for Awakening
+
+*Mary Roach: Stiff
+
+*Ming-Dao Deng: 365 Tao: Daily Meditations
+
+*Marguerite De Angeli: The Door in the Wall (with Savit)
+
+
 ## Books in 2019
 
 1. Thanhha Lai:	Inside Out and Back Again
