@@ -422,3 +422,25 @@ Why I Keep a Research Blog
 http://gregorygundersen.com/blog/2020/01/12/why-research-blog/
 
 
+
+## 20200116
+
+Links I am finding from reading the existing stuff
+
+https://medium.com/heuritech/attention-mechanism-5aba9a2d4727
+
+http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/
+
+
+This course is *AMAZING* : tons and tons of paper references. Videos too - MUST CHECK this out soon.
+
+Graham Neubig's NLP-DL course in CMU: http://phontron.com/class/nn4nlp2017/schedule.html
+
+
+This ENTIRE section by Kaggle Paper reading group seems very good!
+
+https://www.youtube.com/playlist?list=PLqFaTIg4myu8t5ycqvp7I07jTjol3RCl9
+
+
+
+
