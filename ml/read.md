@@ -19,11 +19,12 @@ http://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-se
 The Illustrated Transformer – Jay Alammar – Visualizing machine learning one concept at a time
 http://jalammar.github.io/illustrated-transformer/
 
+The Illustrated GPT-2 (Visualizing Transformer Language Models) – Jay Alammar – Visualizing machine learning one concept at a time
+http://jalammar.github.io/illustrated-gpt2/
+
 The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) – Jay Alammar – Visualizing machine learning one concept at a time
 http://jalammar.github.io/illustrated-bert/
 
-The Illustrated GPT-2 (Visualizing Transformer Language Models) – Jay Alammar – Visualizing machine learning one concept at a time
-http://jalammar.github.io/illustrated-gpt2/
 
 
 ### Chris Olah
@@ -32,10 +33,13 @@ Understanding Convolutions - colah's blog
 http://colah.github.io/posts/2014-07-Understanding-Convolutions/imagenet.pdf
 
 Deep Learning, NLP, and Representations - colah's blog
+(this post has lots of very interesting ideas)
 http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
 
 Understanding LSTM Networks -- colah's blog
 http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+https://distill.pub/2016/augmented-rnns/
 
 Neural Networks, Types, and Functional Programming -- colah's blog
 http://colah.github.io/posts/2015-09-NN-Types-FP/
