@@ -1,5 +1,165 @@
 # NOTES : RANDOM STUFF, LINKS
 
+## 2020-01-20
+
+This might be a repeat of some links but this is the current list of tabs open on NLP, Embeddings, BERT. I have finished almost all the embeddings, word2vec, RNN, LSTM, GRU and such reads.
+
+Now on to Attention, Transformer and BERT. Finally!
+
+krishna2.github.io/notes.md at master · krishna2/krishna2.github.io
+
+https://github.com/krishna2/krishna2.github.io/blob/master/ml/notes.md
+
+tensorflow/nmt: TensorFlow Neural Machine Translation Tutorial
+
+https://github.com/tensorflow/nmt
+
+Tensor2Tensor Intro - Colaboratory
+
+https://colab.research.google.com/github/tensorflow/tensor2tensor/blob/master/tensor2tensor/notebooks/hello_t2t.ipynb#scrollTo=oILRLCWN_16u
+
+tensor2tensor/README.md at master · tensorflow/tensor2tensor
+
+https://github.com/tensorflow/tensor2tensor/blob/master/README.md#walkthrough
+
+Kullback-Leibler Divergence Explained — Count Bayesie
+
+https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained
+
+Attention mechanism - Heuritech - Medium
+
+https://medium.com/heuritech/attention-mechanism-5aba9a2d4727
+
+Attention and Memory in Deep Learning and NLP – WildML
+
+http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/
+
+BERT End to End (Fine-tuning + Predicting) with Cloud TPU: Sentence and Sentence-Pair Classification Tasks - Colaboratory
+
+https://colab.research.google.com/github/tensorflow/tpu/blob/master/tools/colab/bert_finetuning_with_cloud_tpus.ipynb
+
+google-research/bert: TensorFlow code and pre-trained models for BERT
+
+https://github.com/google-research/bert
+
+The Unreasonable Effectiveness of Recurrent Neural Networks
+
+https://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
+Visual Information Theory -- colah's blog
+
+https://colah.github.io/posts/2015-09-Visual-Information/
+
+A survey of cross-lingual word embedding models
+
+https://ruder.io/cross-lingual-embeddings/index.html
+
+NLP's ImageNet moment has arrived
+
+https://ruder.io/nlp-imagenet/
+
+Word embeddings in 2017: Trends and future directions
+
+https://ruder.io/word-embeddings-2017/index.html#embeddingsbasedonothercontexts
+
+Deep Learning for NLP Best Practices
+
+https://ruder.io/deep-learning-nlp-best-practices/index.html#attention
+
+The State of Transfer Learning in NLP
+
+https://ruder.io/state-of-transfer-learning-in-nlp/
+
+BERT Word Embeddings Tutorial · Chris McCormick
+
+https://mccormickml.com/2019/05/14/BERT-word-embeddings-tutorial/
+
+BERT Fine-Tuning Tutorial with PyTorch · Chris McCormick
+
+https://mccormickml.com/2019/07/22/BERT-fine-tuning/
+
+The Annotated Transformer
+
+https://nlp.seas.harvard.edu/2018/04/03/attention.html
+
+The Annotated Encoder Decoder | A PyTorch tutorial implementing Bahdanau et al. (2015)
+
+https://bastings.github.io/annotated_encoder_decoder/
+
+Copy of BERT_lab.ipynb - Colaboratory
+
+https://colab.research.google.com/drive/1-UdelAqtD_2KrUIV_NTL59kgqo8m1Y2H#scrollTo=lJLcUBF5GOyU
+
+BERT Explained: A Complete Guide with Theory and Tutorial – Towards Machine Learning
+
+https://towardsml.com/2019/09/17/bert-explained-a-complete-guide-with-theory-and-tutorial/
+
+Transfer Learning in NLP - Modern NLP - Medium
+
+https://medium.com/modern-nlp/transfer-learning-in-nlp-f5035cc3f62f
+
+2019 — Year of BERT and Transformer - Towards Data Science
+
+https://towardsdatascience.com/2019-year-of-bert-and-transformer-f200b53d05b9
+
+NLP: Contextualized word embeddings from BERT - Towards Data Science
+
+https://towardsdatascience.com/nlp-extract-contextualized-word-embeddings-from-bert-keras-tf-67ef29f60a7b
+
+Deconstructing BERT - Towards Data Science
+
+https://towardsdatascience.com/deconstructing-bert-reveals-clues-to-its-state-of-art-performance-in-nlp-tasks-76a7e828c0f1
+
+Transformers from scratch | Peter Bloem
+
+http://www.peterbloem.nl/blog/transformers
+
+Attn: Illustrated Attention - Towards Data Science
+
+https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3
+
+Illustrated: Self-Attention - Towards Data Science
+
+https://towardsdatascience.com/illustrated-self-attention-2d627e33b20a
+
+Illustrated: Efficient Neural Architecture Search - Towards Data Science
+
+https://towardsdatascience.com/illustrated-efficient-neural-architecture-search-5f7387f9fb6
+
+Attention? Attention!
+
+https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html
+
+Why I Keep a Research Blog
+
+http://gregorygundersen.com/blog/2020/01/12/why-research-blog/
+
+Dissecting BERT Part 1: The Encoder - Dissecting BERT - Medium
+
+https://medium.com/dissecting-bert/dissecting-bert-part-1-d3c3d495cdb3
+
+Understanding BERT Part 2: BERT Specifics - Dissecting BERT - Medium
+
+https://medium.com/dissecting-bert/dissecting-bert-part2-335ff2ed9c73
+
+Dissecting BERT Appendix: The Decoder - Dissecting BERT - Medium
+
+https://medium.com/dissecting-bert/dissecting-bert-appendix-the-decoder-3b86f66b0e5f
+
+Understand Self-Attention in BERT Intuitively - Towards Data Science
+
+https://towardsdatascience.com/understand-self-attention-in-bert-intuitively-cd480cbff30b
+
+Deconstructing BERT, Part 2: Visualizing the Inner Workings of Attention
+
+https://towardsdatascience.com/deconstructing-bert-part-2-visualizing-the-inner-workings-of-attention-60a16d86b5c1
+
+Paper Dissected: "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" Explained | Machine Learning Explained
+
+https://mlexplained.com/2019/01/07/paper-dissected-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding-explained/
+
+
+
 ## 2020-01-14
 
 Why I Keep a Research Blog
@@ -102,12 +262,32 @@ Key trends from NeurIPS 2019
 [https://huyenchip.com/2019/12/18/key-trends-neurips-2019.html](https://huyenchip.com/2019/12/18/key-trends-neurips-2019.html)
 
 
+-----
+
+
+## 2020-01-16
+
+Links I am finding from reading the existing stuff
+
+https://medium.com/heuritech/attention-mechanism-5aba9a2d4727
+
+http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/
+
+
+This course is *AMAZING* : tons and tons of paper references. Videos too - MUST CHECK this out soon.
+
+Graham Neubig's NLP-DL course in CMU: http://phontron.com/class/nn4nlp2017/schedule.html
+
+
+This ENTIRE section by Kaggle Paper reading group seems very good!
+
+https://www.youtube.com/playlist?list=PLqFaTIg4myu8t5ycqvp7I07jTjol3RCl9
 
 
 -----
 
 
-## 20200115
+## 2020-01-15
 
 krishna2.github.io/notes.md at master · krishna2/krishna2.github.io
 
@@ -420,27 +600,5 @@ https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html
 Why I Keep a Research Blog
 
 http://gregorygundersen.com/blog/2020/01/12/why-research-blog/
-
-
-
-## 20200116
-
-Links I am finding from reading the existing stuff
-
-https://medium.com/heuritech/attention-mechanism-5aba9a2d4727
-
-http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/
-
-
-This course is *AMAZING* : tons and tons of paper references. Videos too - MUST CHECK this out soon.
-
-Graham Neubig's NLP-DL course in CMU: http://phontron.com/class/nn4nlp2017/schedule.html
-
-
-This ENTIRE section by Kaggle Paper reading group seems very good!
-
-https://www.youtube.com/playlist?list=PLqFaTIg4myu8t5ycqvp7I07jTjol3RCl9
-
-
 
 
