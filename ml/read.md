@@ -550,6 +550,19 @@ https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
 Illustrated Guide to Recurrent Neural Networks - Towards Data Science
 https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9
 
+Illustrated Guide to Recurrent Neural Networks: Understanding the Intuition
+
+https://www.youtube.com/watch?v=LHXXI4-IEns
+
+Illustrated Guide to LSTM's and GRU's: A step by step explanation
+
+https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
+
+https://www.youtube.com/watch?v=8HyCNIVRbSU
+
+
+https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45
+
 
 Illustrated Guide to Recurrent Neural Networks
 http://kurious.pub/blog/4
