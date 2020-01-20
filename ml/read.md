@@ -150,6 +150,9 @@ https://towardsdatascience.com/simple-transformers-introducing-the-easiest-bert-
 Learn Word2Vec by implementing it in tensorflow - Towards Data Science
 https://towardsdatascience.com/learn-word2vec-by-implementing-it-in-tensorflow-45641adaf2ac
 
+Nice illustration / demo :
+https://remykarem.github.io/word2vec-demo/
+
 How to Develop Word Embeddings in Python with Gensim
 https://machinelearningmastery.com/develop-word-embeddings-python-gensim/
 
@@ -440,6 +443,21 @@ https://towardsdatascience.com/how-to-discover-new-music-on-spotify-with-artific
 neural networks non linearity - Google Search
 
 https://www.google.com/search?q=neural+networks+non+linearity&oq=neural+networks+non-lin&aqs=chrome.2.69i57j0l5.7420j0j1&sourceid=chrome&ie=UTF-8
+
+
+Good step by step demo:
+
+https://towardsdatascience.com/step-by-step-tutorial-on-linear-regression-with-stochastic-gradient-descent-1d35b088a843
+
+https://remykarem.github.io/backpropagation-demo/
+
+
+https://towardsdatascience.com/an-implementation-guide-to-word2vec-using-numpy-and-google-sheets-13445eebd281
+
+
+Counting number of params in a FFNN:
+
+https://towardsdatascience.com/counting-no-of-parameters-in-deep-learning-models-by-hand-8f1716241889
 
 
 Neural networks and deep learning
