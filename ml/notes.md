@@ -130,6 +130,25 @@ Attention? Attention!
 
 https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html
 
+The entire blog of Lilian Weng is very cool!
+
+https://lilianweng.github.io/lil-log/
+
+https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html
+
+https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html
+
+https://lilianweng.github.io/lil-log/2019/03/14/are-deep-neural-networks-dramatically-overfitted.html
+
+
+
+18. Information Theory of Deep Learning. Naftali Tishby
+
+https://www.youtube.com/watch?v=bLqJHjXihK8&feature=youtu.be
+
+
+
+
 Why I Keep a Research Blog
 
 http://gregorygundersen.com/blog/2020/01/12/why-research-blog/
