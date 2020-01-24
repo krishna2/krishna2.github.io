@@ -5,9 +5,101 @@ Started wiht tensorflow.org and browsed through all the tutorials and examples l
 
 https://www.tensorflow.org/
 
+https://keras.io/
+
 https://www.tensorflow.org/learn
 
 https://www.tensorflow.org/tutorials/
+
+Colab welcome: https://colab.research.google.com/notebooks/welcome.ipynb
+
+Probably a good idea to get some of these books and take the courses:
+https://www.tensorflow.org/resources/learn-ml
+
+Ah the Machine Learning Crash Course, probably worth a re-read:
+https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/toolkit
+
+
+
+## Pages that I browsed through and find good and to revisit
+
+This is Fashion-MNIST - hello world / 101, image classification.
+Very well explained including inputs, outputs, verification.
+
+https://www.tensorflow.org/tutorials/keras/classification
+
+Tensorboard : this is kind of a follow up of the above that shows how to verify the train/test/eval.
+
+https://www.tensorflow.org/tensorboard/get_started
+https://www.tensorflow.org/tensorboard/scalars_and_keras
+
+This is like the above example (fashion-mnist) but for Text classification (imdb-movie-reviews)
+
+https://www.tensorflow.org/tutorials/keras/text_classification_with_hub
+
+A regression example (fuel efficiency prediction):
+https://www.tensorflow.org/tutorials/keras/regression
+
+
+### More tutorials on the functions/features
+
+Learn about overfit and underfit:
+https://www.tensorflow.org/tutorials/keras/overfit_and_underfit
+
+Save and Load models:
+https://www.tensorflow.org/tutorials/keras/save_and_load
+
+A good data handling related example.
+https://www.tensorflow.org/tutorials/load_data/csv
+
+And there is a whole bunch of sections (text, image...etc) on the lefthandside - everything worth a read.
+
+Particularly TFRecord and TFExample:
+https://www.tensorflow.org/tutorials/load_data/tfrecord
+
+Estimators:
+https://www.tensorflow.org/tutorials/estimator/linear
+
+
+Some customizations, tensors, layers, custom layers, custom training...etc (lots on the lhs):
+https://www.tensorflow.org/tutorials/customization/basics
+
+Distributed Training (and other strategies):
+https://www.tensorflow.org/tutorials/distribute/keras
+
+
+And lot more examples like this on the main keras page (on the left hand side):
+
+https://keras.io/examples/lstm_text_generation/
+
+
+### To read in detail later since it looks super interesting
+
+https://www.tensorflow.org/tutorials/text/nmt_with_attention
+
+And the entire list of tutorials under "Text" and "Generative" on the lefthandside.
+
+*Shakespeare* : Wonderful example involving Shakespeare, federated learning, text generation
+
+https://www.tensorflow.org/federated/tutorials/federated_learning_for_text_generation
+
+*Music* : This is magenta, music transformer, music generation
+
+https://magenta.tensorflow.org/piano-transformer
+
+https://colab.research.google.com/notebooks/magenta/gansynth/gansynth_demo.ipynb
+
+This is TFX and it has a list of tutorials - this is good for doing ml end to end.
+
+https://www.tensorflow.org/tfx
+
+This is TF-Ranking - need to get here at some point.
+
+https://github.com/tensorflow/ranking/blob/master/tensorflow_ranking/examples/handling_sparse_features.ipynb
+
+
+
+## List of all the pages
 
 
 beginner.ipynb - Colaboratory
