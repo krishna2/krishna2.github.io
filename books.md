@@ -15,18 +15,25 @@
 
 4. Stanislas Dehaene: Consciousness and the Brain
 
+5. Patrick Lencioni: The Advantage
+
+6. Niall Kishtaiiny: A Little History of Economics
+
 
 ### Currently Reading
+
+*Ming-Dao Deng: 365 Tao: Daily Meditations
+
+*Marguerite De Angeli: The Door in the Wall (with Savit)
+
+*Mary Roach: Stiff
+
+*Sam Kean: Caesar's Last Breath
 
 *Jimmy Soni and Rob Goodman: A Mind at Play
 
 *Abbot George Burke (Swami Nirmalananda Giri): The Upanishads for Awakening
 
-*Mary Roach: Stiff
-
-*Ming-Dao Deng: 365 Tao: Daily Meditations
-
-*Marguerite De Angeli: The Door in the Wall (with Savit)
 
 
 ## Books in 2019
