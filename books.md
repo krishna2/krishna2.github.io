@@ -11,7 +11,7 @@
 
 2. Nir Eyal: Indistractable
 
-3. Prof. Sean Carroll: The Higgs Boson and Beyond
+3. Prof. Sean Carroll: The Higgs Boson and Beyond (great courses)
 
 4. Stanislas Dehaene: Consciousness and the Brain
 
@@ -19,21 +19,28 @@
 
 6. Niall Kishtaiiny: A Little History of Economics
 
+7. Ming-Dao Deng: 365 Tao: Daily Meditations
+
+8. Mary Roach: Stiff
+
+9. Sam Kean: Caesar's Last Breath
+
 
 ### Currently Reading
 
-*Ming-Dao Deng: 365 Tao: Daily Meditations
-
 *Marguerite De Angeli: The Door in the Wall (with Savit)
-
-*Mary Roach: Stiff
-
-*Sam Kean: Caesar's Last Breath
 
 *Jimmy Soni and Rob Goodman: A Mind at Play
 
 *Abbot George Burke (Swami Nirmalananda Giri): The Upanishads for Awakening
 
+*Prof. Thad Polk: The Learning Brain (great courses)
+
+### In the Queue
+
+*Prof. John McWhorter: The Story of Human Language
+
+*Joe Dispenza: Evolve Your Brain
 
 
 ## Books in 2019
