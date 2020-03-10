@@ -25,18 +25,20 @@
 
 9. Sam Kean: Caesar's Last Breath
 
+10. Marguerite De Angeli: The Door in the Wall (with Savit)
+
+11. Robert Sapolsky: Behave
+
+12. Jimmy Soni and Rob Goodman: A Mind at Play
+
 
 ### Currently Reading
-
-*Marguerite De Angeli: The Door in the Wall (with Savit)
-
-*Jimmy Soni and Rob Goodman: A Mind at Play
 
 *Abbot George Burke (Swami Nirmalananda Giri): The Upanishads for Awakening
 
 *Prof. Thad Polk: The Learning Brain (great courses)
 
-### In the Queue
+### Next In the Queue
 
 *Prof. John McWhorter: The Story of Human Language
 
