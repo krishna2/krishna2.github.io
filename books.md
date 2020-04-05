@@ -29,8 +29,16 @@
 
 11. Robert Sapolsky: Behave (*)
 
-12. Jimmy Soni and Rob Goodman: A Mind at Play
+12. Gary Taubes: The Case Against Sugar
 
+13. Jimmy Soni and Rob Goodman: A Mind at Play
+
+14. J. D. Salinger: The Catcher in the Rye
+
+15. Andrew Tobias: The Only Investment Guided You'll Ever Need
+
+16. Graham Summers: The Everything Bubble*
+ 
 
 ### Currently Reading
 
@@ -38,11 +46,6 @@
 
 *Prof. Thad Polk: The Learning Brain (great courses)
 
-### Next In the Queue
-
-*Prof. John McWhorter: The Story of Human Language
-
-*Joe Dispenza: Evolve Your Brain
 
 
 ## Books in 2019
