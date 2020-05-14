@@ -37,7 +37,16 @@
 
 15. Andrew Tobias: The Only Investment Guided You'll Ever Need
 
-16. Graham Summers: The Everything Bubble*
+16. Graham Summers: The Everything Bubble
+
+17. Math with Bad Drawings*
+
+18. US History in Five Stock Market Crashes*
+
+19. Rebecca Goldstein: Incompleteness (Biography of Godel)*
+
+20. Philip Guo: The PhD Grind (a memoir)
+
  
 
 ### Currently Reading
