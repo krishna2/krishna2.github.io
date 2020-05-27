@@ -39,7 +39,7 @@
 
 16. Graham Summers: The Everything Bubble
 
-17. Math with Bad Drawings*
+17. Ben Orlin: Math with Bad Drawings*
 
 18. US History in Five Stock Market Crashes*
 
@@ -47,7 +47,12 @@
 
 20. Philip Guo: The PhD Grind (a memoir)
 
+21. Forrest Knutson: Hacking the Universe : The Process of Yogic Meditation
+
+22. Chris Niebauer: No Self, No Problem: How Neuropsychology Is Catching Up to Buddhism*
  
+23. Darius Foroux: What It Takes To Be Free*
+
 
 ### Currently Reading
 
