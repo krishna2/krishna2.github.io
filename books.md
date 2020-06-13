@@ -49,9 +49,16 @@
 
 21. Forrest Knutson: Hacking the Universe : The Process of Yogic Meditation
 
-22. Chris Niebauer: No Self, No Problem: How Neuropsychology Is Catching Up to Buddhism*
- 
-23. Darius Foroux: What It Takes To Be Free*
+22. Chris Niebauer: No Self, No Problem: How Neuropsychology Is Catching Up to Buddhism
+
+23. Darius Foroux: What It Takes To Be Free
+
+24. Sri Ramana Maharishi: Who Am I?
+
+25. Sri Adi Shankaracharya: Manisha Panchakam (lectures + text : various sources)
+
+26. Sri Adi Shankaracharya: Nirvana Shatakam (lectures + text : various sources)
+
 
 
 ### Currently Reading
@@ -60,6 +67,25 @@
 
 *Prof. Thad Polk: The Learning Brain (great courses)
 
+*Veda Vyasa: The Bhagavad Gita (Sanskrit Channel lectures)
+
+*Rebecca Goldstein: Incompleteness
+
+*Biography of Lokenath Babaji
+
+### Books in queue
+
+TattvaBodha
+
+AtmaBodha
+
+Vivekachudamani
+
+Ashtavakra Gita
+
+The Bhagavad Gita (Swami Parthasarathy - 3 volumes)
+
+The Bhagavad Gita (Abbot)
 
 
 ## Books in 2019
