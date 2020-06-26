@@ -59,6 +59,10 @@
 
 26. Sri Adi Shankaracharya: Nirvana Shatakam (lectures + text : various sources)
 
+27. Veda Vyasa: The Bhagavad Gita (Sanskrit Channel lectures)
+
+28. Shuddhaanandaa Brahmachari: Biography of Lokenath Babaji
+
 
 
 ### Currently Reading
@@ -67,11 +71,12 @@
 
 *Prof. Thad Polk: The Learning Brain (great courses)
 
-*Veda Vyasa: The Bhagavad Gita (Sanskrit Channel lectures)
-
 *Rebecca Goldstein: Incompleteness
 
-*Biography of Lokenath Babaji
+*William Golding: Lord of the Flies
+
+*James Clear: Atomic Habits
+
 
 ### Books in queue
 
