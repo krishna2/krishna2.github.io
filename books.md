@@ -63,19 +63,25 @@
 
 28. Shuddhaanandaa Brahmachari: Biography of Lokenath Babaji
 
+29. William Golding: Lord of the Flies
+
+30. James Clear: Atomic Habits
+
+31. Buddha/F. Max Mueller : The Dhammapada
 
 
 ### Currently Reading
 
-*Abbot George Burke (Swami Nirmalananda Giri): The Upanishads for Awakening
+* Abbot George Burke (Swami Nirmalananda Giri): The Upanishads for Awakening
 
-*Prof. Thad Polk: The Learning Brain (great courses)
+* Prof. Thad Polk: The Learning Brain (great courses)
 
-*Rebecca Goldstein: Incompleteness
+* Rebecca Goldstein: Incompleteness
 
-*William Golding: Lord of the Flies
+* Swami Parthasaraty : The Bhagavad Gita : Volume 1
+* Abbot George Burke (Swami Nirmalananda Giri): The Bhagavad Gita
+* Graham Schweig : The Bhagavad Gita
 
-*James Clear: Atomic Habits
 
 
 ### Books in queue
@@ -87,10 +93,6 @@ AtmaBodha
 Vivekachudamani
 
 Ashtavakra Gita
-
-The Bhagavad Gita (Swami Parthasarathy - 3 volumes)
-
-The Bhagavad Gita (Abbot)
 
 
 ## Books in 2019
