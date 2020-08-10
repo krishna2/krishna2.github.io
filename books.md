@@ -69,6 +69,8 @@
 
 31. Buddha/F. Max Mueller : The Dhammapada
 
+32. Swami Parthasaraty : The Bhagavad Gita : Volume 1
+
 
 ### Currently Reading
 
@@ -78,10 +80,12 @@
 
 * Rebecca Goldstein: Incompleteness
 
-* Swami Parthasaraty : The Bhagavad Gita : Volume 1
+* Swami Parthasaraty : The Bhagavad Gita : Volume 2
+* Swami Parthasaraty : The Bhagavad Gita : Volume 3
+
 * Abbot George Burke (Swami Nirmalananda Giri): The Bhagavad Gita
 * Graham Schweig : The Bhagavad Gita
-
+* Mahatma Gandhi : The Bhagavad Gita
 
 
 ### Books in queue
