@@ -67,9 +67,13 @@
 
 30. James Clear: Atomic Habits
 
-31. Buddha/F. Max Mueller : The Dhammapada
+31. F. Max Mueller : The Dhammapada (Buddha)
 
-32. Swami Parthasarathy : The Bhagavad Gita : Volume 1
+32. Swami Parthasarathy : The Bhagavad Gita : Volume 1 (VedaVyasa/Krishna)
+
+33. Swami Parthasarathy : The Bhagavad Gita : Volume 2 (VedaVyasa/Krishna)
+
+34. Swami Parmarthananda : TattvaBodha (Adi Shankaracharya)
 
 
 ### Currently Reading
@@ -80,7 +84,6 @@
 
 * Rebecca Goldstein: Incompleteness
 
-* Swami Parthasarathy : The Bhagavad Gita : Volume 2
 * Swami Parthasarathy : The Bhagavad Gita : Volume 3
 
 * Abbot George Burke (Swami Nirmalananda Giri): The Bhagavad Gita
