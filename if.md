@@ -2,31 +2,31 @@
 
 This is a short write up of what I learnt about Intermittent Fasting (IF).
 
-1. What is IF? Can you give it to me quick?
+### 1. What is IF? Can you give it to me quick?
 
 If you can think of IF as CF (Intermittent Fasting (IF) as "Continuous Fasting"), that's that. What it does is flips the generally given advise
 and the modern way of life on its head and says, "When you eat and how much interval you give between the food intake is as important if not
 more important than what you eat".
 
-2. How do you do it?
+### 2. How do you do it?
 
 One popular way is called 16-8. You fast for 16 hours in a day (or a 24 hour period) and restrict all your eating to a contiguous 8 hour period.
 
 *contiguous / continuous 8 hour is the key part here. Otherwise, very likely eveyrone is doing a 21-3 fasting every day - 
 if you count only the minutes that you are actively eating.
 
-3. Define fasting please?
+### 3. Define fasting please?
 
 Super simple: Fasting means you are consuming "ZERO calories". It doesn't involve looking at an item, the constituents of 
 carbs, fats, proteins or whether it has milk or wheat or meat or fruit or vegetables or not. It is as simple as it can get.
 
-4. Why does it work?  
+### 4. Why does it work?  
 
 Well, for one, you are not eating! Or you are eating less. (No shit Sherlock!). But let's say you manage to still consume the same 2000 calories 
 within the 8 hour period, IF still works because of the prolonged period you give the body to be in the "burning mode" 
 as opposed to the "fat storing mode".
 
-5. Okay this is interesting enough that I want to learn more and rather from qualified people, can you give me pointers?
+### 5. Okay this is interesting enough that I want to learn more and rather from qualified people, can you give me pointers?
 
 I am glad you asked. In fact, I would anyone who reads this drops this at this point and reads throught the following wonderful
 life-changing illuminating books.
@@ -46,7 +46,7 @@ There are lots of videos of Dr. Jason Fung on youtube that you might find illumn
 
 ----------------
 
-6. What does zero calories food constitute of?
+### 6. What does zero calories food constitute of?
 
 Well think of it more as liquids rather than solids (food). I don't know of (rather haven't tried) any solid zero calorie food.
 Only think I can even think of is ice cubes.
@@ -61,13 +61,13 @@ Another zero calorie liquid is "Diet Coke" or any such diet drinks.
 There are also zero calorie chewing gums.
 But then again, in all these cases, beware of their side-effects.
 
-7. What am I allowed to eat during the 8 hours of eating period?
+### 7. What am I allowed to eat during the 8 hours of eating period?
 
 Pretty much anything. But again, it would be best if you just stick what you would otherwise have done during an "8 hour" period pre-IF.
 
 For the most part, folks try to optimize two meals in this period. Ideally not much snacking. Ideally not much carbs. Ideally not much calories. :)
 
-8. Can you illustrate an 16-8 with some timings?
+### 8. Can you illustrate an 16-8 with some timings?
 
 Say, your 8 hour eating period is 7am to 3pm, you can start with your usual morning beverage with a breakfast, a lunch and wrap up with a snack.
 
@@ -75,7 +75,7 @@ If you do something like 12 noon to 8pm, then your first meal is lunch and you g
 
 The key is the other 16 hours - ZERO CALORIES. ZERO MEANS ZERO.
 
-9. Is 16-8 the only way to do IF?
+### 9. Is 16-8 the only way to do IF?
 
 Not at all. You can tweak and try any settings as you please. Normally, given the current style of living, we have all tended towards starting the
 day with some calories (beverages) at 6-7 in the morning and go on till 9-10 in the night. So we have been doing 16-8 but in the wrong way - 16 hours
@@ -93,7 +93,7 @@ a little earlier in the evening before sleep).
 
 14-10 is easy too : In fact, it is 12-12 with a 2-hour thrown in for good measure. Sorry, I did the "just one more lap" or "just around corner" trick.
 
-10. Is IF restricted to 24 hour windows?
+### 10. Is IF restricted to 24 hour windows?
 
 Glad you asked. Not at all. There are as many types of IF as the human mind can conjure up.
 
@@ -110,24 +110,24 @@ There are also improvisations of 5-2 with the 5 days itself being a 16-8 and 2 d
 It could also be the other way, 5-2 to mean, 5 days of IF and then 2 days of no holds! This is especially a good technique in the starting
 phases if you want to try something during weekdays but want to party during weekend.
 
-11. Wow, so which one is most effective?
+### 11. Wow, so which one is most effective?
 
 Each one has their own merits. It is a long topic. I now introduce you to more topics : Autophagy, Dr. Victor Longo and ... just start there
 and Google/Wikipedia/Youtube recommendation algorithms will take you the rest of the day.
 
-12. Isn't breakfast the most important meal of the day?
+### 12. Isn't breakfast the most important meal of the day?
 
 Nope.
 
-13. Isn't many small meals like 6-8 spread out throughout the day the way to go?
+### 13. Isn't many small meals like 6-8 spread out throughout the day the way to go?
 
 Nope.
 
-14. Isn't low fat diet a proven techinque?
+### 14. Isn't low fat diet a proven techinque?
 
 Nope.
 
-16. What about calorie counting ?
+### 16. What about calorie counting ?
 
 It works in the short term but not in the long term. In fact, Taubes and Fung go to great lengths (I mean more than 50% of their books) to
 disprove the existing diet fads. I would write some notes here but honestly they have done such a terrific job with citations to scientific
@@ -135,7 +135,7 @@ journals, studies and medical reasoning that it is really good to understand the
 
 Please read those two books (Obesity Code and Why We Get Fat).
 
-15. What about Low carbs?
+### 15. What about Low carbs?
 
 Maybe. IF + Low Carbs is a fantastic combination.
 
@@ -143,7 +143,7 @@ Taubes is all about Low Carbs.
 
 Fung is all about IF but with a nod to low carbs when done with IF.
 
-16. What about some type of cuisine, food packages, shakes, juices...etc?
+### 16. What about some type of cuisine, food packages, shakes, juices...etc?
 
 Well, most of them seem to be a trick towards getting to low calories, low carbs, more healthy eating ... or a combination of a few things.
 
@@ -151,7 +151,7 @@ Nothing stopping you from taking a cuisine package when doing IF. Likewise, have
 
 Heck, vegetable juices, salads are awesome.
 
-17. Okay more seriously, why does IF work?
+### 17. Okay more seriously, why does IF work?
 
 Non-snarky answer (as opposed to answer to question 4). Here is quick summary / understanding of scientifically what happens.
 
@@ -199,7 +199,7 @@ training). Your body now prepares a stronger version. And hence with stronger ne
 
 Cool? Intrigued? Yeah, go check it out.
 
-18. Is it safe to do?
+### 18. Is it safe to do?
 
 If you have any preexisting condition, then definitely stop reading on the internet and go talk to your doctor (especially the ones who are very
 aware of and open to IF and such).
@@ -215,7 +215,7 @@ Black Coffee.
 
 There was a funny fb post a while back that goes: "COFFEE spelled backwards is EEFFOC and I don't give EEFFOC until I have had my morning coffee".
 
-20. Is there an app for IF?
+### 20. Is there an app for IF?
 
 There is one called "Zero" which is free and so far simple. It just has two buttons - "start fast" and "stop fast" and you can press only one at
 a time. :) You can choose from various IF routines. As I said before, I set it to 16-8 but I end up (and try to) doing 18+.
@@ -228,25 +228,25 @@ want to pay. I am neither.
 But then again, your clock (and body clock, believe me), will keep you strongly reminded of when you *can* eat next.
 All you need is then a Calendar to do the Seinfeld technique (of ticking every day you successfully did it and keeping the streak alive).
 
-21. Any other references on IF?
+### 21. Any other references on IF?
 
 Yes, please read the poem [IF by Rudyard Kipling](https://www.poetryfoundation.org/poems/46473/if---). IF you can follow that, you will live a happy life.
 
-22. Anything else on fasting?
+### 22. Anything else on fasting?
 
 Yes, please read [Siddhartha by Herman Hesse](https://en.wikipedia.org/wiki/Siddhartha_(novel)) 
 where the eponymous hero keeps saying, "I can think, I can wait, I can fast". If you can follow that, you will live a happy life.
 
-23. Okay, a bit more seriously please?
+### 23. Okay, a bit more seriously please?
 
 Honestly, the IF poem and Siddhartha books are far more valuable than anything else. But in the spirit of IF, 
-asking / reading / questioning convetional practices
-and wisdom is the great first step. The whole science of Nutrition is hardly 100 years old. And it was only then that we even realized the
-macro-nutrients called Carbohydrates, Fats and Proteins. We have a lot more to discover and learn how the body works. There is a whole world
-of gut biome, gut-brain. There is another world of micro-nutrients. Yet another world of breathing, sleeping, physical exercises and mental
-health and how they all influenece each others effects.
+asking / reading / questioning conventional practices is a good first step. 
+The whole science of Nutrition is hardly 100 years old. And it was only then that we even realized the
+macro-nutrients as Carbohydrates, Fats and Proteins. We have a lot more to discover and learn how the body works. There is a whole world
+of gut biome, gut-brain. There is another world of micro-nutrients. There is a whole another level of Mind-Body interactions / medicine.
+Yet another world of breathing, sleeping, physical exercises and mental health and how they all influenece each others effects.
 
-In short, if we can take all the advantages and knowledge of modern science and medicine, but use the wisdom from our grandmothers or great-grandmothers,
+In short, if we can take all the advantages and knowledge of modern science and medicine, and also use the wisdom from our grandmothers or great-grandmothers,
 we can live a happier life.
 
 Happy Reading, Happy Fasting!
