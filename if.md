@@ -44,3 +44,210 @@ Dr. Jason Fung has couple of other books (Diabetes Code and Guide to Fasting). G
 
 There are lots of videos of Dr. Jason Fung on youtube that you might find illumniating.
 
+----------------
+
+6. What does zero calories food constitute of?
+
+Well think of it more as liquids rather than solids (food). I don't know of (rather haven't tried) any solid zero calorie food.
+Only think I can even think of is ice cubes.
+
+So on to liquids: Water (hot or cold), Black Coffee, Black Tea. Yup, that's it! See how simple it is? No need to read labels or ingredients
+or measure the weight or dissect the constituents.
+
+In short, Water: havea at it as much as it is safe for you to.
+
+If you really want to hack the coffee/tea part, you can add splenda - which is zero calories and you will get some "sweetness".
+Another zero calorie liquid is "Diet Coke" or any such diet drinks.
+There are also zero calorie chewing gums.
+But then again, in all these cases, beware of their side-effects.
+
+7. What am I allowed to eat during the 8 hours of eating period?
+
+Pretty much anything. But again, it would be best if you just stick what you would otherwise have done during an "8 hour" period pre-IF.
+
+For the most part, folks try to optimize two meals in this period. Ideally not much snacking. Ideally not much carbs. Ideally not much calories. :)
+
+8. Can you illustrate an 16-8 with some timings?
+
+Say, your 8 hour eating period is 7am to 3pm, you can start with your usual morning beverage with a breakfast, a lunch and wrap up with a snack.
+
+If you do something like 12 noon to 8pm, then your first meal is lunch and you get your afternoon snack/beverage and wrap up an early dinner.
+
+The key is the other 16 hours - ZERO CALORIES. ZERO MEANS ZERO.
+
+9. Is 16-8 the only way to do IF?
+
+Not at all. You can tweak and try any settings as you please. Normally, given the current style of living, we have all tended towards starting the
+day with some calories (beverages) at 6-7 in the morning and go on till 9-10 in the night. So we have been doing 16-8 but in the wrong way - 16 hours
+of eating and 8 hours of continuous fasting (only in the night).
+
+The idea of IF is to increase that 8 hour continuous fasting time to something higher, hopefully significantly higher.
+
+If your current living style is indeed 16 eating / 8 fasting (this would be 8-16), and you want to take it really slow and easy, 
+by all means start with 9-15. Try to keep increasing this to 10-14 and then to 11-13 .. so on.
+
+Ideally you want fast good results, right? So yeah, challenge yourself. Start with at least 12-12. Or even a bit more at 14-10.
+
+12-12 should be very much doable - all you need is to fix one end of the day (either start eating a little later in the morning or stop consuming
+a little earlier in the evening before sleep).
+
+14-10 is easy too : In fact, it is 12-12 with a 2-hour thrown in for good measure. Sorry, I did the "just one more lap" or "just around corner" trick.
+
+10. Is IF restricted to 24 hour windows?
+
+Glad you asked. Not at all. There are as many types of IF as the human mind can conjure up.
+
+One popular style is 36-12 (yes, that's 36 hours of straight-fasting).
+
+There is one called 5-2 - in this case, 5 days of normal eating and then 2 hours of full fast.
+
+A tweak to that is 2 days of extremely limited calories (like less than 500 calories per day).
+
+There is also 25-5 - 25 days of the month in a normal lifestyle with 5 days of fasting (or extreme low-calories mode).
+
+There are also improvisations of 5-2 with the 5 days itself being a 16-8 and 2 days being full fast (or low cal).
+
+It could also be the other way, 5-2 to mean, 5 days of IF and then 2 days of no holds! This is especially a good technique in the starting
+phases if you want to try something during weekdays but want to party during weekend.
+
+11. Wow, so which one is most effective?
+
+Each one has their own merits. It is a long topic. I now introduce you to more topics : Autophagy, Dr. Victor Longo and ... just start there
+and Google/Wikipedia/Youtube recommendation algorithms will take you the rest of the day.
+
+12. Isn't breakfast the most important meal of the day?
+
+Nope.
+
+13. Isn't many small meals like 6-8 spread out throughout the day the way to go?
+
+Nope.
+
+14. Isn't low fat diet a proven techinque?
+
+Nope.
+
+16. What about calorie counting ?
+
+It works in the short term but not in the long term. In fact, Taubes and Fung go to great lengths (I mean more than 50% of their books) to
+disprove the existing diet fads. I would write some notes here but honestly they have done such a terrific job with citations to scientific
+journals, studies and medical reasoning that it is really good to understand the approaches that do not work.
+
+Please read those two books (Obesity Code and Why We Get Fat).
+
+15. What about Low carbs?
+
+Maybe. IF + Low Carbs is a fantastic combination.
+
+Taubes is all about Low Carbs.
+
+Fung is all about IF but with a nod to low carbs when done with IF.
+
+16. What about some type of cuisine, food packages, shakes, juices...etc?
+
+Well, most of them seem to be a trick towards getting to low calories, low carbs, more healthy eating ... or a combination of a few things.
+
+Nothing stopping you from taking a cuisine package when doing IF. Likewise, have a shake or two or three during your eating period.
+
+Heck, vegetable juices, salads are awesome.
+
+17. Okay more seriously, why does IF work?
+
+Non-snarky answer (as opposed to answer to question 4). Here is quick summary / understanding of scientifically what happens.
+
+One of the most important hormones in the body is Insulin. It regulates the amount of sugar (aka carbs converted to the simplest form
+of sugar called glucose) in the blood stream.  Insulin also does another important function : it signals the body to take the sugar out
+of the blood and store it in the cells in the form of fat for burning it later in "times of need".
+
+I put those quotes more mockingly since it was a great innovation by the biological systems to protect us in times of starvation, famine
+and what ever other things that nature and evolution threw our way. But nowadays we have arisen to the top of the food chain and for the
+most part are never in shortage of food. (With due apologies to the small percentage of folks who do endure food struggles).
+
+Back to our superhero Insulin. As long as there is sugar in the blood stream (above whatever level your body has been conditioned to),
+the body will try its best to secrete insulin which will signal the cells to take that off and store it as Fat.
+
+When your blood sugar starts falling off, hours after eating and doing other work, the body realizes that it needs energy. So it taps the
+cells to give out the stored fat - they go out. In fact, even though this is simply stated, this is an astounding, mind-blowing process. There
+are 100s of millions of cells orchestrating billions of chemical reactions to keep this symphony called "your life" to go on as smoothly
+as possible.
+
+So now what happens when you have access to more food? And you also eat that food for prolonged periods of time? There is more sugar in your blood.
+Hence more insulin. Hence the body is the "store fat" mode for *more time* than "burn fat" mode. It takes only a tiny bit of inequillibrium to kick
+start things. An extra snack after an hour after a usual time, here or there, all adds up.
+
+Contrastingly what happens when you are not eating for the majority of the time? The body is "burn fat" mode and hence you lose weight.
+
+But it is not as simple either. Your body first uses by energy from Glycogen (glucose stored in an easier manner to be used up than fat). This is
+stored in the Liver. And your typical liver is estimated to have enough Glycogen power for up to 18-24 hours. So as you can see, with modern day
+lifestyles with 8-16 (8 fasting, 16 eating), we never get to even a place to empty the liver's glycogen supply. Now you know why fat seems like a
+one way street and the fat accumulated wherever seems to never go away (even after you did that hard 2 hour hike or 30 min treadmill).
+
+This also should now explain why prolonged fasting routines work even better. So when you fast 24 hours or more, the liver is empty! The body is
+forced to hit the fat stores. Jackpot.
+
+There are many other benefits to this. Your digestion system gets a good well deserved break. There are other nice things too ... as explained in
+the wonderful books/videos already cited.
+
+Let me just tempt you a bit more: what happens when you fast beyond 48 or 72 hours? This is when the body goes in to a real panic mode. (Sorry,
+not having coffee in the last 3 hours does not constitute panic). It tries to conserve as much energy as possible and at some point realizes, 
+crap, I am not getting calories, let me salvage stuff out of my own self. So in addition to toxins getting cleared, old cells die, they get cleaned
+out. Not just that, one of the first systems to go out is the immune system cells. (heck yeah, so don't try this stunt without reading and learning more,
+and not without consulting a doctor, and especially not during covid times when you need all the immunity you can muster). But the autophagy theory
+(well not just a theory anymore, it won the inventor a small prize they award in Sweden). So anyways, the old immune cells die. You eat and your body
+now generates new immune cells. From what I understand it is kinda like the bone fracture or in a smaller way, the muscle breaking (with strength
+training). Your body now prepares a stronger version. And hence with stronger newer cells, you are a newer stronger, dare I say, younger you. 
+
+Cool? Intrigued? Yeah, go check it out.
+
+18. Is it safe to do?
+
+If you have any preexisting condition, then definitely stop reading on the internet and go talk to your doctor (especially the ones who are very
+aware of and open to IF and such).
+
+I can only tell from my point. I usually end up fasting 18+ hours but set my goal as 16-8. (At least for my psychologically, being able to meet the
+goal every day and keeping the streak alive keeps me going). I have done 24, 36, 48 hour fasts too (but more as one shot experiments). The maximum
+I have done is 72 hour fasts (I have done it thrice).
+
+19. But I do need my morning coffee/tea with milk / sugar and ... ?
+
+Yeah, I used to be that way too. You never know your limits until you push them. It took a couple of months but nowadays I am fine with
+Black Coffee.
+
+There was a funny fb post a while back that goes: "COFFEE spelled backwards is EEFFOC and I don't give EEFFOC until I have had my morning coffee".
+
+20. Is there an app for IF?
+
+There is one called "Zero" which is free and so far simple. It just has two buttons - "start fast" and "stop fast" and you can press only one at
+a time. :) You can choose from various IF routines. As I said before, I set it to 16-8 but I end up (and try to) doing 18+.
+
+It used to be much simpler but then I guess their Product Managers couldn't keep their hands to themselves.
+So they go about adding one or two features a month - almost all of which is useless to me. 
+I am honestly afraid they are going to break it or take it away at some point. But then again, they are doing it for folks who pay money or
+want to pay. I am neither.
+
+But then again, your clock (and body clock, believe me), will keep you strongly reminded of when you *can* eat next.
+All you need is then a Calendar to do the Seinfeld technique (of ticking every day you successfully did it and keeping the streak alive).
+
+21. Any other references on IF?
+
+Yes, please read the poem [IF by Rudyard Kipling](https://www.poetryfoundation.org/poems/46473/if---). IF you can follow that, you will live a happy life.
+
+22. Anything else on fasting?
+
+Yes, please read [Siddhartha by Herman Hesse](https://en.wikipedia.org/wiki/Siddhartha_(novel)) 
+where the eponymous hero keeps saying, "I can think, I can wait, I can fast". If you can follow that, you will live a happy life.
+
+23. Okay, a bit more seriously please?
+
+Honestly, the IF poem and Siddhartha books are far more valuable than anything else. But in the spirit of IF, 
+asking / reading / questioning convetional practices
+and wisdom is the great first step. The whole science of Nutrition is hardly 100 years old. And it was only then that we even realized the
+macro-nutrients called Carbohydrates, Fats and Proteins. We have a lot more to discover and learn how the body works. There is a whole world
+of gut biome, gut-brain. There is another world of micro-nutrients. Yet another world of breathing, sleeping, physical exercises and mental
+health and how they all influenece each others effects.
+
+In short, if we can take all the advantages and knowledge of modern science and medicine, but use the wisdom from our grandmothers or great-grandmothers,
+we can live a happier life.
+
+Happy Reading, Happy Fasting!
+
