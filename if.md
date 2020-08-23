@@ -125,12 +125,12 @@ and Google/Wikipedia/Youtube recommendation algorithms will take you the rest of
 
 Nope. And Nope.
 
-### 13. Isn't low fat diet a proven techinque?
+### 13. Isn't low fat diet a proven technique?
 
 Nope. In fact, it is the opposite. Many literature studies, experiments goes on to prove that FAT is not bad as it thought out to be.
 
-Taubes and Fung would go even far and say, it is GOOD. In fact, it also seems that many athero sclerosis, what we call "bad chorlesterol"
-(ldl), plaque in arteries are all created from Carbs as well.
+Taubes and Fung would go even far and say, it is GOOD. In fact, it also seems that many athero sclerosis, what we call "bad cholesterol"
+(LDL), plaque in arteries are all created from Carbs as well.
 
 While we are on that, a quick reminder that being overweight or obese is a first step towards a family of diseases now they are calling
 as "Metabolic Syndrome". If left unchecked, this leads to Diabetes, Stroke, Heart Attack and Cancer and many others that in term stem
