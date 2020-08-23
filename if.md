@@ -28,7 +28,7 @@ as opposed to the "fat storing mode".
 
 ### 5. Okay this is interesting enough that I want to learn more and rather from qualified people, can you give me pointers?
 
-I am glad you asked. In fact, I would anyone who reads this drops this at this point and reads throught the following wonderful
+I am glad you asked. In fact, I would hope anyone who reads this drops this at this point and reads through the following wonderful
 life-changing illuminating books.
 
 If you want to read only one book: 
@@ -115,19 +115,24 @@ phases if you want to try something during weekdays but want to party during wee
 Each one has their own merits. It is a long topic. I now introduce you to more topics : Autophagy, Dr. Victor Longo and ... just start there
 and Google/Wikipedia/Youtube recommendation algorithms will take you the rest of the day.
 
-### 12. Isn't breakfast the most important meal of the day?
+### 12. Isn't breakfast the most important meal of the day? And isn't many small meals like 6-8 spread out throughout the day the way to go?
+
+Nope. And Nope.
+
+### 13. Isn't low fat diet a proven techinque?
+
+Nope. In fact, it is the opposite. Many literature studies, experiments goes on to prove that FAT is not bad as it thought out to be.
+
+Taubes and Fung would go even far and say, it is GOOD. In fact, it also seems that many athero sclerosis, what we call "bad chorlesterol"
+(ldl), plaque in arteries are all created from Carbs as well.
+
+While we are on that, a quick reminder that being overweight or obese is a first step towards a family of diseases now they are calling
+as "Metabolic Syndrome". If left unchecked, this leads to Diabetes, Stroke, Heart Attack and Cancer and many others that in term stem
+from the previous list.
+
+### 14. 16. What about calorie counting?
 
 Nope.
-
-### 13. Isn't many small meals like 6-8 spread out throughout the day the way to go?
-
-Nope.
-
-### 14. Isn't low fat diet a proven techinque?
-
-Nope.
-
-### 16. What about calorie counting ?
 
 It works in the short term but not in the long term. In fact, Taubes and Fung go to great lengths (I mean more than 50% of their books) to
 disprove the existing diet fads. I would write some notes here but honestly they have done such a terrific job with citations to scientific
@@ -135,7 +140,7 @@ journals, studies and medical reasoning that it is really good to understand the
 
 Please read those two books (Obesity Code and Why We Get Fat).
 
-### 15. What about Low carbs?
+### 15. What about Low carbs? What about some type of cuisine, food packages, shakes, juices...etc?
 
 Maybe. IF + Low Carbs is a fantastic combination.
 
@@ -143,13 +148,20 @@ Taubes is all about Low Carbs.
 
 Fung is all about IF but with a nod to low carbs when done with IF.
 
-### 16. What about some type of cuisine, food packages, shakes, juices...etc?
+As far as custom cuisines, packages, shakes, juices are concerned, well, most of them seem to be a trick towards getting to 
+low calories, low carbs, more healthy eating ... or a combination of a few things.
 
-Well, most of them seem to be a trick towards getting to low calories, low carbs, more healthy eating ... or a combination of a few things.
+Nothing stopping you from taking a cuisine package when doing IF as one of your meals. 
 
-Nothing stopping you from taking a cuisine package when doing IF. Likewise, have a shake or two or three during your eating period.
+Likewise, have a shake or two or three during your eating period. Heck, vegetable juices, salads are awesome.
 
-Heck, vegetable juices, salads are awesome.
+### 16. What about Physical Exercise?
+
+They are awesome! and in fact necessary for a healthy life. Just that per Taubes/Fung, it is not the way to weight loss.
+You can read in detail in the books. Definitely check up on "BMR" (Basal Metabolic Rate). The theory in short is that
+your body is extremely good at figuring out efficiency. So in cases of eating less (calorie counting) and with physical
+exercises, one tends to take more rest or eat more to compensate for the loss created in another way.
+
 
 ### 17. Okay more seriously, why does IF work?
 
@@ -204,16 +216,38 @@ Cool? Intrigued? Yeah, go check it out.
 If you have any preexisting condition, then definitely stop reading on the internet and go talk to your doctor (especially the ones who are very
 aware of and open to IF and such).
 
-I can only tell from my point. I usually end up fasting 18+ hours but set my goal as 16-8. (At least for my psychologically, being able to meet the
+The general estimates go something like this. Without air, a human can survive just minutes.
+Without water, less than 7 days. Even after 24-48 hours, many body functions / organs starts shutting down.
+So yeah, just a friendly reminder, keep yourself well hydrated. And there is pretty much no diet regime that
+ever tells anyone to not take plain water! Also, here is another interesting theory. A lot of times what
+we think of as hunger is merely thirst or just a necessity to walk around put something in the mouth. (out of habit).
+Nothing like hot water, black coffee or black tea to quench your thirst.
+
+And now coming to solid food, apparently the human body can go up to 30 days without food! No, I didn't verify that.
+
+I can only tell some personal experience. I usually end up fasting 18+ hours but set my goal as 16-8. (At least for my psychologically, being able to meet the
 goal every day and keeping the streak alive keeps me going). I have done 24, 36, 48 hour fasts too (but more as one shot experiments). The maximum
 I have done is 72 hour fasts (I have done it thrice).
 
-19. But I do need my morning coffee/tea with milk / sugar and ... ?
+Another question that comes up is : yeah, I won't die, but won't I faint?
+
+Or even if I don't faint, will I be able to do my work? function efficiently?
+
+The answer to all that is surprisingly a resounding yes. More surprises awaits - please read the books.
+
+Yes, it is going to be hard to start or first few days given that we have had our whole life to practice the opposite.
+But the body will get used to it.
+
+
+### 19. But I do need my morning coffee/tea with milk / sugar and ... ?
 
 Yeah, I used to be that way too. You never know your limits until you push them. It took a couple of months but nowadays I am fine with
 Black Coffee.
 
 There was a funny fb post a while back that goes: "COFFEE spelled backwards is EEFFOC and I don't give EEFFOC until I have had my morning coffee".
+
+Reiterating from previous answer: Yes, it is going to be hard to start or first few days given that we have had our whole life to practice the opposite.
+But the body will get used to it.
 
 ### 20. Is there an app for IF?
 
@@ -239,15 +273,15 @@ where the eponymous hero keeps saying, "I can think, I can wait, I can fast". If
 
 ### 23. Okay, a bit more seriously please?
 
-Honestly, the IF poem and Siddhartha books are far more valuable than anything else. But in the spirit of IF, 
-asking / reading / questioning conventional practices is a good first step. 
+Honestly, I wasn't being snarky. The poem IF and the book Siddhartha are far more valuable than anything else. 
+
+But in the spirit of IF, asking / reading / questioning conventional practices is a good first step. 
 The whole science of Nutrition is hardly 100 years old. And it was only then that we even realized the
 macro-nutrients as Carbohydrates, Fats and Proteins. We have a lot more to discover and learn how the body works. There is a whole world
 of gut biome, gut-brain. There is another world of micro-nutrients. There is a whole another level of Mind-Body interactions / medicine.
 Yet another world of breathing, sleeping, physical exercises and mental health and how they all influenece each others effects.
 
-In short, if we can take all the advantages and knowledge of modern science and medicine, and also use the wisdom from our grandmothers or great-grandmothers,
-we can live a happier life.
+In short, if we can take all the advantages and knowledge of modern science and medicine, and also the wisdom from our grandmothers or great-grandmothers,
+and use them as strong guiding principles, we can live a happier life.
 
-Happy Reading, Happy Fasting!
-
+Happy Reading, Happy Fasting! OM Peace, Peace, Peace!
