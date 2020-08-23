@@ -44,6 +44,12 @@ Dr. Jason Fung has couple of other books (Diabetes Code and Guide to Fasting). G
 
 There are lots of videos of Dr. Jason Fung on youtube that you might find illumniating.
 
+And at this point, an important and much needed disclaimer that I am not a doctor or otherwise medically qualified. So use this write up only
+as an experience of "some one who tried it" and then learn more from these links and books and other research that you ought to do. Above all,
+use your common sense. Talk to your doctor, family, friends. I got curious likewise by a very good friend of mine who did this and advised me to
+read about. That's what I did - read about a dozen books on the topic, many many dozens of googling, wikipedia pages and youtube videos later,
+I experimented and figured out a system that works for me.
+
 ----------------
 
 ### 6. What does zero calories food constitute of?
