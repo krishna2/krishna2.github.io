@@ -89,10 +89,10 @@ of eating and 8 hours of continuous fasting (only in the night).
 
 The idea of IF is to increase that 8 hour continuous fasting time to something higher, hopefully significantly higher.
 
-If your current living style is indeed 16 eating / 8 fasting (this would be 8-16), and you want to take it really slow and easy, 
-by all means start with 9-15. Try to keep increasing this to 10-14 and then to 11-13 .. so on.
+If your current living style is indeed 16 hours of eating / 8 hours of continuous fasting (this would be 8-16), and you want to take it really slow and easy, 
+by all means start with 9-15 (9 hours of continuous fasting). Try to keep increasing this to 10-14 (10 hours of continuous fasting) and then to 11-13 (11 hours of continuous fsating).. so on.
 
-Ideally you want fast good results, right? So yeah, challenge yourself. Start with at least 12-12. Or even a bit more at 14-10.
+Ideally you want fast good results, right? So yeah, challenge yourself. Start with at least 12-12. (12 hours of continuous fasting) Or even a bit more at 14-10. (14 hours of continuous fasting).
 
 12-12 should be very much doable - all you need is to fix one end of the day (either start eating a little later in the morning or stop consuming
 a little earlier in the evening before sleep).
@@ -105,7 +105,7 @@ Glad you asked. Not at all. There are as many types of IF as the human mind can 
 
 One popular style is 36-12 (yes, that's 36 hours of straight-fasting).
 
-There is one called 5-2 - in this case, 5 days of normal eating and then 2 hours of full fast.
+There is one called 5-2 - in this case, 5 days of normal eating and then 2 full days of fast.
 
 A tweak to that is 2 days of extremely limited calories (like less than 500 calories per day).
 
