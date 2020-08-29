@@ -90,6 +90,7 @@
 * Rebecca Goldstein: Incompleteness
 
 * Abbot George Burke (Swami Nirmalananda Giri): The Bhagavad Gita
+* Swami Vivekananda : Lectures on Bhagavad Gita
 * Mahatma Gandhi : The Bhagavad Gita
 
 
