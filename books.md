@@ -73,15 +73,17 @@
 
 33. Swami Parthasarathy : The Bhagavad Gita : Volume 2
 
-34. Swami Parmarthananda : TattvaBodha
+34. Swami Parthasarathy : The Bhagavad Gita : Volume 3
 
-35. Swami Parthasarathy : The Bhagavad Gita : Volume 3
+35. Swami Parmarthananda : TattvaBodha
 
 36. Graham Schweig : The Bhagavad Gita
 
-37. Swami Vivekananda : Lectures on Bhagavad Gita
+37. Eknath Easwaran : The Bhagavad Gita
 
-38. Mahatma Gandhi : The Bhagavad Gita
+38. Swami Vivekananda : Lectures on Bhagavad Gita
+
+39. Mahatma Gandhi : The Bhagavad Gita According to Gandhi
 
 
 
