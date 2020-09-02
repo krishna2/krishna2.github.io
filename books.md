@@ -79,28 +79,47 @@
 
 36. Graham Schweig : The Bhagavad Gita
 
+37. Swami Vivekananda : Lectures on Bhagavad Gita
+
+38. Mahatma Gandhi : The Bhagavad Gita
+
 
 
 ### Currently Reading
+
+* Swami Swarupananda : The Bhagavad Gita
+
+* Swami Satchidananda : Patanjali's Yoga Sutras
+
+* Swami Dayananda Saraswati : The Teachings of Bhagavad Gita
+
+
+#### Hold
+
+* Rebecca Goldstein: Incompleteness
+
+* Abbot George Burke (Swami Nirmalananda Giri): The Bhagavad Gita
 
 * Abbot George Burke (Swami Nirmalananda Giri): The Upanishads for Awakening
 
 * Prof. Thad Polk: The Learning Brain (great courses)
 
-* Rebecca Goldstein: Incompleteness
-
-* Abbot George Burke (Swami Nirmalananda Giri): The Bhagavad Gita
-* Swami Vivekananda : Lectures on Bhagavad Gita
-* Mahatma Gandhi : The Bhagavad Gita
 
 
 ### Books in queue
 
-AtmaBodha
+* Swami Gambirananda : The Bhagavad Gita
 
-Vivekachudamani
+* Rajesh Sengamedu : Happiness beyond Mind
 
-Ashtavakra Gita
+
+### Future list
+
+* AtmaBodha
+
+* Vivekachudamani
+
+* Ashtavakra Gita
 
 
 ## Books in 2019
