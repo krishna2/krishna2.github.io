@@ -85,13 +85,17 @@
 
 39. Mahatma Gandhi : The Bhagavad Gita According to Gandhi
 
+40. Swami Swarupananda : The Bhagavad Gita
+
+41. Swami Satchidananda : Patanjali's Yoga Sutras
+
 
 
 ### Currently Reading
 
-* Swami Swarupananda : The Bhagavad Gita
+* Sir Edwin Arnold: The Bhagavad Gita
 
-* Swami Satchidananda : Patanjali's Yoga Sutras
+* C. Radhakrishnan: The Bhagavad Gita
 
 * Swami Dayananda Saraswati : The Teachings of Bhagavad Gita
 
