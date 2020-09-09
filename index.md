@@ -25,7 +25,7 @@ I am Krishna. You can check out the <a href="/books">books I read</a>.
 <a href="http://krishna2.com/2019-books-claudette-colvin">Black History Month : Claudette Colvin</a>
 <br /><br />
 
-<a href="http://krishna2.com/2019-books-job">Book of Job></a>
+<a href="http://krishna2.com/2019-books-job">Book of Job</a>
 <br /><br />
 
 <a href="http://krishna2.com/2019-books-mans-search-for-meaning-viktor-frankl">Man’s Search for Meaning</a>
