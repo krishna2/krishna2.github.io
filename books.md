@@ -89,13 +89,14 @@
 
 41. Swami Satchidananda : Patanjali's Yoga Sutras
 
+42. C. Radhakrishnan: The Bhagavad Gita
+
+43. Sir Edwin Arnold: The Bhagavad Gita
 
 
 ### Currently Reading
 
-* Sir Edwin Arnold: The Bhagavad Gita
-
-* C. Radhakrishnan: The Bhagavad Gita
+* Swami Chinmayananda : The Bhagavad Gita : Volume 1 (Covers chapters 1&2 of BG)
 
 * Swami Dayananda Saraswati : The Teachings of Bhagavad Gita
 
