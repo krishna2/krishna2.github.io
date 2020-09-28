@@ -93,10 +93,14 @@
 
 43. Sir Edwin Arnold: The Bhagavad Gita
 
+44. Swami Chinmayananda : The Bhagavad Gita : Volume 1 (Covers chapters 1&2 of BG)
+
+45. Swami Chinmayananda : The Bhagavad Gita : Volume 2 (Covers chapter 3 of BG)
+
 
 ### Currently Reading
 
-* Swami Chinmayananda : The Bhagavad Gita : Volume 1 (Covers chapters 1&2 of BG)
+* Swami Chinmayananda : The Bhagavad Gita : Volume 3 (Covers chapter 4 of BG)
 
 * Swami Dayananda Saraswati : The Teachings of Bhagavad Gita
 
