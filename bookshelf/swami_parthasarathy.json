@@ -1,0 +1,43 @@
+{
+"author" : "Swami Parthasarathy",
+"wiki": "https://en.wikipedia.org/wiki/Swami_Parthasarathy",
+"site": "https://www.vedantausa.org/",
+"books" : [
+{
+"title": "Vedanta Treatise",
+"subtitle" : "The Eternities",
+"amazon_url": "https://www.amazon.com/Vedanta-Treatise-Eternities-Parthasarathy-ebook/dp/B00I8D4ZFM/"
+"image_url": "https://m.media-amazon.com/images/I/51yD0lZrOcL.jpg",
+"pages": 372,
+"read": "true",
+},
+{
+"title": "Choice Upanishads",
+"amazon_url": "https://www.amazon.com/Choice-Upanishads-Parthasarathy-ebook/dp/B00I8NKPOC/",
+"image_url": "https://m.media-amazon.com/images/I/51CPrx3lv6L.jpg",
+"pages" : 357,
+"read": "true",
+},
+{
+"title": "Bhagavad Gita",
+"amazon_url": "https://www.amazon.com/Bhagavad-Gita-Parthasarathy-ebook/dp/B00I8D54IY/",
+"image_url": "https://m.media-amazon.com/images/I/41H3OENEjeL.jpg", 
+"pages": 1037,
+"read": "true",
+},
+{
+"title": "Atmabodha",
+"amazon_url": "https://www.amazon.com/Atmabodha-Parthasarathy-ebook/dp/B00ARO6LGG/",
+"image_url": "https://m.media-amazon.com/images/I/51bptv9v9hL.jpg",
+"pages": 128,
+"read": "true",
+},
+{
+"title": "Bhaja Govindam",
+"amazon_url": "https://www.amazon.com/Bhaja-Govindam-Seek-Eternal-Parthasarathy-ebook/dp/B00B0QBHGO/",
+"image_url": "https://m.media-amazon.com/images/I/51+VKlUYcIL.jpg",
+"pages": 39,
+"read": "true",
+},
+]
+}
