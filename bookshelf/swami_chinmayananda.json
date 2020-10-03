@@ -1,0 +1,17 @@
+{
+"author" : "Swami Chinmayananda",
+"wiki": "https://en.wikipedia.org/wiki/Swami_Chinmayananda",
+"site": "https://en.wikipedia.org/wiki/Chinmaya_Mission",
+"books" : [
+{
+"title": "Bhagavad Gita : Volume 1 : Chapters 1&2",
+"amazon_url": "https://www.amazon.com/Geeta-Chapter-1-Swami-Chinmayananda-ebook/dp/B07DYBH4XL/",
+"image_url": "https://m.media-amazon.com/images/I/51pUHgOroYL.jpg",
+"pages": 356,
+"read": "true",
+},
+]
+}
+
+// Add more books from here:
+// https://www.amazon.com/Geeta-Chapter-1-Swami-Chinmayananda-ebook/dp/B07DYBH4XL/
