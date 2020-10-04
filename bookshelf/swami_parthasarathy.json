@@ -1,7 +1,9 @@
 {
 "author" : "Swami Parthasarathy",
 "wiki": "https://en.wikipedia.org/wiki/Swami_Parthasarathy",
-"site": "https://www.vedantausa.org/",
+"site": [
+  "https://www.vedantausa.org/",
+  ],
 "books" : [
 {
 "title": "Vedanta Treatise",
