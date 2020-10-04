@@ -1,7 +1,9 @@
 {
 "author" : "Swami Chinmayananda",
 "wiki": "https://en.wikipedia.org/wiki/Swami_Chinmayananda",
-"site": "https://en.wikipedia.org/wiki/Chinmaya_Mission",
+"site": [
+  "https://en.wikipedia.org/wiki/Chinmaya_Mission",
+],
 "books" : [
 {
 "title": "Bhagavad Gita : Volume 1 : Chapters 1&2",
@@ -10,6 +12,119 @@
 "pages": 356,
 "read": "true",
 },
+  
+{
+"title": "Shrimad Bhagavad Gita: Chapter 3",
+"amazon_url": "https://www.amazon.com/Geeta-Chapter-3-Swami-Chinmayananda-ebook/dp/B07DY1GVRG/",
+"pages": 120,
+"image_url": "https://m.media-amazon.com/images/I/511BHX9sqvL.jpg",
+"read": false,
+},
+
+{
+"title": "Shrimad Bhagavad Gita: Chapter 4",
+"amazon_url": "https://www.amazon.com/Geeta-Chapter-4-Swami-Chinmayananda-ebook/dp/B07FQY73LC/",
+"pages": 120,
+"image_url": "https://m.media-amazon.com/images/I/51hN564L-FL.jpg",
+"read": false,
+},
+
+{
+"title": "Shrimad Bhagavad Gita: Chapter 5",
+"amazon_url": "https://www.amazon.com/Geeta-Chapter-5-Swami-Chinmayananda-ebook/dp/B07FQXG27R/",
+"pages": 83,
+"image_url": "https://m.media-amazon.com/images/I/51WWGwo0igL.jpg",
+"read": false,
+},
+
+{
+"title": "Shrimad Bhagavad Gita: Chapter 6",
+"amazon_url": "https://www.amazon.com/Geeta-Chapter-6-Swami-Chinmayananda-ebook/dp/B07FNWP8MF/",
+"pages": 144,
+"image_url": "https://m.media-amazon.com/images/I/51WvlPsc0KL.jpg",
+"read": false,
+},
+
+{
+"title": "Shrimad Bhagavad Gita: Chapter 7",
+"amazon_url": "https://www.amazon.com/Geeta-Chapter-7-Swami-Chinmayananda-ebook/dp/B07K2JJJX8/",
+"pages": 89,
+"image_url": "https://m.media-amazon.com/images/I/51S8T8R3qJL.jpg",
+"read": false,
+},
+
+{
+"title": "Shrimad Bhagavad Gita: Chapter 8",
+"amazon_url": "https://www.amazon.com/Geeta-Chapter-8-Swami-Chinmayananda-ebook/dp/B07K2JSZWK/",
+"pages": 88,
+"image_url": "https://m.media-amazon.com/images/I/51iQmlB7mhL.jpg",
+"read": false,
+},
+
+{
+"title": "Shrimad Bhagavad Gita: Chapter 9",
+"amazon_url": "https://www.amazon.com/Shrimad-Bhagavad-Geeta-Chapter-9-ebook/dp/B07SBGNSR2/",
+"pages": 120,
+"image_url": "https://m.media-amazon.com/images/I/51XpaEBFKNL.jpg",
+"read": false,
+},
+
+{
+"title": "Shrimad Bhagavad Gita: Chapter 10",
+"amazon_url": "https://www.amazon.com/Geeta-Chapter-10-Swami-Chinmayananda-ebook/dp/B07K2KCK37/",
+"pages": 135,
+"image_url": "https://m.media-amazon.com/images/I/51q3cy4BqNL.jpg",
+"read": false,
+},
+
+{
+"title": "Shrimad Bhagavad Gita: Chapter 11",
+"amazon_url": "https://www.amazon.com/Geeta-Chapter-11-Swami-Chinmayananda-ebook/dp/B07K2JG8JL/",
+"pages": 120,
+"image_url": "https://m.media-amazon.com/images/I/514otb1IpJL.jpg",
+"read": false,
+},
+
+{
+"title": "Shrimad Bhagavad Gita: Chapter 12/13",
+"amazon_url": "https://www.amazon.com/Geeta-Chapter-12-Swami-Chinmayananda-ebook/dp/B07K2HNV6C/",
+"pages": 162,
+"image_url": "https://m.media-amazon.com/images/I/51Q+x6Q00bL.jpg",
+"read": false,
+},
+
+{
+"title": "Shrimad Bhagavad Gita: Chapter 14",
+"amazon_url": "https://www.amazon.com/Geeta-Chapter-14-Swami-Chinmayananda-ebook/dp/B07F1QZHF8/",
+"pages": 89,
+"image_url": "https://m.media-amazon.com/images/I/51nAemE72bL.jpg",
+"read": false,
+},
+
+{
+"title": "Shrimad Bhagavad Gita: Chapter 15",
+"amazon_url": "https://www.amazon.com/Geeta-Chapter-15-Swami-Chinmayananda-ebook/dp/B07K2JB3JL/",
+"pages": 68,
+"image_url": "https://m.media-amazon.com/images/I/51i0xVEnlXL.jpg",
+"read": false,
+},
+
+{
+"title": "Shrimad Bhagavad Gita: Chapter 16/17",
+"amazon_url": "https://www.amazon.com/Geeta-Chapter-16-Swami-Chinmayananda-ebook/dp/B07K2HXBGX/",
+"pages": 136,
+"image_url": "https://m.media-amazon.com/images/I/51y6jc5oxyL.jpg",
+"read": false,
+},
+
+{
+"title": "Shrimad Bhagavad Gita: Chapter 18",
+"amazon_url": "https://www.amazon.com/Geeta-Chapter-18-Swami-Chinmayananda-ebook/dp/B07K2H8WP9/",
+"pages": 236,
+"image_url": "https://m.media-amazon.com/images/I/51-uL5hUJUL.jpg",
+"read": false,
+},
+  
 ]
 }
 
