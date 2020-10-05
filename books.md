@@ -99,12 +99,17 @@
 
 46. Swami Chinmayananda : The Bhagavad Gita : Volume 3 (Covers chapter 4 of BG)
 
+47. Swami Chinmayananda : The Bhagavad Gita : Volume 4 (Covers chapter 5 of BG)
+
+
 
 ### Currently Reading
 
-* Swami Chinmayananda : The Bhagavad Gita : Volume 4 (Covers chapter 5 of BG)
+* Swami Chinmayananda : The Bhagavad Gita : Volume 5 (Covers chapter 6 of BG)
 
 * Swami Dayananda Saraswati : The Teachings of Bhagavad Gita
+
+* Navalmanack
 
 
 #### Hold
