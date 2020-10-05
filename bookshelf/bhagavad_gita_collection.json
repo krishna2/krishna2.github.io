@@ -1,0 +1,19 @@
+{
+"collection": "bhagavad gita",
+"wiki": "https://en.wikipedia.org/wiki/Bhagavad_Gita",
+"site": [
+],
+"books" : [
+{
+"author": "Graham Schweig",
+"title": "Bhagavad Gita",
+"subtitle" : "The Beloved Lord's Secret Love Song",
+"amazon_url": "https://www.amazon.com/Bhagavad-Gita-Beloved-Lords-Secret-ebook/dp/B0043M6IZ2/",
+"image_url": "https://m.media-amazon.com/images/I/51-LjZMtMfL.jpg",
+"pages": 368,
+"read": "true",
+},
+
+
+],
+}
