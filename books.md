@@ -109,7 +109,7 @@
 
 * Swami Dayananda Saraswati : The Teachings of Bhagavad Gita
 
-* Navalmanack
+* Eric Jorgenson: The Alamanack of Naval Ravikant
 
 
 #### Hold
