@@ -101,15 +101,26 @@
 
 47. Swami Chinmayananda : The Bhagavad Gita : Volume 4 (Covers chapter 5 of BG)
 
+48. Swami Chinmayananda : The Bhagavad Gita : Volume 5 (Covers chapter 6 of BG)
+
+49. Eknath Easwaran: How to Meditate (Easwaran Inspirations Book 1)
+
+50. Swami Dayananda Saraswati: What is Meditation
 
 
 ### Currently Reading
 
-* Swami Chinmayananda : The Bhagavad Gita : Volume 5 (Covers chapter 6 of BG)
+* Swami Chinmayananda : The Bhagavad Gita : Volume 6 (Covers chapter 7 of BG)
+
+* Swami Chinmayananda : Art of Contemplation
+
+* Swami Chinmayananda : Meditation and Life
 
 * Swami Dayananda Saraswati : The Teachings of Bhagavad Gita
 
 * Eric Jorgenson: The Alamanack of Naval Ravikant
+
+* Thirukkural : Multiple Authors's Commentaries
 
 
 #### Hold
