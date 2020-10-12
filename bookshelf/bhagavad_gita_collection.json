@@ -73,6 +73,49 @@
 
   
 {
+  "amazon_url": "https://www.amazon.com/Bhagavad-Gita-Shankaracharya-Gambhirananda-Swami-ebook/dp/B07QMVG2NR/",
+  "image_url": "https://m.media-amazon.com/images/I/51GigvqpDrL.jpg",
+  "pages": 698,
+  "read": false,
+  "author": "Swami Gambhirananda",
+  "title": "Bhagavad Gita",
+  "subtitle": "With the Commentary of Sri Shankaracharya",
+  "site": "",
+  "wiki": "https://en.wikipedia.org/wiki/Gambhirananda",
+
+},
+
+{
+  "amazon_url": "",
+  "image_url": "",
+  "pages": ,
+  "read": false,
+  "author": "",
+  "title": "Bhagavad Gita",
+  "site": "",
+
+},
+
+{
+  "amazon_url": "",
+  "image_url": "",
+  "pages": ,
+  "read": false,
+  "author": "",
+  "title": "Bhagavad Gita",
+  "site": "",
+
+},
+
+{
+   "amazon_url": "",
+  "image_url": "",
+  "pages": ,
+  "read": false,
+  "author": "",
+  "title": "Bhagavad Gita",
+  "site": "",
+
 },
 
   
