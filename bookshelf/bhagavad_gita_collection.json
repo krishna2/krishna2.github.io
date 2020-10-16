@@ -108,16 +108,46 @@
 },
 
 {
+   "amazon_url": "https://www.amazon.com/Srimad-Bhagavad-Gita-Swarupananda-Swami-ebook/dp/B07QR2D2X4/",
+  "image_url": "https://m.media-amazon.com/images/I/51lLdcDlZqL.jpg",
+  "pages": 529,
+  "read": true,
+  "author": "Swami Swarupananda",
+  "title": "Bhagavad Gita",
+  "site": "https://en.wikipedia.org/wiki/Swarupananda",
+},
+
+{
+   "amazon_url": "https://www.amazon.com/Bhagavad-Gita-C-Radhakrishnan-ebook/dp/B07B2BX96J/",
+  "image_url": "https://m.media-amazon.com/images/I/51A8nKme+0L._SY346_.jpg",
+  "pages": 385,
+  "read": true,
+  "author": "C Radhakrishnan",
+  "title": "Bhagavad Gita: Modern Reading",
+  "site": "https://en.wikipedia.org/wiki/C._Radhakrishnan",
+},
+
+{
    "amazon_url": "",
   "image_url": "",
   "pages": ,
   "read": false,
   "author": "",
-  "title": "Gita According to Gandhi",
+  "title": "",
   "site": "",
 
 },
 
+{
+   "amazon_url": "",
+  "image_url": "",
+  "pages": ,
+  "read": false,
+  "author": "",
+  "title": "",
+  "site": "",
+
+},
   
 {
 },
