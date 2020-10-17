@@ -128,6 +128,20 @@
 },
 
 {
+   "amazon_url": "https://www.amazon.com/Bhagavad-Easwarans-Classics-Indian-Spirituality-ebook/dp/B004DI7R5G/",
+  "image_url": "https://images-na.ssl-images-amazon.com/images/I/41amluFyMfL._SX307_BO1,204,203,200_.jpg",
+  "pages": 298,
+  "read": true,
+  "author": "Eknath Easwaran",
+  "title": "The Bhagavad Gita",
+  "subtitle": "(Easwaran's Classics of Indian Spirituality Book 1)",
+  "site": ["https://en.wikipedia.org/wiki/Eknath_Easwaran",
+           "https://www.bmcm.org/",
+           ],
+
+},
+
+{
    "amazon_url": "",
   "image_url": "",
   "pages": ,
@@ -137,6 +151,39 @@
   "site": "",
 
 },
+  
+{
+   "amazon_url": "",
+  "image_url": "",
+  "pages": ,
+  "read": false,
+  "author": "",
+  "title": "",
+  "site": "",
+
+},
+
+{
+   "amazon_url": "",
+  "image_url": "",
+  "pages": ,
+  "read": false,
+  "author": "",
+  "title": "",
+  "site": "",
+
+},
+
+{
+   "amazon_url": "",
+  "image_url": "",
+  "pages": ,
+  "read": false,
+  "author": "",
+  "title": "",
+  "site": "",
+
+},  
 
 {
    "amazon_url": "",
