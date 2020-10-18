@@ -142,12 +142,13 @@
 },
 
 {
-   "amazon_url": "",
-  "image_url": "",
-  "pages": ,
+   "amazon_url": "https://www.amazon.com/Bhagavad-Gita-Norton-Critical-Editions-ebook/dp/B0156VNQ3A/",
+  "image_url": "https://images-na.ssl-images-amazon.com/images/I/51O+Surb8BL._SX304_BO1,204,203,200_.jpg",
+  "pages": 266,
   "read": false,
-  "author": "",
-  "title": "",
+  "author": "Gavin Flood (Editor, Translator), Charles Martin (Translator) ",
+  "title": "The Bhagavad Gita (First Edition)",
+  "subtitle": " (Norton Critical Editions)",
   "site": "",
 
 },
