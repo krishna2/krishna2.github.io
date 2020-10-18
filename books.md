@@ -107,16 +107,28 @@
 
 50. Swami Dayananda Saraswati: What is Meditation
 
+51. Swami Chinmayananda : Art of Contemplation
+
+52. Swami Chinmayananda : Meditation and Life
+
+53. Om Swami: A Million Thoughts
+
+54. Om Swami: Gayathri Mantra
+
+55. Swami Chinmayananda: My Trek Through Uttarkhand
+
+56. Om Swami: If Truth Be Told (memoir)
+
+
+
 
 ### Currently Reading
 
 * Swami Chinmayananda : The Bhagavad Gita : Volume 6 (Covers chapter 7 of BG)
 
-* Swami Chinmayananda : Art of Contemplation
-
-* Swami Chinmayananda : Meditation and Life
-
 * Swami Dayananda Saraswati : The Teachings of Bhagavad Gita
+
+* Swami Dayananda Saraswati : Value of Values
 
 * Eric Jorgenson: The Alamanack of Naval Ravikant
 
