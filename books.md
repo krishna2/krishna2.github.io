@@ -119,6 +119,10 @@
 
 56. Om Swami: If Truth Be Told (memoir)
 
+57. Swami Chinmayananda: Tune in the Mind
+
+58. Swami Chinmayananda: Forgive Me (Shiva Aparatha Kshamapana Stotram)
+
 
 
 
