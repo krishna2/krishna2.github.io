@@ -154,12 +154,13 @@
 },
   
 {
-   "amazon_url": "",
-  "image_url": "",
-  "pages": ,
+   "amazon_url": "https://www.amazon.com/Bhagavad-Gita-Krishnas-Counsel-Time-War-ebook/dp/B000FC1MP0/",
+  "image_url": "https://images-na.ssl-images-amazon.com/images/I/61t1HAVul8L._SX303_BO1,204,203,200_.jpg",
+  "pages": 176,
   "read": false,
-  "author": "",
-  "title": "",
+  "author": "Barbara Stoler Miller",
+  "title": "The Bhagavad-Gita",
+  "subtitle": "Krishna's Counsel in Time of War",
   "site": "",
 
 },
