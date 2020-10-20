@@ -166,25 +166,23 @@
 },
 
 {
-   "amazon_url": "",
-  "image_url": "",
-  "pages": ,
+   "amazon_url": "https://www.amazon.com/Bhagavad-Gita-Chapters-1-13-ebook/dp/B07JF9W71F/",
+  "image_url": "https://m.media-amazon.com/images/I/51MydHDDGhL.jpg",
+  "pages": 496,
   "read": false,
-  "author": "",
-  "title": "",
-  "site": "",
-
+  "author": "Sri Sri Ravi Shankar",
+  "title": "The Bhagavad Gita: Chapters 1-13",
+  "site": ["https://www.srisriravishankar.org/", "https://en.wikipedia.org/wiki/Ravi_Shankar_(spiritual_leader)"],
 },
 
 {
-   "amazon_url": "",
-  "image_url": "",
-  "pages": ,
+   "amazon_url": "https://www.amazon.com/Srimad-Bhagavad-Gita-Commentaries-Sriyukteshvar-ebook/dp/B004TTXQYK/",
+  "image_url": "https://m.media-amazon.com/images/I/51o5InN42tL.jpg",
+  "pages": 542,
   "read": false,
-  "author": "",
-  "title": "",
-  "site": "",
-
+  "author": "Yoga Niketan",
+  "title": "Srimad Bhagavad Gita: Spiritual Commentaries by Yogiraj Lahiri Mahasay and Swami Sriyukteshvar, English translation",
+  "site": ["https://en.wikipedia.org/wiki/Lahiri_Mahasaya", "https://en.wikipedia.org/wiki/Swami_Sri_Yukteswar_Giri"],
 },  
 
 {
@@ -197,6 +195,128 @@
   "site": "",
 
 },
+
+{
+   "amazon_url": "",
+  "image_url": "",
+  "pages": ,
+  "read": false,
+  "author": "",
+  "title": "",
+  "site": "",
+
+},
+  
+{
+   "amazon_url": "",
+  "image_url": "",
+  "pages": ,
+  "read": false,
+  "author": "",
+  "title": "",
+  "site": "",
+
+},
+  
+{
+   "amazon_url": "",
+  "image_url": "",
+  "pages": ,
+  "read": false,
+  "author": "",
+  "title": "",
+  "site": "",
+
+},
+  
+{
+   "amazon_url": "",
+  "image_url": "",
+  "pages": ,
+  "read": false,
+  "author": "",
+  "title": "",
+  "site": "",
+
+},
+  
+{
+   "amazon_url": "",
+  "image_url": "",
+  "pages": ,
+  "read": false,
+  "author": "",
+  "title": "",
+  "site": "",
+
+},
+  
+{
+   "amazon_url": "",
+  "image_url": "",
+  "pages": ,
+  "read": false,
+  "author": "",
+  "title": "",
+  "site": "",
+
+},
+  
+{
+   "amazon_url": "",
+  "image_url": "",
+  "pages": ,
+  "read": false,
+  "author": "",
+  "title": "",
+  "site": "",
+
+},
+  
+{
+   "amazon_url": "",
+  "image_url": "",
+  "pages": ,
+  "read": false,
+  "author": "",
+  "title": "",
+  "site": "",
+
+},
+  
+{
+   "amazon_url": "",
+  "image_url": "",
+  "pages": ,
+  "read": false,
+  "author": "",
+  "title": "",
+  "site": "",
+
+},
+  
+{
+   "amazon_url": "",
+  "image_url": "",
+  "pages": ,
+  "read": false,
+  "author": "",
+  "title": "",
+  "site": "",
+
+},
+  
+{
+   "amazon_url": "",
+  "image_url": "",
+  "pages": ,
+  "read": false,
+  "author": "",
+  "title": "",
+  "site": "",
+
+},
+  
   
 {
 },
