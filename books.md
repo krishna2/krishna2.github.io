@@ -136,7 +136,7 @@
 
 * Swami Dayananda Saraswati : Value of Values
 
-* Eric Jorgenson: The Alamanack of Naval Ravikant
+* Eric Jorgenson: The Almanack of Naval Ravikant
 
 * Thirukkural : Multiple Authors's Commentaries
 
