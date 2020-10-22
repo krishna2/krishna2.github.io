@@ -123,6 +123,8 @@
 
 58. Swami Chinmayananda: Forgive Me (Shiva Aparatha Kshamapana Stotram)
 
+59. Swami Tejomayananda: Upadesa Saaram (Bhagawan Ramana Maharishi)
+
 
 
 
