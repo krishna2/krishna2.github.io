@@ -186,12 +186,13 @@
 },  
 
 {
-   "amazon_url": "",
-  "image_url": "",
-  "pages": ,
+   "amazon_url": "https://www.amazon.com/Gita-Subodhini-Enriching-Experience-Bhagavad-ebook/dp/B08FF4B7Q6/",
+  "image_url": "https://m.media-amazon.com/images/I/51-U+EHk-2L.jpg",
+  "pages": 341,
   "read": false,
-  "author": "",
-  "title": "",
+  "author": "Gauranga Darshan Das",
+  "title": "Gita Subodhini",
+  "subtitle": "Enriching the Experience of Bhagavad Gita Study",
   "site": "",
 
 },
