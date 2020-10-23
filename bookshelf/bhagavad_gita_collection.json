@@ -198,13 +198,14 @@
 },
 
 {
-   "amazon_url": "",
-  "image_url": "",
-  "pages": ,
+   "amazon_url": "https://www.amazon.com/Living-Gita-Complete-Bhagavad-Commentary-ebook/dp/B00G4GK20W/",
+  "image_url": "https://m.media-amazon.com/images/I/51SzFFdf55L._SY346_.jpg",
+  "pages": 356,
   "read": false,
-  "author": "",
-  "title": "",
-  "site": "",
+  "author": "Swami Satchidananda",
+  "title": "The Living Gita",
+  "subtitle": "The Complete Bhagavad Gita: a Commentary for Modern Readers",
+  "site": "https://en.wikipedia.org/wiki/Swami_Satchidananda_Saraswati",
 
 },
   
