@@ -210,13 +210,14 @@
 },
   
 {
-   "amazon_url": "",
-  "image_url": "",
-  "pages": ,
+   "amazon_url": "https://www.amazon.com/God-Talks-Arjuna-Bhagavad-Gita-ebook/dp/B07L6L8H9V/",
+  "image_url": "https://m.media-amazon.com/images/I/51NdKi3N3YL._SY346_.jpg",
+  "pages": 1387,
   "read": false,
-  "author": "",
-  "title": "",
-  "site": "",
+  "author": "Paramahansa Yogananda",
+  "title": "God Talks with Arjuna: The Bhagavad Gita (Self-Realization Fellowship)",
+  "subtitle": "Royal Science of God Realization - The immortal dialogue between soul and Spirit",
+  "site": "https://en.wikipedia.org/wiki/Paramahansa_Yogananda",
 
 },
   
