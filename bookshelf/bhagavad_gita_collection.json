@@ -222,13 +222,14 @@
 },
   
 {
-   "amazon_url": "",
-  "image_url": "",
+   "amazon_url": "https://www.amazon.com/Bhagavad-Daily-Living-Verse-Verse-ebook/dp/B081ZX78CF/",
+  "image_url": "https://m.media-amazon.com/images/I/419WoWP-4oL.jpg",
   "pages": ,
   "read": false,
-  "author": "",
-  "title": "",
-  "site": "",
+  "author": "Eknath Easwaran",
+  "title": "The Bhagavad Gita for Daily Living: A Verse-by-Verse Commentary",
+  "subtitle": "Vols 1–3 (The End of Sorrow, Like a Thousand Suns, To Love Is to Know Me)",
+  "site": "https://en.wikipedia.org/wiki/Eknath_Easwaran",
 
 },
   
