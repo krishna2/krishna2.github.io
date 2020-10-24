@@ -125,6 +125,7 @@
 
 59. Swami Tejomayananda: Upadesa Saaram (Bhagawan Ramana Maharishi)
 
+60. Swami Paramarthananda: Isavasaya Upanishad
 
 
 
