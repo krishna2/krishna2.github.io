@@ -127,9 +127,14 @@
 
 60. Swami Paramarthananda: Isavasaya Upanishad
 
+61. Om Swami: Mantras
+
+62.
+
 
 
 ### Currently Reading
+
 
 * Swami Chinmayananda : The Bhagavad Gita : Volume 6 (Covers chapter 7 of BG)
 
