@@ -4,7 +4,7 @@ title: Bhagavad Gita's Message
 
 What is the message of the Bhagavad Gita?
 
-There are some scholars who have come up with the crux of the entire Gita in as simple terms as possible.
+There are eminent scholars who have come up with a way to express the crux of the entire Gita in as simple terms as possible.
 
 To go over their meanings, it is better to get some context of the first and last shlokas of the Bhagavad Gita.
 
@@ -28,7 +28,9 @@ yatra yogeshvaraH kR^iShNo yatra pArtho dhanurdharaH .
 tatra shrIrvijayo bhUtirdhruvA nItirmatirmama
 ```
 
- ## Table of Sanskrit Words, iTrans words and Meanings
+
+Now let's look at the meaning of each word in the two shlokas.
+
  
 |	धर्मक्षेत्रे	|	dharmakShetre	|	in the place of pilgrimage	|
 |	कुरुक्षेत्रे	|	kurukShetre	|	in the place named Kuruksetra	|
@@ -59,15 +61,15 @@ tatra shrIrvijayo bhUtirdhruvA nItirmatirmama
 
 ## In One Word
 
-If you take the first syllable and the last syllable, the word formed is : धर्म (dharma).
+If you take the first syllable of the first shloka and the last syllable of the last shloka (the 700th verse), the word formed is : धर्म (dharma).
 
-So Bhagavad Gita is about Dharma.
+So Bhagavad Gita is about **Dharma**.
 
 ## In Two Words
 
-If you take the first word and the last word, the word formed is : धर्म (dharma) मम (mama).
+If you take the first word of the first shloka and the last word of the last shloka (the 700th verse), the word formed is : धर्म (dharma) मम (mama).
 
-So Bhagavad Gita is about "My Dharma".
+So Bhagavad Gita is about **My Dharma**.
 
 ## In Four Words
 
@@ -79,14 +81,21 @@ But if you analyze carefully, there is an entire chapter in the Bhagavad Gita, C
 
 Here Lord Krishna defines Kshetra as the body, the mind, and everything.
 
-In this context, it again refers back to whatever wherever you identify yourself with, do dharma.
+In this context, it again refers back to **whatever you identify yourself as, do dharma**.
 
 <hr />
 
-I think the message is very clear. Dharma. My Dharma. And whatever wherever way you identify yourself with, still do dharma.
+I think the message is very clear. 
+
+```
+Dharma. 
+
+My Dharma. 
+
+Whatever you identify yourself as, do Dharma.
+```
 
 <hr />
 
 Happy reading the Bhagavad Gita!
-
 
