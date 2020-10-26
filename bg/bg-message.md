@@ -14,7 +14,7 @@ The first shloka goes thus:
 धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः ।
 मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ॥
 
-dharmakShetre kurukShetre samavetA yuyutsavaH .
+dharmakShetre kurukShetre samavetA yuyutsavaH
 mAmakAH pANDavAshchaiva kimakurvata sa~njaya
 ```
 
@@ -24,7 +24,7 @@ The last shloka is:
 यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः ।
 तत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिर्मतिर्मम ॥
 
-yatra yogeshvaraH kR^iShNo yatra pArtho dhanurdharaH .
+yatra yogeshvaraH kR^iShNo yatra pArtho dhanurdharaH
 tatra shrIrvijayo bhUtirdhruvA nItirmatirmama
 ```
 
