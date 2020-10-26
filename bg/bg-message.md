@@ -42,7 +42,6 @@ tatra shrIrvijayo bhUtirdhruvA nItirmatirmama
 |	अकुर्वत	|	akurvata	|	did they do	|
 |	सञ्जय	|	sa~njaya	|	O Sanjaya.	|
 |		|		|		|
-|		|		|		|
 |	यत्र	|	yatra	|	where	|
 |	योगेश्वरः	|	yogeshvaraH	|	the master of mysticism	|
 |	कृष्णः	|	kR^iShNaH	|	Lord KRiShNa	|
