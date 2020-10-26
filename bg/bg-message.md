@@ -1,6 +1,6 @@
------
+---
 title: Bhagavad Gita's Message
------
+---
 
 What is the message of the Bhagavad Gita?
 
@@ -28,7 +28,7 @@ yatra yogeshvaraH kR^iShNo yatra pArtho dhanurdharaH .
 tatra shrIrvijayo bhUtirdhruvA nItirmatirmama
 ```
 
- ## Table
+ ## Table of Sanskrit Words, iTrans words and Meanings
  
 |	धर्मक्षेत्रे	|	dharmakShetre	|	in the place of pilgrimage	|
 |	कुरुक्षेत्रे	|	kurukShetre	|	in the place named Kuruksetra	|
