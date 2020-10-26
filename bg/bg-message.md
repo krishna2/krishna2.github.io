@@ -73,8 +73,11 @@ So Bhagavad Gita is about "My Dharma".
 
 If you take the first two words, "धर्मक्षेत्रे कुरुक्षेत्रे" (dharmakShetre kurukShetre), you can form a short four word phrase: क्षेत्रे क्षेत्रे धर्म कुरु (kShetre kShetre dharma kuru).
 
-In all the "Kshetrams" do your dharma. A simple translation of "Kshetra" is "temple". But if you analyze carefully, there is an entire chapter in
-the Bhagavad Gita, Chapter 13 entitled : "Kṣhetra Kṣhetrajña Vibhāga Yoga". Here Lord Krishna defines Kshetra as the body, the mind, and everything.
+In all the "Kshetrams" do your dharma. A simple translation of "Kshetra" is "temple". 
+
+But if you analyze carefully, there is an entire chapter in the Bhagavad Gita, Chapter 13 entitled : "Kṣhetra Kṣhetrajña Vibhāga Yoga". 
+
+Here Lord Krishna defines Kshetra as the body, the mind, and everything.
 
 In this context, it again refers back to whatever wherever you identify yourself with, do dharma.
 
