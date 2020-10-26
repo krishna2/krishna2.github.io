@@ -8,17 +8,26 @@ There are some scholars who have come up with the crux of the entire Gita in as 
 
 To go over their meanings, it is better to get some context of the first and last shlokas of the Bhagavad Gita.
 
-| धर्मक्षेत्रे  | in the place of pilgrimage |
-| कुरुक्षेत्रे  | in the place named Kuruksetra |
-| समवेताः  | assembled |
-| युयुत्सवः  | desiring to fight |
-| मामकाः  | my party (sons) |
-| पाण्डवाः  | the sons of Pandu |
-| च      | and |
-| एव   | certainly |
-| किं   | what |
-| अकुर्वत | did they do | 
-| सञ्जय  | O Sanjaya. |
+The first shloka goes thus:
+
+```
+धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः ।
+मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ॥
+
+dharmakShetre kurukShetre samavetA yuyutsavaH .
+mAmakAH pANDavAshchaiva kimakurvata sa~njaya
+```
+
+The last shloka is:
+
+```
+यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः ।
+तत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिर्मतिर्मम ॥
+
+yatra yogeshvaraH kR^iShNo yatra pArtho dhanurdharaH .
+tatra shrIrvijayo bhUtirdhruvA nItirmatirmama
+```
+
  
  
 
