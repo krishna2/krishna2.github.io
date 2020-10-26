@@ -30,7 +30,7 @@ tatra shrIrvijayo bhUtirdhruvA nItirmatirmama
 
  ## Table
  
- |	धर्मक्षेत्रे	|	dharmakShetre	|	in the place of pilgrimage	|
+|	धर्मक्षेत्रे	|	dharmakShetre	|	in the place of pilgrimage	|
 |	कुरुक्षेत्रे	|	kurukShetre	|	in the place named Kuruksetra	|
 |	समवेताः	|	samavetAH	|	assembled	|
 |	युयुत्सवः	|	yuyutsavaH	|	desiring to fight	|
@@ -59,4 +59,32 @@ tatra shrIrvijayo bhUtirdhruvA nItirmatirmama
  
 
 ## In One Word
+
+If you take the first syllable and the last syllable, the word formed is : धर्म (dharma).
+
+So Bhagavad Gita is about Dharma.
+
+## In Two Words
+
+If you take the first word and the last word, the word formed is : धर्म (dharma) मम (mama).
+
+So Bhagavad Gita is about "My Dharma".
+
+## In Four Words
+
+If you take the first two words, "धर्मक्षेत्रे कुरुक्षेत्रे" (dharmakShetre kurukShetre), you can form a short four word phrase: क्षेत्रे क्षेत्रे धर्म कुरु (kShetre kShetre dharma kuru).
+
+In all the "Kshetrams" do your dharma. A simple translation of "Kshetra" is "temple". But if you analyze carefully, there is an entire chapter in
+the Bhagavad Gita, Chapter 13 entitled : "Kṣhetra Kṣhetrajña Vibhāga Yoga". Here Lord Krishna defines Kshetra as the body, the mind, and everything.
+
+In this context, it again refers back to whatever wherever you identify yourself with, do dharma.
+
+<hr />
+
+I think the message is very clear. Dharma. My Dharma. And whatever wherever way you identify yourself with, still do dharma.
+
+<hr />
+
+Happy reading the Bhagavad Gita!
+
 
