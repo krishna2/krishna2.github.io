@@ -245,23 +245,24 @@
 },
   
 {
-   "amazon_url": "",
-  "image_url": "",
-  "pages": ,
+   "amazon_url": "https://www.amazon.com/Bhagavad-Gita-Biography-Lives-Religious-ebook/dp/B00LDC6TT0/",
+  "image_url": "https://m.media-amazon.com/images/I/51Ge+Ced8uL.jpg",
+  "pages": 252,
   "read": false,
-  "author": "",
-  "title": "",
-  "site": "",
+  "author": "Richard H. Davis",
+  "title": "The Bhagavad Gita: A Biography",
+  "subtitle": "(Lives of Great Religious Books Book 23)",
+  "site": "https://press.princeton.edu/series/lives-of-great-religious-books",
 
 },
   
 {
-   "amazon_url": "",
-  "image_url": "",
-  "pages": ,
+   "amazon_url": "https://www.amazon.com/celestial-Bhagabad-g%C3%AEt%C3%A2-Mah%C3%A2bh%C3%A2rata-discourse-between-ebook/dp/B004TS0IOW/",
+  "image_url": "https://m.media-amazon.com/images/I/516WatyqKBL.jpg",
+  "pages": 84,
   "read": false,
-  "author": "",
-  "title": "",
+  "author": "Sir Edwin Arnold",
+  "title": "The Song celestial; or, Bhagabad-gîtâ",
   "site": "",
 
 },
