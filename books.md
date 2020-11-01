@@ -129,7 +129,13 @@
 
 61. Om Swami: Mantras
 
-62.
+62. Philip Renard: 'I' is a Door: The essence of Advaita as taught by Ramana Maharshi, Atmananda & Nisargadatta Maharaj
+
+63. Swami Tejomayananda: Meditation Verses: Nirvana Shatakam
+
+64. Swami Tejomayananda: Shiva Manasa Puja
+
+65. Pema Chodron: How to Meditate
 
 
 
