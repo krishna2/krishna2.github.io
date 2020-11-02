@@ -301,12 +301,12 @@
 },
   
 {
-   "amazon_url": "",
-  "image_url": "",
-  "pages": ,
+   "amazon_url": "https://www.amazon.com/Geeta-Children-Swami-Chinmayananda-ebook/dp/B07ML6CZ3B/",
+  "image_url": "https://m.media-amazon.com/images/I/41TsPkStddL.jpg",
+  "pages": 188,
   "read": false,
-  "author": "",
-  "title": "",
+  "author": "Swami Chinmayananda",
+  "title": "Geeta For Children",
   "site": "",
 
 },
