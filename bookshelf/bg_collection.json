@@ -312,12 +312,12 @@
 },
   
 {
-   "amazon_url": "",
-  "image_url": "",
-  "pages": ,
+   "amazon_url": "https://www.amazon.com/Gita-Timeless-Guide-Our-Time-ebook/dp/B07SBX9L83/",
+  "image_url": "https://m.media-amazon.com/images/I/416hb6-iZlL.jpg",
+  "pages": 247,
   "read": false,
-  "author": "",
-  "title": "",
+  "author": "Isaac Bentwich",
+  "title": "Gita - A Timeless Guide For Our Time",
   "site": "",
 
 },
