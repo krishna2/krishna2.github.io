@@ -312,7 +312,7 @@
 },
   
 {
-   "amazon_url": "https://www.amazon.com/Gita-Timeless-Guide-Our-Time-ebook/dp/B07SBX9L83/",
+  "amazon_url": "https://www.amazon.com/Gita-Timeless-Guide-Our-Time-ebook/dp/B07SBX9L83/",
   "image_url": "https://m.media-amazon.com/images/I/416hb6-iZlL.jpg",
   "pages": 247,
   "read": false,
@@ -322,6 +322,129 @@
 
 },
   
+{
+  "amazon_url": "https://www.amazon.com/Gitas-Words-Guidance-Swami-Chidananda-ebook/dp/B07F81555H/",
+  "image_url": "https://m.media-amazon.com/images/I/41QVwf9R5sL.jpg",
+  "pages": 122,
+  "read": false,
+  "author": "Swami Chinmayananda",
+  "title": "Gita's Words of Guidance",
+  "site": "",
+
+},
+  
+{
+  "amazon_url": "",
+  "image_url": "",
+  "pages": ,
+  "read": false,
+  "author": "",
+  "title": "",
+  "site": "",
+
+},
+  
+{
+  "amazon_url": "",
+  "image_url": "",
+  "pages": ,
+  "read": false,
+  "author": "",
+  "title": "",
+  "site": "",
+
+},
+  
+{
+  "amazon_url": "",
+  "image_url": "",
+  "pages": ,
+  "read": false,
+  "author": "",
+  "title": "",
+  "site": "",
+
+},
+  
+{
+  "amazon_url": "",
+  "image_url": "",
+  "pages": ,
+  "read": false,
+  "author": "",
+  "title": "",
+  "site": "",
+
+},
+  
+{
+  "amazon_url": "",
+  "image_url": "",
+  "pages": ,
+  "read": false,
+  "author": "",
+  "title": "",
+  "site": "",
+
+},
+  
+{
+  "amazon_url": "",
+  "image_url": "",
+  "pages": ,
+  "read": false,
+  "author": "",
+  "title": "",
+  "site": "",
+
+},
+  
+{
+  "amazon_url": "",
+  "image_url": "",
+  "pages": ,
+  "read": false,
+  "author": "",
+  "title": "",
+  "site": "",
+
+},
+  
+{
+  "amazon_url": "",
+  "image_url": "",
+  "pages": ,
+  "read": false,
+  "author": "",
+  "title": "",
+  "site": "",
+
+},
+  
+{
+  "amazon_url": "",
+  "image_url": "",
+  "pages": ,
+  "read": false,
+  "author": "",
+  "title": "",
+  "site": "",
+
+},
+  
+{
+  "amazon_url": "",
+  "image_url": "",
+  "pages": ,
+  "read": false,
+  "author": "",
+  "title": "",
+  "site": "",
+
+},
+  
+  
+
   
 {
 },
