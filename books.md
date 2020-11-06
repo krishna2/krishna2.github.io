@@ -137,32 +137,40 @@
 
 65. Pema Chodron: How to Meditate
 
+66. Swami Dayananda Saraswati : Value of Values
 
 
 ### Currently Reading
 
 
-* Swami Chinmayananda : The Bhagavad Gita : Volume 6 (Covers chapter 7 of BG)
-
 * Swami Dayananda Saraswati : The Teachings of Bhagavad Gita
 
-* Swami Dayananda Saraswati : Value of Values
+* Swami Chinmayananda : The Bhagavad Gita : Volume 6 (Covers chapter 7 of BG)
 
 * Eric Jorgenson: The Almanack of Naval Ravikant
 
 * Thirukkural : Multiple Authors's Commentaries
+
+* Swami Chinmayananda: Bhaja Govindam
+
+* Swami Dayananda Saraswati: Sadhana Panchakam
+
+* Swami Tejomayananda: Aditya Hrudayam
+
+* Swami Chinmayananda: Hymn to Sri Dakshinamurthi
+
+* Swami Chinmayananda: AS I Think
+
+* Roopa Pai: The Gita for Children
+
+* Roopa Pai: The Vedas and Upanishads for Children
 
 
 #### Hold
 
 * Rebecca Goldstein: Incompleteness
 
-* Abbot George Burke (Swami Nirmalananda Giri): The Bhagavad Gita
-
-* Abbot George Burke (Swami Nirmalananda Giri): The Upanishads for Awakening
-
 * Prof. Thad Polk: The Learning Brain (great courses)
-
 
 
 ### Books in queue
