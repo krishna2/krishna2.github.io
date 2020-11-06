@@ -334,23 +334,24 @@
 },
   
 {
-  "amazon_url": "",
-  "image_url": "",
-  "pages": ,
+  "amazon_url": "https://www.amazon.com/Bhagavad-gita-Photographic-visual-greatest-spiritual-ebook/dp/B015ASXCQU/",
+  "image_url": "https://m.media-amazon.com/images/I/51KdqNOWGgL.jpg",
+  "pages": 251,
   "read": false,
-  "author": "",
-  "title": "",
+  "author": "Visakha Dasi, A.C. Bhaktivedanta Swami Prabhupada ",
+  "title": "Bhagavad-gita: A Photographic Essay",
+  "subtitle": "A visual guide to the world's greatest spiritual dialog",
   "site": "",
 
 },
   
 {
-  "amazon_url": "",
-  "image_url": "",
-  "pages": ,
+  "amazon_url": "https://www.amazon.com/Gita-ANANT-PAI-ebook/dp/B06Y697TL9",
+  "image_url": "https://m.media-amazon.com/images/I/51P4UieN5QL.jpg",
+  "pages": 34,
   "read": false,
-  "author": "",
-  "title": "",
+  "author": "Anant Pai",
+  "title": "The Gita",
   "site": "",
 
 },
