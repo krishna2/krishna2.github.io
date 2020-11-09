@@ -1,0 +1,29 @@
+# My plan is to put here raw text but in a particular convention.
+# Then I can quickly script it to create the formal json which is getting a bit of a pain to type/format.
+
+# Should probably go thru this list:
+# https://www.amazon.com/s?k=swami+chinmayananda&ref=nb_sb_noss_2
+
+# Common author for all books below: Swami Chinmayananda
+
+Kathopanishad
+https://www.amazon.com/Kathopanishad-Swami-Chinmayananda-ebook/dp/B07F5DB3XB/
+278
+https://m.media-amazon.com/images/I/51f0Ws540WL.jpg
+
+Aitareya Upanishad
+https://www.amazon.com/Aitareya-Upanishad-Swami-Chinmayananda-ebook/dp/B07DVHH344/
+147
+https://m.media-amazon.com/images/I/51WJAqjv3hL.jpg
+
+Kaivalya Upanishad
+https://www.amazon.com/Kaivalyopanishad-Swami-Chinmayananda-ebook/dp/B07DX26PGG/
+110
+https://m.media-amazon.com/images/I/41M0PZBgReL.jpg
+
+# this experiment is a BIG success. As it can be seen, i did three books in almost the same time
+# it takes to do one. And "#" starter just means it is a comment.
+# 4 lines per book and they seem self explanatory!
+# title, amazon_url, pages, image_url
+# same common author at the top.
+# all set.
