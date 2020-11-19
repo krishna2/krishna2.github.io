@@ -139,6 +139,10 @@
 
 66. Swami Dayananda Saraswati : Value of Values
 
+67. Michael S. A. Graziano: God Soul Mind Brain: A Neuroscientist's Reflections on the Spirit World
+
+68. Malcolm Cameron: Mathematics the Truth: Moving mathematics teaching into the age of quantum mechanics and relativity
+
 
 ### Currently Reading
 
