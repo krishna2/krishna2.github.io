@@ -143,6 +143,10 @@
 
 68. Malcolm Cameron: Mathematics the Truth: Moving mathematics teaching into the age of quantum mechanics and relativity
 
+69. Timothy D Wilson: Redirect: Changing the Stories We Live By
+
+70. Tina Seelig: What I Wish I Knew When I Was 20: A Crash Course on Making Your Place in the World
+
 
 ### Currently Reading
 
