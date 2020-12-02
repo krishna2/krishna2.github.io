@@ -139,23 +139,27 @@
 
 66. Swami Dayananda Saraswati : Value of Values
 
-67. Michael S. A. Graziano: God Soul Mind Brain: A Neuroscientist's Reflections on the Spirit World
+67. Eric Jorgenson: The Almanack of Naval Ravikant
 
-68. Malcolm Cameron: Mathematics the Truth: Moving mathematics teaching into the age of quantum mechanics and relativity
+68. Michael S. A. Graziano: God Soul Mind Brain: A Neuroscientist's Reflections on the Spirit World
 
-69. Timothy D Wilson: Redirect: Changing the Stories We Live By
+69. Malcolm Cameron: Mathematics the Truth: Moving mathematics teaching into the age of quantum mechanics and relativity
 
-70. Tina Seelig: What I Wish I Knew When I Was 20: A Crash Course on Making Your Place in the World
+70. Timothy D Wilson: Redirect: Changing the Stories We Live By
+
+71. Tina Seelig: What I Wish I Knew When I Was 20: A Crash Course on Making Your Place in the World
+
+72. Swami Chinmayananda : The Bhagavad Gita : Volume 6 (Covers chapter 7 of BG)
+
+73. Laura Bates: Shakespeare Saved My Life 
+
+74. Brad Stulberg & Steve Magness: Peak Performance: Elevate Your Game, Avoid Burnout, and Thrive with the New Science of Success
 
 
 ### Currently Reading
 
 
 * Swami Dayananda Saraswati : The Teachings of Bhagavad Gita
-
-* Swami Chinmayananda : The Bhagavad Gita : Volume 6 (Covers chapter 7 of BG)
-
-* Eric Jorgenson: The Almanack of Naval Ravikant
 
 * Thirukkural : Multiple Authors's Commentaries
 
