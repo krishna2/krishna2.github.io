@@ -155,9 +155,20 @@
 
 74. Brad Stulberg & Steve Magness: Peak Performance: Elevate Your Game, Avoid Burnout, and Thrive with the New Science of Success
 
+75. Michael Matthews: Bigger Leaner Stronger
+
+76. Swami Chinmayananda : The Bhagavad Gita : Volume 7 (Covers Chapter 8 of BG)
+
 
 ### Currently Reading
 
+* Christopher McDougall: Running with Sherman
+
+* Sam Harris: Waking up
+
+* Managerial Revolution
+
+* Swami Chinmayananda : The Bhagavad Gita : Volume 8 (Covers Chapter 9 of BG)
 
 * Swami Dayananda Saraswati : The Teachings of Bhagavad Gita
 
