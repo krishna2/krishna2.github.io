@@ -159,16 +159,21 @@
 
 76. Swami Chinmayananda : The Bhagavad Gita : Volume 7 (Covers Chapter 8 of BG)
 
+77. Christopher McDougall: Running with Sherman
+
+78. Todd Ross: The End of Average
+
+79. Whitney Houston: Disrupt Yourself
+
+80. Swami Chinmayananda : The Bhagavad Gita : Volume 8 (Covers Chapter 9 of BG)
+
 
 ### Currently Reading
 
-* Christopher McDougall: Running with Sherman
 
 * Sam Harris: Waking up
 
 * Managerial Revolution
-
-* Swami Chinmayananda : The Bhagavad Gita : Volume 8 (Covers Chapter 9 of BG)
 
 * Swami Dayananda Saraswati : The Teachings of Bhagavad Gita
 
