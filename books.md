@@ -163,7 +163,7 @@
 
 78. Todd Ross: The End of Average
 
-79. Whitney Houston: Disrupt Yourself
+79. Whitney Johnson: Disrupt Yourself
 
 80. Swami Chinmayananda : The Bhagavad Gita : Volume 8 (Covers Chapter 9 of BG)
 
