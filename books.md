@@ -161,15 +161,18 @@
 
 77. Christopher McDougall: Running with Sherman
 
-78. Todd Ross: The End of Average
+78. Todd Rose: The End of Average
 
-79. Whitney Johnson: Disrupt Yourself
+79. Todd Rose: Square Peg
 
-80. Swami Chinmayananda : The Bhagavad Gita : Volume 8 (Covers Chapter 9 of BG)
+80. Vishwanathan Anand: Mind Master
 
 
 ### Currently Reading
 
+* Whitney Johnson: Disrupt Yourself
+
+* Swami Chinmayananda : The Bhagavad Gita : Volume 8 (Covers Chapter 9 of BG)
 
 * Sam Harris: Waking up
 
@@ -193,28 +196,10 @@
 
 * Roopa Pai: The Vedas and Upanishads for Children
 
-
-#### Hold
-
 * Rebecca Goldstein: Incompleteness
 
 * Prof. Thad Polk: The Learning Brain (great courses)
 
-
-### Books in queue
-
-* Swami Gambirananda : The Bhagavad Gita
-
-* Rajesh Sengamedu : Happiness beyond Mind
-
-
-### Future list
-
-* AtmaBodha
-
-* Vivekachudamani
-
-* Ashtavakra Gita
 
 
 ## Books in 2019
