@@ -4,6 +4,45 @@
 [Link to this page](https://krishna2.github.io/books)
 -->
 
+## Books in 2021
+
+1. Swami Chinmayananda : The Bhagavad Gita : Volume 8 (Covers Chapter 9 of BG)
+
+1. Josh Brown, Brian Portnoy: How I Invest My Money
+
+
+
+### Currently Reading
+
+* Whitney Johnson: Disrupt Yourself
+
+* Sam Harris: Waking up
+
+* Rebecca Goldstein: Incompleteness
+
+* Prof. Thad Polk: The Learning Brain (great courses)
+
+* Swami Dayananda Saraswati : The Teachings of Bhagavad Gita
+
+* Thirukkural : Multiple Authors's Commentaries
+
+* Swami Chinmayananda: Bhaja Govindam
+
+* Swami Dayananda Saraswati: Sadhana Panchakam
+
+* Swami Tejomayananda: Aditya Hrudayam
+
+* Swami Chinmayananda: Hymn to Sri Dakshinamurthi
+
+* Swami Chinmayananda: AS I Think
+
+* Roopa Pai: The Gita for Children
+
+* Roopa Pai: The Vedas and Upanishads for Children
+
+
+
+
 
 ## Books in 2020
 
@@ -166,39 +205,6 @@
 79. Todd Rose: Square Peg
 
 80. Vishwanathan Anand: Mind Master
-
-
-### Currently Reading
-
-* Whitney Johnson: Disrupt Yourself
-
-* Swami Chinmayananda : The Bhagavad Gita : Volume 8 (Covers Chapter 9 of BG)
-
-* Sam Harris: Waking up
-
-* Managerial Revolution
-
-* Swami Dayananda Saraswati : The Teachings of Bhagavad Gita
-
-* Thirukkural : Multiple Authors's Commentaries
-
-* Swami Chinmayananda: Bhaja Govindam
-
-* Swami Dayananda Saraswati: Sadhana Panchakam
-
-* Swami Tejomayananda: Aditya Hrudayam
-
-* Swami Chinmayananda: Hymn to Sri Dakshinamurthi
-
-* Swami Chinmayananda: AS I Think
-
-* Roopa Pai: The Gita for Children
-
-* Roopa Pai: The Vedas and Upanishads for Children
-
-* Rebecca Goldstein: Incompleteness
-
-* Prof. Thad Polk: The Learning Brain (great courses)
 
 
 
