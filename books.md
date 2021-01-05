@@ -436,20 +436,6 @@
 
 1. Jeff Kinney: The Diary of a Wimpy Kid : Getaway (book 12)
 
-### Currently Reading
-
-1. *Abbot George Burke (Swami Nirmalananda Giri): The Upanishads for Awakening
-
-1. *Nir Eyal: Indistractable
-
-1. *Mary Roach: Stiff
-
-1. *Herman Hesse: The Glass Bead Game
-
-1. *Laura Ingalls Wilder: Book 2: Farmer Boy
-
-1. *Ming-Dao Deng: 365 Tao: Daily Meditations
-
 
 ## Books in 2018
 
@@ -698,8 +684,6 @@
 122. L. T. Ryan: Noble Beginnings
 
 123. Kelsey Crowe, Emily McDowell: There is no Good Card for this
-
-
 
 
 ## Books in 2017
