@@ -24,6 +24,8 @@
 
 * Swami Dayananda Saraswati : The Teachings of Bhagavad Gita
 
+
+<!--
 * Thirukkural : Multiple Authors's Commentaries
 
 * Swami Chinmayananda: Bhaja Govindam
@@ -39,7 +41,7 @@
 * Roopa Pai: The Gita for Children
 
 * Roopa Pai: The Vedas and Upanishads for Children
-
+-->
 
 
 
