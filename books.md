@@ -10,6 +10,15 @@
 
 1. Josh Brown, Brian Portnoy: How I Invest My Money
 
+1. Matthew Kratter: Beginner's Guide to the Stock Market
+
+1. Bogleheads Guide to Investing
+
+1. Bogleheads Guide to the Three-Fund Portfolio
+
+1. William Bernstein: Four Pillars of Investing
+
+1. William Bernstein: If You Can
 
 
 ### Currently Reading
