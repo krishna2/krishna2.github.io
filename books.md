@@ -12,16 +12,26 @@
 
 1. Matthew Kratter: Beginner's Guide to the Stock Market
 
-1. Bogleheads Guide to Investing
+1. Tyler Larimore et al: Bogleheads Guide to Investing
 
-1. Bogleheads Guide to the Three-Fund Portfolio
+1. Tyler Larimore et al: Bogleheads Guide to the Three-Fund Portfolio
 
 1. William Bernstein: Four Pillars of Investing
 
 1. William Bernstein: If You Can
 
+1. Allan Roth: How a Second Grader Beats Wall Street
+
+1. John Bogle: The Little Book of Common Sense Investing
+
+1. Tyler Larimore et al: Bogleheads Guide to Retirement
+
 
 ### Currently Reading
+
+* All About Asset Allocation
+
+* Value Averaging
 
 * Whitney Johnson: Disrupt Yourself
 
