@@ -26,6 +26,14 @@
 
 1. Tyler Larimore et al: Bogleheads Guide to Retirement
 
+1. Edward Yardeni: The Yield Curve - What is it Really Predicting?
+
+1. Edward Yardeni: Stock Buybacks - The True Story
+
+1. Edward Yardeni: S&500 Earnings, Valuation and the Pandemic
+
+
+
 
 ### Currently Reading
 
