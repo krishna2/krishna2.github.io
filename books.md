@@ -24,22 +24,25 @@
 
 1. John Bogle: The Little Book of Common Sense Investing
 
-1. Tyler Larimore et al: Bogleheads Guide to Retirement
-
 1. Edward Yardeni: The Yield Curve - What is it Really Predicting?
 
 1. Edward Yardeni: Stock Buybacks - The True Story
 
 1. Edward Yardeni: S&500 Earnings, Valuation and the Pandemic
 
+1. Tyler Larimore et al: Bogleheads Guide to Retirement Planning
+
+1. Robin Moriarty: What Game Are You Playing?
+
+1. Bill Schultheis: The Coffeehouse Investor
+
+1. Michael Edleson: Value Averaging
 
 
 
 ### Currently Reading
 
 * All About Asset Allocation
-
-* Value Averaging
 
 * Whitney Johnson: Disrupt Yourself
 
