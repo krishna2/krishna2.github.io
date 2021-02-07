@@ -38,11 +38,18 @@
 
 1. Michael Edleson: Value Averaging
 
+1. Joel Greenblat: The Little Book that still Beats the Market
+
+1. Richard Ferri: All About Asset Allocation
+
+1. Edward Yardeni: Watching the Fed - for Fun and Profit
 
 
 ### Currently Reading
 
-* All About Asset Allocation
+* A few books on finance/investing.
+
+* Swami Chinmayananda: Bhaja Govindam
 
 * Whitney Johnson: Disrupt Yourself
 
@@ -58,7 +65,6 @@
 <!--
 * Thirukkural : Multiple Authors's Commentaries
 
-* Swami Chinmayananda: Bhaja Govindam
 
 * Swami Dayananda Saraswati: Sadhana Panchakam
 
