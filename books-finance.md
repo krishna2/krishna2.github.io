@@ -52,23 +52,23 @@ As one of the authors funnily and poignantly puts it, "To get an A in investing,
 
 I recommend these three books in this order:
 
-https://www.amazon.com/Bogleheads-Guide-Investing-Taylor-Larimore-ebook/dp/B00JUV01RW/
+(https://www.amazon.com/Bogleheads-Guide-Investing-Taylor-Larimore-ebook/dp/B00JUV01RW/)[https://www.amazon.com/Bogleheads-Guide-Investing-Taylor-Larimore-ebook/dp/B00JUV01RW/]
 
-https://www.amazon.com/Bogleheads-Guide-Three-Fund-Portfolio-Outperforms-ebook/dp/B07DH1QYJK/
+(https://www.amazon.com/Bogleheads-Guide-Three-Fund-Portfolio-Outperforms-ebook/dp/B07DH1QYJK/)[https://www.amazon.com/Bogleheads-Guide-Three-Fund-Portfolio-Outperforms-ebook/dp/B07DH1QYJK/]
 
-https://www.amazon.com/Bogleheads-Guide-Retirement-Planning-ebook/dp/B002QX44IS/
+(https://www.amazon.com/Bogleheads-Guide-Retirement-Planning-ebook/dp/B002QX44IS/)[https://www.amazon.com/Bogleheads-Guide-Retirement-Planning-ebook/dp/B002QX44IS/]
 
 If you want the same philosophy but with a more entertaining read:
 
-https://www.amazon.com/Second-Grader-Beats-Wall-Street-ebook/dp/B0023SDQXA/
+(https://www.amazon.com/Second-Grader-Beats-Wall-Street-ebook/dp/B0023SDQXA/)[https://www.amazon.com/Second-Grader-Beats-Wall-Street-ebook/dp/B0023SDQXA/]
 
-https://www.amazon.com/Coffeehouse-Investor-Wealth-Ignore-Street-ebook/dp/B0024CEZQC/
+(https://www.amazon.com/Coffeehouse-Investor-Wealth-Ignore-Street-ebook/dp/B0024CEZQC/)[https://www.amazon.com/Coffeehouse-Investor-Wealth-Ignore-Street-ebook/dp/B0024CEZQC/]
 
 Finally, if you feel you can't get enough of this and you want it *all* and give me some serious dose .. then go for:
 
-https://www.amazon.com/Four-Pillars-Investing-Building-Portfolio-ebook/dp/B0041842TW/
+(https://www.amazon.com/Four-Pillars-Investing-Building-Portfolio-ebook/dp/B0041842TW/)[https://www.amazon.com/Four-Pillars-Investing-Building-Portfolio-ebook/dp/B0041842TW/]
 
-https://www.amazon.com/All-About-Asset-Allocation-Second-ebook/dp/B003ZUXQBW/
+(https://www.amazon.com/All-About-Asset-Allocation-Second-ebook/dp/B003ZUXQBW/)[https://www.amazon.com/All-About-Asset-Allocation-Second-ebook/dp/B003ZUXQBW/]
 
 I thoroughly enjoyed all these and learnt a lot (and unlearnt just as much). Hope you'll like it too! And may the odds ever be in your .... never mind - just bet that the world will be happy and productive and you will get good returns. If that is not the case, you will have bigger problems to worry about.
 
