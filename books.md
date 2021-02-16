@@ -44,6 +44,10 @@
 
 1. Edward Yardeni: Watching the Fed - for Fun and Profit
 
+1. Howard Marks: Mastering the Market Cycle
+
+1. Gary Belsky and Thomas Gilovich: Why Smart People Make Big Money Mistakes
+
 
 ### Currently Reading
 
