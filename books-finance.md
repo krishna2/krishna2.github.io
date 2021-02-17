@@ -73,3 +73,33 @@ Finally, if you feel you can't get enough of this and you want it *all* and give
 I thoroughly enjoyed all these and learnt a lot (and unlearnt just as much). Hope you'll like it too! And may the odds ever be in your .... never mind - just bet that the world will be happy and productive and you will get good returns. If that is not the case, you will have bigger problems to worry about.
 
 Happy reading (and investing)!
+
+-----
+
+Here is another interesting book that is a must read along with the above.
+
+Thoroughly enjoyed reading this book "Why Smart People Make Big Money Mistakes" by Gary Belsky and Thomas Gilovich.
+This book builds on Behavioral Economics. Fundamentally the findings of Nobel Laureate Richard Thaler (Author of the books Misbehaving and Nudge) and Nobel Laureate Daniel Kahneman (Author of Thinking Fast and Slow) (the work he did with his long time collaborator Amos Tversky who passed away due to Cancer before the Nobel was awarded).
+
+The two biggest behavioral economics breakthroughs are:
+- Mental Accounting (Thaler)
+- Prospect Theory (Kahneman)
+
+These two in turn lead to:
+- Loss Aversion
+- Sunk cost fallacy
+- Endowment effect
+- Status quo bias
+- Regret Aversion
+... 
+
+Even though nowadays with enough books and apps and articles that we may be aware of all such concepts (I was), we are still absolutely prone to making these very mistakes (I was, I am). An eye opening book.
+
+As opposed to a few other books that take just one or two concepts and then expand what should've been a kindle single to a 250+ page book, this book very nicely picks one to three related concepts at a time per chapter and nails them in a nice way. The researchers who identified this, the original experiment, what it means in day to day terms, and a financial example which exemplifies the concept. Finally, each chapter ends with what are the steps you can take to catch yourself before you take an irrational decision in the spur of the moment.
+This is an eye-opening read for me. And I am glad I read this now!
+
+[https://www.amazon.com/Smart-People-Money-Mistakes-Correct-ebook/dp/B00321OR9E/](https://www.amazon.com/Smart-People-Money-Mistakes-Correct-ebook/dp/B00321OR9E/)
+
+Happy Reading!
+
+-----
