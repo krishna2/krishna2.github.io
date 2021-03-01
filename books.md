@@ -46,14 +46,22 @@
 
 1. Howard Marks: Mastering the Market Cycle
 
+1. Bari Tessler: The Art of Money
+
 1. Gary Belsky and Thomas Gilovich: Why Smart People Make Big Money Mistakes
+
+1. Brandon Turner / Bigger Pockets: The Ultimate Beginner's Guide to Real Estate Investing
+
+1. Daniel Pecaut, Corey Wrenn: University of Berkshire Hathaway
+
+1. William Bernstein: The Investor's Manifesto
+
+1. Swami Chinmayananda: Bhaja Govindam
 
 
 ### Currently Reading
 
 * A few books on finance/investing.
-
-* Swami Chinmayananda: Bhaja Govindam
 
 * Whitney Johnson: Disrupt Yourself
 
