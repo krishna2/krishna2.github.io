@@ -58,10 +58,14 @@
 
 1. Swami Chinmayananda: Bhaja Govindam
 
+1. Nathan Winklepleck: Dividend Growth Machine
+
 
 ### Currently Reading
 
 * A few books on finance/investing.
+
+* Swami Chinmayananda: The Holy Geeta
 
 * Whitney Johnson: Disrupt Yourself
 
@@ -73,16 +77,14 @@
 
 * Swami Dayananda Saraswati : The Teachings of Bhagavad Gita
 
+* Swami Chinmayananda: Hymn to Sri Dakshinamurthi
 
 <!--
 * Thirukkural : Multiple Authors's Commentaries
 
-
 * Swami Dayananda Saraswati: Sadhana Panchakam
 
 * Swami Tejomayananda: Aditya Hrudayam
-
-* Swami Chinmayananda: Hymn to Sri Dakshinamurthi
 
 * Swami Chinmayananda: AS I Think
 
