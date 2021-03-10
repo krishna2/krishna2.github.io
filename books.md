@@ -60,6 +60,10 @@
 
 1. Nathan Winklepleck: Dividend Growth Machine
 
+1. Ian Ayres, Barry Nalebuff: Lifecycle Investing
+
+1. William Bernstein: Rational Expectations
+
 
 ### Currently Reading
 
