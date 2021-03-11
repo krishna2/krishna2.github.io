@@ -64,6 +64,8 @@
 
 1. William Bernstein: Rational Expectations
 
+1. Meb Faber: Global Asset Allocation
+
 
 ### Currently Reading
 
