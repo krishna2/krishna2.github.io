@@ -66,6 +66,16 @@
 
 1. Meb Faber: Global Asset Allocation
 
+1. George Clason: The Richest Man In Babylon
+
+1. Thich Nhat Hanh: Silence: The Power of Quiet in a World Full of Nois
+
+1. Prof. Ian Stewart: Incredible Numbers
+
+1. Roopa Pai: The Gita For Children
+
+1. Rajesh Sengamedu: Happiness Beyond Mind
+
 
 ### Currently Reading
 
