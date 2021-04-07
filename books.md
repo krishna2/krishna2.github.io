@@ -78,6 +78,12 @@
 
 1. Rajesh Sengamedu: Happiness Beyond Mind
 
+1. Aswatch Damodaran: The Little Book of Valuation*
+
+1. Jennifer Doudna: A Crack in Creation*
+
+1. Sarah Lacy: Once you are Lucky, Twice you are Good*
+
 
 ### Currently Reading
 
