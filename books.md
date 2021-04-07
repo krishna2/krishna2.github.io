@@ -74,6 +74,8 @@
 
 1. Roopa Pai: The Gita For Children
 
+1. Harriet Beveridge and Ben Hunt-Davis: Will it make the Boat go faster?
+
 1. Rajesh Sengamedu: Happiness Beyond Mind
 
 
