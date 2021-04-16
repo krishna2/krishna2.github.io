@@ -46,6 +46,6 @@ I would love to someday learn it all by heart and more so importantly apply that
 
 Happy reading!
 
-https://en.wikipedia.org/wiki/Tirukku%E1%B9%9Fa%E1%B8%B7
+[Thirukkural Wikipedia page](https://en.wikipedia.org/wiki/Tirukku%E1%B9%9Fa%E1%B8%B7)
 
-https://apps.apple.com/us/app/thirukkural-ulaga-podhu-marai/id1112571895
+[Thirukkural App on iPhone App Store](https://apps.apple.com/us/app/thirukkural-ulaga-podhu-marai/id1112571895)
