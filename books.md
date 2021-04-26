@@ -80,14 +80,21 @@
 
 1. Aswatch Damodaran: The Little Book of Valuation*
 
-1. Jennifer Doudna: A Crack in Creation*
+1. Jennifer Doudna: A Crack in Creation
 
 1. Sarah Lacy: Once you are Lucky, Twice you are Good*
+
+1. Linda Sue Park: Single Shard
+
+1. Derek Sivers: Hell Yeah or No
+
+1. Jorge Cham, ,Daniel Whiteson: We Have No Idea: A Guide to the Unknown Universe
+
 
 
 ### Currently Reading
 
-* A few books on finance/investing.
+* Ricard Mattieu: Happiness
 
 * Swami Chinmayananda: The Holy Geeta
 
