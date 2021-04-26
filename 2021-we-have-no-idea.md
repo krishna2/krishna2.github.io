@@ -197,6 +197,6 @@ But then again how do you get to ToE? How do you get to Mandukya? All good quest
 
 ##  42
 
-"We have no idea" is my 42nd book for this year. 42 is supposed to be the answer to the Universe and everything else (Hitchhikers / Douglas Adams ref) and this book listed all the things that we have no idea about. How cool is that? How is that for a cosmic coincidence?
+"We have no idea" is my [42nd book](https://krishna2.com/books) for this year. 42 is supposed to be the answer to the Universe and everything else (Hitchhikers / Douglas Adams ref) and this book listed all the things that we have no idea about. How cool is that? How is that for a cosmic coincidence?
 
 Happy reading!
