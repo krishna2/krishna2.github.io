@@ -107,19 +107,19 @@ Today happens to be Mahavira Jayanthi, the birth of Mahavira, the founder of Jai
 
 Jainism has seven truths. They are as follows (from Wikipedia):
 
-Arguably, it (that is, some object) exists (syad asty eva).
+  - Arguably, it (that is, some object) exists (syad asty eva).
 
-Arguably, it does not exist (syan nasty eva).
+  - Arguably, it does not exist (syan nasty eva).
 
-Arguably, it exists; arguably, it doesn't exist (syad asty eva syan nasty eva).
+  - Arguably, it exists; arguably, it doesn't exist (syad asty eva syan nasty eva).
 
-Arguably, it is non-assertible (syad avaktavyam eva).
+  - Arguably, it is non-assertible (syad avaktavyam eva).
 
-Arguably, it exists; arguably, it is non-assertible (syad asty eva syad avaktavyam eva).
+  - Arguably, it exists; arguably, it is non-assertible (syad asty eva syad avaktavyam eva).
 
-Arguably, it doesn't exist; arguably, it is non-assertible (syan nasty eva syad avaktavyam eva).
+  - Arguably, it doesn't exist; arguably, it is non-assertible (syan nasty eva syad avaktavyam eva).
 
-Arguably, it exists; arguably, it doesn't exist; arguably it is non-assertible (syad asty eva syan nasty eva syad avaktavyam eva).
+  - Arguably, it exists; arguably, it doesn't exist; arguably it is non-assertible (syad asty eva syan nasty eva syad avaktavyam eva).
 
 On the soul front, I have a lot of work to do to get there. But I am reminded of all these when working with Distributed Systems / NoSQL Databases.
 
@@ -132,13 +132,13 @@ On the soul front, I have a lot of work to do to get there. But I am reminded of
 
 There are other faiths as well. There is Buddishm - which has four noble truths.Very roughly - The Four Noble Truths are:
 
-There is Dukkha (suffering)
+  - There is Dukkha (suffering)
 
-Desire is the causes of dukkha
+  - Desire is the causes of dukkha
 
-There is a way for cessation of dukkha
+  - There is a way for cessation of dukkha
 
-That way is the eightfold path leading to the cessation of dukkha
+  - That way is the eightfold path leading to the cessation of dukkha
 
 [https://en.wikipedia.org/wiki/Four_Noble_Truths](https://en.wikipedia.org/wiki/Four_Noble_Truths)
 
@@ -167,19 +167,18 @@ Amongst these 13, the shortest is Mandukya Upanishad - it has just all of 12 shl
 
 There are six ways of learning something. Called Pramanas. [From Wikipedia] : Pramāṇa literally means "proof" and is also a concept and field of Indian philosophy. Hinduism identifies six pramanas as correct means of accurate knowledge and to truths: 
 
-Pratyakṣa (perception), 
+- Pratyakṣa (perception)
 
-Anumāṇa (inference), 
+- Anumāṇa (inference)
 
-Upamāṇa (comparison and analogy), 
+- Upamāṇa (comparison and analogy)
 
-Arthāpatti (postulation, derivation from circumstances), 
+- Arthāpatti (postulation, derivation from circumstances)
 
-Anupalabdhi (non-perception, negative/cognitive proof) 
+- Anupalabdhi (non-perception, negative/cognitive proof)
 
-and 
+- Śabda (word, testimony of past or present reliable experts)
 
-Śabda (word, testimony of past or present reliable experts).
 
 [https://en.wikipedia.org/wiki/Pramana#Six_pramanas](https://en.wikipedia.org/wiki/Pramana#Six_pramanas)
 
