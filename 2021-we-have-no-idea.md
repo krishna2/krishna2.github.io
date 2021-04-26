@@ -4,11 +4,11 @@ We have no idea (about many things in general, but also a book review), Piled Hi
 
 I read this book "We have no idea: A guide to the unknown universe" by Jorge Cham (author of the wonderful comic series "Piled Higher and Deeper") and Daniel Whiteson, a Professor of Physics and Astronomy at UC, Irvine.
 
-https://www.amazon.com/We-Have-No-Idea-Universe-ebook/dp/B01KGZVYRQ/
+[We have no idea by Jorge Cham and Daniel Whiteson](https://www.amazon.com/We-Have-No-Idea-Universe-ebook/dp/B01KGZVYRQ/)
 
 If you have not checked out PHD comics, please do - it's hilarious and nicely done. If you were wondering why it is called so, the general theory seems to be that B.S. is Bullshit, M.S. is More Shit and when you get to Ph. D (aka Permanent Head Damage) the levels (of shit) are Piled Higher and Deeper.
 
-http://phdcomics.com/
+[http://phdcomics.com/](http://phdcomics.com/)
 
 I loved this book because it is a book of questions rather than answers. Don't get me wrong, I love all types of science books and the ones that explain from the fundamentals and explain it in a fun intuitive way with an IRL (as the cool kids say, which I only recently learnt stands for "in real life") connection. The book goes on chapter after chapter picking up very important topics and states many open questions on that. It is a hard core Physics / Astronomy / Science book and not philosophical although the line does blur when you ask that deep.
 
@@ -123,8 +123,10 @@ Arguably, it exists; arguably, it doesn't exist; arguably it is non-assertible (
 
 On the soul front, I have a lot of work to do to get there. But I am reminded of all these when working with Distributed Systems / NoSQL Databases.
 
-https://en.wikipedia.org/wiki/Jaina_seven-valued_logic
-https://en.wikipedia.org/wiki/Mahavira
+[https://en.wikipedia.org/wiki/Jaina_seven-valued_logic](https://en.wikipedia.org/wiki/Jaina_seven-valued_logic)
+
+[https://en.wikipedia.org/wiki/Mahavira](https://en.wikipedia.org/wiki/Mahavira)
+
 
 ## Buddhism
 
@@ -138,7 +140,8 @@ There is a way for cessation of dukkha
 
 That way is the eightfold path leading to the cessation of dukkha
 
-https://en.wikipedia.org/wiki/Four_Noble_Truths
+[https://en.wikipedia.org/wiki/Four_Noble_Truths](https://en.wikipedia.org/wiki/Four_Noble_Truths)
+
 
 To continue from the previous distributed systems reference, yeah, right, every time I code, I can realize truths (1) and (2). I hop along hoping that there is (3) and (4). Much harder to find those.
 
@@ -146,7 +149,8 @@ To continue from the previous distributed systems reference, yeah, right, every 
 
 Then there is Sanatana Dharma (Eternal dharma) - which is roughly called Hinduism - and I will use that short form - but it would be better not to confuse this with religion or further religious practices or the modern day conventions, customs and common understanding.
 
-https://en.wikipedia.org/wiki/Hinduism
+[https://en.wikipedia.org/wiki/Hinduism](https://en.wikipedia.org/wiki/Hinduism)
+
 
 Very briefly, the ancient system was codified into four vedas (Veda Vyasa). Each veda itself is classified into four. Each for different stages of life or different levels of understanding - whatever you want to make of it. The fourth stage is called Vedanta - standing for Veda-anta. End of the veda - in the literal sense that it is the last section. Or to the philosophical sense that it is all there is - the ultimate truth. Not to reduce the truthiness of the other levels/layers - just that it is in a different form.
 
@@ -158,7 +162,8 @@ Back to Vedanta, it is made up of what are called Upanishads. That which removes
 
 Amongst these 13, the shortest is Mandukya Upanishad - it has just all of 12 shlokas. In a moment of madness, I thought let me read it and be done quickly. But it is also one of the hardest. It is profound. I don't claim to know much but with the help of various other texts, I am able piece enough info together to get a high level idea that the Upanishad is talking about something that is beyond our ways of learning.
 
-https://en.wikipedia.org/wiki/Upanishads
+[https://en.wikipedia.org/wiki/Upanishads](https://en.wikipedia.org/wiki/Upanishads)
+
 
 There are six ways of learning something. Called Pramanas. [From Wikipedia] : Pramāṇa literally means "proof" and is also a concept and field of Indian philosophy. Hinduism identifies six pramanas as correct means of accurate knowledge and to truths: 
 
@@ -176,13 +181,15 @@ and
 
 Śabda (word, testimony of past or present reliable experts).
 
-https://en.wikipedia.org/wiki/Pramana#Six_pramanas
+[https://en.wikipedia.org/wiki/Pramana#Six_pramanas](https://en.wikipedia.org/wiki/Pramana#Six_pramanas)
+
 
 ### Mandukya Upanishad
 
 What is the ultimate thing that the Mandukya is talking about? It is the Atman or Brahman (local or global, rather universal context) of the one truth that is. Everything else being a manifestation of it. Is it a sound? the fundamental particle? its energy? the life force? the chi? Is it silence? Well, those are some ways to talk of paradoxical stuff to figure out the rest. Like the zen koan trying to hear the sound of the one handed clap.
 
-https://en.wikipedia.org/wiki/Mandukya_Upanishad
+[https://en.wikipedia.org/wiki/Mandukya_Upanishad](https://en.wikipedia.org/wiki/Mandukya_Upanishad)
+
 
 ### Theory of Everything
 
