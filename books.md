@@ -88,13 +88,22 @@
 
 1. Derek Sivers: Hell Yeah or No
 
-1. Jorge Cham, ,Daniel Whiteson: We Have No Idea: A Guide to the Unknown Universe
+1. Jorge Cham, Daniel Whiteson: We Have No Idea: A Guide to the Unknown Universe
 
+1. Prof. Thad Polk: The Learning Brain (Great courses)
+
+1. Robert Cialdini: Presuasion
+
+1. Richard Davis: The Bhagavad Gita - A Biography
+
+1. Matthieu Ricard: Happiness: A Guide to Developing Life's Most Important Skill
+
+1. Thich Nhat Hanh: Silence: The Power of Quiet in a World Full of Noise
+
+1. Scott Jurek: Eat and Run: My Unlikely Journey to Ultramarathon Greatness
 
 
 ### Currently Reading
-
-* Ricard Mattieu: Happiness
 
 * Swami Chinmayananda: The Holy Geeta
 
@@ -103,8 +112,6 @@
 * Sam Harris: Waking up
 
 * Rebecca Goldstein: Incompleteness
-
-* Prof. Thad Polk: The Learning Brain (great courses)
 
 * Swami Dayananda Saraswati : The Teachings of Bhagavad Gita
 
