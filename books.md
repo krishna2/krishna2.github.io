@@ -98,8 +98,6 @@
 
 1. Matthieu Ricard: Happiness: A Guide to Developing Life's Most Important Skill
 
-1. Thich Nhat Hanh: Silence: The Power of Quiet in a World Full of Noise
-
 1. Scott Jurek: Eat and Run: My Unlikely Journey to Ultramarathon Greatness
 
 
