@@ -100,8 +100,26 @@
 
 1. Scott Jurek: Eat and Run: My Unlikely Journey to Ultramarathon Greatness
 
+1. Ram Dass: Journey of Awakening
+
+1. Bob Buford: Halftime: Moving from Success to Significance
+
+1. Thomas Deetjen: Published
+
 
 ### Currently Reading
+
+* Ursula K. Le Guin: No Time to Spare
+
+* Martin Seligman: Authentic Happiness
+
+* Hal Runkel: Choose your Own Adulthood
+
+* Michael Lewis: The Undoing Project
+
+* David Epstein: Range
+
+* Amy Cuddy: Presence
 
 * Swami Chinmayananda: The Holy Geeta
 
@@ -115,16 +133,15 @@
 
 * Swami Chinmayananda: Hymn to Sri Dakshinamurthi
 
-<!--
 * Thirukkural : Multiple Authors's Commentaries
+
+<!--
 
 * Swami Dayananda Saraswati: Sadhana Panchakam
 
 * Swami Tejomayananda: Aditya Hrudayam
 
-* Swami Chinmayananda: AS I Think
 
-* Roopa Pai: The Gita for Children
 
 * Roopa Pai: The Vedas and Upanishads for Children
 -->
