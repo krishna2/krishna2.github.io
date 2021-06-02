@@ -108,6 +108,7 @@
 
 1. Thomas Deetjen: Published
 
+1. Amy Cuddy: Presence
 
 ### Currently Reading
 
@@ -120,8 +121,6 @@
 * Michael Lewis: The Undoing Project
 
 * David Epstein: Range
-
-* Amy Cuddy: Presence
 
 * Swami Chinmayananda: The Holy Geeta
 
