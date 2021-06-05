@@ -1,5 +1,8 @@
 To add all the posts in one page.
 
+Ref:
+https://stackoverflow.com/questions/42609051/how-do-i-get-github-pages-to-generate-a-list-of-my-blog-posts
+
 <header>
       <h1>{{ site.title | default: site.github.repository_name }}</h1>
       <h2>{{ site.description | default: site.github.project_tagline }}</h2>
@@ -8,3 +11,8 @@ To add all the posts in one page.
     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
     <p><small><strong>{{ post.date | date: "%B %e, %Y" }}</strong> . {{ post.category }} . <a href="http://myname.github.com{{ post.url }}#disqus_thread"></a></small></p>            
 {% endfor %}
+
+
+Another ref:
+https://stackoverflow.com/questions/17118551/generating-a-list-of-pages-not-posts-in-a-given-category
+
