@@ -77,6 +77,8 @@ Then there is one more literal level if we follow the story that Veda Vyasa need
 
 ------
 
+### Back Story
+
 The endless redirection and self-reference and story within story within story and side-story, prequels sequels does not just end there.
 
 Sage Vyasa is the grandfather of the two main parties : Pandavas and Kauravas.
@@ -94,6 +96,8 @@ But Satyavathi in her younger days has a one-night(?) stand with Sage Paraashara
 Now Shantanu marries Satyavathi and they have two kids : Chitrangada and Vichitravirya. One of them dies in a battle. The other has two wives, Ambika and Ambalika (out of the three kidnapped by Bhishma. The other being Amba - who actually kills herself and vows to take a rebirth and kill Bhishma - which she does). He dies childless. So Vyasa is called to impregnate the two - the former begets Dhirtharashtra born blind and the latter begets Pandu who is born with a skin-condition. Pandu rules the kingdom since his brother is blind. It is the progenies of these two brothers that fight the great war.
 
 Now, think about it : Vyasa is the grandfather and also stays separate as a sage and writes the whole epic and outlives all of them. 
+
+### Vyasa's Lineage
 
 But that's not all, 
 
@@ -122,6 +126,7 @@ Sukha thaatham (Sage Sukha's father),
 
 thapOnithim.
 
+### Vyasaya Vishnu Roopaya
 
 And of course, Vyasa is also considered an avatar / form of Lord Vishnu too - again Vishnu Sahasaranamam says "Vyasaya Vishnu roopaya, Vyasa roopaya Vishnave" (roughly translated as "Vyasa is Vishnu and Vishnu is Vyasa").
 
