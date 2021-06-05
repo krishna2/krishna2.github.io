@@ -2,7 +2,9 @@
 
 Who wrote the Bhagavad Gita? (or the great epic Mahabharatha?).
 
-If you answered, "Krishna(1) or Krishna(2) or even Sanjaya", congratulations, you have peeled the first three layers.  There are at least three more levels. 🙂
+If you answered, "Krishna(1) or Sanjaya or Krishna(2)(another Krishna)", congratulations, you have peeled the first three layers.  There are at least three more levels. 🙂
+
+## Intro
 
 Bhagavad Gita (literally meaning "The Song of God") is a set of 18 chapters consisting in total 700 (or 701) verses. These in turn are part of the Sixth book (Bhishma parva) as part of the great epic Mahabharatha which consists of 18 books - comprising a total of ~100,000 verses. [each verse, most commonly, is a couplet of lines].
 
@@ -10,17 +12,25 @@ To take it at the outset, it is a dialogue between Lord Krishna and his friend/c
 
 King D is blind. But his son Junior D (Duryodhana) is fighting the Pandavas (five princes -> chief warrior among them being Arjuna). Sage Vyasa says that he can grant vision to King D. But King D has been blind all his life and says that he does not want vision in so late in his life just to witness a terrible war. So Sage V bestows the magic power to the trusted minister Sanjaya - such that he will not get tired and that he will be able to see and hear everything that happens on the battlefield. The battle starts. On the tenth day, Bhishma, the Commander in Chief of Junior D (/King D) is slain and is now going to wait it out on a bed of arrows to leave his mortal body at an opportune time. Somehow the word of this reaches King D and he can't take it anymore since this marks the first big fall to his army and hence asks Sanjaya to narrate from the beginning.
 
+### Level 1
+
 Sanjaya narrates how just when the war was to begin that Arjuna is not able to bring himself to fight his own cousins / family and friends. At that time, his friend / cousin / Charioteer Krishna, gives him counsel and wise advice. Which is codified as Bhagavad Gita.
 
 So we have level 1: Krishna to Arjuna.
 
+### Level 2
+
 Then, we have level 2 in which level 1 is narrated by Sanjay to Dhirtharashtra.
+
+### Level 3
 
 Then we have level 3, in which Sage Vyasa the supposed author of this magnificent epic. Vyasa's name as given by his mother (Sathyavathi) is Krishna Dwaipayana. (krishna meaning dark, or the one who attracts, and dwaipayana meaning island as he was born in an island). Hence my suffixing Krishna with (1) and (2) in my first para above. 
 
 Heard the kids song "John Jacob Jingleheimer Schmidt, his name is my name too .. " - so there, an extra fascination for me to all Krishnas. 🙂
 
 But is this the form in which it existed? Not as we know it.
+
+### Level 4
 
 Apparently, Sage Vyasa taught all this to his disciples. One of his disciples is Sage Vaishampayana.
 
@@ -34,11 +44,16 @@ Good to note here that King Janamejaya was the son of King Prakshit who is the s
 
 So did Sage Vaishampayana write it? Nah, not that easy.
 
+### Level 5
+
 [level 5] Turns out, one of the sages who was in King Janamejaya's court is Ugrashravas. And he listens to this whole story and he goes about wandering the regions and he comes across a group of sages performing rituals. They welcome him and ask him for inspiring devotional stories / teachings and Sage Ugrashravas tells them the story of Mahabharatha.
 
 So did Sage Ugrashravas write it? Nah, not yet ... 
 
+### Level 6
+
 [level 6] It is written by an anonymous author who *heard* Sage Ugrashravas.
+
 
 So there we have it : the matryoshka structure:
 
@@ -55,6 +70,8 @@ Sage Vyasa who narrates what
 Sanjaya told Dhirtharasthra, who (by power of Vyasa) heard
 
 Krishna's advice to Arjuna in the battlefield.
+
+### Level Literal
 
 Then there is one more literal level if we follow the story that Veda Vyasa needed a scribe and Lord Vinayaka broke his Tusk (Dhantham .. hence called Eka-Dhantham - one-tusked) and wrote the epic while Vyasa narrated it.
 
@@ -106,7 +123,7 @@ Sukha thaatham (Sage Sukha's father),
 thapOnithim.
 
 
-And of course, Vyasa is also considered an avatar / sort of form of Lord Vishnu too - again Vishnu Sahasaranamam says "Vyasaya Vishnu roopaya, Vyasa roopaya Vishnave".
+And of course, Vyasa is also considered an avatar / form of Lord Vishnu too - again Vishnu Sahasaranamam says "Vyasaya Vishnu roopaya, Vyasa roopaya Vishnave" (roughly translated as "Vyasa is Vishnu and Vishnu is Vyasa").
 
 Just an amazing intricate weaving of characters. Hope you enjoyed this as much as I did/do.
 
