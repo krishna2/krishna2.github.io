@@ -85,15 +85,24 @@ Vyasa is the son of Sage Parashara,
 who is the son of Sage Shakthi,
 
 who is the son of Sage Vashishta,
+
 who is the son of Lord Brahma,
+
 who is the son of Lord Vishnu himself. 
 
+
 Again those who read Vishnu Sahasaranamam will remember the shloka: 
+
 Vyasam (is) 
+
 Vashishta napthaaram (great grandson), 
+
 Shakthey pouthram (grandson) akalmasham, 
+
 Paraashara athmajam (son) vande,
+
 Sukha thaatham (Sage Sukha's father),
+
 thapOnithim.
 
 
