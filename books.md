@@ -110,21 +110,21 @@
 
 1. Amy Cuddy: Presence
 
+1. Michael Lewis: The Undoing Project
+
+1. David Epstein: Range
+
+1. Martin Seligman: Authentic Happiness
+
 ### Currently Reading
 
 * Ursula K. Le Guin: No Time to Spare
 
-* Martin Seligman: Authentic Happiness
-
 * Hal Runkel: Choose your Own Adulthood
-
-* Michael Lewis: The Undoing Project
-
-* David Epstein: Range
 
 * Swami Chinmayananda: The Holy Geeta
 
-* Whitney Johnson: Disrupt Yourself
+* Whitney : Disrupt Yourself
 
 * Sam Harris: Waking up
 
