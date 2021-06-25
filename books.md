@@ -80,7 +80,7 @@
 
 1. Rajesh Sengamedu: Happiness Beyond Mind
 
-1. Aswatch Damodaran: The Little Book of Valuation*
+1. Aswath Damodaran: The Little Book of Valuation*
 
 1. Jennifer Doudna: A Crack in Creation
 
