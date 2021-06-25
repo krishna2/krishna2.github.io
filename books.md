@@ -68,7 +68,7 @@
 
 1. George Clason: The Richest Man In Babylon
 
-1. Thich Nhat Hanh: Silence: The Power of Quiet in a World Full of Nois
+1. Thich Nhat Hanh: Silence: The Power of Quiet in a World Full of Noise
 
 1. Prof. Ian Stewart: Incredible Numbers
 
