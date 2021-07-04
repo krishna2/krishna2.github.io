@@ -116,9 +116,14 @@
 
 1. Martin Seligman: Authentic Happiness
 
+1. Kathe Koja: Buddha Boy
+
+
 ### Currently Reading
 
 * Ursula K. Le Guin: No Time to Spare
+
+* Jordan Peterson: 12 Rules for Life
 
 * Hal Runkel: Choose your Own Adulthood
 
