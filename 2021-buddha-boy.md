@@ -19,6 +19,8 @@ A few interesting notes from the book (no spoilers).
 
 ### Mindfulness
 
+The [ideogram for mindfulness](https://www.mindheartnow.com/2018/04/16/kanji-mind-heart-now/).
+
 ```
 The meaning for the ideogram for mindfulness: "is a symbol for ‘mindfulness.’ The top part, the little roof, means ‘now.’ The lower element means ‘heart’ and ‘mind’ together. It could be translated as ‘being full-hearted, open-minded, right now.’”
 ```
