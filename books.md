@@ -118,6 +118,14 @@
 
 1. Kathe Koja: Buddha Boy
 
+1. Jordan Peterson: 12 rules for life
+
+1. Sriram Gopalan: Sage, Rosemary and Time comics Vol. 1
+
+1. Swami Mukundananda: The Science of Mind Management
+
+1. Mindy Kaling: Is Everyone Hanging Out Without Me?
+
 
 ### Currently Reading
 
