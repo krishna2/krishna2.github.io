@@ -126,12 +126,12 @@
 
 1. Mindy Kaling: Is Everyone Hanging Out Without Me?
 
+1. Ursula K. Le Guin: No Time to Spare
+
 
 ### Currently Reading
 
-* Ursula K. Le Guin: No Time to Spare
-
-* Jordan Peterson: 12 Rules for Life
+* Rick Hanson: Hardwiring Happiness
 
 * Hal Runkel: Choose your Own Adulthood
 
