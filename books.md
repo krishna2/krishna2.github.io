@@ -132,10 +132,10 @@
 
 1. Paul Coelho: The Alchemist
 
-1. Swami Dayananda Saraswathi: Bhagavad Gita : Vol. 2
-
 
 ### Currently Reading
+
+* Swami Dayananda Saraswathi: Bhagavad Gita : Vol. 2
 
 * Rick Hanson: Hardwiring Happiness
 
