@@ -128,14 +128,14 @@
 
 1. Ursula K. Le Guin: No Time to Spare
 
-1. Swami Dayananda Saraswathi: Bhagavad Gita : Vol. 1
+1. Swami Dayananda Saraswathi: Bhagavad Gita : Vol. 1 (Intro & Chap. 1)
 
 1. Paul Coelho: The Alchemist
 
+1. Swami Dayananda Saraswathi: Bhagavad Gita : Vol. 2 (Chap. 2)
+
 
 ### Currently Reading
-
-* Swami Dayananda Saraswathi: Bhagavad Gita : Vol. 2
 
 * Rick Hanson: Hardwiring Happiness
 
