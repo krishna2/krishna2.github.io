@@ -1,6 +1,6 @@
 <h1>Hello World!</h1>
 <!-- testing from github pages -->
-I am Krishna. You can check out the <a href="/books">books I read</a>.
+I am Krishna. You can check out the <b><a href="/books">books I read</a></b>.
 
 <h2>Here are some of my writings</h2>
 <br />
