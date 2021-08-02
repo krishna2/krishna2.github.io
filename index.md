@@ -2,10 +2,36 @@
 <!-- testing from github pages -->
 I am Krishna. You can check out the <a href="/books">books I read</a>.
 
-<br /><br /><hr />
+<br /><br />
 <h2>Here are some reviews / essays that I have written</h2>
 <br /><br />
 
+<a href="https://krishna2.com/bg/bg-message">What is the Message of the Bhagavad Gita? (in one word? or two words?)</a>
+<br /><br />
+
+<a href="https://krishna2.com/bg/author">Who wrote the Bhagavad Gita?</a>
+<br /><br />
+
+<a href="https://krishna2.com/bg/books-for-kids">Bhagavad Gita Books for Kids</a>
+<br /><br />
+
+<a href="https://krishna2.com/if">Intermittent Fasting (IF)</a>
+<br /><br />
+
+<a href="https://krishna2.com/thirukkural">Thirukkural</a>
+<br /><br />
+
+<a href="https://krishna2.com/books-finance">Finance books and Investing Philosophy</a>
+<br /><br />
+
+<a href="https://krishna2.com/2021-we-have-no-idea">We Have No Idea - A short book review and some notes on Mandukya Upanishad</a>
+<br /><br />
+
+<a href="https://krishna2.com/2021-buddha-boy">Buddha Boy (fiction)</a>
+<br /><br />
+
+<a href="https://krishna2.com/books-audible-reco">Some book recommendations in Audible (and Great Courses)</a>
+<br /><br />
 
 <a href="http://krishna2.com/2018-books-fiction">Fiction List from 2018</a>
 <br /><br />
