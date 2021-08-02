@@ -134,10 +134,16 @@
 
 1. Swami Dayananda Saraswathi: Bhagavad Gita : Vol. 2 (Chap. 2)
 
+1. Miyamoto Musashi: The Book of Five Rings
+
+1. Rev. Heng Sure and Rev. Heng Chau: Highway Dharma Letters
+
+1. Rick Hanson: Hardwiring Happiness
+
+1. Swami Paramarthananda: Mundaka Upanishad
+
 
 ### Currently Reading
-
-* Rick Hanson: Hardwiring Happiness
 
 * Hal Runkel: Choose your Own Adulthood
 
