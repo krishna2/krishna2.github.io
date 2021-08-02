@@ -3,7 +3,6 @@
 I am Krishna. You can check out the <b><a href="/books">books I read</a></b>.
 
 <h2>Here are some of my writings</h2>
-<br />
 
 <a href="https://krishna2.com/bg/bg-message">What is the Message of the Bhagavad Gita? (in one word? or two words?)</a>
 <br /><br />
