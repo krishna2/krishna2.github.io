@@ -142,6 +142,8 @@
 
 1. Swami Paramarthananda: Mundaka Upanishad
 
+1. Rickey Gates: Cross Country
+
 
 ### Currently Reading
 
