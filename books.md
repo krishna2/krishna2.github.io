@@ -144,6 +144,12 @@
 
 1. Rickey Gates: Cross Country
 
+1. Swami Tadatmananda: The Roar of the Ganges
+
+1. Swami Paramarthananda: Tattva Bodha
+
+1. Alan Watts: The Book
+
 
 ### Currently Reading
 
