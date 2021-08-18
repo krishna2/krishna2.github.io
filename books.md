@@ -150,6 +150,12 @@
 
 1. Alan Watts: The Book
 
+1. Swami Paramarthananda: Kena Upanishad
+
+1. Roopa Pai: The Vedas and the Upanishads for Children
+
+1. Swami Paramarthananda: Atma Bodha
+
 
 ### Currently Reading
 
