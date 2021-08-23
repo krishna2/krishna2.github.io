@@ -156,8 +156,14 @@
 
 1. Swami Paramarthananda: Atma Bodha
 
+1. Swami Paramarthananda: Essense of Vedanta
+
+1. Swami Paramarthananda: Vedanta Saara
+
 
 ### Currently Reading
+
+* Prof. V. Krishnamoorthy: Bhagavad Gita
 
 * Hal Runkel: Choose your Own Adulthood
 
