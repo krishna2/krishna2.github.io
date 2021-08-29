@@ -28,12 +28,12 @@
 1. Reality and Unreality : 2-16
 2. Everything is Brahman : 4-24
 3. Equanimity of everything everywhere : elaborated in 24 Shlokas :
-  1. 2-38
-  2. 2-56
-  3. 2-72
-  4. 4-22
-  5. 4-24
-  6. 5-18
+  - 1. 2-38
+  - 2. 2-56
+  - 3. 2-72
+  - 4. 4-22
+  - 5. 4-24
+  - 6. 5-18
   7. 5-19
   8. 5-20
   9. 6-8
