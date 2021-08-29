@@ -61,11 +61,11 @@
 
 ## Way of Assimilating and Practising the Teachings of the Bhagavad Gita
 
-### 11-55
+### Five Methodology in one shloka : 11-55
 
 1. Karma, Bhakthi, SharaNAgati, Yoga-sAdhanA, Brahma-bhAva : 11-55
 
-### 9-27
+### Five Methodology in one shloka : 9-27
 
 1. Karma, Bhakthi, SharaNAgati, Yoga-sAdhanA, Brahma-bhAva :9-27
 
@@ -95,7 +95,7 @@
 2. 9-31
 3. 18-65, 18-66
 
-## Purposeful Advatic Living
+## Purposeful Advaitic Living
 
 5-19 to 5-26
 
