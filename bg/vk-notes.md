@@ -89,3 +89,92 @@
 
 6-32
 
+## 24 Shlokas from Gita to convey the deep meaning of the Gayathri Mantra from GItrAmrita Mahodadhi
+
+1. 8-21
+2. 11-05
+3. 13-13
+4. 13-14
+5. 13-15
+6. 15-04
+7. 15-05
+8. 15-06
+9. 2-17
+10. 2-23
+11. 2-24
+12. 4-34
+13. 13-16
+14. 18-62
+15. 13-17
+16. 11-12
+17. 13-24
+18. 18-33
+19. 13-23
+20. 18-20
+21. 18-46
+22. 8-22
+23. 6-22
+24. 6-21
+
+## Review of Krishna's Teachings as far as what we have to do through 27 Shlokas
+
+1. 2-16
+2. 2-47
+3. 2-64 (first half)
+4. 3-9 (first half)
+5. 3-27
+6. 3-30 (second half)
+7. 4-19 (second half)
+8. 4-24
+9. 5-13
+10. 6-14 (second half)
+11. 6-25 (second half)
+12. 6-26
+13. 7-10
+14. 7-14
+15. 8-13
+16. 9-4
+17. 9-18
+18. 9-27
+19. 11-55
+20. 11-18 (or 11-38)
+21. 12-8
+22. 13-2 (or 13-3 if Arjuna's question is counted)
+23. 13-24
+24. 14-24
+25. 15-16 (first half)
+26. 17-16 (second half)
+27. 18-5 (first half)
+28. 18-26
+29. 11-33 (quarter)
+30. 18-45 (quarter)
+31. 18-52 (18-51 is also part of a three set sequence)
+32. 18-53
+33. 18-61
+34. 18-66
+
+## Pinnacle Shlokas of the Gita (72 Shlokas)
+
+1. 2-55 to 2-72 : Sthithapraj~na
+2. 4-35 to 4-42 : j~nAna
+3. 5-19 to 5-24 : j~nAni
+4. 8-9, 8-10 : profile of the Supreme for last memory
+5. 12-13 to 12-19 : on an ideal Bhaktha
+6. 14-22 to 14-27 : on GuNAtIta
+7. 17-14, 17-15, 17-16 : three kinds of tapas
+8. 18-20, 18-23, 18-26, 18-30, 18-33, 18-36 : Satvik kinds of six things viz. Jnana, Karma, KartA, Buddhi, Dhriti and sukhaM
+9. 18-50 to 18-56 : Krishna's own summary of the GItA
+10. 18-61, 18-65 : SharaNAgati
+11. 9-27, 11-55 : Each compromising of the five major teachings of the GItA
+12. 3-30, 6-26, 6-30, 9-34, 18-66 : Five methodology sholokas for five teachings (Karma, DhyAna, Brahkmabhava, Bhakti, Sharanagati)
+
+## Prof. Mahadevan's Five Principles via five shlokas
+
+1. 18-14
+2. 2-38
+3. 3-9
+4. 3-4
+5. 18-46
+
+## Five Star Shlokas
+
