@@ -89,6 +89,20 @@
 
 6-32
 
+## Three Promises of the Lord
+
+1. 9-22
+2. 9-31
+3. 18-65, 18-66
+
+## Purposeful Advatic Living
+
+5-19 to 5-26
+
+## Essence of Upanishads according to Krishna
+
+2-11 to 2-25
+
 ## 24 Shlokas from Gita to convey the deep meaning of the Gayathri Mantra from GItrAmrita Mahodadhi
 
 1. 8-21
