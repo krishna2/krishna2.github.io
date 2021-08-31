@@ -160,10 +160,12 @@
 
 1. Swami Paramarthananda: Vedanta Saara
 
+1. Prof. V. Krishnamoorthy: Thus Spake Krishna (Bhagavad Gita)
+
 
 ### Currently Reading
 
-* Prof. V. Krishnamoorthy: Bhagavad Gita
+* Swami Paramarthananda: Essence of Upanishads
 
 * Hal Runkel: Choose your Own Adulthood
 
