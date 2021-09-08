@@ -8,6 +8,8 @@
 
 1. Swami Chinmayananda : The Bhagavad Gita : Volume 8 (Covers Chapter 9 of BG)
 
+1. Swami Dayananda Saraswati : The Teachings of Bhagavad Gita
+
 1. Josh Brown, Brian Portnoy: How I Invest My Money
 
 1. Matthew Kratter: Beginner's Guide to the Stock Market
@@ -162,10 +164,14 @@
 
 1. Prof. V. Krishnamoorthy: Thus Spake Krishna (Bhagavad Gita)
 
+1. Swami Paramarthananda: Essence of Upanishads
+
+1. Sri M: Apprenticed to a Himalayan Master
+
+
 
 ### Currently Reading
 
-* Swami Paramarthananda: Essence of Upanishads
 
 * Hal Runkel: Choose your Own Adulthood
 
@@ -177,8 +183,6 @@
 
 * Rebecca Goldstein: Incompleteness
 
-* Swami Dayananda Saraswati : The Teachings of Bhagavad Gita
-
 * Swami Chinmayananda: Hymn to Sri Dakshinamurthi
 
 * Thirukkural : Multiple Authors's Commentaries
@@ -189,9 +193,6 @@
 
 * Swami Tejomayananda: Aditya Hrudayam
 
-
-
-* Roopa Pai: The Vedas and Upanishads for Children
 -->
 
 
