@@ -168,10 +168,20 @@
 
 1. Sri M: Apprenticed to a Himalayan Master
 
+1. Swami Dayananda Saraswati: The Vision of the Gita (in 10 verses)
+
+1. Swami Muktananda: 7 Divine Laws to Awaken Your Best Self
+
+1. John Williams: Stoner
 
 
 ### Currently Reading
 
+* Swami Paramarthananda: The Bhagavad Gita
+
+* Swami Gurubhaktananda: Tattva Bodha
+
+* Swami Gurubhaktananda: Atma Bodha
 
 * Hal Runkel: Choose your Own Adulthood
 
