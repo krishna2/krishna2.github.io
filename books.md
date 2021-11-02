@@ -174,10 +174,22 @@
 
 1. John Williams: Stoner
 
+1. Henry David Thoreau: Walden
+
+1. David Miller: AWOL on the Appalachian Trail
+
+1. Sarada Chiruvolu: Home at Last
+
+1. Frank McLynn: Genghis Khan: His Conquests, His Empire, His Legacy
+
+1. Andy Weir: Randomize
+
+1. Sharon Lee Alexander: Love and Other Unknown Variables
+
+1. Swami Paramarthananda: The Bhagavad Gita (magnificient work of 246 lectures / roughly 3800 pages epic!).
+
 
 ### Currently Reading
-
-* Swami Paramarthananda: The Bhagavad Gita
 
 * Swami Gurubhaktananda: Tattva Bodha
 
@@ -187,7 +199,7 @@
 
 * Swami Chinmayananda: The Holy Geeta
 
-* Whitney : Disrupt Yourself
+* Swami Ranganathananda: The Bhagavad Gita
 
 * Sam Harris: Waking up
 
@@ -198,6 +210,8 @@
 * Thirukkural : Multiple Authors's Commentaries
 
 <!--
+
+* Whitney : Disrupt Yourself
 
 * Swami Dayananda Saraswati: Sadhana Panchakam
 
