@@ -188,8 +188,29 @@
 
 1. Swami Paramarthananda: The Bhagavad Gita (magnificient work of 246 lectures / roughly 3800 pages epic!).
 
+1. Swami Tejomayananda: Manah Sodhanam
+
+1. Swami Paramarthananda: Katha Upanishad
+
+1. Sam Altman: Startup Playbook
+
+1. Robert Greene: Masters*
+
+1. Rich Karlgaard: Late Bloomers
+
+1. Swami Tejomayananda: Aditya Hrudayam
+
+1. Swami Paramarthananda: Isavasya Upanishad
+
+
 
 ### Currently Reading
+
+* Daniel James Brown: Boys in the Boat
+
+* Yuval Noah Harari: Sapiens
+
+* Karen Armstrong: History of God
 
 * Swami Gurubhaktananda: Tattva Bodha
 
@@ -211,11 +232,7 @@
 
 <!--
 
-* Whitney : Disrupt Yourself
-
 * Swami Dayananda Saraswati: Sadhana Panchakam
-
-* Swami Tejomayananda: Aditya Hrudayam
 
 -->
 
