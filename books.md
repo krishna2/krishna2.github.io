@@ -204,6 +204,8 @@
 
 1. Richard Bach: Jonathan Livingston Seagull
 
+1. Swami Paramarthananda: Aitareya Upanishad
+
 
 ### Currently Reading
 
