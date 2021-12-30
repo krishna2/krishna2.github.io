@@ -206,12 +206,25 @@
 
 1. Swami Paramarthananda: Aitareya Upanishad
 
+1. Yuval Noah Harari: Sapiens
+
+1. Sam Harris: Free Will
+
+1. Daniel Levitin: The Organized Mind
+
+1. Swami Sarvapriyananda: Who Am I?
+
+1. Edward Yardeni: The Fed and the Great Crisis
+
+1. Edward Yardeni: In Praise of Profits
+
+1. Swami Paramarthananda: Prashna Upanishad
+
+
 
 ### Currently Reading
 
 * Daniel James Brown: Boys in the Boat
-
-* Yuval Noah Harari: Sapiens
 
 * Karen Armstrong: History of God
 
