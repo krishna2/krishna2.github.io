@@ -4,6 +4,21 @@
 [Link to this page](https://krishna2.github.io/books)
 -->
 
+## Books in 2022
+
+1. Swami Paramarthananda: Essence / Summary of Bhagavad Gita
+
+1. Dr. Jason Fung: Cancer Code
+
+1. Swami Paramarthananda: Kaivalya Upanishad
+
+1. Swami Gurubhaktananda: Atma Bodha
+
+1. Nicholas Sutton: Bhagavad Gita
+
+
+
+
 ## Books in 2021
 
 1. Swami Chinmayananda : The Bhagavad Gita : Volume 8 (Covers Chapter 9 of BG)
