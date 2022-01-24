@@ -61,6 +61,10 @@
 
 ## Way of Assimilating and Practising the Teachings of the Bhagavad Gita
 
+### Core Message of the Gita : 6-20, 13-24
+
+Atmani AtmanA AtmAnaM pashya
+
 ### Five Methodology in one shloka : 11-55
 
 1. Karma, Bhakthi, SharaNAgati, Yoga-sAdhanA, Brahma-bhAva : 11-55
