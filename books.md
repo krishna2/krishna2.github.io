@@ -16,6 +16,16 @@
 
 1. Nicholas Sutton: Bhagavad Gita
 
+1. Hari Chetan: Bhagavad Gita - The Perfect Philosophy
+
+1. Oliver Burkeman: Four Thousand Weeks
+
+1. Mihaly Csikszentmihalhi: Finding Flow 
+
+1. Paul Brunton: A Search in Secret India
+
+1. Swami Paramarthananda: Taittriya Upanishad
+
 
 
 
