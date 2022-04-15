@@ -6,7 +6,7 @@
 
 ## Books in 2022
 
-1. Swami Paramarthananda: Essence / Summary of Bhagavad Gita
+1. Swami Paramarthananda: Essence (Summary) of Bhagavad Gita
 
 1. Dr. Jason Fung: Cancer Code
 
@@ -25,6 +25,14 @@
 1. Paul Brunton: A Search in Secret India
 
 1. Swami Paramarthananda: Taittriya Upanishad
+
+1. Swami Parthasarathy: The Holocaust of Attachment
+
+1. Tom Shanley: Heaven's Favorite Book 1 (Ascent: The rise of Chinggig Khan)
+
+1. Swami Paramarthananda: Mandukya Upanishad
+
+1. Alan Lightman: In Praise of Wastinng Time
 
 
 
