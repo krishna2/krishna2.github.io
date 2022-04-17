@@ -34,6 +34,12 @@
 
 1. Alan Lightman: In Praise of Wastinng Time
 
+1. Taylor Jenkins Reid: Evidence of the Affair
+
+1. Dear Committee Members*
+
+1. Emmet Fox: Sermon on the Mount*
+
 
 
 
