@@ -36,7 +36,7 @@
 
 1. Taylor Jenkins Reid: Evidence of the Affair
 
-1. Dear Committee Members*
+1. Julie Schumacher: Dear Committee Members*
 
 1. Emmet Fox: Sermon on the Mount*
 
