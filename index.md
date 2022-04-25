@@ -8,7 +8,9 @@ I have previously worked at Apple, IBM, blekko (acquired by IBM), Yahoo, IronPor
 
 You can find my research publications in <a href="https://scholar.google.com/citations?user=aYn5qFUAAAAJ&hl=en">Google Scholar</a>.
 
-You can check out or connect via these networks:, <a href="https://linkedin.com/in/krishna2">Linkedin</a>, <a href="https://github.com/krishna2">Github</a>, <a href="https://twitter.com/krishna2">Twitter</a>, <a href="https://www.facebook.com/Krishna2/">Facebook</a>. Or you can email me at krishna2 in the popular email service run by Google.
+You can check out or connect via these networks: <a href="https://linkedin.com/in/krishna2">Linkedin</a>, <a href="https://github.com/krishna2">Github</a>, <a href="https://twitter.com/krishna2">Twitter</a>, <a href="https://www.facebook.com/Krishna2/">Facebook</a>. 
+<br/>
+Or you can email me at krishna2 in the popular email service run by Google.
 
 I love to read books and maintain here my reading list of the <b><a href="/books">books I read</a></b>.
 
