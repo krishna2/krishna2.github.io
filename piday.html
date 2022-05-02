@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="en" class="h-100">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="krishna2's countdown timer to pi day">
+    <meta name="author" content="krishna2">
+    <title>krishna2's countdown timer to pi day</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!--
+      .left_text {
+        font-weight: 400%;
+        font-size: 600%; 
+        color: #176db3;
+      }
+      .right_text {
+        font-weight: 400%;
+        font-size: 500%;
+        color: #ea0606;
+      }
+    -->
+
+    <style>
+      body {
+        text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
+        box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
+      }
+
+      .cover-container {
+        max-width: 100%;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+
+      body {
+        background-color: #003300;
+      }
+
+      table {
+        table-layout: fixed;
+        overflow: hidden;
+        width:100%;
+      }
+
+      .left_text {
+        font-weight: 400%;
+        font-size: 600%; 
+        color: #FF8000;
+      }
+      .right_text {
+        font-weight: 400%;
+        font-size: 500%;
+        color: #00FF80;
+      }
+      td {
+        padding: 10px;
+      }
+      td.tdl {
+        text-align: left;
+      }
+      td.tdr {
+        text-align: right;
+      }
+
+    </style>
+
+    <script>
+    // From: https://www.w3schools.com/howto/howto_js_countdown.asp
+    // Set the date we're counting down to
+    var countDownDate = new Date("Mar 13, 2023 15:14:15").getTime();
+
+    // Update the count down every 1 second
+    var x = setInterval(function() {
+
+      // Get today's date and time
+      var now = new Date().getTime();
+
+      // Find the distance between now and the count down date
+      var distance = countDownDate - now;
+
+      // Time calculations for days, hours, minutes and seconds
+      var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+      var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+      var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+      var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+      var fhours = Math.floor((distance / (1000 * 60 * 60)));
+      var fminutes = Math.floor((distance / (1000 * 60)));
+      var fseconds = Math.floor(distance / 1000);
+
+      // Display the result in the element with id="demo"
+
+      document.getElementById("k2cd").innerHTML = `
+      <table>
+      <tr>
+        <td class="tdr"> <span class="left_text">${days}</span> </td> <td class="tdl"> <span class="right_text">days</span> </td>
+      </tr>
+      <tr>
+        <td class="tdr"> <span class="left_text">${fhours}</span></td><td class="tdl"><span class="right_text">hours</span> </td>
+      </tr>
+      <tr>
+        <td class="tdr"> <span class="left_text">${fminutes}</span></td><td class="tdl"><span class="right_text">minutes</span> </td>
+      </tr>
+      <tr>
+        <td class="tdr"> <span class="left_text">${fseconds}</span></td><td class="tdl"><span class="right_text">seconds</span> </td>
+      </tr>
+      </table>
+      <!--
+      <p>Debug: ${days} and ${hours} and ${minutes} and ${seconds}</p>
+      <p>Debug: ${days} and ${fhours} and ${fminutes} and ${fseconds}</p>
+      -->
+      `;
+
+      // If the count down is finished, write some text
+      if (distance < 0) {
+        clearInterval(x);
+        document.getElementById("demo").innerHTML = "PI DAY!!!";
+      }
+    }, 1000);
+    </script>
+
+  </head>
+  <body class="d-flex h-100 text-center text-white">
+    
+<div class="cover-container d-flex mx-auto flex-column">
+  <header class="kheader">
+      <h1>Countdown to Pi Day</h1>
+  </header>
+
+  <main id="k2cd">
+    <h1>Countdown begins ... </h1>
+  </main>
+
+  <footer class="mt-auto text-white-50">
+    <p class="text-white">a countdown creation by krishna2</p>
+  </footer>
+</div>
+
+
+    
+  </body>
+</html>
