@@ -40,6 +40,14 @@
 
 1. Emmet Fox: Sermon on the Mount*
 
+1. Swami Paramarthananda: Advaita Makaranda*
+
+1. Swami Paramarthananda: Drig Drishya Viveka
+
+1. Andy Weir: Hail Mary
+
+1. Tom Shanley: Heaven's Favorite Book 2 (Ascent: The rise of Chinggig Khan)
+
 
 
 
