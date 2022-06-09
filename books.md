@@ -46,8 +46,9 @@
 
 1. Andy Weir: Hail Mary
 
-1. Tom Shanley: Heaven's Favorite Book 2 (Ascent: The rise of Chinggig Khan)
+1. Tom Shanley: Heaven's Favorite Book 2 (Dominion: Dawn of the Mongol Empire)
 
+1. Kazuo Ishiguro: Never Let Me Go
 
 
 
