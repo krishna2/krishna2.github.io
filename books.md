@@ -36,7 +36,7 @@
 
 1. Taylor Jenkins Reid: Evidence of the Affair
 
-1. Julie Schumacher: Dear Committee Members*
+1. Julie Schumacher: Dear Committee Members
 
 1. Emmet Fox: Sermon on the Mount*
 
@@ -49,6 +49,14 @@
 1. Tom Shanley: Heaven's Favorite Book 2 (Dominion: Dawn of the Mongol Empire)
 
 1. Kazuo Ishiguro: Never Let Me Go
+
+1. George Dyson: Turing's Cathedral
+
+1. Shauna Robinson: Must Love Books
+
+1. Carol Anderson: White Rage
+
+1. 
 
 
 
