@@ -58,6 +58,11 @@
 
 1. Carol Anderson: White Rage
 
+1. Adam Savage: Every Tool's a Hammer
+
+1. Marcus Aurelius and Gregory Hays: Meditations: A new translation
+
+
 
 
 
