@@ -64,6 +64,11 @@
 
 1. Elizabeth Gilbert: Big Magic
 
+1. Emily Henry: Book Lovers
+
+1. Dan Roam: The Back of the Napkin
+
+1. Cal Newport: Digital Minimalism
 
 
 
