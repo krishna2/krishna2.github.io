@@ -70,6 +70,8 @@
 
 1. Cal Newport: Digital Minimalism
 
+1. Dan Roam: Blah Blah Blah
+
 
 
 ## Books in 2021
