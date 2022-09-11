@@ -72,6 +72,9 @@
 
 1. Dan Roam: Blah Blah Blah
 
+1. John Green: The Fault in Our Stars
+
+1. Thomas Merton: Seven Storey Mountain
 
 
 ## Books in 2021
