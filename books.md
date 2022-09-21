@@ -76,6 +76,8 @@
 
 1. Thomas Merton: Seven Storey Mountain
 
+1. Scott Adams: God's Debris
+
 
 ## Books in 2021
 
