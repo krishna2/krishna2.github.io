@@ -78,6 +78,18 @@
 
 1. Scott Adams: God's Debris
 
+1. Swami Paramarthananda: Viveka Choodamani Part 1
+
+1. Swami Paramarthananda: Saddarshanam
+
+1. David Graeber: Bullshit Jobs
+
+1. David Graeber: Dawn of Everything*
+
+1. Abby Jimenez: Friend Zone
+
+1. Radhanath Swami: The Journey Home (Autobiography of an American Swami)
+
 
 ## Books in 2021
 
