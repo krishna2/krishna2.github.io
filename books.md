@@ -92,7 +92,11 @@
 
 1. Gabrielle Zevin: Tomorrow and Tomorrow and Tomorrow
 
-1. 
+1. Swami Paramarthananda: Ashtavakra Gita
+
+1. Dan Barker: Godless
+
+1. Bonnie Garmus: Lessons in Chemistry
 
 
 ## Books in 2021
