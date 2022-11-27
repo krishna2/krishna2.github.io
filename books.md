@@ -98,6 +98,13 @@
 
 1. Bonnie Garmus: Lessons in Chemistry
 
+1. Anand Giridhardhas: Winners Take All*
+
+1. Stephen Batchelor: Confessions of a Buddhist Atheist*
+
+1. Daniel Keys: Flowers for Algernon
+
+
 
 ## Books in 2021
 
