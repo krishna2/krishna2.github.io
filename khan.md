@@ -84,27 +84,37 @@ bore the heck out of anyone (esp. if a course or exams are associated with it), 
 Eternally thankful to Mano for introducing me to Genghis and also gifting me the first book
 long ago. (little did the rascal know he would make me incur four more books and then another half a doze books by going deep down the Mongol rabbit hole).
 
-Start with the five book historic-fiction series by Conn Iggluden called as the Conqueror Series. 
+Start with the `five book historic-fiction series by Conn Iggluden` called as the Conqueror Series`. 
 Theese books are un-put-downable. ON top of it, they are actually about 80+% history.
 Only a small part fiction to make the narration interesting. 
+
+```
+Conn Iggluden's Conqueror Series
 
 1. Genghis: Birth of an Empire
 2. Genghis: Lords of the Bow
 3. Genghis: Bones of the Hill
 4. Khan: Empire of Silver
 5. Conqueror: A Novel of Kublai Khan
+```
 
 At this point, you are ready for the serious history.
 
-One of the authories on Mongols and Genghis is Jack Weatherford. His "Genghis Khan and the Making of the Modern World" is an amazing book. But he does
-overdo since it is his given topic/thesis (so warning). But he lives in Mongolia! He has a few other books "The Secret History of the Mongol Queens: How the Daughters of Genghis Khan Rescued His Empire" and "Genghis Khan and the Quest for God: How the World's Greatest Conqueror Gave Us Religious Freedom".
+One of the authories on Mongols and Genghis is `Jack Weatherford's amazing book His "Genghis Khan and the Making of the Modern World"`. 
+
+But he does overdo since it is his given topic/thesis (so warning). But he lives in Mongolia! He has a few other books "The Secret History of the Mongol Queens: How the Daughters of Genghis Khan Rescued His Empire" and "Genghis Khan and the Quest for God: How the World's Greatest Conqueror Gave Us Religious Freedom".
 I have not read these two.
 
 If you are ready for another round of historic fiction, then I can heartily recommend Tom Shanely.
+
+```
+Tom Shanely's Heaven's Favorite Series
+
 1. Ascent: The Rise of Chinggis Khan (Heaven's Favorite Book 1)
 2. Dominion: Dawn of the Mongol Empire (Heaven's Favorite Book 2)
+```
 
-To continue the yin and yang between historic fiction and non-fiction narration, then next book, I would recommend is Frank McLynn's "Genghis Khan: His Conquests, His Empire, His Legacy".
+To continue the yin and yang between historic fiction and non-fiction narration, then next book, I would recommend is `Frank McLynn's "Genghis Khan: His Conquests, His Empire, His Legacy"`.
 
 These nine books have not just been enteraining but have been illuminating too about the History of the World (no less)! These teach us lots of things
 to NOT do. However, they do also show us the lessons we can learn from. There are many good parts to it. Having lived in the Silicon Valley for 22+ years,
@@ -118,10 +128,9 @@ Those who do not learn history are doomed to repeat it.
 by writer and philosopher George Santayana
 ```
 
+I have another half a dozen books of Genghis and Mongols in my ever-growing Tsundoku shelf - but that's for another day. Mongolia / Ulan Batur and the Steppes are very high on my places-to-visit list.
 
-
-
-
+Happy reading!
 
 
 
