@@ -104,6 +104,22 @@
 
 1. Daniel Keys: Flowers for Algernon
 
+1.  Atul Gawande: Being Mortal
+
+1. Anand Giridhardas: Winners Take All
+
+1. Danile Lieberman & Michael Long: The Molecule of More
+
+1. Jonathan Rauch: The Happiness Curve
+
+1. Victoria Loustalot: Future Perfect
+
+1. Prof. V. Krishnamurthy: A Primer of Spirituality
+
+1. Arnold Bennett: How Live on 24 Hours a Day
+
+1. 
+
 
 
 ## Books in 2021
