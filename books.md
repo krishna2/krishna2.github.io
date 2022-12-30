@@ -40,7 +40,7 @@
 
 1. Emmet Fox: Sermon on the Mount*
 
-1. Swami Paramarthananda: Advaita Makaranda*
+1. Swami Paramarthananda: Advaita Makaranda
 
 1. Swami Paramarthananda: Drig Drishya Viveka
 
@@ -96,6 +96,8 @@
 
 1. Dan Barker: Godless*
 
+1. Sriram Iyer: Kandhar Anubhuthi
+
 1. Bonnie Garmus: Lessons in Chemistry
 
 1. Anand Giridhardhas: Winners Take All*
@@ -104,7 +106,7 @@
 
 1. Daniel Keys: Flowers for Algernon
 
-1.  Atul Gawande: Being Mortal
+1. Atul Gawande: Being Mortal
 
 1. Anand Giridhardas: Winners Take All
 
@@ -123,6 +125,10 @@
 
 ### Currently Reading
 
+* Bruce Lawrence: Quran
+
+* Varadaraja Raman: Manikkavasagar's Sivapuranam
+
 * Karen Armstrong: History of God
 
 * Hal Runkel: Choose your Own Adulthood
@@ -130,6 +136,10 @@
 * Swami Chinmayananda: The Holy Geeta
 
 * Swami Ranganathananda: The Bhagavad Gita
+
+* Swami Chidbhavananda: The Bhagavad Gita
+
+* Cal Newport: Digital Minimalism
 
 * Sam Harris: Waking up
 
