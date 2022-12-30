@@ -139,8 +139,6 @@
 
 * Swami Chidbhavananda: The Bhagavad Gita
 
-* Cal Newport: Digital Minimalism
-
 * Sam Harris: Waking up
 
 * Rebecca Goldstein: Incompleteness
