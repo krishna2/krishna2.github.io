@@ -100,7 +100,7 @@ Conn Iggluden's Conqueror Series
 
 At this point, you are ready for the serious history.
 
-One of the authories on Mongols and Genghis is `Jack Weatherford's amazing book His "Genghis Khan and the Making of the Modern World"`. 
+One of the authorities on Mongols and Genghis is `Jack Weatherford's amazing book His "Genghis Khan and the Making of the Modern World"`. 
 
 But he does overdo since it is his given topic/thesis (so warning). But he lives in Mongolia! He has a few other books "The Secret History of the Mongol Queens: How the Daughters of Genghis Khan Rescued His Empire" and "Genghis Khan and the Quest for God: How the World's Greatest Conqueror Gave Us Religious Freedom".
 I have not read these two.
@@ -121,26 +121,37 @@ to NOT do. However, they do also show us the lessons we can learn from. There ar
 and seeing startups and reading startup histories and stories, the Mongols had their own way of a startup - a deadly one at it - where it truly was
 life or death. Even omitting the war and the gory parts, there is enough for anyone in a leadership role to learn from, enough to motivate the
 teams and the small startups that fight against all odds for the greater good. My humble opinion that these nine books based on real history will give
-us more lessons than sometimes nine months of boring classes. Share “Those Who Do Not Learn History Are Doomed To Repeat It.” Really? on LinkedIn
+us more lessons than sometimes nine months of boring classes. 
+
+From a startup lesson perspective:
+- Start with a small focussed team
+- As you expand, have the same basic structure in place that can be replicated
+- Have a trust group of lietenants
+- Do or Die situations (I mean, in their case, literally)
+- Play your own game by your own rules by your own strengths
+- If others set rules, not knowing them or not knowing your limitations (or what they think as disadvantages) can be your advantage
+- Combine many tiny strengths to compound the effect
+- Be meritocratic / share the rewards so
+- Give the team what they want first
+- Embrace the lessons you learn from the enemies
+- Play a non-zero sum game - so everyone is well off
+- Be patient
+- Be strategic and plan well
+- Lead by example
+
+
+Extremely sadly, there is just one or two movies of Mongols. There is one by that eponymous name in Mongolian. But it is nowhere near the
+complete story. There is one more documentary like. There are a few animated youtube videos that go into the war side of things. Those are
+nice but still only part of the story. We are left with waiting for a treatment truly deserving of the Mongol history (along the likes of
+Lord of the Rings, Game of Thrones ... etc).
 
 ```
 Those who do not learn history are doomed to repeat it.
 by writer and philosopher George Santayana
 ```
 
-I have another half a dozen books of Genghis and Mongols in my ever-growing Tsundoku shelf - but that's for another day. Mongolia / Ulan Batur and the Steppes are very high on my places-to-visit list.
+I have another half a dozen books of Genghis and Mongols in my ever-growing Tsundoku shelf - but that's for another day. Mongolia / Ulan Batur and the Steppes are very high on my places-to-visit list. If you have interesting books to recommend (or even movies/videos), please kindly do so and accept
+my sincere thanks.
 
 Happy reading!
-
-
-
-
-
-
-
-
-
-
-
-
 
