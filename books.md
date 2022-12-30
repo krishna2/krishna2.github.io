@@ -118,7 +118,32 @@
 
 1. Arnold Bennett: How Live on 24 Hours a Day
 
-1. 
+1. Daniel James Brown: Boys in the Boat
+
+
+### Currently Reading
+
+* Karen Armstrong: History of God
+
+* Hal Runkel: Choose your Own Adulthood
+
+* Swami Chinmayananda: The Holy Geeta
+
+* Swami Ranganathananda: The Bhagavad Gita
+
+* Sam Harris: Waking up
+
+* Rebecca Goldstein: Incompleteness
+
+* Swami Chinmayananda: Hymn to Sri Dakshinamurthi
+
+* Thirukkural : Multiple Authors's Commentaries
+
+<!--
+
+* Swami Dayananda Saraswati: Sadhana Panchakam
+
+-->
 
 
 
@@ -339,38 +364,6 @@
 1. Edward Yardeni: In Praise of Profits
 
 1. Swami Paramarthananda: Prashna Upanishad
-
-
-
-### Currently Reading
-
-* Daniel James Brown: Boys in the Boat
-
-* Karen Armstrong: History of God
-
-* Swami Gurubhaktananda: Tattva Bodha
-
-* Swami Gurubhaktananda: Atma Bodha
-
-* Hal Runkel: Choose your Own Adulthood
-
-* Swami Chinmayananda: The Holy Geeta
-
-* Swami Ranganathananda: The Bhagavad Gita
-
-* Sam Harris: Waking up
-
-* Rebecca Goldstein: Incompleteness
-
-* Swami Chinmayananda: Hymn to Sri Dakshinamurthi
-
-* Thirukkural : Multiple Authors's Commentaries
-
-<!--
-
-* Swami Dayananda Saraswati: Sadhana Panchakam
-
--->
 
 
 
