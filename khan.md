@@ -1,6 +1,6 @@
 # Khan
 
-Starting from a small tribe in the Steppes of Mongolia, in spite of being abandoned, bertrayed, captivated and deserted (didn't quite plan the abcd 
+Starting from a small tribe in the Steppes of Mongolia, in spite of being abandoned, betrayed, captivated and deserted (didn't quite plan the abcd 
 sequence of misfortunes, but this is but a fraction), Genghis Khan and his Mongol army would go on to achieve more in 25 years than the Romans did
 in 400 years.
 
