@@ -1,6 +1,6 @@
 [Home Page](https://krishna2.com/)
 
-# Books I have read
+# Books I Read
 
 <!--
 [Link to this page](https://krishna2.github.io/books)
