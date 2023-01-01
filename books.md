@@ -6,6 +6,40 @@
 [Link to this page](https://krishna2.github.io/books)
 -->
 
+<!--
+
+### Currently Reading
+
+* Bruce Lawrence: Quran
+
+* Varadaraja Raman: Manikkavasagar's Sivapuranam
+
+* Karen Armstrong: History of God
+
+* Hal Runkel: Choose your Own Adulthood
+
+* Swami Chinmayananda: The Holy Geeta
+
+* Swami Ranganathananda: The Bhagavad Gita
+
+* Swami Chidbhavananda: The Bhagavad Gita
+
+* Sam Harris: Waking up
+
+* Rebecca Goldstein: Incompleteness
+
+* Swami Chinmayananda: Hymn to Sri Dakshinamurthi
+
+* Thirukkural : Multiple Authors's Commentaries
+
+* Swami Dayananda Saraswati: Sadhana Panchakam
+
+-->
+
+## Books in 2023
+
+
+
 ## Books in 2022
 
 1. Swami Paramarthananda: Essence (Summary) of Bhagavad Gita
@@ -102,7 +136,7 @@
 
 1. Bonnie Garmus: Lessons in Chemistry
 
-1. Anand Giridhardhas: Winners Take All*
+1. Anand Giridhardhas: Winners Take All
 
 1. Stephen Batchelor: Confessions of a Buddhist Atheist*
 
@@ -124,36 +158,9 @@
 
 1. Daniel James Brown: Boys in the Boat
 
+1. Captivating History: The Mongol Conquests
 
-### Currently Reading
 
-* Bruce Lawrence: Quran
-
-* Varadaraja Raman: Manikkavasagar's Sivapuranam
-
-* Karen Armstrong: History of God
-
-* Hal Runkel: Choose your Own Adulthood
-
-* Swami Chinmayananda: The Holy Geeta
-
-* Swami Ranganathananda: The Bhagavad Gita
-
-* Swami Chidbhavananda: The Bhagavad Gita
-
-* Sam Harris: Waking up
-
-* Rebecca Goldstein: Incompleteness
-
-* Swami Chinmayananda: Hymn to Sri Dakshinamurthi
-
-* Thirukkural : Multiple Authors's Commentaries
-
-<!--
-
-* Swami Dayananda Saraswati: Sadhana Panchakam
-
--->
 
 
 
