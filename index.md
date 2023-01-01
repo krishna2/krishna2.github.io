@@ -35,6 +35,9 @@ I love to read books and maintain here my reading list of the <b><a href="/books
 <a href="https://krishna2.com/books-finance">Finance books and Investing Philosophy</a>
 <br /><br />
 
+<a href="https://krishna2.com/khan">The one and only Khan : Genghis Khan</a>
+<br /><br />
+
 <a href="https://krishna2.com/2021-we-have-no-idea">We Have No Idea - A short book review and some notes on Mandukya Upanishad</a>
 <br /><br />
 
