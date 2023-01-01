@@ -12,7 +12,7 @@ You can check out or connect via these networks: <a href="https://linkedin.com/i
 <br/>
 Or you can email me at krishna2 in the popular email service run by Google.
 
-I love to read books and maintain here my reading list of the <b><a href="/books">books I read</a></b>.
+I love to read books and maintain an up to date list of the <b><a href="/books">books I read</a></b>.
 
 
 <h2>Here are some of my writings</h2>
