@@ -1,6 +1,6 @@
-# Books I have read
-
 [Home Page](https://krishna2.com/)
+
+# Books I have read
 
 <!--
 [Link to this page](https://krishna2.github.io/books)
@@ -38,7 +38,7 @@
 
 ## Books in 2023
 
-
+Reading in progress ... happy reading!
 
 ## Books in 2022
 
