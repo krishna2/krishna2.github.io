@@ -10,10 +10,6 @@
 
 ### Currently Reading
 
-* Bruce Lawrence: Quran
-
-* Varadaraja Raman: Manikkavasagar's Sivapuranam
-
 * Karen Armstrong: History of God
 
 * Hal Runkel: Choose your Own Adulthood
@@ -38,7 +34,16 @@
 
 ## Books in 2023
 
-Reading in progress ... happy reading!
+1. S. K. Sridharan: Adi Shankaracharya : Biography
+
+1. Varadaraja Raman: Manikkavasagar's Sivapuranam
+
+1. Bruce Lawrence: Quran
+
+1. William Deresiewicz: Excellent Sheep: The Miseducation of the American Elite and the Way to a Meaningful Life
+
+1. Swami Paramarthananda: Ashtavakra Gita
+
 
 ## Books in 2022
 
