@@ -44,6 +44,19 @@
 
 1. Swami Paramarthananda: Ashtavakra Gita
 
+1. who gets in .. college
+
+1. Swami Paramarthananda: Dakshinamurthi Stotram
+
+1. Albert Woodfox: Solitary
+
+1. Swami Paramarthananda: Shankara and Gita
+
+1. Swami Paramarthananda: Meditation Theory
+
+1. Scott Galloway: Adrift*
+
+
 
 ## Books in 2022
 
