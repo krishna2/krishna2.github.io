@@ -48,13 +48,21 @@
 
 1. Swami Paramarthananda: Dakshinamurthi Stotram
 
+1. Swami Paramarthananda: Brahma Sutras (Adhyasa bashyam and First few sutras)
+
 1. Albert Woodfox: Solitary
 
 1. Swami Paramarthananda: Shankara and Gita
 
 1. Swami Paramarthananda: Meditation Theory
 
-1. Scott Galloway: Adrift*
+1. Swami Paramarthananda: Gita Saaram (tamil)
+
+1. Scott Galloway: Adrift
+
+1. Shoba Rao: My Race Against Death
+
+1. Tom Neale: An Island to Oneself(++)
 
 
 
