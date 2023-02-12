@@ -42,9 +42,9 @@
 
 1. William Deresiewicz: Excellent Sheep: The Miseducation of the American Elite and the Way to a Meaningful Life
 
-1. Swami Paramarthananda: Ashtavakra Gita
+1. Swami Paramarthananda: Ashtavakra Gita (88 lectures)
 
-1. who gets in .. college
+1. Jeffrey Selingo: Who Gets In and Why: A Year Inside College Admissions
 
 1. Swami Paramarthananda: Dakshinamurthi Stotram
 
