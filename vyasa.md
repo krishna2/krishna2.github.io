@@ -1,27 +1,39 @@
 # Self-referential Vyasa
 
-Om Sri Gurubhyo Namaha! (Salutations to my Gurus).
-Since they taught me all that I know and what I share here.
+<!-- Om Sri Gurubhyo Namaha! (Salutations to my Gurus).
+Since they taught me all that I know and what I share here. -->
 
 Mahabharata is a great epic that details the story of the clan of Kurus in ancient India (Bharat). The Mahabharata is attributed to Sage Vyasa. It contains many stories that are full works in their own right including a concise retelling of Ramayana, Nala / Damayanthi, Shakuntala, Rishyashringa ... etc. 
 
 Mahabharata also contains five big philosophical works:
-- Yaksha Pragnyam : In which a Yaksha (think of it as a mythical being) who asks King Yudhisthira a series of questions and only if he answers correctly, would he resurrect all his brothers back to life. 
+
+- Yaksha Pragnyam : In which a Yaksha (think of it as a mythical being) who asks King Yudhisthira a series of questions and only if he answers correctly, would he resurrect all his brothers back to life.
+
 - Vidura Neethi : In which the minister Vidura explains right from wrong and what a leader should do to his brother King Dhirtharashtra.
+
 - Sanath Sujatiyam : In which Vidura prays to and invokes Sanathsujatiya to appear and explain vedantic teachings to Dritharashtra.
+
 - Bhagavad Gita : In which Lord Krishna the charioteer of the Pandava prince Arjuna explains to Arjuna why he should carry on with the fight. In a rather succinct 700 verses, Lord Krishna summarizes the entire teaching of the Vedas, especially the Vedanta part (the Upanishads).
+
 - Vishnu Sahasaranamam : In which King Yudhishtira asks Bhishma (who is on his deathbed) six questions. Bhishma’s reply involves the same Lord Vishnu as the answer for all the six questions and he goes on to list 1000 names of the Lord.
+
 
 At this point if you are wondering how come MB has so much, it is not without reason that it is the longest epic comprising 100,000+ shlokas (verses) and just for an idea for comparison of the size alone that would be six times the length of the Iliad and Odyssey combined. 
 
 There is a saying that goes “BharatO panchamO Vedaha” that Mahabharatha is the Fifth Veda. There is another saying that praises it as “Na Bharatha Na Bharatha" - what did not happen in Mahabharata did not happen in India since it seems to have an outline of every plot one can think of.
 
 Vyasa in addition to writing Mahabharatha also did a few other things.
+
 - His very name Vyasa itself means “compiler”. There were 1000s of various works and he compiled them as the Four Vedas : Rig, Yajur, Sama and Atharva).
+
 - Each Veda has four sections : Samhitas, Brahmanas, Aranyakas and Upanishads. The first three are considered Karma Kandam (section where it is about Action) and the last is considered Knowledge (since it is last, these are also called Veda-anta : Vedas’ end sections : Vedanta).
+
 - There are roughly about 12 systems that were prevailing - these are called Darshanas (visions) of various founders / sages. Vyasa’s vision is Uttara Mimamsa - the final one that overrides all other interpretations and to logically consolidate the findings, he wrote the Brahma Sutras which are 550+ aphorisms. (each is a single line with as few words and letters as possible).
+
 - Further he wrote Puranas - which literally means “what happened in olden times” or we can call it History. Of which there are 18 big ones - adding about to 450,000 verses or more.
+
 - The most famous of this is of course “Bhagavatham” which amongst many other things has the life history of Lord Krishna.
+
 - Shiva puranam, Skanda puranam … and many others.
 
 And as seen already, he wrote Mahabharatha which has the Bhagavad Gita and four other philosophical works as shown above.
