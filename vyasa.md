@@ -85,7 +85,7 @@ Thus we get to the point that the Mahabharata and even more so Vyasa is as self-
 
 8. Bhagavad Gita and war itself is narrated by Sanjaya (a minister to the blind king Dhritharashtra) and Vyasa is the one who blesses Sanjaya with this divine vision (to see, hear, know the entire happenings in a war happening far far away but without any tiredness).
 
-9. From the other philosophical works in Mahabharata, we can also see that for Vidura Neethi, Vidura is also a son of Vyasa. And for Sanatsujatiya is the son of Brahma, which would make him the brother of Vashista and hence a great great grandfather of Vyasa.
+9. From the other philosophical works in Mahabharata, we can also see that for Vidura Neethi, Vidura is also a son of Vyasa. And Sanatsujata is the son of Brahma, which would make him the brother of Vashista and hence a great great grandfather of Vyasa.
 
 11. Vyasa compiled all the Upanishads to four vedas and wrote the Brahma Sutras which logically ties all the teachings of the Upanishads into a single coherent Darshanam (vision).
 
