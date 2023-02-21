@@ -88,6 +88,8 @@ Thus we get to the point that the Mahabharata and even more so Vyasa is as self-
 
 11. Vyasa compiled all the Upanishads to four vedas and wrote the Brahma Sutras which logically ties all the teachings of the Upanishads into a single coherent Darshanam (vision).
 
+## HIS STORY not just HISTORY
+
 So yeah, hence that makes him the lord, the compiler of Vedas, the compiler of Upanishads, the writer of Brahma Sutra, the writer of Mahabharata where all the characters are due to him, the writer of Bhagavad Gita (call him Krishna or call him Vyasa), the writer of Vishnu Sahasaranamam (call him Bhishma or call him Vyasa), the guru (teacher; Krishna / Bhishma) and the sishya (student; Arjuna & Yudhisthira).
 
 **The whole thing is not just HISTORY it is HIS STORY.**
