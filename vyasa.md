@@ -5,6 +5,8 @@ Since they taught me all that I know and what I share here. -->
 
 Mahabharata is a great epic that details the story of the clan of Kurus in ancient India (Bharat). The Mahabharata is attributed to Sage Vyasa. It contains many stories that are full works in their own right including a concise retelling of Ramayana, Nala / Damayanthi, Shakuntala, Rishyashringa ... etc. 
 
+## Five Philosophical Works in Mahabharata
+
 Mahabharata also contains five big philosophical works:
 
 - Yaksha Pragnyam : In which a Yaksha (think of it as a mythical being) who asks King Yudhisthira a series of questions and only if he answers correctly, would he resurrect all his brothers back to life.
@@ -18,9 +20,13 @@ Mahabharata also contains five big philosophical works:
 - Vishnu Sahasaranamam : In which King Yudhishtira asks Bhishma (who is on his deathbed) six questions. Bhishma’s reply involves the same Lord Vishnu as the answer for all the six questions and he goes on to list 1000 names of the Lord.
 
 
+## Mahabharata - the biggest of them all
+
 At this point if you are wondering how come Mahabharata has so much, it is not without reason that it is the longest epic comprising 100,000+ shlokas (verses) and just for an idea for comparison of the size alone that would be six times the length of the Iliad and Odyssey combined. 
 
 There is a saying that goes “BharatO panchamO Vedaha” that Mahabharatha is the Fifth Veda. There is another saying that praises it as “Na Bharatha Na Bharatha" - what did not happen in Mahabharata did not happen in India since it seems to have an outline of every plot one can think of.
+
+## Vyasa the Compiler
 
 Vyasa in addition to writing Mahabharatha also did a few other things.
 
@@ -38,6 +44,9 @@ Vyasa in addition to writing Mahabharatha also did a few other things.
 
 And as seen already, he wrote Mahabharatha which has the Bhagavad Gita and four other philosophical works as shown above.
 
+
+## Prasthana Trayam of Sanatana Dharma
+
 The foundation of Hinduism is based on Three big works - they are called Prasthaana Thrayam. They are:
 
 - Upanishads / Vedanta
@@ -52,27 +61,23 @@ The Brahma Sutra is called Nyaya Prasthanam. Nyaya means Logical. It is written 
 
 The Bhagavad Gita is called Smrithi Prasthanam. Smrithi means Memory (that which is remembered). Hence called Paurusheyam - has an author - which of course, is Vyasa.
 
+## The one and only Vyasa the Self Referential Vyasa
+
 Thus we get to the point that the Mahabharata and even more so Vyasa is as self-referential as anything can get. 
 
-It is written by Vyasa who is also known as Badarayana and as Krishna Dwaipayana. Vyasa is a descendant of Sage Vashishta who is the son of Brahma who is the son of Vishnu. (Refer appendix 1).
+1. Mahabharata is written by Vyasa who is also known as Badarayana and as Krishna Dwaipayana. Vyasa is a descendant of Sage Vashishta who is the son of Brahma who is the son of Vishnu. (Refer appendix 1).
 
+2. Vishnu Sahasaranamam is of course about Lord Vishnu. Vyasa is writing about his earliest ancestor.
 
-Vishnu Sahasaranamam is of course about Lord Vishnu. Vyasa is writing about his earliest ancestor.
+3. Vishnu Sahasaranamam is narrated by Bhishma who is the step-brother of Vyasa.
 
+4. Vyasa is also an Avatara of Lord Vishnu himself. (Refer appendix 2).
 
-Vyasa is also an Avatara of Lord Vishnu himself. (Refer appendix 2).
+5. Mahabharata is also the story of two rival factions the Pandavas (Sons of Pandu) and Kauravas (Sons of Dhritharashtra). Pandu and Dhirtharashtra are sons of Vyasa. Vyasa is writing about the great war between his two grandsons.
 
+6.  Mahabharata has Bhagavad Gita which is the dialogue between Lord Krishna and Arjuna (one of the sons of Pandu). Lord Krishna is also an avatara of Vishnu.
 
-Mahabharata is also the story of two rival factions the Pandavas (Sons of Pandu) and Kauravas (Sons of Dhritharashtra). Pandu and Dhirtharashtra are sons of Vyasa. Vyasa is writing about the great war between his two grandsons.
-
-
-Vishnu Sahasaranamam is narrated by Bhishma who is the step-brother of Vyasa.
-
-
-Mahabharata has Bhagavad Gita which is the dialogue between Lord Krishna and Arjuna (one of the sons of Pandu). Lord Krishna is also an avatara of Vishnu.
-
-
-In the BG itself, in Chapter 10 (Vibhuti Yoga), Lord Krishna would go on to say that
+7.  In the BG itself, in Chapter 10 (Vibhuti Yoga), Lord Krishna would go on to say that
 
 - Among sages, he is Vyasa
 
@@ -80,32 +85,26 @@ In the BG itself, in Chapter 10 (Vibhuti Yoga), Lord Krishna would go on to say 
 
 - Among Pandavas, he is Arjuna
 
-BG and war itself is narrated by Sanjaya (a minister to the blind king Dhritharashtra) and Vyasa is the one who blesses Sanjaya with this divine vision (to see, hear, know the entire happenings in a war happening far far away but without any tiredness).
+8. BG and war itself is narrated by Sanjaya (a minister to the blind king Dhritharashtra) and Vyasa is the one who blesses Sanjaya with this divine vision (to see, hear, know the entire happenings in a war happening far far away but without any tiredness).
 
-From the other philosophical works in Mahabharata, we can also see that
+9. From the other philosophical works in Mahabharata, we can also see that for Vidura Neethi, Vidura is also a son of Vyasa. And for Sanatsujatiya is the son of Brahma, which would make him the brother of Vashista and hence a great great grandfather of Vyasa.
 
-- For Vidura Neethi, Vidura is also a son of Vyasa.
-
-- Sanatsujatiya is the son of Brahma, which would make him the brother of Vashista and hence a great great grandfather of Vyasa.
-
-Vyasa compiled all the Upanishads to four vedas and wrote the Brahma Sutras which logically ties all the teachings of the Upanishads into a single coherent Darshanam (vision).
+11. Vyasa compiled all the Upanishads to four vedas and wrote the Brahma Sutras which logically ties all the teachings of the Upanishads into a single coherent Darshanam (vision).
 
 So yeah, hence that makes him the lord, the compiler of Vedas, the compiler of Upanishads, the writer of Brahma Sutra, the writer of Mahabharata where all the characters are due to him, the writer of Bhagavad Gita (call him Krishna or call him Vyasa), the writer of Vishnu Sahasaranamam (call him Bhishma or call him Vyasa), the guru (teacher; Krishna / Bhishma) and the sishya (student; Arjuna & Yudhisthira).
 
-The whole thing is HIS STORY rather than HISTORY.
+The whole thing is not just HISTORY it is HIS STORY.
 
-- Hence he is called Veda Vyasa.
-
-- His birthday is celebrated as “Guru Purnima”.
-
+Hence he is called *Veda Vyasa*. And in hono, his birthday is celebrated as *Guru Purnima*.
 
 And I thought Marvel, DC, Star Wars, Harry Potter, Lord of the Rings or Ponniyin Selvan could spin up stories : where they all end, Vyasa is just about getting warmed up. No disrespect, I love each one of those franchises, read the books and watched their movies. But I have never seen such a deep level of interconnection and self-reference anywhere in any work that I have read or heard.
-
 
 Happy reading!
 
 
 ## Appendix
+
+0. References: Mahabharata, Bhagavad Gita (many versions with commentaries), Vishnu Sahasaranamam, Introduction to Vedanta, Prasthana Trayam, Essence of Upanishads and lectures of various Sages.
 
 1. From Vishnu Sahasaranamam:
 
