@@ -42,31 +42,12 @@ Thus we get to the point that the Mahabharata and even more so Vyasa is as self-
 Here is how:
 
 1. It is written by Vyasa who is also known as Badarayana and as Krishna Dwaipayana.
-Vyasa is a descendant of Sage Vashishta who is the son of Brahma who is the son of Vishnu.
+Vyasa is a descendant of Sage Vashishta who is the son of Brahma who is the son of Vishnu. (Refer appendix 1).
 
-From Vishnu Sahasaranamam:
-
-व्यासंवसिष्ठनप्तारंशक्तेःपौत्रमकल्मषम्।
-पराशरात्मजंवन्देशुकतातंतपोनिधिम्॥३॥
-
-vyāsaṁ vasiṣṭhanaptāraṁ śakteḥ pautramakalmaṣam,
-parāśarātmajaṁ vaṁde śukatātaṁ tapōnidhim. (3)
-
-I salute Vyasa, the son of Vasishta, the grandson of Shakti, the immaculate son of Parasara, the father of Shukata, the treasure of austerities.
 
 2. VS is of course about Lord Vishnu. Vyasa is writing about his earliest ancestor.
 
-3. Vyasa is also an Avatara of Lord Vishnu himself.
-
-From Vishnu Sahasaranamam:
-
-व्यासायविष्णुरूपायव्यासरूपायविष्णवे।
-नमोवैब्रह्मनिधयेवासिष्ठायनमोनमः॥४॥
-
-vyāsāya viṣṇurūpāya vyāsarūpāya viṣṇave,
-namō vai brahmanidhaye vāsiṣṭhāya namō namaḥ. (4)
-
-O Vyasa in the form of Vishnu, O Vishnu in the form of Vyasa, O Vasishta, the treasure of the Brahman, I offer my obeisances unto Thee again and again.
+3. Vyasa is also an Avatara of Lord Vishnu himself. (Refer appendix 2).
 
 4. Mahabharata is also the story of two rival factions the Pandavas (Sons of Pandu) and Kauravas (Sons of Dhritharashtra). Pandu and Dhirtharashtra are sons of Vyasa. Vyasa is writing about the great war between his two grandsons.
 
@@ -85,14 +66,36 @@ O Vyasa in the form of Vishnu, O Vishnu in the form of Vyasa, O Vasishta, the tr
 - For Vidura Neethi, Vidura is also a son of Vyasa.
 - Sanatsujatiya is the son of Brahma, which would make him the brother of Vashista and hence a great great grandfather of Vyasa.
  
-Vyasa compiled all the Upanishads to four vedas and wrote the Brahma Sutras which logically ties all the teachings of the Upanishads into a single coherent Darshanam (vision).
+11. Vyasa compiled all the Upanishads to four vedas and wrote the Brahma Sutras which logically ties all the teachings of the Upanishads into a single coherent Darshanam (vision).
 
-11. So yeah, hence that makes him the lord, the compiler of Vedas, the compiler of Upanishads, the writer of Brahma Sutra, the writer of Mahabharata where all the characters are due to him, the writer of Bhagavad Gita (call him Krishna or call him Vyasa), the writer of Vishnu Sahasaranamam (call him Bhishma or call him Vyasa), the guru (teacher; Krishna / Bhishma) and the sishya (student; Arjuna & Yudhisthira).
+12. So yeah, hence that makes him the lord, the compiler of Vedas, the compiler of Upanishads, the writer of Brahma Sutra, the writer of Mahabharata where all the characters are due to him, the writer of Bhagavad Gita (call him Krishna or call him Vyasa), the writer of Vishnu Sahasaranamam (call him Bhishma or call him Vyasa), the guru (teacher; Krishna / Bhishma) and the sishya (student; Arjuna & Yudhisthira).
 
-12. So the whole thing is HIS STORY rather than HISTORY.
+13. So the whole thing is HIS STORY rather than HISTORY.
 - Hence he is called Veda Vyasa.
 - His birthday is celebrated as “Guru Purnima”.
 
 And I thought Marvel, DC, Star Wars, Harry Potter, Lord of the Rings or Ponniyin Selvan could spin up stories : where they all end, Vyasa is just about getting warmed up. No disrespect, I love each one of those franchises, read the books and watched their movies. But I have never seen such a deep level of interconnection and self-reference anywhere in any work that I have read or heard.
 
 Happy reading!
+
+## Appendix
+
+1. From Vishnu Sahasaranamam:
+
+व्यासंवसिष्ठनप्तारंशक्तेःपौत्रमकल्मषम्।
+पराशरात्मजंवन्देशुकतातंतपोनिधिम्॥३॥
+
+vyāsaṁ vasiṣṭhanaptāraṁ śakteḥ pautramakalmaṣam,
+parāśarātmajaṁ vaṁde śukatātaṁ tapōnidhim. (3)
+
+I salute Vyasa, the son of Vasishta, the grandson of Shakti, the immaculate son of Parasara, the father of Shukata, the treasure of austerities.
+
+2. From Vishnu Sahasaranamam:
+
+व्यासायविष्णुरूपायव्यासरूपायविष्णवे।
+नमोवैब्रह्मनिधयेवासिष्ठायनमोनमः॥४॥
+
+vyāsāya viṣṇurūpāya vyāsarūpāya viṣṇave,
+namō vai brahmanidhaye vāsiṣṭhāya namō namaḥ. (4)
+
+O Vyasa in the form of Vishnu, O Vishnu in the form of Vyasa, O Vasishta, the treasure of the Brahman, I offer my obeisances unto Thee again and again.
