@@ -92,7 +92,7 @@ So yeah, hence that makes him the lord, the compiler of Vedas, the compiler of U
 
 **The whole thing is not just HISTORY it is HIS STORY.**
 
-Hence he is called **Veda Vyasa**. And in hono, his birthday is celebrated as **Guru Purnima**.
+Hence he is called **Veda Vyasa**. And in honor, his birthday is celebrated as **Guru Purnima**.
 
 And I thought Marvel, DC, Star Wars, Harry Potter, Lord of the Rings or Ponniyin Selvan could spin up stories : where they all end, Vyasa is just about getting warmed up. No disrespect, I love each one of those franchises, read the books and watched their movies.
 
