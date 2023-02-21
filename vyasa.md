@@ -78,9 +78,9 @@ Thus we get to the point that the Mahabharata and even more so Vyasa is as self-
 6.  Mahabharata has Bhagavad Gita which is the dialogue between Lord Krishna and Arjuna (one of the sons of Pandu). Lord Krishna is also an avatara of Vishnu.
 
 7.  In the BG itself, in Chapter 10 (Vibhuti Yoga), Lord Krishna would go on to say that
-- Among sages, he is Vyasa
-- Among Vrishnis, he is Krishna (vAsudeva)
-- Among Pandavas, he is Arjuna
+  - Among sages, he is Vyasa
+  - Among Vrishnis, he is Krishna (vAsudeva)
+  - Among Pandavas, he is Arjuna
 
 8. Bhagavad Gita and war itself is narrated by Sanjaya (a minister to the blind king Dhritharashtra) and Vyasa is the one who blesses Sanjaya with this divine vision (to see, hear, know the entire happenings in a war happening far far away but without any tiredness).
 
