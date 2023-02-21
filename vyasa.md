@@ -39,8 +39,11 @@ Vyasa in addition to writing Mahabharatha also did a few other things.
 And as seen already, he wrote Mahabharatha which has the Bhagavad Gita and four other philosophical works as shown above.
 
 The foundation of Hinduism is based on Three big works - they are called Prasthaana Thrayam. They are:
+
 - Upanishads / Vedanta
+
 - Brahma Sutra
+
 - Bhagavad Gita
 
 The Upanishads are called Sruthi Prasthanam. Sruthi means that which is heard. No one claims ownership of these works. Hence called Apaurusheyam (that which does not have an author). Everyone keeps punting it back to their gurus and ancestors ad infinitum. The reason being they believe this knowledge exists in the Universe already created all the time and it was just “heard by” the sages whether in their meditations or their teachings or a super power revealing it to them. So explained above, Vyasa consolidated (compiled) all the various disparate pieces as four vedas and all the final sections are the Upanishads.
@@ -72,8 +75,11 @@ Here is how:
 
 
 7. In the BG itself, in Chapter 10 (Vibhuti Yoga), Lord Krishna would go on to say that
+
 - Among sages, he is Vyasa
+
 - Among Vrishnis, he is Krishna (vAsudeva)
+
 - Among Pandavas, he is Arjuna
 
 
@@ -81,8 +87,11 @@ Here is how:
 
 
 9. From the other philosophical works in MB, we can also see that
+
 - For Vidura Neethi, Vidura is also a son of Vyasa.
+
 - Sanatsujatiya is the son of Brahma, which would make him the brother of Vashista and hence a great great grandfather of Vyasa.
+
 
 
 10. Vyasa compiled all the Upanishads to four vedas and wrote the Brahma Sutras which logically ties all the teachings of the Upanishads into a single coherent Darshanam (vision).
