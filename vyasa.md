@@ -82,9 +82,7 @@ Here is how:
 
 - Among Pandavas, he is Arjuna
 
-
 8. BG and war itself is narrated by Sanjaya (a minister to the blind king Dhritharashtra) and Vyasa is the one who blesses Sanjaya with this divine vision (to see, hear, know the entire happenings in a war happening far far away but without any tiredness).
-
 
 9. From the other philosophical works in Mahabharata, we can also see that
 
@@ -92,16 +90,14 @@ Here is how:
 
 - Sanatsujatiya is the son of Brahma, which would make him the brother of Vashista and hence a great great grandfather of Vyasa.
 
-
-
 10. Vyasa compiled all the Upanishads to four vedas and wrote the Brahma Sutras which logically ties all the teachings of the Upanishads into a single coherent Darshanam (vision).
-
 
 11. So yeah, hence that makes him the lord, the compiler of Vedas, the compiler of Upanishads, the writer of Brahma Sutra, the writer of Mahabharata where all the characters are due to him, the writer of Bhagavad Gita (call him Krishna or call him Vyasa), the writer of Vishnu Sahasaranamam (call him Bhishma or call him Vyasa), the guru (teacher; Krishna / Bhishma) and the sishya (student; Arjuna & Yudhisthira).
 
-
 12. So the whole thing is HIS STORY rather than HISTORY.
+
 - Hence he is called Veda Vyasa.
+
 - His birthday is celebrated as “Guru Purnima”.
 
 
