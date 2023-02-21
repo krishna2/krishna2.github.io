@@ -9,7 +9,7 @@ Mahabharata is a great epic that details the story of the clan of Kurus in ancie
 
 Mahabharata also contains five big philosophical works:
 
-- **Yaksha Pragnyam:** In which a Yaksha (think of it as a mythical being) who asks King Yudhisthira a series of questions and only if he answers correctly, would he resurrect all his brothers back to life.
+- **Yaksha Prashnam:** In which a Yaksha (think of it as a mythical being) who asks King Yudhisthira a series of questions and only if he answers correctly, would he resurrect all his brothers back to life.
 
 - **Vidura Neethi:** In which the minister Vidura explains right from wrong and what a leader should do to his brother King Dhirtharashtra.
 
