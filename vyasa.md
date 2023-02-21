@@ -18,7 +18,7 @@ Mahabharata also contains five big philosophical works:
 - Vishnu Sahasaranamam : In which King Yudhishtira asks Bhishma (who is on his deathbed) six questions. Bhishma’s reply involves the same Lord Vishnu as the answer for all the six questions and he goes on to list 1000 names of the Lord.
 
 
-At this point if you are wondering how come MB has so much, it is not without reason that it is the longest epic comprising 100,000+ shlokas (verses) and just for an idea for comparison of the size alone that would be six times the length of the Iliad and Odyssey combined. 
+At this point if you are wondering how come Mahabharata has so much, it is not without reason that it is the longest epic comprising 100,000+ shlokas (verses) and just for an idea for comparison of the size alone that would be six times the length of the Iliad and Odyssey combined. 
 
 There is a saying that goes “BharatO panchamO Vedaha” that Mahabharatha is the Fifth Veda. There is another saying that praises it as “Na Bharatha Na Bharatha" - what did not happen in Mahabharata did not happen in India since it seems to have an outline of every plot one can think of.
 
@@ -86,7 +86,7 @@ Here is how:
 8. BG and war itself is narrated by Sanjaya (a minister to the blind king Dhritharashtra) and Vyasa is the one who blesses Sanjaya with this divine vision (to see, hear, know the entire happenings in a war happening far far away but without any tiredness).
 
 
-9. From the other philosophical works in MB, we can also see that
+9. From the other philosophical works in Mahabharata, we can also see that
 
 - For Vidura Neethi, Vidura is also a son of Vyasa.
 
