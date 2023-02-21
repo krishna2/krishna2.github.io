@@ -14,12 +14,12 @@ Mahabharata also contains five big philosophical works:
 
 At this point if you are wondering how come MB has so much, it is not without reason that it is the longest epic comprising 100,000+ shlokas (verses) and just for an idea for comparison of the size alone that would be six times the length of the Iliad and Odyssey combined. 
 
-There is a saying that goes “BharatO panchamO Vedaha” that Mahabharatha is the Fifth Veda. There is another saying that praises it as “Na Bharatha Na Bharatha'' - what did not happen in Mahabharata did not happen anywhere since it seems to have an outline of every plot one can think of.
+There is a saying that goes “BharatO panchamO Vedaha” that Mahabharatha is the Fifth Veda. There is another saying that praises it as “Na Bharatha Na Bharatha" - what did not happen in Mahabharata did not happen in India since it seems to have an outline of every plot one can think of.
 
 Vyasa in addition to writing Mahabharatha also did a few other things.
 - His very name Vyasa itself means “compiler”. There were 1000s of various works and he compiled them as the Four Vedas : Rig, Yajur, Sama and Atharva).
 - Each Veda has four sections : Samhitas, Brahmanas, Aranyakas and Upanishads. The first three are considered Karma Kandam (section where it is about Action) and the last is considered Knowledge (since it is last, these are also called Veda-anta : Vedas’ end sections : Vedanta).
-- There are roughly about 12 systems that were prevailing - these are called Darshanas (visions) of various founders / sages. Vyasa’s vision is Uttar Mimamsa - the final one that overrides all other interpretations and to logically consolidate the findings, he wrote the Brahma Sutras which are 550+ aphorisms. (each is a single line with as few words and letters as possible).
+- There are roughly about 12 systems that were prevailing - these are called Darshanas (visions) of various founders / sages. Vyasa’s vision is Uttara Mimamsa - the final one that overrides all other interpretations and to logically consolidate the findings, he wrote the Brahma Sutras which are 550+ aphorisms. (each is a single line with as few words and letters as possible).
 - Further he wrote Puranas - which literally means “what happened in olden times” or we can call it History. Of which there are 18 big ones - adding about to 450,000 verses or more.
 - The most famous of this is of course “Bhagavatham” which amongst many other things has the life history of Lord Krishna.
 - Shiva puranam, Skanda puranam … and many others.
@@ -42,8 +42,9 @@ Thus we get to the point that the Mahabharata and even more so Vyasa is as self-
 Here is how:
 
 1. It is written by Vyasa who is also known as Badarayana and as Krishna Dwaipayana.
-
 Vyasa is a descendant of Sage Vashishta who is the son of Brahma who is the son of Vishnu.
+
+From Vishnu Sahasaranamam:
 
 व्यासंवसिष्ठनप्तारंशक्तेःपौत्रमकल्मषम्।
 पराशरात्मजंवन्देशुकतातंतपोनिधिम्॥३॥
@@ -57,6 +58,8 @@ I salute Vyasa, the son of Vasishta, the grandson of Shakti, the immaculate son 
 
 3. Vyasa is also an Avatara of Lord Vishnu himself.
 
+From Vishnu Sahasaranamam:
+
 व्यासायविष्णुरूपायव्यासरूपायविष्णवे।
 नमोवैब्रह्मनिधयेवासिष्ठायनमोनमः॥४॥
 
@@ -65,8 +68,7 @@ namō vai brahmanidhaye vāsiṣṭhāya namō namaḥ. (4)
 
 O Vyasa in the form of Vishnu, O Vishnu in the form of Vyasa, O Vasishta, the treasure of the Brahman, I offer my obeisances unto Thee again and again.
 
-4. Mahabharata is also the story of two rival factions the Pandavas (Sons of Pandu) and Kauravas (Sons of Dhritharashtra). Pandu and Dhirtharashtra are sons of Vyasa.
-Vyasa is writing about the great war between his two grandsons.
+4. Mahabharata is also the story of two rival factions the Pandavas (Sons of Pandu) and Kauravas (Sons of Dhritharashtra). Pandu and Dhirtharashtra are sons of Vyasa. Vyasa is writing about the great war between his two grandsons.
 
 5. VS is narrated by Bhishma who is the step-brother of Vyasa.
 
