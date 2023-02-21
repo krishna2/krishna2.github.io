@@ -54,27 +54,25 @@ The Bhagavad Gita is called Smrithi Prasthanam. Smrithi means Memory (that which
 
 Thus we get to the point that the Mahabharata and even more so Vyasa is as self-referential as anything can get. 
 
-Here is how:
-
-1. It is written by Vyasa who is also known as Badarayana and as Krishna Dwaipayana. Vyasa is a descendant of Sage Vashishta who is the son of Brahma who is the son of Vishnu. (Refer appendix 1).
+It is written by Vyasa who is also known as Badarayana and as Krishna Dwaipayana. Vyasa is a descendant of Sage Vashishta who is the son of Brahma who is the son of Vishnu. (Refer appendix 1).
 
 
-2. Vishnu Sahasaranamam is of course about Lord Vishnu. Vyasa is writing about his earliest ancestor.
+Vishnu Sahasaranamam is of course about Lord Vishnu. Vyasa is writing about his earliest ancestor.
 
 
-3. Vyasa is also an Avatara of Lord Vishnu himself. (Refer appendix 2).
+Vyasa is also an Avatara of Lord Vishnu himself. (Refer appendix 2).
 
 
-4. Mahabharata is also the story of two rival factions the Pandavas (Sons of Pandu) and Kauravas (Sons of Dhritharashtra). Pandu and Dhirtharashtra are sons of Vyasa. Vyasa is writing about the great war between his two grandsons.
+Mahabharata is also the story of two rival factions the Pandavas (Sons of Pandu) and Kauravas (Sons of Dhritharashtra). Pandu and Dhirtharashtra are sons of Vyasa. Vyasa is writing about the great war between his two grandsons.
 
 
-5. Vishnu Sahasaranamam is narrated by Bhishma who is the step-brother of Vyasa.
+Vishnu Sahasaranamam is narrated by Bhishma who is the step-brother of Vyasa.
 
 
-6. Mahabharata has Bhagavad Gita which is the dialogue between Lord Krishna and Arjuna (one of the sons of Pandu). Lord Krishna is also an avatara of Vishnu.
+Mahabharata has Bhagavad Gita which is the dialogue between Lord Krishna and Arjuna (one of the sons of Pandu). Lord Krishna is also an avatara of Vishnu.
 
 
-7. In the BG itself, in Chapter 10 (Vibhuti Yoga), Lord Krishna would go on to say that
+In the BG itself, in Chapter 10 (Vibhuti Yoga), Lord Krishna would go on to say that
 
 - Among sages, he is Vyasa
 
@@ -82,19 +80,19 @@ Here is how:
 
 - Among Pandavas, he is Arjuna
 
-8. BG and war itself is narrated by Sanjaya (a minister to the blind king Dhritharashtra) and Vyasa is the one who blesses Sanjaya with this divine vision (to see, hear, know the entire happenings in a war happening far far away but without any tiredness).
+BG and war itself is narrated by Sanjaya (a minister to the blind king Dhritharashtra) and Vyasa is the one who blesses Sanjaya with this divine vision (to see, hear, know the entire happenings in a war happening far far away but without any tiredness).
 
-9. From the other philosophical works in Mahabharata, we can also see that
+From the other philosophical works in Mahabharata, we can also see that
 
 - For Vidura Neethi, Vidura is also a son of Vyasa.
 
 - Sanatsujatiya is the son of Brahma, which would make him the brother of Vashista and hence a great great grandfather of Vyasa.
 
-10. Vyasa compiled all the Upanishads to four vedas and wrote the Brahma Sutras which logically ties all the teachings of the Upanishads into a single coherent Darshanam (vision).
+Vyasa compiled all the Upanishads to four vedas and wrote the Brahma Sutras which logically ties all the teachings of the Upanishads into a single coherent Darshanam (vision).
 
-11. So yeah, hence that makes him the lord, the compiler of Vedas, the compiler of Upanishads, the writer of Brahma Sutra, the writer of Mahabharata where all the characters are due to him, the writer of Bhagavad Gita (call him Krishna or call him Vyasa), the writer of Vishnu Sahasaranamam (call him Bhishma or call him Vyasa), the guru (teacher; Krishna / Bhishma) and the sishya (student; Arjuna & Yudhisthira).
+So yeah, hence that makes him the lord, the compiler of Vedas, the compiler of Upanishads, the writer of Brahma Sutra, the writer of Mahabharata where all the characters are due to him, the writer of Bhagavad Gita (call him Krishna or call him Vyasa), the writer of Vishnu Sahasaranamam (call him Bhishma or call him Vyasa), the guru (teacher; Krishna / Bhishma) and the sishya (student; Arjuna & Yudhisthira).
 
-12. So the whole thing is HIS STORY rather than HISTORY.
+The whole thing is HIS STORY rather than HISTORY.
 
 - Hence he is called Veda Vyasa.
 
