@@ -18,41 +18,21 @@ Back to VS, there is an important shloka right at the beginning that goes “Vai
 
 | Sanskrit | Transliteration | Translation |
 | ------ | ------ | ----- |
-| श्रीवैशम्पायनउवाच —
-श्रुत्वाधर्मानशेषेणपावनानिचसर्वशः।
-युधिष्ठिरःशान्तनवंपुनरेवाभ्यभाषत॥ ७॥
-| 
-śrī vaiśaṁpāyana uvāca:
-śrutvā dharmānaśeṣeṇa pāvanāni ca sarvaśaḥ,
-yudhiṣṭhiraḥ śāṁtanavaṁ punarevābhyabhyāṣata. (7)
-|
-Sri Vaisampayana said:
-Having heard the Dharma in its entirety and the holy ones in all respects, Yudhisthira again addressed Bhisma (Shantanu's Putraha (Son) Shaanthanu - hence Shaantanavam : to Shaantanu).
-|
+| श्रीवैशम्पायनउवाच | śrī vaiśaṁpāyana uvāca: | Sri Vaisampayana said |
+| श्रुत्वाधर्मानशेषेणपावनानिचसर्वशः। | śrutvā dharmānaśeṣeṇa pāvanāni ca sarvaśaḥ | Having heard the Dharma in its entirety and the holy ones in all respects |
+| युधिष्ठिरःशान्तनवंपुनरेवाभ्यभाषत॥ ७॥ | yudhiṣṭhiraḥ śāṁtanavaṁ punarevābhyabhyāṣata. (7) | Yudhisthira again addressed Bhisma (Shantanu's Putraha (Son) Shaanthanu - hence Shaantanavam : to Shaantanu). |
 
 In fact, before VS, King Yudhishtira asks about Neethi - how a good king should rule and that answer to which extends to 5000+ shlokas as answered by Bhishma and other sages), 
 
 Then VS goes "Sri Yudhishthira Uvacha".
 
-युधिष्ठिरउवाच—
-
-किमेकंदैवतंलोकेकिंवाप्येकंपरायणम्।
-
-स्तुवन्तःकंकमर्चन्तःप्राप्नुयुर्मानवाःशुभम्॥८॥
-
-को धर्मः सर्वधर्माणां भवतः परमो मतः ।
-
-किं जपन्मुच्यते जन्तुर्जन्मसंसारबन्धनात् ॥ ९॥
-
-śrī yudhiṣṭhira uvāca:
-
-kimekaṁ daivataṁ lōke kiṁ vāpyekaṁ parāyaṇaṁ,
-
-stuvaṁtaḥ kaṁ kamarcaṁtaḥ prāpnuyurmānavāḥ śubham. (8)
-
-kō dharmaḥ sarvadharmāṇāṁ bhavataḥ paramō mataḥ,
-
-kiṁ japanmucyate jaṁturjanmasaṁsārabaṁdhanāt. (9)
+| Sanskrit | Transliteration | Translation |
+| ------ | ------ | ----- |
+| युधिष्ठिरउवाच | śrī yudhiṣṭhira uvāca | Yudhisthira asked |
+| किमेकंदैवतंलोकेकिंवाप्येकंपरायणम्। | kimekaṁ daivataṁ lōke kiṁ vāpyekaṁ parāyaṇaṁ | Questions 1 and 2 |
+| स्तुवन्तःकंकमर्चन्तःप्राप्नुयुर्मानवाःशुभम्॥८॥ | stuvaṁtaḥ kaṁ kamarcaṁtaḥ prāpnuyurmānavāḥ śubham. (8) | Questions 3 and 4 |
+| को धर्मः सर्वधर्माणां भवतः परमो मतः । | kō dharmaḥ sarvadharmāṇāṁ bhavataḥ paramō mataḥ | Question 5 |
+| किं जपन्मुच्यते जन्तुर्जन्मसंसारबन्धनात् ॥ ९॥ | kiṁ japanmucyate jaṁturjanmasaṁsārabaṁdhanāt. (9) | Question 6 |
 
 That's it! A short two verses, 4 lines, 64 syllables is all it takes for Yudhisthira to ask all the questions that matter.
 
