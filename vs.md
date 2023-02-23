@@ -16,23 +16,19 @@ It will probably be helpful to keep in the mind the [background of Mahabharata](
 
 Back to VS, there is an important shloka right at the beginning that goes “Vaishampayana Uvacha'' which means Sage Vaishampayana said after hearing all the topics that are to be discussed, King Yudhisthira asked Bhishma (Shaanthanavam, Son of Shantanu) once again these questions.
 
-श्रीवैशम्पायनउवाच —
-
+| Sanskrit | Transliteration | Translation |
+| ------ | ------ | ----- |
+| श्रीवैशम्पायनउवाच —
 श्रुत्वाधर्मानशेषेणपावनानिचसर्वशः।
-
 युधिष्ठिरःशान्तनवंपुनरेवाभ्यभाषत॥ ७॥
-
-oṃ namo viṣṇave prabhaviṣṇave.
-
+| 
 śrī vaiśaṁpāyana uvāca:
-
 śrutvā dharmānaśeṣeṇa pāvanāni ca sarvaśaḥ,
-
 yudhiṣṭhiraḥ śāṁtanavaṁ punarevābhyabhyāṣata. (7)
-
+|
 Sri Vaisampayana said:
-
 Having heard the Dharma in its entirety and the holy ones in all respects, Yudhisthira again addressed Bhisma (Shantanu's Putraha (Son) Shaanthanu - hence Shaantanavam : to Shaantanu).
+|
 
 In fact, before VS, King Yudhishtira asks about Neethi - how a good king should rule and that answer to which extends to 5000+ shlokas as answered by Bhishma and other sages), 
 
