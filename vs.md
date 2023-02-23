@@ -10,20 +10,28 @@ King Yuddhistra asks six questions (Shat (six) Prashni (questions)) to his grand
 
 Then comes a big reveal and closes with words of praise from various sages and gods including the grand promise from Lord Vishnu himself and what fruits / knowledge one gets from following all these prescriptions.
 
-VS: Yudhistira’s Questions
+## VS: Yudhistira’s Questions
+
+It will probably be helpful to keep in the mind the [background of Mahabharata](https://krishna2.com/bg/author) and the [greatness of Vyasa](https://krishna2.com/vyasa).
 
 Back to VS, there is an important shloka right at the beginning that goes “Vaishampayana Uvacha'' which means Sage Vaishampayana said after hearing all the topics that are to be discussed, King Yudhisthira asked Bhishma (Shaanthanavam, Son of Shantanu) once again these questions.
 
 श्रीवैशम्पायनउवाच —
+
 श्रुत्वाधर्मानशेषेणपावनानिचसर्वशः।
+
 युधिष्ठिरःशान्तनवंपुनरेवाभ्यभाषत॥ ७॥
 
 oṃ namo viṣṇave prabhaviṣṇave.
+
 śrī vaiśaṁpāyana uvāca:
+
 śrutvā dharmānaśeṣeṇa pāvanāni ca sarvaśaḥ,
+
 yudhiṣṭhiraḥ śāṁtanavaṁ punarevābhyabhyāṣata. (7)
 
 Sri Vaisampayana said:
+
 Having heard the Dharma in its entirety and the holy ones in all respects, Yudhisthira again addressed Shantanu.
 
 In fact, before VS, King Yudhishtira asks about Neethi - how a good king should rule and that answer to which extends to 5000+ shlokas as answered by Bhishma and other sages), 
@@ -31,16 +39,26 @@ In fact, before VS, King Yudhishtira asks about Neethi - how a good king should 
 Then VS goes "Sri Yudhishthira Uvacha".
 
 युधिष्ठिरउवाच—
+
 किमेकंदैवतंलोकेकिंवाप्येकंपरायणम्।
+
 स्तुवन्तःकंकमर्चन्तःप्राप्नुयुर्मानवाःशुभम्॥८॥
+
 को धर्मः सर्वधर्माणां भवतः परमो मतः ।
+
 किं जपन्मुच्यते जन्तुर्जन्मसंसारबन्धनात् ॥ ९॥
 
 śrī yudhiṣṭhira uvāca:
+
 kimekaṁ daivataṁ lōke kiṁ vāpyekaṁ parāyaṇaṁ,
+
 stuvaṁtaḥ kaṁ kamarcaṁtaḥ prāpnuyurmānavāḥ śubham. (8)
+
 kō dharmaḥ sarvadharmāṇāṁ bhavataḥ paramō mataḥ,
+
 kiṁ japanmucyate jaṁturjanmasaṁsārabaṁdhanāt. (9)
+
+That's it! A short two verses, 4 lines, 64 syllables is all it takes for Yudhisthira to ask all the questions that matter.
 
 In this section, King Y asks SIX questions (Shat prashni). Bhishma is only too glad to answer these questions. But after giving a brief couple of lines for each question, he goes on to elaborate that such a big person / god he just described has 1000 majestic names. And here are the 1000. 
 
