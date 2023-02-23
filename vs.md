@@ -36,26 +36,23 @@ Then VS goes "Sri Yudhishthira Uvacha".
 
 That's it! A short two verses, 4 lines, 64 syllables is all it takes for Yudhisthira to ask all the questions that matter.
 
-In this section, King Y asks SIX questions (Shat prashni). Bhishma is only too glad to answer these questions. But after giving a brief couple of lines for each question, he goes on to elaborate that such a big person / god he just described has 1000 majestic names. And here are the 1000. 
+So there are Yudhisthira's **SIX questions** (Shat prashni). 
 
-यानि नामानि गौणानि विख्यातानि महात्मनः ।
-ऋषिभिः परिगीतानि तानि वक्ष्यामि भूतये ॥ १९॥
-
-yāni nāmāni gauṇāni vikhyātāni mahātmanaḥ,
-ṛṣibhiḥ parigītāni tāni vakṣyāmi bhūtaye. (19)
-
-Those famous names of the Great Soul which bring out His manifold qualities celebrated by rishis (seers) I shall declare for the good (of all).
+Bhishma is only too glad to answer these questions. But after giving a brief couple of lines for each question, 
 
 And after that, he concludes with a grand reveal. But you will have to wait for a few more paras. :)
 
-Normally at this point, there is a digression from the main namas and that's where VS goes "Dhyanam". Since this work is meant to be a Upasana (used in rituals as well as in meditation). VS is conducive to both Saguna Upasana and Nirguna Upasana. It is the Eka Rupa Eswara as well as the Vishwa Rupa Eswara. It is Karma Yoga (when we recite and chant it) but at the same time contains teachings of Gnana Yoga.
+Normally at this point, there is a digression from the main namas and that's where VS goes "Dhyanam". 
+
+Since this work is meant to be a Upasana (used in rituals as well as in meditation). VS is conducive to both Saguna Upasana and Nirguna Upasana. It is the Eka Rupa Eswara as well as the Vishwa Rupa Eswara. It is Karma Yoga (when we recite and chant it) but at the same time contains teachings of Gnana Yoga.
 
 Before we go to the six questions, a quick Sanskrit glossary.
-Kim, Ko, Kam all the three words means Who.
+
+`Kim`, `Ko`, `Kam` all the three words means `Who`. So you can say VS is `The Who`.
 
 Now for the six questions. These are generally chanted at Express speeds (Rajdhani express, Bullet Train, MagLev what have you) and if you snooze you lose the import. If you space out for a little bit, all these are gone and you are essentially hearing the entire VS which are answers to these six questions.
 
-So next time when we chant or listen to the chant, it might help to take a pause and reflect that questions were asked and what they were.
+So next time when we chant or listen to the chant, it might help to take a pause and reflect that questions were asked and what they are.
 
 | Question No. | Question | Translation |
 | ----- | ----- | ----- | 
@@ -68,34 +65,10 @@ So next time when we chant or listen to the chant, it might help to take a pause
 
 ----------
 
-(Question 1.)  Kim ekam daivatam loke
-
-Who ("kim") is the greatest ("ekam") Lord ("daivatam") in the world ("loke")?
-
-(Question 2. )  Kim vaapyekam paraayanam?
-
-Who (“kim”) is the one ("ekam") refuge ("paraayanam") for all?
-
-In the next two, the two questions are partially clubbed together and the second part applies to both the questions.
-
-(Question 3.)   Stuvantam kam praapnuyuh (Maanavah subham)?
-
-By glorifying ("sthuvantah") whom ("kam") can man ("manavah") reach the Auspiciousness ("shubam") (peace and prosperity)?
-
-Question 4. (Kam archantah) praapnuyuh  Maanavaah subham?
-
-By worshiping ("archantah") whom (“kam”) can a man reach auspiciousness (peace and prosperity)?
-
-Question 5.  Ko dharmah sarva-dharmaanaam Bhavatah paramo matah?
-
-What ("ko") is, in thy opinion (“bhavathaha paramo mathaha”), the Greatest Dharma amongst all Dharmas?
-
-Question 6.  Kim japan muchyate jantuh Janma-samsaara-bandhaaat?
-
-By ("kim") doing japa of what can “creatures” (jantu) go beyond ("mutchyate") the bonds ("bandhanaath") of samsara?
-
 
 ## VS: Bhishma's Answers
+
+
 
 Then VS goes Sri Bhishma Uvacha - Bhishma said.
 
@@ -160,6 +133,17 @@ Anaadi-nidhanam vishnum Sarvaloka-maheshvaram
 Lokaadhyaksham stuvan nityam Sarva-duhkha-atigo bhavet.
 
 Both questions are answered here: - the greatest Dharma is the one Vishnu, who has neither a beginning (Aadi) nor an end (Nidhanam), the supreme Lord ("maheshwaram") of the world. All creatures can go beyond the bonds of samsara, “and he goes beyond all sorrows” who daily ("nityam") chants ("stuvan") the sahasranamams and within glorifies “the knower of the world” (Lokaadhyaksha).
+
+
+he goes on to elaborate that such a big person / god he just described has 1000 majestic names. And here are the 1000. 
+
+यानि नामानि गौणानि विख्यातानि महात्मनः ।
+ऋषिभिः परिगीतानि तानि वक्ष्यामि भूतये ॥ १९॥
+
+yāni nāmāni gauṇāni vikhyātāni mahātmanaḥ,
+ṛṣibhiḥ parigītāni tāni vakṣyāmi bhūtaye. (19)
+
+Those famous names of the Great Soul which bring out His manifold qualities celebrated by rishis (seers) I shall declare for the good (of all).
 
 
 ## VS: Dhyanam and the Sahasranamams
