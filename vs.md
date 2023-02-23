@@ -32,7 +32,7 @@ yudhiṣṭhiraḥ śāṁtanavaṁ punarevābhyabhyāṣata. (7)
 
 Sri Vaisampayana said:
 
-Having heard the Dharma in its entirety and the holy ones in all respects, Yudhisthira again addressed Shantanu.
+Having heard the Dharma in its entirety and the holy ones in all respects, Yudhisthira again addressed Bhisma (Shantanu's Putraha (Son) Shaanthanu - hence Shaantanavam : to Shaantanu).
 
 In fact, before VS, King Yudhishtira asks about Neethi - how a good king should rule and that answer to which extends to 5000+ shlokas as answered by Bhishma and other sages), 
 
@@ -80,6 +80,17 @@ Kim, Ko, Kam all the three words means Who.
 Now for the six questions. These are generally chanted at Express speeds (Rajdhani express, Bullet Train, MagLev what have you) and if you snooze you lose the import. If you space out for a little bit, all these are gone and you are essentially hearing the entire VS which are answers to these six questions.
 
 So next time when we chant or listen to the chant, it might help to take a pause and reflect that questions were asked and what they were.
+
+| Question No. | Question | Translation |
+| ----- | ----- | ----- | 
+| 1 | Kim ekam daivatam loke | Who ("kim") is the greatest ("ekam") Lord ("daivatam") in the world ("loke")? |
+| 2 | Kim vaapyekam paraayanam? | Who (“kim”) is the one ("ekam") refuge ("paraayanam") for all? |
+| 3 | Stuvantam kam praapnuyuh (Maanavah subham)? |  By glorifying ("sthuvantah") whom ("kam") can man ("manavah") reach the Auspiciousness ("shubam") (peace and prosperity)? |
+| 4 | Kam archantah praapnuyuh  Maanavaah subham? | By worshiping ("archantah") whom (“kam”) can a man reach auspiciousness (peace and prosperity)? |
+| 5 |  Ko dharmah sarva-dharmaanaam Bhavatah paramo matah? | What ("ko") is, in thy opinion (“bhavathaha paramo mathaha”), the Greatest Dharma amongst all Dharmas? |
+| 6 | Kim japan muchyate jantuh Janma-samsaara-bandhaaat? | By ("kim") doing japa of what can “creatures” (jantu) go beyond ("mutchyate") the bonds ("bandhanaath") of samsara? |
+
+----------
 
 (Question 1.)  Kim ekam daivatam loke
 
