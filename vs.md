@@ -108,7 +108,7 @@ Question 6.  Kim japan muchyate jantuh Janma-samsaara-bandhaaat?
 By ("kim") doing japa of what can “creatures” (jantu) go beyond ("mutchyate") the bonds ("bandhanaath") of samsara?
 
 
-VS: Bhishma's Answers
+## VS: Bhishma's Answers
 
 Then VS goes Sri Bhishma Uvacha - Bhishma said.
 
@@ -175,7 +175,48 @@ Lokaadhyaksham stuvan nityam Sarva-duhkha-atigo bhavet.
 Both questions are answered here: - the greatest Dharma is the one Vishnu, who has neither a beginning (Aadi) nor an end (Nidhanam), the supreme Lord ("maheshwaram") of the world. All creatures can go beyond the bonds of samsara, “and he goes beyond all sorrows” who daily ("nityam") chants ("stuvan") the sahasranamams and within glorifies “the knower of the world” (Lokaadhyaksha).
 
 
+## VS: Dhyanam and the Sahasranamams
 
+Back to VS. In the section that follows “Dhyanam”, and starts with “Ksheero danvat” … it is a description of Lord Vishnua as a person in human form. But it is also a superior description of depicting the entire Universe.
+
+After this, begins the list of 1000 names starting with “Viswam Vishnur VashatkarO Bhuta Bhavya Bhavatprabhuhu”.
+
+Each of these names have deeper significant meanings than what we gleam from a quick reading of the Sanskrit definition.
+
+Viswam : One who is the Universe
+Vishnuhu: One who is in everything
+… so on. It starts with “all in one” and “one in all”.
+
+There are many different counts that go to say that there are 1031 names or there are something between 1000 and 1031, that some are repeated twice, some thrice and one nama repeated four times. Yet another goes to clarify that it is only 1000 names but the repeats are an adjective to further explain a name.
+
+The list ends at “Sarva Praharanayudhaha”.
+
+
+## VS: Avatara Reveal
+
+Then comes  a prayer that we generally chant 3 times.
+
+वनमाली गदी शार्ङ्गी शङ्खी चक्री च नन्दकी ।
+श्रीमान् नारायणो विष्णुर्वासुदेवोऽभिरक्षतु ॥ १०८॥
+श्री वासुदेवोऽभिरक्षतु ॐ नम इति ।
+
+vanamālī gadī śārṅgī śaṅkhī cakrī ca nandakī,
+śrīmān nārāyaṇō viṣṇurvāsudevōbhirakṣatu. (108)
+śrī vāsudevo’bhirakṣatu oṃ nama iti.
+(Chant this shloka 3 times)
+
+Protect us Oh Lord Narayana
+Who wears the forest garland,
+Who has the mace, conch, sword and the wheel.
+And who is called Vishnu and Vasudeva.
+
+While all along every one is thinking of the divine Lord Vishnu who is this greatest lord being described and who has the 1000 names, here is a prayer that then connects that the Lord Vishnu is also Vasudeva, Lord Krishna, who has been standing right there all along, with Yudhistira, Bhishma and others.
+
+Lord Krishna is the cousin of Yudhistira, Arjuna, and the Pandavas. In addition he is actually a brother-in-law to Arjuna. But for a few, none recognizes him as the Avatara. At best, Kunti (mother of Pandavas), Draupadi (wife of the Pandavas) and Bhishma know him as such. Arjuna too realizes this only in Chapter 4 (Jnana Karma Sanyasa Yoga, the first section called as Avatara Rahasyam). He does get 4 other clues prior to this in BG itself but he misses them all. That’s for another post.
+
+While everyone wants to hear from Bhisma, Bhisma wants to hear from the Lord. Which is why after all these conversations are over, he bids everyone goodbye and he just wants the darshan of Lord Krishna alone when he departs his body.
+
+VS finally concludes with a big list of “phala shruti” - the fruits of reading such a work. The lord’s teaching itself has clearly all along been preaching us to not ask for material and unimportant things. It is after all okay to start as such but there are enough indicators in the scriptures for us to move beyond the initial stages of learning, prayers, meditation, and practices. To miss this is to miss the forest for the trees. 
 
 
 ## Who is it for
