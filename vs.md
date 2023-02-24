@@ -18,21 +18,21 @@ Back to VS, there is an important shloka right at the beginning that goes “Vai
 
 | Sanskrit | Transliteration | Translation |
 | ------ | ------ | ----- |
-| श्रीवैशम्पायनउवाच | śrī vaiśaṁpāyana uvāca: | Sri Vaisampayana said |
-| श्रुत्वाधर्मानशेषेणपावनानिचसर्वशः। | śrutvā dharmānaśeṣeṇa pāvanāni ca sarvaśaḥ | Having heard the Dharma in its entirety and the holy ones in all respects |
-| युधिष्ठिरःशान्तनवंपुनरेवाभ्यभाषत॥ ७॥ | yudhiṣṭhiraḥ śāṁtanavaṁ punarevābhyabhyāṣata. (7) | Yudhisthira again addressed Bhisma (Shantanu's Putraha (Son) Shaanthanu - hence Shaantanavam : to Shaantanu). |
+| श्रीवैशम्पायन उवाच | shrIvaishampAyana uvAcha | Sri Vaisampayana said |
+| श्रुत्वा धर्मानशेषेण पावनानि च सर्वशः । | shrutvA dharmAnasheSheNa pAvanAni cha sarvashaH | Having heard the Dharma in its entirety and the holy ones in all respects |
+| युधिष्ठिरः शान्तनवं पुनरेवाभ्यभाषत ॥ ७॥ | yudhiShThiraH shAntanavaM punarevAbhyabhAShata (7) | Yudhisthira again addressed Bhisma (Shantanu's Putraha (Son) Shaanthanu - hence Shaantanavam : to Shaantanu). |
 
 In fact, before VS, King Yudhishtira asks about Neethi - how a good king should rule and that answer to which extends to 5000+ shlokas as answered by Bhishma and other sages), 
 
-Then VS goes "Sri Yudhishthira Uvacha".
+Then VS goes "Yudhishthira Uvacha".
 
 | Sanskrit | Transliteration | Translation |
 | ------ | ------ | ----- |
-| युधिष्ठिरउवाच | śrī yudhiṣṭhira uvāca | Yudhisthira asked |
-| किमेकंदैवतंलोकेकिंवाप्येकंपरायणम्। | kimekaṁ daivataṁ lōke kiṁ vāpyekaṁ parāyaṇaṁ | Questions 1 and 2 |
-| स्तुवन्तःकंकमर्चन्तःप्राप्नुयुर्मानवाःशुभम्॥८॥ | stuvaṁtaḥ kaṁ kamarcaṁtaḥ prāpnuyurmānavāḥ śubham. (8) | Questions 3 and 4 |
-| को धर्मः सर्वधर्माणां भवतः परमो मतः । | kō dharmaḥ sarvadharmāṇāṁ bhavataḥ paramō mataḥ | Question 5 |
-| किं जपन्मुच्यते जन्तुर्जन्मसंसारबन्धनात् ॥ ९॥ | kiṁ japanmucyate jaṁturjanmasaṁsārabaṁdhanāt. (9) | Question 6 |
+| युधिष्ठिर उवाच | yudhiShThira uvAcha | Yudhisthira asked |
+| किमेकं दैवतं लोके किं वाप्येकं परायणम् । | kimekaM daivataM loke kiM vApyekaM parAyaNam | Questions 1 and 2 |
+| स्तुवन्तः कं कमर्चन्तः प्राप्नुयुर्मानवाः शुभम् ॥ ८॥ | stuvantaH kaM kamarchantaH prApnuyurmAnavAH shubham (8) | Questions 3 and 4 |
+| को धर्मः सर्वधर्माणां भवतः परमो मतः । | ko dharmaH sarvadharmANAM bhavataH paramo mataH | Question 5 |
+| किं जपन्मुच्यते जन्तुर्जन्मसंसारबन्धनात् ॥ ९॥ | kiM japanmuchyate janturjanmasa.nsArabandhanAt (9) | Question 6 |
 
 That's it! A short two verses, 4 lines, 64 syllables is all it takes for Yudhisthira to ask all the questions that matter.
 
