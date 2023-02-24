@@ -54,14 +54,15 @@ Now for the six questions. These are generally chanted at Express speeds (Rajdha
 
 So next time when we chant or listen to the chant, it might help to take a pause and reflect that questions were asked and what they are.
 
+
 | Question No. | Question | Translation |
 | ----- | ----- | ----- | 
-| 1 | Kim ekam daivatam loke | Who ("kim") is the greatest ("ekam") Lord ("daivatam") in the world ("loke")? |
-| 2 | Kim vaapyekam paraayanam? | Who (“kim”) is the one ("ekam") refuge ("paraayanam") for all? |
-| 3 | Stuvantam kam praapnuyuh (Maanavah subham)? |  By glorifying ("sthuvantah") whom ("kam") can man ("manavah") reach the Auspiciousness ("shubam") (peace and prosperity)? |
-| 4 | Kam archantah praapnuyuh  Maanavaah subham? | By worshiping ("archantah") whom (“kam”) can a man reach auspiciousness (peace and prosperity)? |
-| 5 |  Ko dharmah sarva-dharmaanaam Bhavatah paramo matah? | What ("ko") is, in thy opinion (“bhavathaha paramo mathaha”), the Greatest Dharma amongst all Dharmas? |
-| 6 | Kim japan muchyate jantuh Janma-samsaara-bandhaaat? | By ("kim") doing japa of what can “creatures” (jantu) go beyond ("mutchyate") the bonds ("bandhanaath") of samsara? |
+| 1 | kimekaM daivataM loke | Who ("kim") is the greatest ("ekam") Lord ("daivatam") in the world ("loke")? |
+| 2 | kiM vApyekaM parAyaNam | Who (“kim”) is the one ("ekam") refuge ("paraayanam") for all? |
+| 3 | stuvantaH kaM prApnuyurmAnavAH shubham |  By glorifying ("sthuvantah") whom ("kam") can man ("manavah") reach the Auspiciousness ("shubam") (peace and prosperity)? |
+| 4 | kamarchantaH prApnuyurmAnavAH shubham | By worshiping ("archantah") whom (“kam”) can a man reach auspiciousness (peace and prosperity)? |
+| 5 |  ko dharmaH sarvadharmANAM bhavataH paramo mataH | What ("ko") is, in thy opinion (“bhavathaha paramo mathaha”), the Greatest Dharma amongst all Dharmas? |
+| 6 | kiM japanmuchyate janturjanmasa.nsArabandhanAt | By ("kim") doing japa of what can “creatures” (jantu) go beyond ("mutchyate") the bonds ("bandhanaath") of samsara? |
 
 ----------
 
@@ -70,7 +71,7 @@ So next time when we chant or listen to the chant, it might help to take a pause
 
 
 
-Then VS goes Sri Bhishma Uvacha - Bhishma said.
+Then VS goes bhIShma uvAcha - Bhishma said.
 
 (Question 1.)  Kim ekam daivatam loke
 
@@ -78,8 +79,8 @@ Who ("kim") is the greatest ("ekam") Lord ("daivatam") in the world ("loke")?
 
 (Answer 1.)
 
-Pavitraanaam pavitram yo Mangalaanaam cha mangalam
-Daivatam devataanam cha Bhootaanam yo avyayah pitaa.
+pavitrANAM pavitraM yo ma~NgalAnAM cha ma~Ngalam |
+daivataM daivatAnAM cha bhUtAnAM yo.avyayaH pitA || 
 
 He who is ("yo") the very sanctity ("pavitram") that sanctifies all sacred things ("pavitraanaam"); he who is most auspicious ("mangalam"); he who is the god ("devataa") of gods ("daivatam"); he who is the eternal ("avyayah") father ("pitaa") of all creatures ("bhootaanaam") is the one god – VISHNU.
 
@@ -90,8 +91,9 @@ Who is the one ("ekam") refuge ("paraayanam") for all?
 
 (Answer 2.)
 
-Paramam yo mahat-tejah Paramam yo mahat-tapah
-Paramam yo mahat-brahma Paramam yah paraayanam.
+paramaM yo mahattejaH paramaM yo mahattapaH |
+paramaM yo mahad.hbrahma paramaM yaH parAyaNam || 
+
 
 He who is the great ("mahat") effulgence ("tejah"); He who is the Great controller ("tapah"); He who is the Supreme All-Pervading Truth; ("brahma") he who is the Highest (Param) Goal (Ayanam)-the Lord Vishnu.
 
@@ -102,8 +104,9 @@ By glorifying ("sthuvantah") whom ("kam") can man ("manavah") reach the Auspicio
 
 Answer 3.     
 
-Jagat-prabhum deva-devam Anantam purushottamam
-Stuvan naama-sahasrena Purushah satatotthitah.
+jagatprabhuM devadevamanantaM puruShottamam |
+stuvan nAmasahasreNa puruShaH satatotthitaH || 
+
 
 The supreme ("uttamam") Purusha, who is ever up and doing for the welfare of all, the Lord ("prabhum") of the world ("jagat") the endless ("anantam") – Sri Maha Vishnu.
 
@@ -112,9 +115,11 @@ Question 4. (Kam archantah) praapnuyuh  Maanavaah subham?
 
 By worshiping ("archantah") whom can a man reach auspiciousness (peace and prosperity)?
 
-Answer 4.   Tameva cha archayan nityam Bhaktyaa purusham avyayam
+Answer 4.   
 
-Stuvan naama-sahasrena Purushah satatthitah.
+tameva chArchayannityaM  bhaktyA puruShamavyayam |
+dhyAyan stuvan namasya.nshcha yajamAnastameva cha || 
+
 
 By meditating upon ("sthuvan naama"), by ("cha") worshipping ("archayan") and by prostrating at the same Purusha, man can reach true Auspiciousness.
 
@@ -129,8 +134,8 @@ By ("kim") doing japa of what can “creatures” (jantu) go beyond ("mutchyate"
  
 Answers 5&6.
 
-Anaadi-nidhanam vishnum Sarvaloka-maheshvaram
-Lokaadhyaksham stuvan nityam Sarva-duhkha-atigo bhavet.
+anAdinidhanaM viShNuM sarvalokamaheshvaram |
+lokAdhyakShaM stuvannityaM sarvaduHkhAtigo bhavet || 
 
 Both questions are answered here: - the greatest Dharma is the one Vishnu, who has neither a beginning (Aadi) nor an end (Nidhanam), the supreme Lord ("maheshwaram") of the world. All creatures can go beyond the bonds of samsara, “and he goes beyond all sorrows” who daily ("nityam") chants ("stuvan") the sahasranamams and within glorifies “the knower of the world” (Lokaadhyaksha).
 
@@ -140,8 +145,9 @@ he goes on to elaborate that such a big person / god he just described has 1000 
 यानि नामानि गौणानि विख्यातानि महात्मनः ।
 ऋषिभिः परिगीतानि तानि वक्ष्यामि भूतये ॥ १९॥
 
-yāni nāmāni gauṇāni vikhyātāni mahātmanaḥ,
-ṛṣibhiḥ parigītāni tāni vakṣyāmi bhūtaye. (19)
+yAni nAmAni gauNAni vikhyAtAni mahAtmanaH |
+R^iShibhiH parigItAni tAni vakShyAmi bhUtaye || 
+
 
 Those famous names of the Great Soul which bring out His manifold qualities celebrated by rishis (seers) I shall declare for the good (of all).
 
@@ -165,15 +171,47 @@ The list ends at “Sarva Praharanayudhaha”.
 
 ## VS: Avatara Reveal
 
+शङ्खभृन्नन्दकी चक्री शार्ङ्गधन्वा गदाधरः ।
+रथाङ्गपाणिरक्षोभ्यः सर्वप्रहरणायुधः ॥ १०७॥
+
+सर्वप्रहरणायुध ॐ नम इति ।
+
+वनमाली गदी शार्ङ्गी शङ्खी चक्री च नन्दकी ।
+श्रीमान् नारायणो विष्णुर्वासुदेवोऽभिरक्षतु ॥ १०८॥
+
+श्री वासुदेवोऽभिरक्षतु ॐ नम इति ।
+
+
+भीष्म उवाच ---
+
+इतीदं कीर्तनीयस्य केशवस्य महात्मनः ।
+नाम्नां सहस्रं दिव्यानामशेषेण प्रकीर्तितम् ॥ १॥
+
+sha~NkhabhR^innandakI chakrI shAr~NgadhanvA gadAdharaH |
+rathA~NgapANirakShobhyaH sarvapraharaNAyudhaH || 
+
+sarvapraharaNAyudha AUM nama iti |
+
+vanamAlI gadI shAr~NgI sha~NkhI chakrI cha nandakI |
+shrImAn nArAyaNo viShNurvAsudevo.abhirakShatu || 
+
+shrI vAsudevo.abhirakShatu OM nama iti |
+
+uttaranyAsaH |
+
+bhIShma uvAcha \-\-\-
+itIdaM kIrtanIyasya keshavasya mahAtmanaH |
+nAmnAM sahasra.n divyAnAmasheSheNa prakIrtitam || 
+
+
+
 Then comes  a prayer that we generally chant 3 times.
 
 वनमाली गदी शार्ङ्गी शङ्खी चक्री च नन्दकी ।
 श्रीमान् नारायणो विष्णुर्वासुदेवोऽभिरक्षतु ॥ १०८॥
 श्री वासुदेवोऽभिरक्षतु ॐ नम इति ।
 
-vanamālī gadī śārṅgī śaṅkhī cakrī ca nandakī,
-śrīmān nārāyaṇō viṣṇurvāsudevōbhirakṣatu. (108)
-śrī vāsudevo’bhirakṣatu oṃ nama iti.
+
 (Chant this shloka 3 times)
 
 Protect us Oh Lord Narayana
