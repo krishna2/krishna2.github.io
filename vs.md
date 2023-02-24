@@ -264,6 +264,35 @@ The last point deserves a call out. If not anything else, if there are morals, m
 
 As long as the application of the teaching is to also live a moral, ethical, peaceful life following the golden rule “Do unto others what you want them to do unto you”, then it’s all good.
 
+## It gets deeper
+
+If we are thinking, "Ah, so that's what VS is", please hold your `payasam`, Vyasa is just getting warmed up. There are many many levels more and I will try my best to explain what I know and understand it to be.
+
+We will have to likely traverse through
+
+1. One ultimate goal of the Vedanta teaching
+2. Two Yogas leading to the same goal
+3. Three Gunas, Three states, Three Shareeras
+4. Four Vedas and Four fold qualification (4Ds) and Anubandha Chathustayam
+5. Five Karmendriyas and Five Jnanendriyas
+6. Six qualifications / Samaadhi Shat Samppati 
+7. Seven Topics that a philosophy should cover
+8. Eight-fold AShtanga Yoga Way
+9. Ninth chapter of Gita / The greatest knowledge greatest secret Raja Vidya Raja Guhya Yoga
+10. Tenth chapter of Gita / Vibhuti Yoga / The Lord's Greatness
+11. Eleventh chapter of Gita / Vishawarupa Darshana Yoga / What is the divine vision?
+12. Twelfth chapter of Gita / Bhakti Yoga / What is Bhakti?
+
+... okay you get the drift.
+
+Great Sages and Swamis have taught and written lots of teaching on all the above. My task it to provide one with enough of a basic map of the land, maybe an inspiring motivation and enthusiasm to seek those teachings and let any of my material to act like the rocket booster fuel. Drop me off as soon as possible and as soon as the purpose is done.
+
+Om Shanti Shanti Shantihi!
+
+
+
+
+
 
 
 
