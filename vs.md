@@ -161,7 +161,7 @@ Vishnuhu: One who is in everything
 
 It starts with “all in one” and “one in all”.
 
-There are many different counts that go to say that there are 1031 names or there are something between 1000 and 1031, that some are repeated twice, some thrice and one nama repeated four times. Yet another goes to clarify that it is only 1000 names but the repeats are an adjective to further explain a name.
+There are many different counts that go to say that there are 1031 names or there are something between 1000 and 1031, that some are repeated twice, some thrice. Yet another goes to clarify that it is only 1000 names but the repeats are an adjective another name.
 
 
 ## Avatara Reveal
@@ -318,4 +318,24 @@ You will have to likely traverse through:
 Great Sages and Swamis have taught and written lots of teaching on all the above. My task it to provide my friends with enough of a basic map of the land, maybe suggest a few starting trails, an inspiration, some motivation and enthusiasm to seek those teachings. Let my material be like the rocket booster fuel. Drop it off as soon as possible and as soon as its purpose is done.
 
 Om Shanti Shanti Shantihi!
+
+
+# References
+
+http://reservoirmumukshu.blogspot.com/2016/09/shri-vishnu-sahasranama-stotram.html
+
+https://sanskritdocuments.org/doc_vishhnu/vsahasranew.html
+
+https://sanskritdocuments.org/doc_giitaa/bhagvadnew.html
+
+http://www.shivkumar.org/music/vishnu-sahasranamam-meanings.htm
+
+https://www.swami-krishnananda.org/vishnu/vishnu_1.html
+
+https://vishnusahasranama.wordpress.com/
+
+https://vishnusahasranama.wordpress.com/2008/12/01/vishva/
+
+https://divyakataksham.wordpress.com/2014/03/28/vishnu-sahasranamam-part-1/
+
 
