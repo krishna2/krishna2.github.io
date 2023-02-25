@@ -283,7 +283,7 @@ A short digression to answer a few questions that may pop up.
      - Take away only the good parts that you can apply to your life.
    - In all cases, continue the quest for truth.
 
-The last point deserves a call out. If not anything else, if there are morals, models, (either a way of thinking and understanding or as a role model of a superhero or a sage or person or thing) principles, techniques, ideas that you can use in your day to day life to be happy, to be at peace, to have a right perspective, to be of great benefit to others and helpful, then the works have done their purpose. Take the best, leave the rest.
+The last point deserves a call out. If not anything else, if there are morals, models, (either a way of thinking and understanding or as a role model of a superhero or a sage or person or thing) principles, techniques, ideas that you can use in your day to day life to be happy, to be at peace, to have a right perspective, to be of great benefit to others and be helpful, then the works have done their purpose. Take the best, leave the rest.
 
 After patiently teaching Arjuna for a solid 17 chapters (the teaching begins only in the 2nd chapter), Krishna concludes by saying that he has taught him everything and he can `यथेच्छसि तथा कुरु - yathechChasi tathA kuru - do what you like`.
 
@@ -315,7 +315,7 @@ You will have to likely traverse through:
 
 ... okay you get the drift.
 
-Great Sages and Swamis have taught and written lots of teaching on all the above. My task it to provide my friends with enough of a basic map of the land, maybe suggest a few starting trails, an inspiration, some motivation and enthusiasm to seek those teachings. Let my material be like the rocket booster fuel. Drop it off as soon as possible and as soon as its purpose is done.
+Great Sages and Swamis have taught and written lots of teaching on all the above. My task it to provide my friends with enough of a basic map of the land, maybe suggest a few starting trails, an inspiration, some motivation and enthusiasm to seek those teachings. Let my material be like the rocket booster fuel. Drop it off as soon as possible and as soon as its purpose is done. Please read it, hear it and learn it from the wise ones.
 
 Om Shanti Shanti Shantihi!
 
