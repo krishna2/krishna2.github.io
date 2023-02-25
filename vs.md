@@ -50,8 +50,8 @@ Before we go to the six questions, a quick Sanskrit glossary.
 
 ```
 Kim = Who
-Ko  = What
 Kam = Whom
+Ko  = What
 ```
 
 So you can say VS is `The Who`.
@@ -154,7 +154,9 @@ After this, begins the list of 1000 names starting with “Viswam Vishnur Vashat
 Each of these names have deeper significant meanings than what we gleam from a quick reading of the Sanskrit definition.
 
 Viswam : One who is the Universe
+
 Vishnuhu: One who is in everything
+
 … so on. 
 
 It starts with “all in one” and “one in all”.
