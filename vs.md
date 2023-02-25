@@ -2,7 +2,7 @@
 
 The Vishnu Sahasaranamam (VS) is a list of 1000 (Sahasra) names (namam) of Lord Vishnu. 
 The following write up is to explain the story and significance of it a little bit so one 
-can understand it holistically as to how VS fits with Bhagavad Gita (BG) and the Vedas (the main scriptures of Hinduism).
+can understand it it and enjoy it better.
 
 Mahabharata (MB) is a great epic that details the story of the clan of Kurus in ancient India (Bharat). VS occurs in the Anushasana Parva which is the 13th of the 18 books that forms the MB. In the previous book (Shanti parva), the longest book, King Yudhisthira seeks advice from all the sages and from Bhishma.
 
