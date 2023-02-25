@@ -1,6 +1,6 @@
-# Vishnu Sahasaranamam
+# Vishnu Sahasranamam
 
-The Vishnu Sahasaranamam (VS) is a list of 1000 (Sahasra) names (namam) of Lord Vishnu. 
+The Vishnu Sahasranamam (VS) is a list of 1000 (Sahasra) names (namam) of Lord Vishnu. 
 The following write up is to explain the story and significance of it a little bit so one 
 can understand it it and enjoy it better.
 
