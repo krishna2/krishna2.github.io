@@ -4,6 +4,8 @@ Thus Spake Krishna is a comprehensive book about Bhagavad Gita by Prof. VK.
 
 In one sentence: GET THIS BOOK, READ IT, LIVE IT.
 
+https://www.amazon.com/THUS-SPAKE-KRISHNA-Prof-Krishnamurthy/dp/1637453701/ref=cm_cr_arp_d_product_top?ie=UTF8
+
 This is my favorite go-to book on Bhagavad Gita (BG). I personally consider it one of the best written for both the beginner as well as an advanced student of Vedanta (amongst the many books I have read on Bhagavad Gita).
 
 Here are some of the great and possibly unique features of this book.
