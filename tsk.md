@@ -8,7 +8,7 @@ This is my favorite go-to book on Bhagavad Gita (BG). I personally consider it o
 
 Here are some of the great and possibly unique features of this book.
 
-1. Every BG chapter has a corresponding chapter with every shloka in devanagari script, ITRANS English notation and an English translation with matching ITRANS phrases in paranthesis.
+1. Every BG chapter has a corresponding chapter with every shloka in devanagari script, ITRANS English notation and an English translation with matching ITRANS phrases in parentheses.
    - I can't stop raving about how fantastic it is to read itrans rather than any other accented character representations.
 
 2. Chapter 0 is an epic introduction on its own. This introduces the Gita to the reader and summarizes the Gita succinctly. If Chapter 0 and the Appendix alone were available as a book, that by itself is a valuable tome for anyone to read (for the same price as the book).
@@ -16,14 +16,14 @@ Here are some of the great and possibly unique features of this book.
 3. In the process of explaining Gita, the author (as only a teacher of the highest caliber would do) creates various classifications.
    - Five arguments put forth by Lord Krishna (numbered A1 onwards).
    - Five teachings (upadeshas) that we can all take (numbered U1 onwards).
-   - Four Fundamental Vedantic Maxims (numbere FM1 onwards).
+   - Four Fundamental Vedantic Maxims (numbered FM1 onwards).
    - Three Truths of Vedanta.
    - Key call out to Five Principles as classified by Prof. Mahadevan.
    - These are all once again recapitulated in the Appendix too.
 
-4. Throughout the text, wherever a shloka is addressing an Arugment or an Upadesha or a Vedantic Maxim, the author calls this out explicitly.
+4. Throughout the text, wherever a shloka is addressing an Argument or an Upadesha or a Vedantic Maxim, the author calls this out explicitly.
 
-5. This I believe to be the **STAR** feature of this book. The invaluable call outs to the interconnected nature of the BG. This is not obvious in the first read nor in the 10th read if one were to read the Gita without such detailed explanations. If the author had just published a map of all the various connections between the chapters and the shlokas as a map, that alone would be worth the while price of the book.
+5. This I believe to be the **STAR** feature of this book. The invaluable call outs to the interconnected nature of the BG. This is not obvious in the first read nor in the 10th read if one were to read the Gita without such detailed explanations. If the author had just published a map of all the various connections between the chapters and the shlokas as a map, that alone would be worth the full price of the book.
 
 6. We can't thank the author enough for coming up with a scheme to call out certain shlokas a five-star shlokas. These are gems indeed. If one is confounded how do I apply this teaching, fear not, the author gives tips and ideas to immediately put the teachings in the book to practice in real life.
 
@@ -35,6 +35,7 @@ Here are some of the great and possibly unique features of this book.
    - The author's Tamil scriptural references are a joy as I am a native Tamil speaker.
    - The author also calls out various sayings by Sri Ramakrishna Paramahamsa, Swami Vivekananda, Bhagavan Ramana Maharishi, Sri Kanchi Mahaperiyava, Sri Sathya Sai Baba, Swami Paramarthanananda and others.
    - The comparison of Dvaita, Vishishtadvaita and Advaita at various shlokas are beautiful too. In addition, the consolidation of it all as a coherent message of how we can get started and get a holistic sense of it all is super useful.
+   - There are additional discussions on Dhyana (Meditation) and the Ashtanga Yoga.
 
 10. Even more unique groupings of sets of shlokas are a great reference. A few to call out:
     - Chapter 2 : Sthitha prajnya
@@ -44,7 +45,7 @@ Here are some of the great and possibly unique features of this book.
 
 11. Shlokas that deal with important attributes of a good seeker such as "samatvam" or the highly desirable quality such as "brahma nishta" are all grouped too. What's even more useful is the author tirelessly keeps calling out in each instance which makes it such an invaluable resource to read and remember.
 
-12. The call out of the most important shlokas such as 6.20 (essence of Gita), 9.27 & 11.55 (ways of assimilating the entire Gita), 9.18 (mahavaakya) are such a joy to read and invaluable lesson for us. I have printed smaller versions of such power-packed shlokas and make them my phone cover or a desktop picture or a printout that's key handy on my desk for a constant reminder throughout the day.
+12. The call out of the most important shlokas such as 6.20 (essence of Gita), 9.27 & 11.55 (ways of assimilating the entire Gita), 9.18 (mahavaakya) are such a joy to read and an invaluable lesson for us. I have printed smaller versions of such power-packed shlokas and make them my phone cover or a desktop picture or a printout that's key handy on my desk for a constant reminder throughout the day.
 
 13. The author further cites his father's work for a list of 24 shlokas from the Gita which corresponds to the teaching of nothing less than the Gayatri mantra itself.
 
