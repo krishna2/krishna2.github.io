@@ -46,7 +46,7 @@
 
 1. Jeffrey Selingo: Who Gets In and Why: A Year Inside College Admissions
 
-1. Swami Paramarthananda: Dakshinamurthi Stotram
+1. Swami Paramarthananda: Dakshinamurthi Stotram - summary
 
 1. Swami Paramarthananda: Brahma Sutras (Adhyasa bashyam and First few sutras)
 
@@ -63,6 +63,16 @@
 1. Shoba Rao: My Race Against Death
 
 1. Tom Neale: An Island to Oneself(++)
+
+1. Swami Paramarthananda: Gita Summarized (english)
+
+1. Swami Paramarthananda: Dakshinamoorthy Stotram
+
+1. David Goggins: Can't Hurt Me
+
+1. Prof. VK: Thus Spake Krishna(++)
+
+1. Tim Urban: Wait But Why : One Year
 
 
 
