@@ -147,11 +147,11 @@ Those famous names of the Great Soul which bring out His manifold qualities cele
 
 ## Dhyanam and the Sahasranamams
 
-Back to VS. In the section that follows “Dhyanam”, and starts with “Ksheero danvat” … it is a description of Lord Vishnua as a person in human form. But it is also a description odepicting the entire Universe.
+Back to VS. In the section that follows “Dhyanam”, and starts with “Ksheero danvat” … it is a description of Lord Vishnu as a person in human form. But it is also a description odepicting the entire Universe.
 
 After this, begins the list of 1000 names starting with “Viswam Vishnur VashatkarO Bhuta Bhavya Bhavatprabhuhu”.
 
-Each of these names have deeper significant meanings than what we gleam from a quick reading of the Sanskrit definition.
+Each of these names have deeper significant meanings than what we glean from a quick reading of the Sanskrit definition.
 
 Viswam : One who is the Universe
 
@@ -210,7 +210,7 @@ Vasudeva Putraha - son of Vasudeva is vAsudevA. (note the short a in father's na
 Vasudeva sutam devam Kamsa Chaanura mardhanam
 Devaki paramaanandham, Krishnam Vande Jagatgurum
 
-Okay, let's imagine the scene. It's the battlefield. The war is over. A huge majority of the army on boths including heroes and kings and valiant warriors have been slain. Yudhisthira has been crowned king. But Bhisma although mortally wounded, hangs on to his life on a death bed of arrows. He is biding his time to leave his body. This ie because of a boon his father granted him - that he can choose his time of death since he vowed to be a brahmachari (celebate) all his life.
+Okay, let's imagine the scene. It's the battlefield. The war is over. A huge majority of the army on both sides including heroes and kings and valiant warriors have been slain. Yudhisthira has been crowned king. But Bhisma although mortally wounded, hangs on to his life on a death bed of arrows. He is biding his time to leave his body. This ie because of a boon his father granted him - that he can choose his time of death since he vowed to be a brahmachari (celebate) all his life.
 
 Everyone is around Bhisma listening to all the words of wisdom he is saying. Now that Yudhisthira has asked the six questions, he has given the entire VS as well. Guess who else is standing there along with the Pandavas? That's right, that'd be Krishna. Or the aforementioned vAsudevA. All along Bhisma has been describing Lord Vishnu alright. But he is also describing Krishna. Hence the final connection that goes `shrimaan narayanO vishnuhu` is also `vAsudevA`.
 
