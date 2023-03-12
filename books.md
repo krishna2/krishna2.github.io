@@ -66,6 +66,10 @@
 
 1. Swami Paramarthananda: Gita Summarized (english)
 
+1. Swami Gurubhaktananda: Manisha Panchakam (Chinmaya Mission)
+
+1. Swami Paramarthananda: Manisha Panchakam
+
 1. Swami Paramarthananda: Dakshinamoorthy Stotram
 
 1. David Goggins: Can't Hurt Me
