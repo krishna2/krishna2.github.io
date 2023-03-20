@@ -78,6 +78,11 @@
 
 1. Tim Urban: Wait But Why : One Year
 
+1. Scott Galloway: The Algebra of Happiness
+
+1. Swami Paramarthananda: Shivananda Lahari (selected verses)
+
+
 
 
 ## Books in 2022
