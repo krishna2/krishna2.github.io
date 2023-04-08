@@ -1170,6 +1170,8 @@ I learnt a lot about Bhagavad Gita from Prof. VK's "Thus Spake Krishna" book.
 
 https://krishna2.com/tsk
 
+I cannot thank enough fellow mumukshus who have accompany me, guide me and encouraged me all along. These "satsangs" truly reflect Bhaja Govindam Verse 9 "Satsangatve nissangatvam" of Adi Shankaracharya.
+
 Bhagavad Gita
 
 https://www.sanskritdocuments.org/
