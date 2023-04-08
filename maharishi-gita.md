@@ -1,6 +1,6 @@
 # Maharishi-Gita
 
-This is a follow-on review to the Tamil Play staged in San Francisco Bay Area depicting the life of Bhagavan Ramana Maharishi. You can read the first part here (link). I have 4 quick callouts first and then want to share about the invisible Bhagavad Gita Slideshow.
+This is a follow-on review to the Tamil Play staged in San Francisco Bay Area depicting the life of Bhagavan Ramana Maharishi. You can read the first part here: [Maharishi Play](https://krishna2.com/maharishi-play). I have 4 quick callouts first and then want to share about the invisible Bhagavad Gita Slideshow.
 
 ## Perseverance and Grit
 
