@@ -49,7 +49,7 @@ One important thing to note is that in the case of Arjuna (and for us) it is a p
 
 ### 2. Intense meditator not caring for his own body
 
-When Seshadri Swamigal and two other devotees find him meditating in Pathala Gugai, he was without care for his body.
+When Seshadri Swamigal and two other devotees find him meditating in Pathala Lingam, he was without care for his body.
 
 ```
 मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः ।
@@ -885,7 +885,7 @@ There are very few (think one in millions) who do this all on their own. That is
 
 Even such masters take the Lord as the Guru.
 
-From Akshara Manimaalai composition, we have these beautiful lines.
+From Akshara Mana Maalai composition, we have these beautiful lines.
 
 ```
 Verse 36:
@@ -1176,7 +1176,7 @@ Bhagavad Gita
 
 https://www.sanskritdocuments.org/
 
-Akshara Mani Malai
+Akshara Mana Malai
 
 https://archive.arunachala.org/docs/collected-worm/aksharamanamalai/
 
