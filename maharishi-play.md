@@ -40,14 +40,12 @@ I have been to Thiruvannamalai only twice - one trip was a half day hurried trip
 
 ## Blast from the Past
 
-If you are interested, you can read about the Thiruvannamalai trip here: https://gist.github.com/krishna2/88301659e4ee2146dc630caf1c2f9afd
+If you are interested, you can read about our [Thiruvannamalai trip](https://gist.github.com/krishna2/88301659e4ee2146dc630caf1c2f9afd)
 
-Notes from our Q&A with Swami Guruparananda: https://gist.github.com/krishna2/c9e3f4cea1876c4c23df6090977ce24c
+Notes from our [Q&A with Swami Guruparananda](https://gist.github.com/krishna2/c9e3f4cea1876c4c23df6090977ce24c)
 
-Notes from our Q&A with Swami Paramarthananda:
-https://gist.github.com/krishna2/f4c07b042b66a696ef79bad62606a9ee
+Notes from our [Q&A with Swami Paramarthananda](https://gist.github.com/krishna2/f4c07b042b66a696ef79bad62606a9ee)
 
-Notes from Talk by Swami Ishwarananda for Ramanar-Jayanthi:
-https://gist.github.com/krishna2/03de61f256a4b9a996ab260097b94956
+Notes from [Talk by Swami Ishwarananda for Ramanar-Jayanthi](https://gist.github.com/krishna2/03de61f256a4b9a996ab260097b94956)
 
 Om Tat Sat.
