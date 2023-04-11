@@ -1,8 +1,8 @@
 # Gita Saaraha : 42 selected verses by Bhagavan Ramana Maharishi
 
 1. 2.1
-2.  13.1 (700 count)
-3. 13.2
+2.  13.1 (700 count, so this is bhagavan uvacaha : idam shariram)
+3. 13.2 (the most majestic kshetranjam cha api maam viddhi)
 4. 10.20
 5. 2.27
 6. 2.20
