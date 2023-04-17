@@ -82,6 +82,12 @@
 
 1. Swami Paramarthananda: Shivananda Lahari (selected verses)
 
+1. Prof. VK: Paramacharya on Soundarya-Lahari
+
+1. Kenneth O. Stanley and Joel Lehman: Why Greatness Cannot Be Planned: The Myth of the Objective
+
+
+
 
 
 
