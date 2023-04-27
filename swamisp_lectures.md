@@ -85,7 +85,7 @@ These are a [series of full lectures](https://www.youtube.com/playlist?list=PLDq
 
 [Ashtavakra Gita Series](https://www.youtube.com/playlist?list=PLrzrp4HwjKA3blZtIc8ac1aVButzdUaaC)
 
-It would look like a hyperbole statement but the above four works has *everything*! Without a doubt, it would require multiple readings, even multiple different commentaries, interpretations and explanations and above all, series internalization and practice.
+It would look like a hyperbole statement but the above four works has *everything*! Without a doubt, it would require multiple readings, even multiple different commentaries, interpretations and explanations and above all, deep understanding, internalization and practice.
 
 
 **Om Tat Sat**
