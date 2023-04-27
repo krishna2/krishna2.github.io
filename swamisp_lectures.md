@@ -102,7 +102,8 @@ OM
 Lead us from the Unreal to the Real
 Lead us from Darkness unto Light
 Lead us from Death to Immortality 
-Om Peace Peace Peace.```
+Om Peace Peace Peace.
+```
 
 **Om Tat Sat**
 
