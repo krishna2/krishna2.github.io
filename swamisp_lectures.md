@@ -88,6 +88,20 @@ These are a [series of full lectures](https://www.youtube.com/playlist?list=PLDq
 It would look like a hyperbole statement but the above four works has *everything*! Without a doubt, it would require multiple readings, even multiple different commentaries, interpretations and explanations and above all, deep understanding, internalization and practice.
 
 
+```
+ॐ असतो मा सद्गमय ।
+तमसो मा ज्योतिर्गमय ।
+मृत्योर्मा अमृतं गमय ।
+ॐ शान्तिः शान्तिः शान्तिः ॥
+
+Meaning:
+1: Om, (O Lord) Keep me not in (the Phenomenal World of) Unreality, but make me go towards the Reality (of Eternal Self),
+2: Keep me not in (the Ignorant State of) Darkness, but make me go towards the Light (of Spiritual Knowledge),
+3: Keep me not in (the World of) Mortality, but make me go towards the World of Immortality (of Self-Realization),
+4: Om, Peace, Peace, Peace.
+```
+Source: [https://greenmesg.org/stotras/vedas/om_asato_ma_sadgamaya.php](https://greenmesg.org/stotras/vedas/om_asato_ma_sadgamaya.php)
+
 **Om Tat Sat**
 
 
