@@ -98,12 +98,11 @@ It would look like a hyperbole statement but the above four works has *everythin
 ॐ शान्तिः शान्तिः शान्तिः ॥
 
 Meaning:
-1: Om, (O Lord) Keep me not in (the Phenomenal World of) Unreality, but make me go towards the Reality (of Eternal Self),
-2: Keep me not in (the Ignorant State of) Darkness, but make me go towards the Light (of Spiritual Knowledge),
-3: Keep me not in (the World of) Mortality, but make me go towards the World of Immortality (of Self-Realization),
-4: Om, Peace, Peace, Peace.
-```
-Source: [https://greenmesg.org/stotras/vedas/om_asato_ma_sadgamaya.php](https://greenmesg.org/stotras/vedas/om_asato_ma_sadgamaya.php)
+OM
+Lead us from the Unreal to the Real
+Lead us from Darkness unto Light
+Lead us from Death to Immortality 
+Om Peace Peace Peace.```
 
 **Om Tat Sat**
 
