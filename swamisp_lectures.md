@@ -8,7 +8,7 @@ The hope is that these lectures provide a sincere seeker with enough important c
 
 Swami SPji has done many lecture series covering Bhagavad Gita, Mandukya Upanishad, Dris Drishya Viveka, Manisha Panchakam to name just a few.
 
-I wish you well in the journey of life with Advaita Vedanta as a teaching to guide you.
+I wish you well in the journey of life with Advaita Vedanta as the teaching to guide you.
 
 ## Starter Series
 
