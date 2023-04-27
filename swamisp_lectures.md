@@ -75,6 +75,9 @@ These are edited [short Q&A videos](https://www.youtube.com/playlist?list=PLDqah
 
 These are a [series of full lectures](https://www.youtube.com/playlist?list=PLDqahtm2vA70flIbPCi4vqZ33gFda-THY).
 
+Another [series of lectures](https://www.youtube.com/playlist?list=PLDqahtm2vA72ilWvaXhKRDUemEsz4VCKd).
+
+
 ## Lecture Series of Works
 
 [Manisha Panchakam Series](https://www.youtube.com/playlist?list=PLAjdUvxpOY7WNbLqaeQHPxe44uzMuaMVr)
