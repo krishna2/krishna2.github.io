@@ -67,6 +67,20 @@ I wish you well in the journey of life with Advaita Vedanta as the teaching to g
 These are a series of five lectures titled [Lamp of Bliss](https://www.youtube.com/playlist?list=PLDqahtm2vA72vvR5GYAlkuJylJC5_kGXA)
 
 
+## Talks on Bhagavan Ramana Maharishi
+
+1. [2018: Ramana Jayanti, Arunachal Ashram, Jamaica, NY](https://www.youtube.com/watch?v=X2rfZ1ytWD8)
+
+1. [2020: Boston Ramana Satsang lecture on Vedantic Self-Enquiry](https://www.youtube.com/watch?v=XgZE7XlS3X8)
+
+1. [2021: 141st Bhagavan Sri Ramana Jayanthi](https://www.youtube.com/watch?v=_0RqFws21hQ)
+
+1. [2022: Bhagavan Sri Ramana Maharishi's 142nd Jayanthi Celebrations](https://www.youtube.com/watch?v=p9wi7PvrM5c)
+
+1. [2023: Advaita Vedanta and the teachings of Sri Ramana Maharshi w/ Swami Sarvapriyananda and Michael James](https://www.youtube.com/watch?v=Hl3K1nRJ7Qw)
+
+
+
 ## Other Compilations
 
 These are edited [short Q&A videos](https://www.youtube.com/playlist?list=PLDqahtm2vA71FlYHmg4vG-zFUTN8xU7CE) which are just a few minutes each.
