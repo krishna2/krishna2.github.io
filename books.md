@@ -86,8 +86,41 @@
 
 1. Kenneth O. Stanley and Joel Lehman: Why Greatness Cannot Be Planned: The Myth of the Objective
 
+1. Stephen Wolfram: What Is ChatGPT Doing ... and Why Does It Work?
 
+1. James Gleick: The Information: A History, a Theory, a Flood
 
+2. Ethan Kross: Chatter
+
+3. Hal Higdon: Marathon, Revised and Updated 5th Edition, Training Guide
+
+4. Alex Hutchinson: Endure - Mind, Body, and the Curiously Elastic Limits of Human Performance
+
+5. Adam D' Alessandro: How You Can Run Faster Effortlessly
+
+6. George Mahood: Did Not Finish: Misadventures in Running, Cycling and Swimming (DNF Series Book 1)
+
+7. Patrick McKeown: The Oxygen Advantage: The Simple, Scientifically Proven Breathing Techniques
+
+8. Danny Dryer: ChiRunning: A Revolutionary Approach to Effortless, Injury-Free Running
+
+9. Dr. Philip Maffetone: The MAF Method
+
+10. Haruki Murakami: What I Talk About When I Talk About Running
+
+11. Kim Brown Seely: Uncharted: A Couple's Epic Empty-Nest Adventure Sailing from One Life to Another
+
+12. Haruki Murakami: Novelist as a Vocation
+
+13. Rich Roll: Finding Ultra - Rejecting Middle Age, Becoming One of the World's Fittest Men, and Discovering Myself
+
+14. Tom Rath: It's Not About You
+
+15. Taylor Jenkins Reid: Carrie Soto is Back
+
+16. Bob Odenkirk: Comedy Comedy Comedy Drama: A Memoir
+
+17. Sarah Gearhart: We Share the Sun: The Incredible Journey of Kenya's Legendary Running Coach Patrick Sang and the Fastest Runners on Earth
 
 
 
