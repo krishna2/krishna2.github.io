@@ -7,21 +7,28 @@ This is a post on Health with the book "Outlive" by Dr. Peter Attia as the backg
 2. Testing testing testing .... there are many blood tests and other lab tests (body scans ... etc) that can reveal something that is developing in the wrong way or wrong reasons. Prevention or stopping from acceleration is far far better.
 
 3. Four horsemen of Death: We look at the odds of the big ones. And try our best to prevent these. That's as much as we can do. The four major causes :
+
 a. Heart Diseases (heart attack ... etc)
 b. Metabolic Syndrome : this is the big kahuna that is a catch all for Obesity, Diabetes and many more.
 c. Cancer
 c. Neurological diseases (Alzheimer's, Parkinson's .. etc).
 
 (a) and (b) are the ones that we understand more about and have some ways of "curing" or "stopping". And they are also the ones that are most preventable.
+
 (c) As we all know, there is really NO cure. There are barely some guesses for why. [For some cancers, yes, we know well -> asbestos, smoking/tobacco, drinking/alcohol ... etc].
+
 (d) This is even more tricky. It is even harder to predict or cure.
+
 But there are still a few things that can be done to keep away (c) and (d) - as best as we know of and we can. The rest are all just playing the odds.
 
 4. Then we come to how we actually manage the health -- there are a few aspects to it and this is a combination of many things. 
 
 5. Diet : You are what you eat. The whole dietary science is just about 100 years old. Long story short : take any new advice with a grain of salt (or maybe keep the salt away, who knows). All diets (mostly) can be classified in three groups.
+
 a. Calorie restriction : Famous methods (with apps) where you count everything, eat only prescribed stuff ... and play the consume less than you use.
+
 b. Time restriction : This used to be one of my favorites - where you eat in a small continuous window and fast the rest of the time. Astute reader thinking "used to be", huh? I still follow but I keep the timing to a better 12 or 13 hour of fasting (than the 16-18 I used to follow religiously). There are just way too many caveats here -- what works, what does not .. etc. That's a longer article by itself.
+
 c. Food type restriction : This is the type of food that's allowed or not. E.g., Keto -> all fat ... or low-carb, Mediterranean ... so on.
 
 The ideal diet would be a mix of all the above three components adjusted to your body type / lifestyle / generally accepted science.
@@ -50,9 +57,13 @@ D. Diet
 E. Sleep
 
 A: this is the easiest. Do your physical regularly. Ask for more tests. (cost of some of these are very affordable for the benefit they provide). Other than lab tests, there is "DexaFit" like labs which measure body composition. Or VO2 max or resting metabolic rate ..... etc.
+
 B: It is also criminal not to be using a smart watch / phone for health. Something like apple watch can track your sleep, heart rate (resting heart rate, heart rate variability) - normal times as well as during and after exercises ... etc.
+
 C: Another one of the easiest to say: For starters, incorporate some kind of exercise. Be it even walking. Combine it with some music or audiobooks - and you are hitting two birds in one stone.
+
 D: Sadly there is no one magic pill .... (as much as Ozempic or whatever new drug claims to be?) ... this is super tricky.
+
 E: Well, sleep well -- the obvious way is that you feel rested and not sleepy/tired during the day .. but (B) can help too to empirically put a number on your sleep/restedness.
 
 Hope that was useful and serves as a motivation for you to get the book and read it thoroughly. Please do. This is especially for those who want to tweak or incorporate "just one more thing" or will just enquire about section 3 point 14), hey I am doing X, can I do Y .... It is better to read, understand and then implement than go by secondary "telephone message passing" style and then wondering what went wrong.
