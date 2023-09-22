@@ -76,7 +76,7 @@ To conclude, this is just my addendum. This book can get you over concerned too.
 
 ## Quick Takeaways
 
-### A. Test yourself.
+### Test yourself.
 
 This is the easiest. Do your physical regularly. Ask for more tests. (cost of some of these are very affordable for the benefit they provide). Other than lab tests, there is "DexaFit" like labs which measure body composition. Or VO2 max or resting metabolic rate ..... etc.
 
