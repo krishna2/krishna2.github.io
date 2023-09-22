@@ -8,10 +8,13 @@ This is a post on Health with the book "Outlive" by Dr. Peter Attia as the backg
 
 3. Four horsemen of Death: We look at the odds of the big ones. And try our best to prevent these. That's as much as we can do. The four major causes :
 
-  a. Heart Diseases (heart attack ... etc)
-  b. Metabolic Syndrome : this is the big kahuna that is a catch all for Obesity, Diabetes and many more.
-  c. Cancer
-  d. Neurological diseases (Alzheimer's, Parkinson's .. etc).
+a. Heart Diseases (heart attack ... etc)
+
+b. Metabolic Syndrome : this is the big kahuna that is a catch all for Obesity, Diabetes and many more.
+
+c. Cancer
+
+d. Neurological diseases (Alzheimer's, Parkinson's .. etc).
 
 (a) and (b) are the ones that we understand more about and have some ways of "curing" or "stopping". And they are also the ones that are most preventable.
 
@@ -50,10 +53,15 @@ Optimizing for simple numbers like Weight or BMI is not going to cut it. It is a
 10. Above all, your "happiness" is the best compass to watch out for and optimize for. Of course, this is guided by knowledge and reason. (So those who want to play the game of "I am very happy when I get a gallon of vanilla ice cream while binge watching Netflix" ... good luck!). Joking aside, it is extremely easy to over-worry and be obsessive about various things / tests / dos and donts ... the bad news is they will occur .. but the good news is we now catch them (at least the "meta cognition" type of way) and try to course correct. One of my gripes with the book is this : the level of thoroughness / obsessiveness prescribed. But then again, Attia is a "lifespan / healthspan guy" - he is supposed to be so and if he wants to prescribe stuff to spend as much time "living doing things so one can be living longer" so be it. Up to each of us to calibrate our own.
 
 Here are some real quick takeaways:
+
 A. Test yourself.
+
 B. Use the "smart" devices
+
 C. Exercise
+
 D. Diet
+
 E. Sleep
 
 A: this is the easiest. Do your physical regularly. Ask for more tests. (cost of some of these are very affordable for the benefit they provide). Other than lab tests, there is "DexaFit" like labs which measure body composition. Or VO2 max or resting metabolic rate ..... etc.
