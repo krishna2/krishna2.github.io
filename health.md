@@ -8,10 +8,10 @@ This is a post on Health with the book "Outlive" by Dr. Peter Attia as the backg
 
 3. Four horsemen of Death: We look at the odds of the big ones. And try our best to prevent these. That's as much as we can do. The four major causes :
 
-a. Heart Diseases (heart attack ... etc)
-b. Metabolic Syndrome : this is the big kahuna that is a catch all for Obesity, Diabetes and many more.
-c. Cancer
-c. Neurological diseases (Alzheimer's, Parkinson's .. etc).
+  a. Heart Diseases (heart attack ... etc)
+  b. Metabolic Syndrome : this is the big kahuna that is a catch all for Obesity, Diabetes and many more.
+  c. Cancer
+  d. Neurological diseases (Alzheimer's, Parkinson's .. etc).
 
 (a) and (b) are the ones that we understand more about and have some ways of "curing" or "stopping". And they are also the ones that are most preventable.
 
