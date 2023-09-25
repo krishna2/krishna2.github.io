@@ -73,7 +73,7 @@ For e.g., one can be Vegan and can be eating total trash --> all sugar products,
 Optimizing for simple numbers like Weight or BMI is not going to cut it. It is a great start but let's put it this way: if the weight is high or bmi is very high, that's definitely bad. But if it is around normal, other important things need not necessarily be normal. (yeah, I know, it's tricky).
 
 
-## 5. Medications
+### 5. Medications
 
 There is a section on other medications that one can take : like vitamins ... etc. This is more of an icing on the cake.
 
