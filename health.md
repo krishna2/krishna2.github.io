@@ -83,7 +83,7 @@ To conclude, this is just my addendum. This book can get you over concerned too.
 
 One of my gripes with the book is this : the level of thoroughness / obsessiveness prescribed. But then again, Attia is a "lifespan / healthspan guy" - he is supposed to be so and if he wants to prescribe stuff to spend as much time "living doing things so one can be living longer" so be it. Up to each of us to calibrate our own. Everything is best done by understanding it clearly and from a calm state of mind.
 
-There is no quick shortcuts. If anyone promises that, be wary of it. (better yet, run away!).
+There are no quick shortcuts. If anyone promises that, be wary of it. (better yet, run away!).
 
 ## Quick Takeaways
 
@@ -99,10 +99,9 @@ It is also criminal not to be using a smart watch / phone for health. Something 
 
 Another one of the easiest to say: For starters, incorporate some kind of exercise. Be it even walking. Combine it with some music or audiobooks - and you are hitting two birds in one stone.
 
-
 ### 4. Diet
 
-Sadly there is no one magic pill .... (as much as Ozempic or whatever new drug claims to be?) ... this is super tricky.
+Sadly there is no one magic pill .... (as much as whatever new drug claims to be?) ... this is super tricky.
 
 ### 5. Sleep
 
