@@ -17,13 +17,13 @@ There are many listed and these can be used to diagnose an incipient condition, 
 
 We look at the odds of the big ones. And try our best to prevent these. That's as much as we can do. The four major causes :
 
-  * a. Heart Diseases (heart attack ... etc)
+  * (a) Heart Diseases (heart attack ... etc)
 
-  * b. Metabolic Syndrome : this is the big kahuna that is a catch all for Obesity, Diabetes and many more.
+  * (b) Metabolic Syndrome : this is the big kahuna that is a catch all for Obesity, Diabetes and many more.
 
-  * c. Cancer
+  * (c) Cancer
 
-  * d. Neurological diseases (Alzheimer's, Parkinson's .. etc).
+  * (d) Neurological diseases (Alzheimer's, Parkinson's .. etc).
 
 (a) and (b) are the ones that we understand more about and have some ways of "curing" or "stopping". And they are also the ones that are most preventable.
 
@@ -42,11 +42,11 @@ Then we come to how we actually manage the health -- there are a few aspects to 
 
 You are what you eat. The whole dietary science is just about 100 years old. Long story short : take any new advice with a grain of salt (or maybe keep the salt away, who knows). All diets (mostly) can be classified in three groups.
 
-  -- a. Calorie restriction : Famous methods (with apps) where you count everything, eat only prescribed stuff ... and play the consume less than you use.
+  * Calorie restriction : Famous methods (with apps) where you count everything, eat only prescribed stuff ... and play the consume less than you use.
 
-  -- b. Time restriction : This used to be one of my favorites - where you eat in a small continuous window and fast the rest of the time. Astute reader thinking "used to be", huh? I still follow but I keep the timing to a better 12 hour of fasting (than the 16-18 I used to follow religiously). There are just way too many caveats here -- what works, what does not .. etc. That's a longer article by itself.
+  * Time restriction : This used to be one of my favorites - where you eat in a small continuous window and fast the rest of the time. Astute reader thinking "used to be", huh? I still follow but I keep the timing to a better 12 hour of fasting (than the 16-18 I used to follow religiously). There are just way too many caveats here -- what works, what does not .. etc. That's a longer article by itself.
 
-  -- c. Food type restriction : This is the type of food that's allowed or not. E.g., Keto -> all fat ... or low-carb, Mediterranean ... so on.
+  * Food type restriction : This is the type of food that's allowed or not. E.g., Keto -> all fat ... or low-carb, Mediterranean ... so on.
 
 The ideal diet would be a mix of all the above three components adjusted to your body type / lifestyle / generally accepted science.
 
