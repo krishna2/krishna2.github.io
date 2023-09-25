@@ -38,6 +38,10 @@ But there are still a few things that can be done to keep away (c) and (d) - as 
 
 Then we come to how we actually manage the health -- there are a few aspects to it and this is a combination of many things. 
 
+### 0. Pre-existing Condition
+
+IF you are already having any pre-existing condition, then your best bet is to read this book but immediately take it to your doctor / health-team and then work with them. Don't try any of this on your own. Consider this an important disclaimer.
+
 ### 1. Diet
 
 You are what you eat. The whole dietary science is just about 100 years old. Long story short : take any new advice with a grain of salt (or maybe keep the salt away, who knows). All diets (mostly) can be classified in three groups.
@@ -75,7 +79,11 @@ There is a section on other medications that one can take : like vitamins ... et
 
 ## Take it all in stride
 
-To conclude, this is just my addendum. This book can get you over concerned too. Above all, your "happiness" is the best compass to watch out for and optimize for. Of course, this is guided by knowledge and reason. (So those who want to play the game of "I am very happy when I get a gallon of vanilla ice cream while binge watching Netflix" ... good luck!). Joking aside, it is extremely easy to over-worry and be obsessive about various things / tests / dos and donts ... the bad news is they will occur .. but the good news is we now catch them (at least the "meta cognition" type of way) and try to course correct. One of my gripes with the book is this : the level of thoroughness / obsessiveness prescribed. But then again, Attia is a "lifespan / healthspan guy" - he is supposed to be so and if he wants to prescribe stuff to spend as much time "living doing things so one can be living longer" so be it. Up to each of us to calibrate our own. Everything is best done by understanding it clearly and from a calm state of mind.
+To conclude, this is just my addendum. This book can get you over concerned too. Above all, your "happiness" is the best compass to watch out for and optimize for. Of course, this is guided by knowledge and reason. (So those who want to play the game of "I am very happy when I get a gallon of vanilla ice cream while binge watching Netflix" ... good luck!). Joking aside, it is extremely easy to over-worry and be obsessive about various things / tests / dos and donts ... the bad news is they will occur .. but the good news is we now catch them (at least the "meta cognition" type of way) and try to course correct. 
+
+One of my gripes with the book is this : the level of thoroughness / obsessiveness prescribed. But then again, Attia is a "lifespan / healthspan guy" - he is supposed to be so and if he wants to prescribe stuff to spend as much time "living doing things so one can be living longer" so be it. Up to each of us to calibrate our own. Everything is best done by understanding it clearly and from a calm state of mind.
+
+There is no quick shortcuts. If anyone promises that, be wary of it. (better yet, run away!).
 
 ## Quick Takeaways
 
@@ -99,6 +107,7 @@ Sadly there is no one magic pill .... (as much as Ozempic or whatever new drug c
 ### 5. Sleep
 
 Well, sleep well -- the obvious way is that you feel rested and not sleepy/tired during the day .. but (B) can help too to empirically put a number on your sleep/restedness.
+
 
 ## Conclusion
 
