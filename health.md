@@ -1,6 +1,6 @@
 # Health
 
-This is a post on Health with the book ["Outlive" by Dr. Peter Attia[(https://www.amazon.com/Outlive-Science-Longevity-Peter-Attia-ebook/dp/B0B1BTJLJN/
+This is a post on Health with the book ["Outlive" by Dr. Peter Attia](https://www.amazon.com/Outlive-Science-Longevity-Peter-Attia-ebook/dp/B0B1BTJLJN/
 ) as the background. You may have heard of many different types / methods / systems of losing weight, gaining strength and living healthy. This book is, I consider, a very holistic approach. The big sign is that there is no one cute name (e.g. keto, low-carb, IF, six-minute strength, hiit ... etc) and there is no trashing of everything else.
 
 ## Health Span vs Life Span
