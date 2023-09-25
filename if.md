@@ -2,6 +2,11 @@
 
 This is a short write up of what I learnt about Intermittent Fasting (IF).
 
+
+**This article is outdated. You probably should update your knowledge of this with [this one on health](https://krishna2.com/health).**
+
+
+
 ### 1. What is IF? Can you give it to me quick?
 
 If you can think of IF as CF (Intermittent Fasting (IF) as "Continuous Fasting"), that's that. What it does is flips the generally given advise
