@@ -1,6 +1,7 @@
 # Health
 
-This is a post on Health with the book "Outlive" by Dr. Peter Attia as the background. You may have heard of many different types / methods / systems of losing weight, gaining strength and living healthy. This book is, I consider, a very holistic approach. The big sign is that there is no one cute name (e.g. keto, low-carb, IF, six-minute strength, hiit ... etc) and there is no trashing of everything else.
+This is a post on Health with the book ["Outlive" by Dr. Peter Attia[(https://www.amazon.com/Outlive-Science-Longevity-Peter-Attia-ebook/dp/B0B1BTJLJN/
+) as the background. You may have heard of many different types / methods / systems of losing weight, gaining strength and living healthy. This book is, I consider, a very holistic approach. The big sign is that there is no one cute name (e.g. keto, low-carb, IF, six-minute strength, hiit ... etc) and there is no trashing of everything else.
 
 ## Health Span vs Life Span
 
@@ -16,13 +17,13 @@ There are many listed and these can be used to diagnose an incipient condition, 
 
 We look at the odds of the big ones. And try our best to prevent these. That's as much as we can do. The four major causes :
 
-  -- a. Heart Diseases (heart attack ... etc)
+  * a. Heart Diseases (heart attack ... etc)
 
-  -- b. Metabolic Syndrome : this is the big kahuna that is a catch all for Obesity, Diabetes and many more.
+  * b. Metabolic Syndrome : this is the big kahuna that is a catch all for Obesity, Diabetes and many more.
 
-  -- c. Cancer
+  * c. Cancer
 
-  -- d. Neurological diseases (Alzheimer's, Parkinson's .. etc).
+  * d. Neurological diseases (Alzheimer's, Parkinson's .. etc).
 
 (a) and (b) are the ones that we understand more about and have some ways of "curing" or "stopping". And they are also the ones that are most preventable.
 
@@ -109,4 +110,5 @@ Read this book, figure it out, live it out. It's worth it. Your life depends on 
 
 Long live (with a wonderful health span too) and prosper.
 
-https://www.amazon.com/Outlive-Science-Longevity-Peter-Attia-ebook/dp/B0B1BTJLJN/
+[https://www.amazon.com/Outlive-Science-Longevity-Peter-Attia-ebook/dp/B0B1BTJLJN/](https://www.amazon.com/Outlive-Science-Longevity-Peter-Attia-ebook/dp/B0B1BTJLJN/
+)
