@@ -122,6 +122,25 @@
 
 17. Sarah Gearhart: We Share the Sun: The Incredible Journey of Kenya's Legendary Running Coach Patrick Sang and the Fastest Runners on Earth
 
+1. Peter Attia: Outlive
+
+2. Christina Baker Kline: The Scenic Route
+
+3. Cameron Hanes: Endure
+
+4. Mirna Valerio: A Beautiful Work In Progress
+
+5. Simone Stolzoff: The Good Enough Job
+
+6. Wendelin Van Draanen: The Running Dream
+
+7. Krishna Das: Chants of a Lifetime
+
+8. Dana Ayers: Confessions of an Unlikely Runner
+
+9. Radhanath Swami: The Journey Within
+
+ 
 
 
 ## Books in 2022
