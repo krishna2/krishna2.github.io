@@ -140,7 +140,23 @@
 
 9. Radhanath Swami: The Journey Within
 
- 
+1. Swami Paramarthananda: Bhagavad Gita Shankara Bashyam (to call this one book does not do it justice. This was a 600 one-hour lecture magnum opus. And I am eternally thankful for this journey and learning).
+
+1. Tom Michaud: Injury Free Running
+
+1. James Nestor: Breath
+
+1. Swami Paramarthananda: Dakshinamurthy Ashtakam lectures
+
+1. Swami Paramarthananda: Tattva Bodha
+
+1. Hiroaki Tanaka: Slow Jogging
+
+
+
+1. Swami Paramarthananda: Chandogya Upanishad*
+
+
 
 
 ## Books in 2022
