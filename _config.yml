@@ -14,4 +14,5 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 
 theme: jekyll-theme-cayman
+title: krishna2.com
 google_analytics: UA-8949433-1
