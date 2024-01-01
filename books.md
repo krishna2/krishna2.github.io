@@ -152,11 +152,39 @@
 
 1. Hiroaki Tanaka: Slow Jogging
 
+1. Jay Dicharry: Anatomy for Runners
 
+1. Katalin Kariko: Breaking Through: My Life in Science
 
-1. Swami Paramarthananda: Chandogya Upanishad*
+1. Matt Fitzgerald: Running the Dream
 
+1. Jennifer Wallace: Never Enough
 
+1. Frank Bruni: Where You Go Is Not Who You'll Be
+
+1. Mark Cucuzzella: Run for Your Life
+
+1. Simon Sinek: Start with Why
+
+1. Karthikeyan Nagarajan: Making Music - The Ilaiyaraaja Way
+
+1. Neil Gaiman: The Ocean at the End of the Lane
+
+1. Kyla Stone: Edge of Collapse
+
+1. Clayton Christensen: How Will You Measure Your Life?
+
+1. Grant Lindsley: Mediocre Monk
+
+1. Ekanth Easwaran: Climbing the Blue Mountain
+
+1. Christopher Hitchens: Mortality
+
+1. Rosamund Stone Zander and Benjamin Zander: The Art of Possibility
+
+1. Sendhil Mullainathan and Eldar Shafir: Scarcity
+
+1. John Grisham: The Exchange: After The Firm
 
 
 ## Books in 2022
