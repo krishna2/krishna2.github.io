@@ -71,9 +71,12 @@ On investing
 ```
 Munger's investing style: “sit-on-your-ass investing”
 
-“Quickly eliminate the big universe of what not to do; follow up with a fluent, multidisciplinary attack on what remains; then act decisively when, and only when, the right circumstances appear.”
+“Quickly eliminate the big universe of what not to do; follow up with a fluent,
+multidisciplinary attack on what remains; then act decisively when, and only when,
+the right circumstances appear.”
 
-“a great business at a fair price is superior to a fair business at a great price.” (this is probably Buffet).
+“a great business at a fair price is superior to a fair business at a great price.”
+(this might probably be Buffet).
 
 Avoid dealing with people of questionable character.
 
@@ -91,34 +94,51 @@ Think forward and backward: Invert, always invert. (quoting the Mathematician Ja
 
 Fundamental philosophy of life: Preparation. Discipline. Patience. Decisiveness.
 
-This was so cool to see Charlie's disdain for Chiropractors (which I share too): You become the equivalent of a chiropractor, who, of course, is the great boob in medicine. 
+This was so cool to see Charlie's disdain for Chiropractors (which I share too):
+You become the equivalent of a chiropractor, who, of course, is the great boob in medicine. 
 
 And also this:
-What I personally hate most are systems that make fraud easy. Probably way more than half of all the chiropractic income in California comes from pure fraud.
+What I personally hate most are systems that make fraud easy.
+Probably way more than half of all the chiropractic income in California comes from pure fraud.
 
-He played the chain store game harder and better than anyone else. [Sam] Walton invented practically nothing. But he copied everything anybody else ever did that was smart—and he did it with more fanaticism and better employee manipulation.
+He played the chain store game harder and better than anyone else.
+(Sam) Walton invented practically nothing. But he copied everything anybody else ever did that was smart —
+and he did it with more fanaticism and better employee manipulation.
 
-Then there’s another model from microeconomics that I find very interesting. When technology moves as fast as it does in a civilization like ours, you get a phenomenon that I call competitive destruction.
+Then there’s another model from microeconomics that I find very interesting.
+When technology moves as fast as it does in a civilization like ours,
+you get a phenomenon that I call competitive destruction.
 
-So you have to figure out what your own aptitudes are. If you play games where other people have the aptitudes and you don’t, you’re going to lose.
+So you have to figure out what your own aptitudes are. If you play games where
+other people have the aptitudes and you don’t, you’re going to lose.
 
-One of his favorites is the "lollapalooza effect" :  when two or three or more forces are operating in the same direction.
+One of his favorites is the "lollapalooza effect":
+when two or three or more forces are operating in the same direction.
 
-Hard to swallow: So it’s much better to let some things go uncompensated—to let life be hard—than to create systems that are easy to cheat.
+Hard to swallow: So it’s much better to let some things go uncompensated —
+to let life be hard—than to create systems that are easy to cheat.
 
-Part of what you must learn is how to handle mistakes and new facts that change the odds. Life, in part, is like a poker game, wherein you have to learn to quit sometimes when holding a much-loved hand.
+Part of what you must learn is how to handle mistakes and new facts that change the odds.
+Life, in part, is like a poker game, wherein you have to learn to quit sometimes when holding a much-loved hand.
 
-Self-pity is always counterproductive. It’s the wrong way to think. And when you avoid it you get a great advantage over everybody else, or almost everybody else, because self-pity is a standard response. And you can train yourself out of it.
+Self-pity is always counterproductive. It’s the wrong way to think.
+And when you avoid it you get a great advantage over everybody else, or almost everybody else,
+because self-pity is a standard response. And you can train yourself out of it.
 
 When you don’t know and you don’t have any special competence, don’t be afraid to say so.
 
-I believe in the discipline of mastering the best that other people have ever figured out. I don’t believe in just sitting down and trying to dream it all up yourself. Nobody’s that smart.
+I believe in the discipline of mastering the best that other people have ever figured out.
+I don’t believe in just sitting down and trying to dream it all up yourself.
+Nobody’s that smart.
 
-After all, a competing product, if it is never tried, can’t act as a reward creating a conflicting habit. Every spouse knows that.
+After all, a competing product, if it is never tried, can’t act as a reward creating
+a conflicting habit. Every spouse knows that.
 
-Like pilot training, the ethos of hard science does not say “Take what you wish” but “Learn it all to fluency, like it or not.”
+Like pilot training, the ethos of hard science does not say “Take what you wish” but
+“Learn it all to fluency, like it or not.”
 
-Your mistaken professors were too much influenced by “rational man” models of human behavior from economics and too little by “foolish man” models from psychology and real-world experience.
+Your mistaken professors were too much influenced by “rational man” models of human behavior
+from economics and too little by “foolish man” models from psychology and real-world experience.
 ```
 
 Munger quoting others
@@ -128,25 +148,38 @@ Demosthenes noted, “What a man wishes, he will believe.”
 
 Franklin’s observation in Poor Richard’s Almanack: “If you would persuade, appeal to interest and not to reason.”
 
-Adam Smith was so good a thinker and so good a writer that, in his own time, Immanuel Kant, then the greatest intellectual in Germany, simply announced that there was nobody in Germany to equal Adam Smith. Well, Voltaire, being an even pithier speaker than Kant, which wouldn’t be that hard, immediately said, “Oh, well, France doesn’t have anybody who can even be compared to Adam Smith.”
+Adam Smith was so good a thinker and so good a writer that, in his own time, Immanuel Kant,
+then the greatest intellectual in Germany, simply announced that there was nobody in Germany to equal Adam Smith.
+Well, Voltaire, being an even pithier speaker than Kant, which wouldn’t be that hard,
+immediately said, “Oh, well, France doesn’t have anybody who can even be compared to Adam Smith.”
 
-Planck, the great Nobel laureate who found Planck’s constant, tried once to do economics. He gave it up. “It’s too hard. The best solution you can get is messy and uncertain.”
+Planck, the great Nobel laureate who found Planck’s constant, tried once to do economics.
+He gave it up. “It’s too hard. The best solution you can get is messy and uncertain.”
 
-Keynes said, “It’s not bringing in the new ideas that’s so hard. It’s getting rid of the old ones.” And Einstein said it better, attributing his mental success to “curiosity, concentration, perseverance, and self-criticism.” By self-criticism, he meant becoming good at destroying your own best-loved and hardest-won ideas.
+Keynes said, “It’s not bringing in the new ideas that’s so hard. It’s getting rid of the old ones.”
+And Einstein said it better, attributing his mental success to “curiosity, concentration, perseverance, and self-criticism.”
+By self-criticism, he meant becoming good at destroying your own best-loved and hardest-won ideas.
 
 Confucius, too—is that the acquisition of wisdom is a moral duty.
 
-Alfred North Whitehead correctly said at one time that the rapid advance of civilization came only when man “invented the method of invention.”
+Alfred North Whitehead correctly said at one time that the rapid advance of civilization came only
+when man “invented the method of invention.”
 ```
 
 Other quotes
 
 ```
-I feel that I’m not entitled to have an opinion unless I can state the arguments against my position better than the people who are in opposition.
+I feel that I’m not entitled to have an opinion unless I can state the arguments against my position
+better than the people who are in opposition.
 
-Soviet communists to get their final result, as described by one employee: “They pretend to pay us, and we pretend to work.” Perhaps the most important rule in management is “Get the incentives right.”
+Soviet communists to get their final result, as described by one employee:
+“They pretend to pay us, and we pretend to work.”
+Perhaps the most important rule in management is “Get the incentives right.”
 
-The general antidotes here are: 1) Especially fear professional advice when it is especially good for the adviser, 2) learn and use the basic elements of your adviser’s trade as you deal with your adviser, and 3) double-check, disbelieve, or replace much of what you’re told, to the degree that seems appropriate after objective thought.
+The general antidotes here are:
+1) Especially fear professional advice when it is especially good for the adviser,
+2) learn and use the basic elements of your adviser’s trade as you deal with your adviser, and
+3) double-check, disbelieve, or replace much of what you’re told, to the degree that seems appropriate after objective thought.
 
 The brain of man is programmed with a tendency to quickly remove doubt by reaching some decision.
 ```
@@ -154,13 +187,21 @@ The brain of man is programmed with a tendency to quickly remove doubt by reachi
 If you want just one lesson
 
 ```
-If only one lesson is to be chosen from a package of lessons involving social-proof tendency and used in self-improvement, my favorite would be: Learn how to ignore the examples from others when they are wrong, because few skills are more worth having.
+If only one lesson is to be chosen from a package of lessons involving social-proof tendency
+and used in self-improvement, my favorite would be: Learn how to ignore the examples from others
+when they are wrong, because few skills are more worth having.
 ```
 
 Let me end this quote with Charlie's own wish - take what you wish.
 
 ```
-Sometimes I call it “take what you wish,” and sometimes I call it “Kiplingism.” And when I call it Kiplingism, I’m reminding you of [Joseph Rudyard] Kipling’s77 stanza of poetry, which went something like this: “When Homer smote his blooming lyre, he’d heard men sing by land and sea, and what he thought he might require, he went and took, the same as me.”
+Sometimes I call it “take what you wish,” and sometimes I call it “Kiplingism.”
+And when I call it Kiplingism, I’m reminding you of [Joseph Rudyard] Kipling’s77 stanza of poetry,
+which went something like this:
+“When Homer smote his blooming lyre,
+he’d heard men sing by land and sea,
+and what he thought he might require,
+he went and took, the same as me.”
 ```
 
 READ THIS BOOK! READ AGAIN! APPLY IT TO LIFE!
