@@ -32,6 +32,25 @@
 
 -->
 
+## Books in 2024
+
+1. Eknath Easwaran: How to Understand Death
+
+2. E. O. Wilson: Letters to a Young Scientist
+
+3. Jeffery Pfeffer: Leadership BS: Fixing Workplaces and Careers One Truth at a Time
+
+4. Charlie Munger: Poor Charlie’s Almanack: The Essential Wit and Wisdom of Charles T. Munger
+
+5. Loren Pope: Looking Beyond the Ivy League: Finding the College That's Right for You
+
+6. Becky Sabky: Valedictorians at the Gate: Standing Out, Getting In, and Staying Sane While Applying to College
+
+7. Christian Cameron: Killer of Men (The Long War Book 1)
+
+8. R. F. Kuang: The Poppy War
+
+
 ## Books in 2023
 
 1. S. K. Sridharan: Adi Shankaracharya : Biography
