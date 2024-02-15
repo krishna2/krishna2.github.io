@@ -1,35 +1,19 @@
 [Home Page](https://krishna2.com/)
 
 # Books I Read
-
 <!--
 [Link to this page](https://krishna2.github.io/books)
 -->
-
 <!--
-
 ### Currently Reading
 
 * Karen Armstrong: History of God
-
 * Hal Runkel: Choose your Own Adulthood
-
-* Swami Chinmayananda: The Holy Geeta
-
 * Swami Ranganathananda: The Bhagavad Gita
-
 * Swami Chidbhavananda: The Bhagavad Gita
-
 * Sam Harris: Waking up
-
 * Rebecca Goldstein: Incompleteness
-
-* Swami Chinmayananda: Hymn to Sri Dakshinamurthi
-
 * Thirukkural : Multiple Authors's Commentaries
-
-* Swami Dayananda Saraswati: Sadhana Panchakam
-
 -->
 
 ## Books in 2024
@@ -42,13 +26,17 @@
 
 4. Charlie Munger: Poor Charlie’s Almanack: The Essential Wit and Wisdom of Charles T. Munger
 
-5. Loren Pope: Looking Beyond the Ivy League: Finding the College That's Right for You
+5. Swami Paramarthananda: Chandogya Upanishad
 
-6. Becky Sabky: Valedictorians at the Gate: Standing Out, Getting In, and Staying Sane While Applying to College
+6. Swami Paramarthananda: Tattva Bodha++
 
-7. Christian Cameron: Killer of Men (The Long War Book 1)
+7. Loren Pope: Looking Beyond the Ivy League: Finding the College That's Right for You
 
-8. R. F. Kuang: The Poppy War
+8. Becky Sabky: Valedictorians at the Gate: Standing Out, Getting In, and Staying Sane While Applying to College
+
+9. Christian Cameron: Killer of Men (The Long War Book 1)
+
+10. R. F. Kuang: The Poppy War
 
 
 ## Books in 2023
