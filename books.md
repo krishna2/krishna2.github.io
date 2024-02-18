@@ -38,6 +38,7 @@
 
 10. R. F. Kuang: The Poppy War
 
+11. Lisa Greenwald: TBH #1: TBH, This is so Awkward
 
 ## Books in 2023
 
