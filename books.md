@@ -40,6 +40,23 @@
 
 11. Lisa Greenwald: TBH #1: TBH, This is so Awkward
 
+12. Mark Schatzker: The End of Craving
+
+13. Jackie Chan: Never Grow Up
+
+14. Ronesh Sinha: The South Asian Health Solution
+
+15. Jane McGonigal: SuperBetter: The Power of Living Gamefully*
+
+16. Lauren Myracle: TTYL #1**
+
+17. Swami Paramarthananda: Brihadaranyaka Upanishad
+
+18. Johann Wolfgang von Goethe: The Sorrows of Young Werther*
+
+
+
+
 ## Books in 2023
 
 1. S. K. Sridharan: Adi Shankaracharya : Biography
