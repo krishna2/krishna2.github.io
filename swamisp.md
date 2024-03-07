@@ -79,7 +79,17 @@ These are a series of five lectures titled [Lamp of Bliss](https://www.youtube.c
 
 1. [2023: Advaita Vedanta and the teachings of Sri Ramana Maharshi w/ Swami Sarvapriyananda and Michael James](https://www.youtube.com/watch?v=Hl3K1nRJ7Qw)
 
+## Talks on Ashtavakra Gita
 
+Here are a few ones (generally one hour talks).
+
+1. [https://www.youtube.com/watch?v=Pz0U2y_4OGQ](https://www.youtube.com/watch?v=Pz0U2y_4OGQ)
+
+1. [https://www.youtube.com/watch?v=AbH1chO7D-g](https://www.youtube.com/watch?v=AbH1chO7D-g)
+
+1. [https://www.youtube.com/watch?v=4nikQanBSVw](https://www.youtube.com/watch?v=4nikQanBSVw)
+
+Here is a [two day, six lecture session](https://www.youtube.com/watch?v=jT7-ljx7t1I&list=PLh051ZEQHx_LideLIpp-viT-TRy6v5JAq).
 
 ## Other Compilations
 
