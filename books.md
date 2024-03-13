@@ -52,8 +52,31 @@
 
 17. Swami Paramarthananda: Brihadaranyaka Upanishad
 
-18. Johann Wolfgang von Goethe: The Sorrows of Young Werther*
+18. Johann Wolfgang von Goethe: The Sorrows of Young Werther
 
+19. Rainbow Rowell: Eleanor and Park
+
+20. Sringeri Jagadguru Sri Abhinava Vidyatheertha Mahaswamigal: Enlightening Expositions (Philosophical Expositions)
+
+21. Dr. Philip Maffetone: B Sharp
+
+22. Thich Nhat Hanh: Anger*
+
+23. P. Soundara Rajan: Sivananda Lahari*
+
+24. Swami Tapasyananda: Sivanandi Lahari*
+
+25. V. Ravi: Vishnu Sahasranama (with word by word meaning)*
+
+26. Mihaly Csikszentmihalhi: The Evolving Self*
+
+27. Steve Magness: Do Hard Things*
+
+28. Ron Lieber: The Price You Pay For College*
+
+29. Oliver Burkeman: The Antidote: Happiness for those who can't stand Positive Thinking*
+
+30. 
 
 
 
@@ -165,7 +188,7 @@
 
 9. Radhanath Swami: The Journey Within
 
-1. Swami Paramarthananda: Bhagavad Gita Shankara Bashyam (to call this one book does not do it justice. This was a 600 one-hour lecture magnum opus. And I am eternally thankful for this journey and learning).
+1. Swami Paramarthananda: Bhagavad Gita Shankara Bashyam (to call this one book does not do it justice. This was a 600 leactures each (one-hour) magnum opus. And I am eternally thankful for this journey and learning).
 
 1. Tom Michaud: Injury Free Running
 
