@@ -87,6 +87,14 @@
 34. Swami Paramarthananda: Adhyasa Bashyam++
 
 
+### Huge & Majestic Works in Progress (will take a while to complete)
+
+1. Swami Paramarthananda: Bhagavad Gita (250 lectures)
+
+1. Swami Paramarthananda: Bhagavad Gita - Shankara Bashyam (600 lectures)
+
+1. Swami Paramarthananda: Vicharasagaram (600+ lectures).
+
 
 ## Books in 2023
 
