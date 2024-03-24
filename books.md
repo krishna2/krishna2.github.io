@@ -60,7 +60,7 @@
 
 21. Dr. Philip Maffetone: B Sharp
 
-22. Thich Nhat Hanh: Anger*
+22. Thich Nhat Hanh: Anger
 
 23. P. Soundara Rajan: Sivananda Lahari*
 
@@ -76,7 +76,15 @@
 
 29. Oliver Burkeman: The Antidote: Happiness for those who can't stand Positive Thinking*
 
-30. 
+30. Jason Karp: Coaching the Kenyans
+
+31. John Strelecky: The Cafe on the Edge of the World
+
+32. Gerson: The Gerson Therapy
+
+33. Stephen Covey: Mission Statement
+
+34. Swami Paramarthananda: Adhyasa Bashyam++
 
 
 
