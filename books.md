@@ -5,7 +5,7 @@
 [Link to this page](https://krishna2.github.io/books)
 -->
 <!--
-### Currently Reading
+### Was Reading but Paused
 
 * Karen Armstrong: History of God
 * Hal Runkel: Choose your Own Adulthood
@@ -85,6 +85,15 @@
 33. Stephen Covey: Mission Statement
 
 34. Swami Paramarthananda: Adhyasa Bashyam++
+
+35. Shion Miura: The Easy Life in Kamusari (Forest Book 1)
+
+36. Stephen Cope: The Great Work of Your Life
+
+37. Swami Paramarthananda: TattvaBodha++
+
+38. Rajesh Sengamedu: Purposeful Capitalist: The Dark Side of Desire
+39. 
 
 
 ### Huge & Majestic Works in Progress (will take a while to complete)
