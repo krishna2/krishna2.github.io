@@ -6,14 +6,6 @@
 -->
 <!--
 ### Was Reading but Paused
-
-* Karen Armstrong: History of God
-* Hal Runkel: Choose your Own Adulthood
-* Swami Ranganathananda: The Bhagavad Gita
-* Swami Chidbhavananda: The Bhagavad Gita
-* Sam Harris: Waking up
-* Rebecca Goldstein: Incompleteness
-* Thirukkural : Multiple Authors's Commentaries
 -->
 
 ## Books in 2024
@@ -90,19 +82,34 @@
 
 ### Various stages of reading
 
-23. P. Soundara Rajan: Sivananda Lahari*
+1. P. Soundara Rajan: Sivananda Lahari*
 
-24. Swami Tapasyananda: Sivanandi Lahari*
+1. Swami Tapasyananda: Sivanandi Lahari*
 
-25. V. Ravi: Vishnu Sahasranama (with word by word meaning)*
+1. V. Ravi: Vishnu Sahasranama (with word by word meaning)*
 
-26. Mihaly Csikszentmihalhi: The Evolving Self*
+1. Mihaly Csikszentmihalhi: The Evolving Self*
 
-27. Steve Magness: Do Hard Things*
+1. Steve Magness: Do Hard Things*
 
-28. Ron Lieber: The Price You Pay For College*
+1. Ron Lieber: The Price You Pay For College*
 
-29. Oliver Burkeman: The Antidote: Happiness for those who can't stand Positive Thinking*
+1. Oliver Burkeman: The Antidote: Happiness for those who can't stand Positive Thinking*
+
+1. Karen Armstrong: History of God
+
+1. Hal Runkel: Choose your Own Adulthood
+
+1. Swami Ranganathananda: The Bhagavad Gita
+
+1. Swami Chidbhavananda: The Bhagavad Gita
+
+1. Sam Harris: Waking up
+
+1. Rebecca Goldstein: Incompleteness
+
+1. Thirukkural : Multiple Authors's Commentaries
+
 
 
 ## Books in 2023
