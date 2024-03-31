@@ -62,20 +62,6 @@
 
 22. Thich Nhat Hanh: Anger
 
-23. P. Soundara Rajan: Sivananda Lahari*
-
-24. Swami Tapasyananda: Sivanandi Lahari*
-
-25. V. Ravi: Vishnu Sahasranama (with word by word meaning)*
-
-26. Mihaly Csikszentmihalhi: The Evolving Self*
-
-27. Steve Magness: Do Hard Things*
-
-28. Ron Lieber: The Price You Pay For College*
-
-29. Oliver Burkeman: The Antidote: Happiness for those who can't stand Positive Thinking*
-
 30. Jason Karp: Coaching the Kenyans
 
 31. John Strelecky: The Cafe on the Edge of the World
@@ -93,8 +79,6 @@
 37. Swami Paramarthananda: TattvaBodha++
 
 38. Rajesh Sengamedu: Purposeful Capitalist: The Dark Side of Desire
-39. 
-
 
 ### Huge & Majestic Works in Progress (will take a while to complete)
 
@@ -103,6 +87,22 @@
 1. Swami Paramarthananda: Bhagavad Gita - Shankara Bashyam (600 lectures)
 
 1. Swami Paramarthananda: Vicharasagaram (600+ lectures).
+
+### Various stages of reading
+
+23. P. Soundara Rajan: Sivananda Lahari*
+
+24. Swami Tapasyananda: Sivanandi Lahari*
+
+25. V. Ravi: Vishnu Sahasranama (with word by word meaning)*
+
+26. Mihaly Csikszentmihalhi: The Evolving Self*
+
+27. Steve Magness: Do Hard Things*
+
+28. Ron Lieber: The Price You Pay For College*
+
+29. Oliver Burkeman: The Antidote: Happiness for those who can't stand Positive Thinking*
 
 
 ## Books in 2023
