@@ -72,6 +72,20 @@
 
 38. Rajesh Sengamedu: Purposeful Capitalist: The Dark Side of Desire
 
+39. Shion Miura: Kamusari Tales Told at Night (Forest Book 2)
+
+40. Katherine Reay: Of Literature and Lattes
+
+41. Becky Chambers: A Psalm for the Wild-Built (Monk & Robot Book 1)*
+
+42. Mitch Albom: Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson
+
+43. PRABHAKAR K MISHRA: THE CRUX OF BHAGAVAD GITA THE GRAND UNIFIER
+
+44. Cathy Yardley: Love, Comment, Subscribe (Ponto Beach Reunion Book 1)
+
+
+
 ### Huge & Majestic Works in Progress (will take a while to complete)
 
 1. Swami Paramarthananda: Bhagavad Gita (250 lectures)
