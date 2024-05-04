@@ -94,15 +94,15 @@
 
 49. Adam Grant: Hidden Potential
 
-50. Michael Easter: Scarcity Brain
+50. Michael Easter: Scarcity Brain*
 
-51. Daavi Gazelle: The Kids Who Get In
+51. Daavi Gazelle: The Kids Who Get In*
 
-52. Ichiro Kishmi: The Courage to be Disliked
+52. Ichiro Kishmi: The Courage to be Disliked*
 
-53. Joan Didion: The Year of Magical Thinking
+53. Joan Didion: The Year of Magical Thinking*
 
-54. 
+54. Swami Paramarthananda: Brihadaranyaka Upanishad Bashyam (1.4.10)
 
 
 
