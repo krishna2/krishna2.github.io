@@ -88,6 +88,22 @@
 
 46. Cathy Yardley: Ex Appeal (Ponto Beach Reunion Book 3)
 
+47. Hillary Allen: Out and Back
+
+48. Cal Newport: Slow Productivity
+
+49. Adam Grant: Hidden Potential
+
+50. Michael Easter: Scarcity Brain
+
+51. Daavi Gazelle: The Kids Who Get In
+
+52. Ichiro Kishmi: The Courage to be Disliked
+
+53. Joan Didion: The Year of Magical Thinking
+
+54. 
+
 
 
 
