@@ -94,7 +94,7 @@
 
 49. Adam Grant: Hidden Potential
 
-50. Michael Easter: Scarcity Brain*
+50. Michael Easter: Scarcity Brain
 
 51. Daavi Gazelle: The Kids Who Get In*
 
@@ -103,6 +103,28 @@
 53. Joan Didion: The Year of Magical Thinking*
 
 54. Swami Paramarthananda: Brihadaranyaka Upanishad Bashyam (1.4.10)
+
+55. Prof. V. Krishnamoorthy: Looking Back
+
+56. R. F. Kuang: Yellowface
+
+57. Robin Marantz Henig: Monk in the Garden: Life of Gregor Mendel
+
+58. Christopher McDougall: Born to Run 2
+
+59. Lauren Thoman: I'll Stop the World
+
+60. Greene and Greene: Hidden Ivies
+
+61. Peter Pitts: 333 Awesome Small Colleges
+
+62. John Green: An Abundance of Katherines
+
+63. Jay Asher and Carolyn Mackler: The Future of Us
+
+64. Natalie Goldberg: Long Quiet Highway*
+
+65. John Stevens: The Marathon Monks of Mt. Hiei
 
 
 
