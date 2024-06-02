@@ -54,77 +54,79 @@
 
 22. Thich Nhat Hanh: Anger
 
-30. Jason Karp: Coaching the Kenyans
+23. Jason Karp: Coaching the Kenyans
 
-31. John Strelecky: The Cafe on the Edge of the World
+24. John Strelecky: The Cafe on the Edge of the World
 
-32. Gerson: The Gerson Therapy
+25. Gerson: The Gerson Therapy
 
-33. Stephen Covey: Mission Statement
+26. Stephen Covey: Mission Statement
 
-34. Swami Paramarthananda: Adhyasa Bashyam++
+27. Swami Paramarthananda: Adhyasa Bashyam++
 
-35. Shion Miura: The Easy Life in Kamusari (Forest Book 1)
+28. Shion Miura: The Easy Life in Kamusari (Forest Book 1)
 
-36. Stephen Cope: The Great Work of Your Life
+29. Stephen Cope: The Great Work of Your Life
 
-37. Swami Paramarthananda: TattvaBodha++
+30. Swami Paramarthananda: TattvaBodha++
 
-38. Rajesh Sengamedu: Purposeful Capitalist: The Dark Side of Desire
+31. Rajesh Sengamedu: Purposeful Capitalist: The Dark Side of Desire
 
-39. Shion Miura: Kamusari Tales Told at Night (Forest Book 2)
+32. Shion Miura: Kamusari Tales Told at Night (Forest Book 2)
 
-40. Katherine Reay: Of Literature and Lattes
+33. Katherine Reay: Of Literature and Lattes
 
-41. Becky Chambers: A Psalm for the Wild-Built (Monk & Robot Book 1)*
+34. Becky Chambers: A Psalm for the Wild-Built (Monk & Robot Book 1)*
 
-42. Mitch Albom: Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson
+35. Mitch Albom: Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson
 
-43. PRABHAKAR K MISHRA: The Crux of Bhagavad Gita - The Grand Unifier
+36. PRABHAKAR K MISHRA: The Crux of Bhagavad Gita - The Grand Unifier
 
-44. Cathy Yardley: Love, Comment, Subscribe (Ponto Beach Reunion Book 1)
+37. Cathy Yardley: Love, Comment, Subscribe (Ponto Beach Reunion Book 1)
 
-45. Cathy Yardley: Gouda Friends (Ponto Beach Reunion Book 2)
+38. Cathy Yardley: Gouda Friends (Ponto Beach Reunion Book 2)
 
-46. Cathy Yardley: Ex Appeal (Ponto Beach Reunion Book 3)
+39. Cathy Yardley: Ex Appeal (Ponto Beach Reunion Book 3)
 
-47. Hillary Allen: Out and Back
+40. Hillary Allen: Out and Back
 
-48. Cal Newport: Slow Productivity
+41. Cal Newport: Slow Productivity
 
-49. Adam Grant: Hidden Potential
+42. Adam Grant: Hidden Potential
 
-50. Michael Easter: Scarcity Brain
+43. Michael Easter: Scarcity Brain
 
-51. Daavi Gazelle: The Kids Who Get In*
+44. Daavi Gazelle: The Kids Who Get In*
 
-52. Ichiro Kishmi: The Courage to be Disliked*
+45. Ichiro Kishmi: The Courage to be Disliked*
 
-53. Joan Didion: The Year of Magical Thinking*
+46. Joan Didion: The Year of Magical Thinking*
 
-54. Swami Paramarthananda: Brihadaranyaka Upanishad Bashyam (1.4.10)
+47. Swami Paramarthananda: Brihadaranyaka Upanishad Bashyam (1.4.10)
 
-55. Prof. V. Krishnamoorthy: Looking Back
+48. Prof. V. Krishnamoorthy: Looking Back
 
-56. R. F. Kuang: Yellowface
+49. R. F. Kuang: Yellowface
 
-57. Robin Marantz Henig: Monk in the Garden: Life of Gregor Mendel
+50. Robin Marantz Henig: Monk in the Garden: Life of Gregor Mendel
 
-58. Christopher McDougall: Born to Run 2
+51. Christopher McDougall: Born to Run 2
 
-59. Lauren Thoman: I'll Stop the World
+52. Lauren Thoman: I'll Stop the World
 
-60. Greene and Greene: Hidden Ivies
+53. Greene and Greene: Hidden Ivies
 
-61. Peter Pitts: 333 Awesome Small Colleges
+54. Peter Pitts: 333 Awesome Small Colleges
 
-62. John Green: An Abundance of Katherines
+55. John Green: An Abundance of Katherines
 
-63. Jay Asher and Carolyn Mackler: The Future of Us
+56. Jay Asher and Carolyn Mackler: The Future of Us
 
-64. Natalie Goldberg: Long Quiet Highway*
+57. Natalie Goldberg: Long Quiet Highway
 
-65. John Stevens: The Marathon Monks of Mt. Hiei
+58. John Stevens: The Marathon Monks of Mt. Hiei
+
+59. Dr. Phil Maffettone: Million Dollar Marathon
 
 
 
