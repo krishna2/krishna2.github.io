@@ -128,6 +128,10 @@
 
 59. Dr. Phil Maffettone: Million Dollar Marathon
 
+60. Dr. John Duffy: Parenting the New Teen in the Age of Anxiety
+
+61. Liane Morirary: Truly Madly Guilty
+
 
 
 
