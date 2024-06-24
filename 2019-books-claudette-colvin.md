@@ -1,8 +1,8 @@
 ---
-title: Black History Month: Claudette Colvin
+title: Black History Month - Claudette Colvin
 ---
 
-# Black History Month : Claudette Colvin
+# Black History Month - Claudette Colvin
 
 It is 1955. It is the Jim Crow South. Buses have different sections for white and colored people. One woman in Montgomery, Alabama has had enough of it. This brave African-American woman decides to take a stand and hence decides to just sit. She does not give up her seat when asked to by the driver because as per the law when there is no other seat to move to, you don't have to give up your seat as long as it is not for an emergency or for a disabled person. And this was certainly not anyone of those. This was just pure racial discrimination and segregation at its worst. The police get called and they eventually arrest her and takes her away to Jail forcibly. This would spark one of the most important social movement in U.S. history.
 
