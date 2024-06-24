@@ -1,8 +1,8 @@
 ---
-title: Adi Shankaracharya: Hinduism's Greatest Thinker
+title: Adi Shankaracharya - Hinduism's Greatest Thinker
 ---
 
-# Adi Shankaracharya: Hinduism's Greatest Thinker
+# Adi Shankaracharya - Hinduism's Greatest Thinker
 
 Who is Adi Shankaracharya? Where did he live and when did he live? What did he teach? And what was his unique contribution? We can try to get some of the easy parts out of the way first. Adi Shankaracharya was one of the foremost philsophers of India. Some call him a Saint while many consider him an incarnation of Lord Shiva himself. He was born in Kaladi, a small village near the town of Kochin in the southern state Kerala in India.  Modern scholars's consensus seems to be that he lived in the 8th century CE.
 
