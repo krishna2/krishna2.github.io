@@ -132,6 +132,17 @@
 
 61. Liane Morirary: Truly Madly Guilty
 
+62. Deepak Malhotra: I Moved Your Cheese
+
+63. Brandon Weis: This Is Gonna Hurt: Thru-Hiking the Appalachian Trail, Pacific Crest Trail, Continental Divide Trail, and Arizona Trail in a Calendar Year
+
+64. Nisargadatta: I am not the Body
+
+65. Austin Current: Science of Strength Training
+
+66. Bob Roth: Strength is Stillness (The Power of Transcendental Meditation)
+
+67. 
 
 
 
@@ -141,7 +152,7 @@
 
 1. Swami Paramarthananda: Bhagavad Gita - Shankara Bashyam (600 lectures)
 
-1. Swami Paramarthananda: Vicharasagaram (600+ lectures).
+1. Swami Paramarthananda: Vicharasagaram (~500+ lectures).
 
 ### Various stages of reading
 
