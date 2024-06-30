@@ -1,6 +1,11 @@
 # Notes on Bhagavad Gita
 
-The Bhagavad Gita (The Blessed Lord's Song) is deep philosophical text that packs it all in a mere 700 verses. It can be considered spiritual and even religious, if one wants to interpret it as such. It is a moral guide. It is a book that keeps on giving - the more one reads, the more the layers of meaning and its depth  and its appeal. Here are my notes on various topics related to this magnificient book.
+The Bhagavad Gita (The Blessed Lord's Song) is deep philosophical text that packs it all in a mere 700 verses. It can be considered spiritual and even religious, if one wants to interpret it as such. It is a moral guide. It is a book that keeps on giving - the more one reads, the more the layers of meaning and its depth  and its appeal. 
+
+For context, none of this learnings would've been possible without the teachings and blessings of my Guru Swami Paramarthananda Saraswati. Here is the [list of his teachings / books](https://krishna2.com/books-vedanta), more correctly audio lectures, that I have listened to.
+
+
+Here are my notes on various topics related to this magnificient book.
 
 When was the Gita written? [https://krishna2.com/bg/when](https://krishna2.com/bg/when)
 
