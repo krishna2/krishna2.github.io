@@ -18,7 +18,7 @@ Someday I will create such a consolidated list that covers other religions and p
 ## Section One - Audio Lectures (and Transcribed Books) by (and of) my Guru Swami Paramarthananda Saraswati in Chronological Order
 
 ### Books in 2020
-60. Swami Paramarthananda: Isavasaya Upanishad
+1. Swami Paramarthananda: Isavasaya Upanishad
 
 ### Books in 2021
 1. Swami Paramarthananda: Mundaka Upanishad
@@ -48,7 +48,7 @@ Someday I will create such a consolidated list that covers other religions and p
 ### Books in 2023
 1. Swami Paramarthananda: Ashtavakra Gita (88 lectures)
 1. Swami Paramarthananda: Dakshinamurthi Stotram - summary
-1. Swami Paramarthananda: Brahma Sutras (Adhyasa bashyam and First few sutras)
+1. Swami Paramarthananda: Brahma Sutras (Adhyasa bashyam and First four sutras)
 1. Swami Paramarthananda: Shankara and Gita
 1. Swami Paramarthananda: Meditation Theory
 1. Swami Paramarthananda: Gita Saaram (tamil)
@@ -61,16 +61,15 @@ Someday I will create such a consolidated list that covers other religions and p
 1. Swami Paramarthananda: Tattva Bodha
 
 ### Books in 2024
-5. Swami Paramarthananda: Chandogya Upanishad
-6. Swami Paramarthananda: Tattva Bodha++
-17. Swami Paramarthananda: Brihadaranyaka Upanishad
-27. Swami Paramarthananda: Adhyasa Bashyam++
-30. Swami Paramarthananda: TattvaBodha++
-47. Swami Paramarthananda: Brihadaranyaka Upanishad Bashyam (1.4.10)
+1. Swami Paramarthananda: Chandogya Upanishad
+1. Swami Paramarthananda: Tattva Bodha++
+1. Swami Paramarthananda: Brihadaranyaka Upanishad
+1. Swami Paramarthananda: Adhyasa Bashyam++
+1. Swami Paramarthananda: TattvaBodha++
+1. Swami Paramarthananda: Brihadaranyaka Upanishad Bashyam (1.4.10)
 1. Swami Paramarthananda: Bhagavad Gita (250 lectures)
 1. Swami Paramarthananda: Bhagavad Gita - Shankara Bashyam (600 lectures)
 1. Swami Paramarthananda: Vicharasagaram (~500+ lectures).
-
 
 
 ## Section Two: Books on and about The Bhagavad Gita
