@@ -68,8 +68,11 @@ Someday I will create such a consolidated list that covers other religions and p
 1. Swami Paramarthananda: TattvaBodha++
 1. Swami Paramarthananda: Brihadaranyaka Upanishad Bashyam (1.4.10)
 1. Swami Paramarthananda: Bhagavad Gita (250 lectures)
+   1. Reading again - in progress
 1. Swami Paramarthananda: Bhagavad Gita - Shankara Bashyam (600 lectures)
-1. Swami Paramarthananda: Vicharasagaram (~500+ lectures).
+   1. Reading again - in progress
+1. Swami Paramarthananda: Vicharasagaram (~500+ lectures)
+   1. In progress (~400 lectures completed).
 
 
 ## Section Two: Books on and about The Bhagavad Gita
