@@ -1,6 +1,6 @@
 # Sitare Spotlights - We are all Stars
 
-Recently I got the wonderful opportunity to chat with Saumya. <add link to Blog and also to article page if any>
+Recently I got the wonderful opportunity to chat with Saumya. (TODO: add link to Blog and also to article page if any)
 The talk started with a general introduction and moved on to focusing on one particular passion of mine, Reading.
 
 But that being too wide a topic, we decided to focus on Philosophy and on that one book near and dear to my heart, The Bhagavad Gita.
@@ -12,7 +12,7 @@ All through my conversation I had mentioned various authors and books and this p
 Hopefully this is easy for anyone to follow and keep track (and bookmark/buy/read) the books they are interested in.
 
 Here is the video for your viewing pleasure.
-<add link to video>
+(TODO: add link to video)
 
 ## Books I read when I was young
 
