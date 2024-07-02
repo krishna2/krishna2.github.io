@@ -1,6 +1,6 @@
 <h1>Hello, world!</h1>
 <!-- testing from github pages -->
-I am Krishna Srinivasan. I work as a Research Software Engineer in Google Research. My areas of interest are Natural Language Processing (NLP), Information Retrieval and Multimodality (Image-Text). 
+I am Krishna Srinivasan. I work as a Research Software Engineer in Google DeepMind. My areas of interest are Natural Language Processing (NLP), Information Retrieval and Multimodality (Image-Text). 
 
 <!--
 I have previously worked at Apple, IBM, blekko (acquired by IBM), Yahoo, IronPort (acquired by Cisco) and Excite@Home. I did my Masters in Information Systems Management at Carnegie Mellon University (Pittsburgh, PA), my Bachelors in Electronics and Instrumentation Engineering at SASTRA (in Thanjavur and back then it was called Shanmugha College of Engineering, Bharathidasan University) and I attended Vikaasa Matriculation Higher Secondary School in the beautiful temple city of Madurai, Tamil Nadu.
@@ -8,14 +8,39 @@ I have previously worked at Apple, IBM, blekko (acquired by IBM), Yahoo, IronPor
 
 You can find my research publications in <a href="https://scholar.google.com/citations?user=aYn5qFUAAAAJ&hl=en">Google Scholar</a>.
 
-You can check out or connect via these networks: <a href="https://linkedin.com/in/krishna2">Linkedin</a>, <a href="https://github.com/krishna2">Github</a>, <a href="https://twitter.com/krishna2">Twitter</a>, <a href="https://www.facebook.com/Krishna2/">Facebook</a>. 
+You can learn more about me or connect via these networks: <a href="https://linkedin.com/in/krishna2">Linkedin</a>, <a href="https://github.com/krishna2">Github</a>, <a href="https://twitter.com/krishna2">Twitter</a>, <a href="https://www.facebook.com/Krishna2/">Facebook</a>. 
 <br/>
 Or you can email me at krishna2 in the popular email service run by Google.
+
+<h2>Books</h2>
 
 I love to read books and maintain an up to date list of the <b><a href="/books">books I read</a></b>.
 
 
 <h2>Here are some of my writings</h2>
+
+They can roughly be categorized as Healthy, Wealthy and Wise to borrow a phrase from Benjamin Franklin.
+
+<h3>Healthy</h3>
+
+<a href="https://krishna2.com/health">Health</a>
+<br /><br />
+
+<a href="https://krishna2.com/if">Intermittent Fasting (IF)</a> (but mostly refer to the above).
+<br /><br />
+
+
+
+<h3>Wealthy</h3>
+
+<a href="https://krishna2.com/fin">Finance books and Investing Philosophy</a>
+<br /><br />
+
+
+<h3>Wise</h3>
+
+<a href="https://krishna2.com/bg/">Varisou topics about the Bhagavad Gita</a>
+<br /><br />
 
 <a href="https://krishna2.com/bg/bg-message">What is the Message of the Bhagavad Gita? (in one word? or two words?)</a>
 <br /><br />
@@ -26,14 +51,21 @@ I love to read books and maintain an up to date list of the <b><a href="/books">
 <a href="https://krishna2.com/bg/books-for-kids">Bhagavad Gita Books for Kids</a>
 <br /><br />
 
-<a href="https://krishna2.com/if">Intermittent Fasting (IF)</a>
-<br /><br />
-
 <a href="https://krishna2.com/thirukkural">Thirukkural</a>
 <br /><br />
 
-<a href="https://krishna2.com/books-finance">Finance books and Investing Philosophy</a>
+<a href="https://krishna2.com/books-audible-reco">Some book recommendations in Audible (and Great Courses)</a>
 <br /><br />
+
+<a href="http://krishna2.com/2019-books-mans-search-for-meaning-viktor-frankl">Man’s Search for Meaning</a>
+<br /><br />
+
+<a href="http://krishna2.com/2019-books-shankaracharya">Adi Shankaracharya: Hinduism’s Greatest Thinker</a>
+<br /><br />
+
+
+
+<h3>Other</h3>
 
 <a href="https://krishna2.com/khan">The one and only Khan : Genghis Khan</a>
 <br /><br />
@@ -42,9 +74,6 @@ I love to read books and maintain an up to date list of the <b><a href="/books">
 <br /><br />
 
 <a href="https://krishna2.com/2021-buddha-boy">Buddha Boy (fiction)</a>
-<br /><br />
-
-<a href="https://krishna2.com/books-audible-reco">Some book recommendations in Audible (and Great Courses)</a>
 <br /><br />
 
 <a href="http://krishna2.com/2018-books-fiction">Fiction List from 2018</a>
@@ -68,13 +97,7 @@ I love to read books and maintain an up to date list of the <b><a href="/books">
 <a href="http://krishna2.com/2019-books-job">Book of Job</a>
 <br /><br />
 
-<a href="http://krishna2.com/2019-books-mans-search-for-meaning-viktor-frankl">Man’s Search for Meaning</a>
-<br /><br />
-
 <a href="http://krishna2.com/2019-books-oedipus-sophocles">Oedipus by Sophocles</a>
-<br /><br />
-
-<a href="http://krishna2.com/2019-books-shankaracharya">Adi Shankaracharya: Hinduism’s Greatest Thinker</a>
 <br /><br />
 
 <a href="http://krishna2.com/2019-books-walden-on-wheels">Walden on Wheels</a>
