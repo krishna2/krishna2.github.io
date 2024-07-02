@@ -16,14 +16,23 @@ Here is the video for your viewing pleasure.
 
 ## Books I read when I was young
 
+TBD: list of books
+
 ## Books about the people that are my inspirations
+
+TBD: list of books
 
 ## Books leading to the Bhagavad Gita journey
 
+TBD: list of books
+
 ## Books on and about Bhagavad Gita - for a serious seeker
+
+TBD: list of books
 
 ## Books on other topics
 
+TBD: list of books
 
 ## Thanks
 
