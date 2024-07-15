@@ -144,8 +144,11 @@ These are the books I have read and am reading.
 
 66. Bob Roth: Strength is Stillness (The Power of Transcendental Meditation)
 
-67. 
+67. Britt Frank: The Science of Stuck
 
+<!--
+68. Swami Paramarthananda: Nischaladasa / Vasudeva Brahmendra Saraswathi's Samskrita Vicharasagaram (again to call this one work is a big injustice. This is a series of 481 lectures. An absolutely majestic composition).
+-->
 
 
 ### Huge & Majestic Works in Progress (will take a while to complete)
