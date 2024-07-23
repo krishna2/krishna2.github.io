@@ -6,9 +6,6 @@ These are the books I have read and am reading.
 <!--
 [Link to this page](https://krishna2.github.io/books)
 -->
-<!--
-### Was Reading but Paused
--->
 
 ## Books in 2024
 
