@@ -1,6 +1,6 @@
 # Sitare Spotlights - We are all Stars
 
-Recently I got the wonderful opportunity to chat with Saumya. Please check out her wonderful blog [Nourish-n-Cherish](https://nourishncherish.org/).
+Recently I got the wonderful opportunity to chat with Saumya for her new series "Sitare: We are all Stars" on India Currents. Please check out Saumya's wonderful blog [Nourish-n-Cherish](https://nourishncherish.org/).
 
 The talk started with a general introduction and moved on to focusing on one particular passion of mine, Reading.
 
