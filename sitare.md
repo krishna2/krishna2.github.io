@@ -31,6 +31,16 @@ Here is the video for your viewing pleasure.
 
 ## Books about the people that are my inspirations
 
+["Surely You're Joking, Mr. Feynman!" by Richard Feynman](https://www.amazon.com/Surely-Youre-Joking-Mr-Feynman-ebook/dp/B077J7F78Z/ref=sr_1_1?crid=74THP2YE9ZSF&dib=eyJ2IjoiMSJ9.PDJPerLh8Fg0WPIKol0a8QZY8SffaiFnnRqowRf-Kdmm3BVsTZUJcqTXPm6fZ9cQNujs_AnvPbnJXlyT9nR-72OHpwtlEPKCe3b2vS23vu1sOXIfK_u0fO1I3QT9nMc3h6-idZeb63ZZtu7BQi9pucGDIDzZlmNOtRbsfhsp_5Igm-d9Eggg-tGPVUJaz4f3pWFTRAk8nJ6uhePUYJd1JAqcASYOvqxF1q5sKrm-1yE.N9hse8vMhPLVuKGayvL27C1E8CZh5wqaIyDSNFlTMtI&dib_tag=se&keywords=surely+you%27re+joking+mr.+feynman&qid=1723871611&sprefix=feynman%2Caps%2C152&sr=8-1)
+
+[The Man Who Knew Infinity: A Life of the Genius Ramanujan by Robert Kanigel](https://www.amazon.com/Man-Who-Knew-Infinity-ebook/dp/B00BW4VEGM/ref=sr_1_1?crid=2BH986H5K2OHC&dib=eyJ2IjoiMSJ9.k7yNSWUcJZSHI58tItzvGQlyxo0B5RLEnZBWES2L4Dc5ZuDi2kjvaJzWfj-MxXEmb0lZ5sWo034YtESYzDKk3y7d2baOSeSlzeBoe8b3f9JZnb-YGoXrQzWn3Wy_vCHGH2g1f-ZyduwOPhv6rw12NaL9zUFV69sTtY8uREnphKwbpMe790U-E4ricVH9QAWTDSNybutVhkjTBai2_Da1AmRLHQ5Q7NOBGv0euYjWS1E.8tsjfL7donOtMfDVLY6ineWIAz7DzV_nlSO2ASyuFrw&dib_tag=se&keywords=man+who+knew+infinity&qid=1723871625&sprefix=man+who+knew+inf%2Caps%2C145&sr=8-1)
+
+[A Mind at Play: How Claude Shannon Invented the Information Age Kindle Edition by Jimmy Soni and Rob Goodman](https://www.amazon.com/Mind-Play-Shannon-Invented-Information-ebook/dp/B01M5IJN1P/ref=sr_1_2?crid=FLCHII5SAM0P&dib=eyJ2IjoiMSJ9.zBM0N2H0Ii92_-Y02i10qLHiZVWuavWvb3STXtEDb1xMJA3ug6eycrxQzFQxyZtvgpbcm3A-c9Kg5Q2yEfOXfJIOOWSmjFer5updum6PSkdbYMTQubFltnR8_J2vASiWekGxGAaFTInNX9mr8CpjUjAzX7RWNoQXteTcehqWFd0A63zkmi6fpAYepss5iAYpBzBvdbPgtd-IiaNTkulO-dbq3duDYaF4Z2WU2jILYWw.osPjrOFMHjhtrc8QQeW0Tf9SxewjL2Wz2hOL8kxzlPo&dib_tag=se&keywords=claude+shannon&qid=1723871637&sprefix=claude+shannon%2Caps%2C151&sr=8-2)
+
+[Breaking Through: My Life in Science by Katalin Kariko](https://www.amazon.com/Breaking-Through-My-Life-Science-ebook/dp/B0BS33QZR3/ref=sr_1_1?crid=1VDMDTXC9W6FQ&dib=eyJ2IjoiMSJ9.iwjNNrFcRqNxr5YSxIvClzwLRZ_zMwhsugqu2ZeJfzkjOmSumFaJ46mFXX_nJ5-puELJiyLKVR4LMlovc_89LNe4TnPrtNb-tMFmOzqIfN2HD5PmNaNJA0cECC6eXTLz9TUJSLfs9YjkwwIn048Dbr3lgO97vCKhPxDxZYGAvMJJhSiziekuGL5oYGj21PBoXdkeUCwg9-JfGAm4tI_pf3KUwN_4xrArpSUHroFOpkE.J30n1Oljw_SiEZFiJRST9GJaihcK_z7t2wtQYdbO7vw&dib_tag=se&keywords=katalin+kariko&qid=1723871692&sprefix=katalin+kariko%2Caps%2C142&sr=8-1)
+
+[The Monk in the Garden: The Lost and Found Genius of Gregor Mendel, the Father of Genetics by Robin Marantz Henig](https://www.amazon.com/Monk-Garden-Genius-Gregor-Genetics-ebook/dp/B06XC9LY3V/ref=sr_1_1?crid=1TNQDYO1EF0M4&dib=eyJ2IjoiMSJ9.Ane3cDaHoqPACCqzwBjdj3piMMB5jnBjUISCnPo9LsaKs_9R6xRBMOVIJxywZMKgiq7kE-4eM6whhHRkrYmkR7wGObc5YX4a0sxc_1iwFJea7vsSUU6uuq-mFdlEDmVAR0XZPVN9Igp84nBivqTUSaq-3idL7iyf8G6cr0p0OSy8jhgIh4ulAJw0JxVoaBtn_lOTz0QYFr76siFlpXgF-Uwc2s9atp6kYMEVi98pKNU.FPQnIx4jb0xtFYyxj4Qd0nachKv4g971m8mQdN6LAqg&dib_tag=se&keywords=monk+in+the+garden&qid=1723871703&sprefix=monk+in+the+garde%2Caps%2C146&sr=8-1)
+
 
 
 ## Books leading to the Bhagavad Gita journey
