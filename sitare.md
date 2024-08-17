@@ -19,7 +19,7 @@ Here is the video for your viewing pleasure.
 
 ## Books I read when I was young
 
-[Tintin](https://www.amazon.com/Tintin-Paperback-Boxed-Set-titles/dp/1405294574/ref=sr_1_1?crid=ZF7HTNF0VJ4D&dib=eyJ2IjoiMSJ9.ABE_4NKjQr3mF6osc4uzrGKJwxIvGBJg1FdHcQbQyae9bQQ29gVB-CA21vyDLUCC_az4q3piiqh5iDCrwhx2IaLPMWB5vKAxLcOArBEFZMnTh4xLmobnpEfmiaBtKpO56HiDC713IYLl_Ca5OlrLXk3H_Ren7AxkPsNUDrloZN0B0tK4G1L46b4h8-lekMo9QyRP7wF9zYmMXlxjHQ_uxWSN4JgfQpaSQSgJpBduoRQ.prPN8mZppizOnO-ftnWNo19Ox97T_b5AfxrQ1yWvpGg&dib_tag=se&keywords=tintin&qid=1723871316&sprefix=tintin%2Caps%2C166&sr=8-1)
+[Tintin Comics](https://www.amazon.com/Tintin-Paperback-Boxed-Set-titles/dp/1405294574/ref=sr_1_1?crid=ZF7HTNF0VJ4D&dib=eyJ2IjoiMSJ9.ABE_4NKjQr3mF6osc4uzrGKJwxIvGBJg1FdHcQbQyae9bQQ29gVB-CA21vyDLUCC_az4q3piiqh5iDCrwhx2IaLPMWB5vKAxLcOArBEFZMnTh4xLmobnpEfmiaBtKpO56HiDC713IYLl_Ca5OlrLXk3H_Ren7AxkPsNUDrloZN0B0tK4G1L46b4h8-lekMo9QyRP7wF9zYmMXlxjHQ_uxWSN4JgfQpaSQSgJpBduoRQ.prPN8mZppizOnO-ftnWNo19Ox97T_b5AfxrQ1yWvpGg&dib_tag=se&keywords=tintin&qid=1723871316&sprefix=tintin%2Caps%2C166&sr=8-1)
 
 [Phantom Comics](https://www.amazon.com/s?k=phantom+comics&crid=2CKIOUPX6S83D&sprefix=phantom+comics%2Caps%2C149&ref=nb_sb_noss_1)
 
