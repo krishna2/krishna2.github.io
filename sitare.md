@@ -15,6 +15,7 @@ All through my conversation I had mentioned various authors and books and this p
 Hopefully this is easy for anyone to follow and keep track (and bookmark/buy/read) the books they are interested in.
 
 Here is the video for your viewing pleasure:
+
 [Sitare Spotlight Ep.1: Krishna Srinivasan on AI, and his fascination with the Bhagavad Gita](https://www.youtube.com/watch?v=gAfYzSD1rRk)
 
 
