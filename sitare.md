@@ -69,6 +69,9 @@ You can also check out the books I read (or have read) which I keep track here: 
 ## Thanks
 
 Thank you once again, Saumya, for this wonderful session. Thoroughly enjoyed the wonderful questions.
-Wishing you all the best for your show and may you get the opportunity to interview many many more stars and helps us all learn from them.
 
-Hope you enjoyed it all. Happy reading!
+Wishing you all the best for your show and may you get the opportunity to interview many many more stars and help us all learn from them.
+
+Thank you all for watching the youtube video and reading this post. 
+
+Happy reading!
