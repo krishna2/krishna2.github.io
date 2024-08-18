@@ -6,7 +6,7 @@ The talk started with a general introduction and moved on to focusing on one par
 
 But that being too wide a topic, we decided to focus on Philosophy and on that about the one book near and dear to my heart, The Bhagavad Gita.
 
-We follwed the above main section with a wrap of topics about finding Infinity (for oneself) and our Utopia.
+We followed the above main section with a wrap of topics about finding Infinity (for oneself) and our Utopia.
 
 ## Video / Podcast Interview
 
