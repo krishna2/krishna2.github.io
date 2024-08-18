@@ -8,15 +8,19 @@ But that being too wide a topic, we decided to focus on Philosophy and on that a
 
 We follwed the above main section with a wrap of topics about finding Infinity (for oneself) and our Utopia.
 
+## Video / Podcast Interview
+
+Here is the video for your viewing pleasure:
+
+[Sitare Spotlight Ep.1: Krishna Srinivasan on AI, and his fascination with the Bhagavad Gita](https://www.youtube.com/watch?v=gAfYzSD1rRk)
+
+## Books books books
+
 Of course, I cannot help but not be enthusiastic about books. 
 
 All through my conversation I had mentioned various authors and books and this post is to capture it as notes.
 
 Hopefully this is easy for anyone to follow and keep track (and bookmark/buy/read) the books they are interested in.
-
-Here is the video for your viewing pleasure:
-
-[Sitare Spotlight Ep.1: Krishna Srinivasan on AI, and his fascination with the Bhagavad Gita](https://www.youtube.com/watch?v=gAfYzSD1rRk)
 
 
 ## Books I read when I was young
@@ -47,11 +51,15 @@ Here is the video for your viewing pleasure:
 [The Monk in the Garden: The Lost and Found Genius of Gregor Mendel, the Father of Genetics by Robin Marantz Henig](https://www.amazon.com/Monk-Garden-Genius-Gregor-Genetics-ebook/dp/B06XC9LY3V/ref=sr_1_1?crid=1TNQDYO1EF0M4&dib=eyJ2IjoiMSJ9.Ane3cDaHoqPACCqzwBjdj3piMMB5jnBjUISCnPo9LsaKs_9R6xRBMOVIJxywZMKgiq7kE-4eM6whhHRkrYmkR7wGObc5YX4a0sxc_1iwFJea7vsSUU6uuq-mFdlEDmVAR0XZPVN9Igp84nBivqTUSaq-3idL7iyf8G6cr0p0OSy8jhgIh4ulAJw0JxVoaBtn_lOTz0QYFr76siFlpXgF-Uwc2s9atp6kYMEVi98pKNU.FPQnIx4jb0xtFYyxj4Qd0nachKv4g971m8mQdN6LAqg&dib_tag=se&keywords=monk+in+the+garden&qid=1723871703&sprefix=monk+in+the+garde%2Caps%2C146&sr=8-1)
 
 
-<!--
-## Books leading to the Bhagavad Gita journey
+## Books leading to the restart of the Bhagavad Gita journey
 
-TBD: list of books
--->
+There were two books (rather Audible Great Courses Lecture Series) that got me back to reading the Bhagavad Gita.
+
+[The Meaning of Life: Perspectives from the World's Great Intellectual Traditions by Prof. Jay L. Garfield](https://www.audible.com/pd/The-Meaning-of-Life-Perspectives-from-the-Worlds-Great-Intellectual-Traditions-Audiobook/B00DJBVRMM)
+
+
+[36 Books That Changed the World by A Group of Authors](https://www.audible.com/pd/36-Books-That-Changed-the-World-Audiobook/B00MEQRZTM)
+
 
 ## Books on and about Bhagavad Gita - for a serious seeker
 
@@ -63,6 +71,10 @@ TBD: list of books
 
 [The Great Work of Your Life: A Guide for the Journey to Your True Calling by Stephen Cope](https://www.amazon.com/Great-Work-Your-Life-Journey-ebook/dp/B0080Z5JT4/ref=sr_1_1?crid=1Y3D5958BD39O&dib=eyJ2IjoiMSJ9.vmkA9bKeEfHAHuf7alg13Ny0iFB1zrkzugr_zZGLlB8njOpYbfAwkwK1A0ELTJegOp7mk2O9_GcwHiiYTE4K0agRuu7QwAo2rUXrJiY9CE__GH-KS508qKMSYFPpCs9F7tBoY6OWTl9u7IsCowbRtRi3_KgyU4a--mpr14c86nQyBCQ3i6e660ABrR66N3_Slkw74PrKrNYrVytQbYCiHif-FE_R0WIUCgXnk4bGCTw.FjyjVrnC9hQswUWYB0n-YHlG3doSdzXCZXElMqMpWWE&dib_tag=se&keywords=stephen+cope&qid=1723872137&sprefix=stephen+cope%2Caps%2C144&sr=8-1)
 
+
+## Essays on the Bhagavad Gita
+
+You can also read my various essays about the Bhagavad Gita here: [https://krishna2.com/bg](https://krishna2.com/bg)
 
 ## Books on other topics
 
