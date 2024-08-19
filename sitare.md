@@ -12,7 +12,11 @@ We followed the above main section with a wrap of topics about finding Infinity 
 
 Here is the video for your viewing pleasure:
 
-[Sitare Spotlight Ep.1: Krishna Srinivasan on AI, and his fascination with the Bhagavad Gita](https://www.youtube.com/watch?v=gAfYzSD1rRk)
+[Sitare Spotlight Ep.1: Krishna Srinivasan on AI, and his fascination with the Bhagavad Gita](https://www.youtube.com/watch?v=VEGu7W2s8ng)
+
+<!-- OLD VIDEO
+https://www.youtube.com/watch?v=gAfYzSD1rRk
+-->
 
 ## Books books books
 
