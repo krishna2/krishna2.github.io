@@ -14,6 +14,9 @@ Here is the video for your viewing pleasure:
 
 [Sitare Spotlight Ep.1: Krishna Srinivasan on AI, and his fascination with the Bhagavad Gita](https://www.youtube.com/watch?v=VEGu7W2s8ng)
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VEGu7W2s8ng?si=K2CpL10BBOog2p9r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <!-- OLD VIDEO
 https://www.youtube.com/watch?v=gAfYzSD1rRk
 -->
