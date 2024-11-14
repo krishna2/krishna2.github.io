@@ -139,23 +139,59 @@ These are the books I have read and am reading.
 
 65. Austin Current: Science of Strength Training
 
-66. Bob Roth: Strength is Stillness (The Power of Transcendental Meditation)
+66. Bob Roth: Strength in Stillness (The Power of Transcendental Meditation)
 
 67. Britt Frank: The Science of Stuck
+
+68. Nisadgadatta Maharaj: I am not the Body
+
+69. Morgan Housel: Same as Ever
+
+70. Neil Fiore: Now Habit
+
+71. Carlo Cippola: Basic Laws of Human Stupidity
+
+72. Rand Fishkin: Lost and Founder
+
+73. Paul Jarvis: Company of One
+
+74. Sam Altman: Startup Playbook++
+
+75. Joel Schwartzberg: Get to the Point!
+
+76. Sahil Lavingia: The Minimalist Entrepreneur
+
+77. Leigh Gallagher: The Airbnb Story
+
+78. Chip Heath, Dan Heath: Made to Stick
+
+79. Ryan Levesque: Choose
+
+80. Ryan Levesque: Ask
+
+81. Caroll Tavris, Elliot Aronson: Mistakes Were Made (but Not By Me)
+
+82. Ash Maurya: Running Lean
+
+83. Dan Sullivan, Benjamin Hardy: 10x Is Easier Than 2x
+
+84. Paulo Coelho: The Archer
+
+85. Eric Ries: The Lean Startup++
+
 
 <!--
 68. Swami Paramarthananda: Nischaladasa / Vasudeva Brahmendra Saraswathi's Samskrita Vicharasagaram (again to call this one work is a big injustice. This is a series of 481 lectures. An absolutely majestic composition).
 -->
 
 
-### Huge & Majestic Works in Progress (will take a while to complete)
+### Huge & Majestic Works (Repeated Listening)
 
 1. Swami Paramarthananda: Bhagavad Gita (250 lectures)
 
 1. Swami Paramarthananda: Bhagavad Gita - Shankara Bashyam (600 lectures)
 
-1. Swami Paramarthananda: Vicharasagaram (~500+ lectures).
-
+<!--
 ### Various stages of reading
 
 1. P. Soundara Rajan: Sivananda Lahari*
@@ -185,7 +221,7 @@ These are the books I have read and am reading.
 1. Rebecca Goldstein: Incompleteness
 
 1. Thirukkural : Multiple Authors's Commentaries
-
+-->
 
 
 ## Books in 2023
