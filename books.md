@@ -179,6 +179,24 @@ These are the books I have read and am reading.
 
 85. Eric Ries: The Lean Startup++
 
+86. Efti, Steli: Product Demos That Sell
+
+87. Weinberg, Mike: New Sales. Simplified
+
+88. Dunford, April: Obviously Awesome
+
+89. Kim, Mike: You Are The Brand
+
+90. Miller, Donald: Building a StoryBrand
+
+91. Kaufman, Josh: The Personal MBA
+
+92. Broas, Billy ; Forte, Tiago; Abdaal, Ali: Simple Marketing For Smart People
+
+93. Wayne Dyer: I Can See Clearly Now
+
+94. Swami Paramarthananda: Svetasvatara Upanishad
+
 
 <!--
 68. Swami Paramarthananda: Nischaladasa / Vasudeva Brahmendra Saraswathi's Samskrita Vicharasagaram (again to call this one work is a big injustice. This is a series of 481 lectures. An absolutely majestic composition).
