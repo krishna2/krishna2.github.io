@@ -197,6 +197,13 @@ These are the books I have read and am reading.
 
 94. Swami Paramarthananda: Svetasvatara Upanishad
 
+95. Tao Wong: The First Step (A Thousand Li, #1)
+
+96. V. Mahanenho: Survival Quest (The Way of the Shaman, #1)
+
+97. Travis Bagwell: Catharsis (Awaken Online #1)
+
+
 
 <!--
 68. Swami Paramarthananda: Nischaladasa / Vasudeva Brahmendra Saraswathi's Samskrita Vicharasagaram (again to call this one work is a big injustice. This is a series of 481 lectures. An absolutely majestic composition).
