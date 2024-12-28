@@ -211,6 +211,11 @@ These are the books I have read and am reading.
 
 101. Robert Dugoni: The Academy (The Tracy Crosswhite Series)
 
+102. Sabhaa Tahir: All my Rage
+
+103. Sabhaa Tahir: Ember in the Ashes (An Ember in the Ashes, #1)
+
+
 
 
 <!--
