@@ -143,8 +143,6 @@ These are the books I have read and am reading.
 
 67. Britt Frank: The Science of Stuck
 
-68. Nisadgadatta Maharaj: I am not the Body
-
 69. Morgan Housel: Same as Ever
 
 70. Neil Fiore: Now Habit
