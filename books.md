@@ -7,6 +7,25 @@ These are the books I have read and am reading.
 [Link to this page](https://krishna2.github.io/books)
 -->
 
+## Books in 2025
+
+1. Swami Chinmayananda: Kenopanishad
+
+2. A. G. Riddle: Winter World (The Long Winter Trilogy Book 1)
+
+3. Sadhvi Bhagawati Saraswathi: Hollywood to the Himalayas
+
+4. Swami Chinmayananda: Katopanishad
+
+
+
+### Huge & Majestic Works (Repeated Listening)
+
+1. Swami Paramarthananda: Bhagavad Gita (250 lectures)
+
+1. Swami Paramarthananda: Bhagavad Gita - Shankara Bashyam (600 lectures)
+
+
 ## Books in 2024
 
 1. Eknath Easwaran: How to Understand Death
@@ -215,21 +234,10 @@ These are the books I have read and am reading.
 
 104. Freida McFadden: The Housemaid
 
-105. Swami Chinmayananda: Kenopanishad
-
-
-
 
 <!--
 68. Swami Paramarthananda: Nischaladasa / Vasudeva Brahmendra Saraswathi's Samskrita Vicharasagaram (again to call this one work is a big injustice. This is a series of 481 lectures. An absolutely majestic composition).
 -->
-
-
-### Huge & Majestic Works (Repeated Listening)
-
-1. Swami Paramarthananda: Bhagavad Gita (250 lectures)
-
-1. Swami Paramarthananda: Bhagavad Gita - Shankara Bashyam (600 lectures)
 
 <!--
 ### Various stages of reading
