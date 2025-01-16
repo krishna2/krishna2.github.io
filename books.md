@@ -17,6 +17,14 @@ These are the books I have read and am reading.
 
 4. Swami Chinmayananda: Katopanishad
 
+5. Robert Dugoni: My Sister's Grave (Tracy Crosswhite Book 1)
+
+6. David Kushner: Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture
+
+7. Reilly, Matthew: Contest
+
+8. 
+
 
 
 ### Huge & Majestic Works (Repeated Listening)
