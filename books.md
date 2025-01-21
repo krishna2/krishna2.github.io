@@ -23,7 +23,13 @@ These are the books I have read and am reading.
 
 7. Reilly, Matthew: Contest
 
-8. 
+8. Stephen King (as Richard Bachman): The Long Walk
+
+9. Stephen King (as Richard Bachman): The Running Man
+
+10. Gary Stevenson: The Trading Game
+
+11. Swami Chinmayananda: Aitareya Upanishad
 
 
 
