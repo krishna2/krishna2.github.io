@@ -23,21 +23,33 @@ These are the books I have read and am reading.
 
 7. Reilly, Matthew: Contest
 
-8. Stephen King (as Richard Bachman): The Long Walk
+8. Swami Paramarthananda: Upadesa Saaram+
 
-9. Stephen King (as Richard Bachman): The Running Man
+9. Stephen King (as Richard Bachman): The Long Walk
 
-10. Gary Stevenson: The Trading Game
+10. Stephen King (as Richard Bachman): The Running Man
 
-11. Swami Chinmayananda: Aitareya Upanishad
+11. Swami Paramarthananda: Saddarshanam+
 
+12. Gary Stevenson: The Trading Game
 
+13. Swami Chinmayananda: Aitareya Upanishad
 
-### Huge & Majestic Works (Repeated Listening)
+14. Upton Sinclair: Fasting Cure
 
-1. Swami Paramarthananda: Bhagavad Gita (250 lectures)
+15. Gregory Zukerman: The Man Who Solved the Market
 
-1. Swami Paramarthananda: Bhagavad Gita - Shankara Bashyam (600 lectures)
+16. Swami Chinmayananda: Isa Upanishad*
+
+17. Janwillem VanDeWetering: The Empty Mirror
+
+18. Abby Jimenez: The Fall Risk
+
+19. Swami Paramarthananda: Naishkarmya Siddhi*
+
+20. Swami Paramarthananda: Brahma Sutra Shankara Bashyam*
+
+21. Swami Paramarthananda: Bhagavad Gita - Shankara Bashyam (600 lectures)*
 
 
 ## Books in 2024
