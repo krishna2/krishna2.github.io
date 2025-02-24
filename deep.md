@@ -92,7 +92,9 @@ But the big reason why text / language models suddenly took over is that we figu
 The big breakthrough was to formulate the problem as a "next word prediction" problem and make the model learn what is going to come next.
 
 Long long .... ago
+
 in a kingdom far far .... away
+
 once upon a ..... time
 
 These are trivial examples but as you can see, language is *predictable*. Even if not the exact word, a possible set of words.
@@ -187,216 +189,216 @@ PS: I will post various links in the comments section below.
 
 DeepSeek Github and this has the links to the respective papers
 
-https://github.com/deepseek-ai
+[https://github.com/deepseek-ai]
 
-https://github.com/deepseek-ai/DeepSeek-V3
+[https://github.com/deepseek-ai/DeepSeek-V3]
 
-https://github.com/deepseek-ai/DeepSeek-R1
+[https://github.com/deepseek-ai/DeepSeek-R1]
 
 
 ### Commoditizing the Complement - an old (gold) article by Joel Spolsky from early 2000s
 
 This is an old but GOLD article and theory! I love it. It is called Commoditizing the complement. This is probably the best explanation of why Zuck / Meta would give out everything for FREE!!!
 
-https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/
+[https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/]
 
 ### Thus Spake Andrej Karpathy
 
 Also add, Karpathy's posts:
 
-https://x.com/karpathy/status/1884336943321997800?s=48
+[https://x.com/karpathy/status/1884336943321997800?s=48]
 
-https://x.com/karpathy/status/1883941452738355376?s=48
+[https://x.com/karpathy/status/1883941452738355376?s=48]
 
 Actually all of Karpathy's posts are worth reading.
 
 Specific call out to "Deep Dive into LLMs": This video is a MUST WATCH!
 Yes, it is 3+ hours - but it is worth it.
 
-https://www.youtube.com/watch?v=7xTGNNLPyMI
+[https://www.youtube.com/watch?v=7xTGNNLPyMI]
 
 This is an Intro to LLM talk about a year ago - but also very good:
 
-https://www.youtube.com/watch?v=zjkBMFhNj_g
+[https://www.youtube.com/watch?v=zjkBMFhNj_g]
 
 And as said above, all of Karpathy's videos are worth watching.
 
 In addition to Karpthy, this Neural Networks video series by Grant Sanderson of 3blue1brown fame is also worth every second:
 
-https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+[https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi]
 
 
 ### Explanatory Tutorials
 
 DeepSeek R1 for everyone:
 
-https://trite-song-d6a.notion.site/Deepseek-R1-for-Everyone-1860af77bef3806c9db5e5c2a256577d
+[https://trite-song-d6a.notion.site/Deepseek-R1-for-Everyone-1860af77bef3806c9db5e5c2a256577d]
 
 DeepSeek V3:
 
-https://lunar-joke-35b.notion.site/Deepseek-v3-101-169ba4b6a3fa8090a7aacaee1a1cefaa
+[https://lunar-joke-35b.notion.site/Deepseek-v3-101-169ba4b6a3fa8090a7aacaee1a1cefaa]
 
 Illustrated DeepSeek R1 by Jay Allamar (of the Illustrated Transformer fame):
 
-https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1
+[https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1]
 
 Visual Guide to Reasoning Models by Maarten Grootendorst:
 
-https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms
+[https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-reasoning-llms]
 
 Visual Guide to Mixture of Experts (MoE) by Maarten Grootendorst:
 
-https://substack.com/home/post/p-148217245
+[https://substack.com/home/post/p-148217245]
 
 Putting RL back in RLHF:
 
-https://huggingface.co/blog/putting_rl_back_in_rlhf_with_rloo
+[https://huggingface.co/blog/putting_rl_back_in_rlhf_with_rloo]
 
 DeepSeek R1's recipe to replicate o1 and the future of reasoning LMs by Nathan Lambert:
 
-https://www.interconnects.ai/p/deepseek-r1-recipe-for-o1
+[https://www.interconnects.ai/p/deepseek-r1-recipe-for-o1]
 
 Understanding Reasoning LLMs by Sebastian Raschka:
 
-https://magazine.sebastianraschka.com/p/understanding-reasoning-llms
+[https://magazine.sebastianraschka.com/p/understanding-reasoning-llms]
 
 Deepseek's GRPO technique:
 
-https://www.philschmid.de/deepseek-r1
+[https://www.philschmid.de/deepseek-r1]
 
 ### More Tutorials
 
 Epoch.ai's write up of DeepSeek's innovations to Transformer Architecture:
 
-https://epoch.ai/gradient-updates/how-has-deepseek-improved-the-transformer-architecture
+[https://epoch.ai/gradient-updates/how-has-deepseek-improved-the-transformer-architecture]
 
 Multihead Latent Attention:
 
-https://www.pyspur.dev/blog/multi-head-latent-attention-kv-cache-paper-list
+[https://www.pyspur.dev/blog/multi-head-latent-attention-kv-cache-paper-list]
 
 Reasoning from small models with 8k examples:
 
-https://hkust-nlp.notion.site/simplerl-reason
+[https://hkust-nlp.notion.site/simplerl-reason]
 
-https://github.com/hkust-nlp/simpleRL-reason
+[https://github.com/hkust-nlp/simpleRL-reason]
 
 A big list of posts from across various groups:
 
-https://buttondown.com/ainews/archive/ainews-bespoke-stratos-sky-t1-the-vicunaalpaca/
+[https://buttondown.com/ainews/archive/ainews-bespoke-stratos-sky-t1-the-vicunaalpaca/]
 
 All DeepSeek papers and their main contributions:
 
-https://martinfowler.com/articles/deepseek-papers.html
+[https://martinfowler.com/articles/deepseek-papers.html]
 
 LORA Explanation:
 
-https://athekunal.medium.com/lora-low-rank-adaptation-paper-in-depth-explanation-417f5fa40668
+[https://athekunal.medium.com/lora-low-rank-adaptation-paper-in-depth-explanation-417f5fa40668]
 
 S1 : The $6 R1 competitor by Tim Kellogg:
 
-https://timkellogg.me/blog/2025/02/03/s1
+[https://timkellogg.me/blog/2025/02/03/s1]
 
-HN Discussion of the above: https://news.ycombinator.com/item?id=42946854
+HN Discussion of the above: [https://news.ycombinator.com/item?id=42946854]
 
 Slightly off-topic: A guide to running your own Local LLMs:
 
-https://www.dbreunig.com/2025/02/04/a-gentle-intro-to-running-a-local-llm.html
+[https://www.dbreunig.com/2025/02/04/a-gentle-intro-to-running-a-local-llm.html]
 
 
 ### Various write-ups / opinion pieces
 
 This is a long write up about a short case for Nvidia. This also walks through various other technical things in detail. Worth the read.
 
-https://youtubetranscriptoptimizer.com/blog/05_the_short_case_for_nvda
+[https://youtubetranscriptoptimizer.com/blog/05_the_short_case_for_nvda]
 
 Fantastic write up / explanation by Ben Thompson (Stratechery):
 
-https://stratechery.com/2025/deepseek-faq/
+[https://stratechery.com/2025/deepseek-faq/]
 
 Brilliant write-up (as always) by Matt Levine (for Bloomberg):
 
-https://archive.ph/lHjfO
+[https://archive.ph/lHjfO]
 
 A theory on how Deepseek worked around the export restrictions:
 
-https://threadreaderapp.com/thread/1883712727073607859.html
+[https://threadreaderapp.com/thread/1883712727073607859.html]
 
 Karen Hao's write up:
 
-https://www.linkedin.com/posts/karendhao_much-of-the-coverage-ive-been-reading-on-activity-7289652107576545284-Dlw0/
+[https://www.linkedin.com/posts/karendhao_much-of-the-coverage-ive-been-reading-on-activity-7289652107576545284-Dlw0/]
 
 An analysis by Ed Zitron:
 
-https://www.wheresyoured.at/deep-impact/
+[https://www.wheresyoured.at/deep-impact/]
 
 Write up by VentureBeat:
 
-https://venturebeat.com/ai/deepseek-r1s-bold-bet-on-reinforcement-learning-how-it-outpaced-openai-at-3-of-the-cost/
+[https://venturebeat.com/ai/deepseek-r1s-bold-bet-on-reinforcement-learning-how-it-outpaced-openai-at-3-of-the-cost/]
 
 Stargate announcement:
 
-https://bsky.app/profile/hankgreen.bsky.social/post/3lgrhqjr5v22k
+[https://bsky.app/profile/hankgreen.bsky.social/post/3lgrhqjr5v22k]
 
 What happened in the markets and why it took so long to react:
 
-https://thezvi.substack.com/p/deepseek-panic-at-the-app-store
+[https://thezvi.substack.com/p/deepseek-panic-at-the-app-store]
 
 Mythbusters:
 
-https://www.linkedin.com/feed/update/urn:li:activity:7289820777304989697/
+[https://www.linkedin.com/feed/update/urn:li:activity:7289820777304989697/]
 
 Camry analogy:
 
-https://www.threads.net/@tomgara/post/DFX8jeOOJcM
+[https://www.threads.net/@tomgara/post/DFX8jeOOJcM]
 
 500M hardware prediction:
 
-https://www.ft.com/content/ee83c24c-9099-42a4-85c9-165e7af35105
+[https://www.ft.com/content/ee83c24c-9099-42a4-85c9-165e7af35105]
 
 Singapore PM Lee:
 
-https://youtu.be/Khgc0JCQ320?si=wHQow0mXMxpv3d5s
+[https://youtu.be/Khgc0JCQ320?si=wHQow0mXMxpv3d5s]
 
 Funny twitter:
 
-https://x.com/PabloMartell_/status/1883915087532228684
+[https://x.com/PabloMartell_/status/1883915087532228684]
 
 Model performance / cost:
 
-https://x.com/raveeshbhalla/status/1883380722645512275
+[https://x.com/raveeshbhalla/status/1883380722645512275]
 
 FWIW, a great answer by Deepseek CEO:
 
-https://x.com/iScienceLuvr/status/1883254324769538075
+[https://x.com/iScienceLuvr/status/1883254324769538075]
 
 Ray Dalio is predicting bubble and eventual collapse - calling this equiv to 98/99:
 
-https://www.ft.com/content/eef8dbc9-bd04-4502-bdc2-1092aa4251b2
+[https://www.ft.com/content/eef8dbc9-bd04-4502-bdc2-1092aa4251b2]
 
 You can do this with a $6K machine:
 
-https://x.com/carrigmat/status/1884244369907278106?s=48
+[https://x.com/carrigmat/status/1884244369907278106?s=48]
 
 The bull case for Nvidia!
 
-https://www.linkedin.com/posts/aleksagordic_guys-its-so-over-this-is-the-future-of-activity-7289969843766755328-Z3zW/
+[https://www.linkedin.com/posts/aleksagordic_guys-its-so-over-this-is-the-future-of-activity-7289969843766755328-Z3zW/]
 
 Distillation probe:
 
-https://x.com/straits_times/status/1884512558498943394?s=48
+[https://x.com/straits_times/status/1884512558498943394?s=48]
 
 OpenAI vs DeepSeek claims:
 
-https://www.linkedin.com/posts/kartik-hosanagar-22272115_openai-has-evidence-that-its-models-helped-activity-7290537668025716736-mf0h/
+[https://www.linkedin.com/posts/kartik-hosanagar-22272115_openai-has-evidence-that-its-models-helped-activity-7290537668025716736-mf0h/]
 
 WW3:
 
-https://www.moneycontrol.com/news/opinion/with-deepseek-on-the-horizon-world-war-iii-has-begun-12921201.html
+[https://www.moneycontrol.com/news/opinion/with-deepseek-on-the-horizon-world-war-iii-has-begun-12921201.html]
 
 MODERN-DAY ORACLES or BULLSHIT MACHINES? How to thrive in a ChatGPT world
 Developed by Carl T. Bergstrom and Jevin D. West
 
-https://thebullshitmachines.com/table-of-contents/index.html
+[https://thebullshitmachines.com/table-of-contents/index.html]
 
 
 ## DISCLAIMER
@@ -404,7 +406,9 @@ https://thebullshitmachines.com/table-of-contents/index.html
 I am writing this just for the sake of my friends. I have tried my best to keep it readable, entertaining, maybe a bit humorous, all the while trying to keep it to a level that as many people can understand. This required simplifying (very very absurdly at times) topics and explanations and processes.
 
 I am Krishna Srinivasan. And this is me:
-https://linkedin.com/in/krishna2
+[https://linkedin.com/in/krishna2]
 
 Here is my Google Scholar page:
-https://scholar.google.com/citations?user=aYn5qFUAAAAJ&hl=en
+[https://scholar.google.com/citations?user=aYn5qFUAAAAJ&hl=en]
+
+
