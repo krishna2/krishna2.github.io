@@ -221,6 +221,10 @@ This is an Intro to LLM talk about a year ago - but also very good:
 
 [https://www.youtube.com/watch?v=zjkBMFhNj_g](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 
+This is a more recent video of "How I Use LLMs":
+
+[https://www.youtube.com/watch?v=EWvNQjAaOHw](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+
 And as said above, all of Karpathy's videos are worth watching.
 
 In addition to Karpathy, this Neural Networks video series by Grant Sanderson of 3blue1brown fame is also worth every second:
@@ -229,6 +233,10 @@ In addition to Karpathy, this Neural Networks video series by Grant Sanderson of
 
 
 ### Explanatory Tutorials
+
+A very nice talk by Prof. Sasha Rush (Cornell) explaining how DeepSeek changes the LLM story - talk given at Simons Institute at UC, Berkeley:
+
+[https://www.youtube.com/watch?v=KtBcIDtS13M](https://www.youtube.com/watch?v=KtBcIDtS13M)
 
 DeepSeek R1 for everyone:
 
