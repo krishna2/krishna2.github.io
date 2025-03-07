@@ -47,9 +47,17 @@ These are the books I have read and am reading.
 
 19. Swami Paramarthananda: Naishkarmya Siddhi*
 
-20. Swami Paramarthananda: Brahma Sutra Shankara Bashyam*
+20. Swami Paramarthananda: Brahma Sutra - Shankara Bashyam: Adhyasa Bashyam
 
-21. Swami Paramarthananda: Bhagavad Gita - Shankara Bashyam (600 lectures)*
+21. Swami Paramarthananda: Bhagavad Gita - Shankara Bashyam: Pratama Shatkam
+
+22. Venkatesh Rao: Be Slightly Evil
+
+23. Venkatesh Rao: The Gervais Principle (about The Office)
+
+24. Katherine Reay: Dear Mr. Knightley (an epistolary)
+
+25. 
 
 
 ## Books in 2024
