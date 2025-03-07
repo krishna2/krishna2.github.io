@@ -337,7 +337,6 @@ MODERN-DAY ORACLES or BULLSHIT MACHINES? How to thrive in a ChatGPT world Develo
 
 [https://thebullshitmachines.com/table-of-contents/index.html](https://thebullshitmachines.com/table-of-contents/index.html)
 
-
 Karen Hao's write up:  
 
 [https://www.linkedin.com/posts/karendhao_much-of-the-coverage-ive-been-reading-on-activity-7289652107576545284-Dlw0/](https://www.linkedin.com/posts/karendhao_much-of-the-coverage-ive-been-reading-on-activity-7289652107576545284-Dlw0/)  
@@ -414,6 +413,10 @@ MODERN-DAY ORACLES or BULLSHIT MACHINES? How to thrive in a ChatGPT world
 Developed by Carl T. Bergstrom and Jevin D. West  
 
 [https://thebullshitmachines.com/table-of-contents/index.html](https://thebullshitmachines.com/table-of-contents/index.html)  
+
+This is a good techcrunch write up about DeepSeek the company and bit of history with copious amount of links.
+
+[https://techcrunch.com/2025/03/07/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/](https://techcrunch.com/2025/03/07/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/)
 
 
 ## DISCLAIMER
