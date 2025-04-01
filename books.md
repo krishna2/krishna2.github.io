@@ -55,9 +55,21 @@ These are the books I have read and am reading.
 
 23. Venkatesh Rao: The Gervais Principle (about The Office)
 
-24. Katherine Reay: Dear Mr. Knightley (an epistolary)
+24. Mike Taber: Single Founder Playbook
 
-25. 
+25. Katherine Reay: Dear Mr. Knightley (an epistolary)
+
+26. Gary Keller: The ONE Thing
+
+27. Prof. Clayton Christensen: Competing Against Luck
+
+28. Sam Altman: The Startup Playbook+
+
+29. Reid Hoffman: Masters of Scale
+
+30. Prof. Robert Cialdini: Influence
+
+31. 
 
 
 ## Books in 2024
