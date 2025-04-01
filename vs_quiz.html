@@ -1,0 +1,4496 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vishnu Sahasranamam: Name and Meaning Matching</title>
+    <style>
+        :root {
+            --primary-color: #5e35b1;
+            --primary-light: #9162e4;
+            --primary-dark: #280680;
+            --accent-color: #ff9800;
+            --text-light: #ffffff;
+            --text-dark: #333333;
+            --background-light: #f5f5f5;
+            --background-card: #ffffff;
+            --success-color: #4caf50;
+            --error-color: #f44336;
+            --border-color: #dddddd;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: var(--text-dark);
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: var(--background-light);
+        }
+        
+        h1 {
+            text-align: center;
+            color: var(--primary-color);
+            margin-bottom: 30px;
+            font-size: 2.2rem;
+        }
+        
+        .container {
+            background-color: var(--background-card);
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+        
+        .quiz-options {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            padding: 15px;
+            background-color: rgba(94, 53, 177, 0.05);
+            border-radius: 8px;
+        }
+        
+        .question-count {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .question-count label {
+            font-weight: bold;
+            color: var(--primary-dark);
+        }
+        
+        .question-count input {
+            width: 60px;
+            padding: 5px;
+            border: 1px solid var(--border-color);
+            border-radius: 4px;
+            text-align: center;
+            font-size: 16px;
+        }
+        
+        .btn {
+            background-color: var(--primary-color);
+            color: var(--text-light);
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            margin: 10px 5px;
+            transition: background-color 0.3s;
+        }
+        
+        .btn:hover {
+            background-color: var(--primary-dark);
+        }
+        
+        .btn:disabled {
+            background-color: #9e9e9e;
+            cursor: not-allowed;
+        }
+        
+        .btn-accent {
+            background-color: var(--accent-color);
+        }
+        
+        .btn-accent:hover {
+            background-color: #e68a00;
+        }
+        
+        .quiz-section {
+            display: none;
+            margin-top: 20px;
+        }
+        
+        .results-section {
+            display: none;
+            margin-top: 20px;
+            padding: 20px;
+            background-color: rgba(94, 53, 177, 0.05);
+            border-radius: 8px;
+        }
+        
+        .quiz-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        
+        .quiz-table th {
+            background-color: var(--primary-color);
+            color: white;
+            padding: 10px;
+            text-align: left;
+        }
+        
+        .quiz-table td {
+            padding: 10px;
+            border-bottom: 1px solid var(--border-color);
+            vertical-align: middle;
+        }
+        
+        .meaning-cell {
+            background-color: var(--accent-color);
+            color: white;
+            padding: 10px 15px;
+            border-radius: 4px;
+            font-weight: bold;
+        }
+        
+        .names-dropdown {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid var(--border-color);
+            border-radius: 4px;
+            background-color: white;
+            font-size: 16px;
+        }
+        
+        .score {
+            font-size: 24px;
+            font-weight: bold;
+            text-align: center;
+            margin: 20px 0;
+            color: var(--primary-color);
+        }
+        
+        .result-item {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            gap: 10px;
+            margin-bottom: 10px;
+            padding: 10px;
+            border-radius: 4px;
+        }
+        
+        .result-item.correct {
+            background-color: rgba(76, 175, 80, 0.1);
+            border-left: 4px solid var(--success-color);
+        }
+        
+        .result-item.incorrect {
+            background-color: rgba(244, 67, 54, 0.1);
+            border-left: 4px solid var(--error-color);
+        }
+        
+        .result-meaning, .result-user-answer, .result-correct-answer {
+            padding: 0 10px;
+            overflow-wrap: break-word;
+        }
+        
+        .result-title {
+            font-weight: bold;
+            margin-bottom: 5px;
+            color: var(--primary-color);
+        }
+        
+        .result-user-answer.wrong {
+            color: var(--error-color);
+        }
+        
+        .loading {
+            text-align: center;
+            margin: 20px;
+            font-style: italic;
+            color: #757575;
+        }
+        
+        .status-message {
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 4px;
+            text-align: center;
+        }
+        
+        .status-message.success {
+            background-color: rgba(76, 175, 80, 0.1);
+            color: var(--success-color);
+        }
+        
+        .status-message.error {
+            background-color: rgba(244, 67, 54, 0.1);
+            color: var(--error-color);
+        }
+        
+        .hidden {
+            display: none;
+        }
+        
+        @media (max-width: 768px) {
+            .result-item {
+                grid-template-columns: 1fr;
+            }
+            
+            .container {
+                padding: 15px;
+            }
+            
+            .quiz-options {
+                flex-direction: column;
+                align-items: stretch;
+            }
+            
+            .question-count {
+                margin-bottom: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Vishnu Sahasranamam: Name and Meaning Matching</h1>
+    
+    <div class="container">
+        <div id="quizOptions" class="quiz-options">
+            <div class="question-count">
+                <label for="questionCount">Number of Questions:</label>
+                <input type="number" id="questionCount" min="5" max="25" value="10">
+            </div>
+            
+            <div class="controls">
+                <button id="newQuizButton" class="btn">New Quiz</button>
+                <button id="submitButton" class="btn">Submit Answers</button>
+            </div>
+        </div>
+        
+        <div id="loadingIndicator" class="loading" style="display: none;">
+            Loading quiz...
+        </div>
+        
+        <div id="quizSection" class="quiz-section">
+            <h2>Match Each Meaning with the Correct Name</h2>
+            
+            <table class="quiz-table">
+                <thead>
+                    <tr>
+                        <th width="50%">Meaning</th>
+                        <th width="50%">Select the Correct Name</th>
+                    </tr>
+                </thead>
+                <tbody id="quizTableBody">
+                    <!-- Quiz rows will be added here dynamically -->
+                </tbody>
+            </table>
+        </div>
+        
+        <div id="resultsSection" class="results-section">
+            <h2>Quiz Results</h2>
+            <div class="score" id="scoreDisplay"></div>
+            <div id="resultsContainer">
+                <!-- Results will be dynamically added here -->
+            </div>
+            <button id="newGameButton" class="btn btn-accent">Play Again</button>
+        </div>
+    </div>
+    
+    <script>
+        // Replace this array with your own Vishnu Sahasranamam data
+        const sahasranamData = [
+        {
+        "name": "Vishwam",
+        "exp": "The Lord Who is the Universe Itself"
+    },
+    {
+        "name": "Vishnu",
+        "exp": "The Lord Who Pervades Everywhere"
+    },
+    {
+        "name": "Vashatkara",
+        "exp": "The Lord Who is Invoked for Oblations"
+    },
+    {
+        "name": "Bhootabhavya-bhavat-prabhuh",
+        "exp": "The Lord of Past, Present and Future"
+    },
+    {
+        "name": "Bhoota-krit",
+        "exp": "The Creator of All Creatures"
+    },
+    {
+        "name": "Bhoota-bhrit",
+        "exp": "The Lord Who Nourishes All Creatures"
+    },
+    {
+        "name": "Bhava",
+        "exp": "The Absolute Existence"
+    },
+    {
+        "name": "Bhootatma",
+        "exp": "The Lord Who is the Soul of Every Being in the Universe"
+    },
+    {
+        "name": "Bhootabhavana",
+        "exp": "The Lord Who Nurtures Every Being in the Universe"
+    },
+    {
+        "name": "Pootatma",
+        "exp": "The Lord With an Extremely Pure Essence"
+    },
+    {
+        "name": "Paramatma",
+        "exp": "The Supreme Soul"
+    },
+    {
+        "name": "Muktanam Parama Gatih",
+        "exp": "The Ultimate Range of the Liberated"
+    },
+    {
+        "name": "Avyayah",
+        "exp": "The Lord Who is Always Same"
+    },
+    {
+        "name": "Purushah",
+        "exp": "The Lord Who is Inside Every Body"
+    },
+    {
+        "name": "Sakshi",
+        "exp": "The Lord Who is the Witness of Everything that Happens"
+    },
+    {
+        "name": "Kshetrajnah",
+        "exp": "The Knower of the Field"
+    },
+    {
+        "name": "Akshara",
+        "exp": "The Undecaying"
+    },
+    {
+        "name": "Yogah",
+        "exp": "The Lord Who is Realized Through Yoga"
+    },
+    {
+        "name": "Yoga-vidaam Neta",
+        "exp": "The Lord Who is the Leader of All Those Who Know Yoga"
+    },
+    {
+        "name": "Pradhana-Purusheshwara",
+        "exp": "The One Who is the Lord of Nature and Beings"
+    },
+    {
+        "name": "Narasimha Vapuh",
+        "exp": "The Lord Whose Form is Man-Lion"
+    },
+    {
+        "name": "Shriman",
+        "exp": "The Lord Who is Always With Sri (Lakshmi)"
+    },
+    {
+        "name": "Keshava",
+        "exp": "The Lord Who has Beautiful Locks of Hair"
+    },
+    {
+        "name": "Purushottama",
+        "exp": "The Supreme Controller"
+    },
+    {
+        "name": "Sarwa",
+        "exp": "The Lord Who is Everything"
+    },
+    {
+        "name": "Sharva",
+        "exp": "The Lord Who Destroys Everything When the Deluge comes"
+    },
+    {
+        "name": "Shiva",
+        "exp": "The Lord Who is Eternally Pure"
+    },
+    {
+        "name": "Sthanu",
+        "exp": "The Immovable"
+    },
+    {
+        "name": "Bhootadi",
+        "exp": "The Lord From Whom All the Beings Evolved"
+    },
+    {
+        "name": "Nidhiravyaya",
+        "exp": "The Imperishable Treasure"
+    },
+    {
+        "name": "Sambhava",
+        "exp": "The One Who is All that Happens"
+    },
+    {
+        "name": "Bhavana",
+        "exp": "The Lord Who Gives Everything to His Devotees"
+    },
+    {
+        "name": "Bharta",
+        "exp": "The Lord Who Governs the Entire Living World"
+    },
+    {
+        "name": "Prabhava",
+        "exp": "The Lord in Whom All Things were Born"
+    },
+    {
+        "name": "Prabhu",
+        "exp": "The Almighty Lord"
+    },
+    {
+        "name": "Ishwara",
+        "exp": "The Lord Who Controls and Rules All Beings"
+    },
+    {
+        "name": "Swayambhu",
+        "exp": "The Lord Who Manifests from Himself"
+    },
+    {
+        "name": "Shambhu",
+        "exp": "The Bestower of Happiness"
+    },
+    {
+        "name": "Aditya",
+        "exp": "The Sun or The son of Aditi"
+    },
+    {
+        "name": "Pushkaraksha",
+        "exp": "The Lord Who has Lotus Like Eyes"
+    },
+    {
+        "name": "Mahaswana",
+        "exp": "The Lord Who has a Thundering Voice"
+    },
+    {
+        "name": "Anadinidhana",
+        "exp": "The Lord Without Origin or End"
+    },
+    {
+        "name": "Dhata",
+        "exp": "The Lord Who Supports All Fields of Experience"
+    },
+    {
+        "name": "Vidhata",
+        "exp": "The Lord Who Creates All Actions and Their Results"
+    },
+    {
+        "name": "Dhaturuttama",
+        "exp": "The Lord Who is Greater than the Creator (Brahma)"
+    },
+    {
+        "name": "Aprameya",
+        "exp": "The Lord Who is Beyond Rules, Regulations and Definitions"
+    },
+    {
+        "name": "Hrishikesha",
+        "exp": "The Lord of Senses"
+    },
+    {
+        "name": "Padmanabha",
+        "exp": "The Lord Who has a Lotus (From Which the World Evolved) Growing on his Belly"
+    },
+    {
+        "name": "Amara Prabhu",
+        "exp": "The Lord of Immortals"
+    },
+    {
+        "name": "Vishwa-Karma",
+        "exp": "The Creator of the Universe"
+    },
+    {
+        "name": "Manu",
+        "exp": "The Lord Who Thinks (Worries) of Everything"
+    },
+    {
+        "name": "Twashta",
+        "exp": "The Lord Who Makes Huge Things Small"
+    },
+    {
+        "name": "Sthavishtha",
+        "exp": "The Supremely Gross"
+    },
+    {
+        "name": "Sthaviro Dhruva",
+        "exp": "The Lord Who is Ancient and Permanent"
+    },
+    {
+        "name": "Agrahya",
+        "exp": "The Lord Who is Not Perceived Sensually"
+    },
+    {
+        "name": "Sashwata",
+        "exp": "The Lord Who Always Remains the Same"
+    },
+    {
+        "name": "Krishna",
+        "exp": "The Lord Whose Complexion is Dark"
+    },
+    {
+        "name": "Lohitaksha",
+        "exp": "The Lord Who has Red Eyes"
+    },
+    {
+        "name": "Pratardana",
+        "exp": "The Destroyer in Deluge"
+    },
+    {
+        "name": "Prabhoota",
+        "exp": "The Lord Who is Full of Wealth and Knowledge"
+    },
+    {
+        "name": "Trika-Kubdhama",
+        "exp": "The Lord of all Directions"
+    },
+    {
+        "name": "Pavitram",
+        "exp": "The Lord Who Gives Purity to the Heart"
+    },
+    {
+        "name": "Mangalam-Param",
+        "exp": "The Supreme Auspiciousness"
+    },
+    {
+        "name": "Ishana",
+        "exp": "The Lord Who Rules Over Everything"
+    },
+    {
+        "name": "Pranada",
+        "exp": "The Bestower of Vital Breaths"
+    },
+    {
+        "name": "Prana",
+        "exp": "The Lord Who is the Soul"
+    },
+    {
+        "name": "Jyeshtha",
+        "exp": "The Lord Who is Elder to All Others"
+    },
+    {
+        "name": "Shreshtha",
+        "exp": "The Lord Who is Better Than All Others"
+    },
+    {
+        "name": "Prajapati",
+        "exp": "The One Who is the Chief of All Human Beings"
+    },
+    {
+        "name": "Hiranyagarbha",
+        "exp": "The Lord Who Dwells in the Womb of the World"
+    },
+    {
+        "name": "Bhoogarbha",
+        "exp": "The Lord Who Carries the Earth Within Himself"
+    },
+    {
+        "name": "Madhava",
+        "exp": "The Lord Who is the Consort of Lakshmi"
+    },
+    {
+        "name": "Madhusudana",
+        "exp": "Destroyer of the Demon Madhu"
+    },
+    {
+        "name": "Ishwara",
+        "exp": "The Controller"
+    },
+    {
+        "name": "Vikrami",
+        "exp": "The Lord Who has Valour"
+    },
+    {
+        "name": "Dhanvi",
+        "exp": "The Lord Who is the Supreme Archer"
+    },
+    {
+        "name": "Medhavi",
+        "exp": "The Lord Who is the Supreme Intelligence"
+    },
+    {
+        "name": "Vikrama",
+        "exp": "The Lord Who has Measured the Worlds"
+    },
+    {
+        "name": "Krama",
+        "exp": "The Lord Who has Spread Everywhere"
+    },
+    {
+        "name": "Anuttama",
+        "exp": "The Lord Who Does Not Have Anybody Better Than Him"
+    },
+    {
+        "name": "Duradharsha",
+        "exp": "The Lord Who Cannot be Attacked Successfully"
+    },
+    {
+        "name": "Kritajna",
+        "exp": "The Lord Who Knows Good and Bad of All Beings"
+    },
+    {
+        "name": "Kriti",
+        "exp": "The Lord Who Rewards All Our Actions"
+    },
+    {
+        "name": "Atmavan",
+        "exp": "The Self in All Beings"
+    },
+    {
+        "name": "Suresha",
+        "exp": "The One Who is the Lord of All Gods"
+    },
+    {
+        "name": "Sharanam",
+        "exp": "The Refuge"
+    },
+    {
+        "name": "Sharma",
+        "exp": "The Lord Who is Himself Infinite Bliss"
+    },
+    {
+        "name": "Vishwareta",
+        "exp": "The Lord Who is the Seed of This Universe"
+    },
+    {
+        "name": "Prajhabhava",
+        "exp": "The Lord Who is the Reason for Existence of Human Beings"
+    },
+    {
+        "name": "Aha",
+        "exp": "Aha"
+    },
+    {
+        "name": "Samvatsara",
+        "exp": "The Lord Who is Personification of the Year"
+    },
+    {
+        "name": "Vyala",
+        "exp": "The Lord Who Cannot be Caught Like the Great Serpent"
+    },
+    {
+        "name": "Pratyaya",
+        "exp": "The Lord Who is Personification of Knowledge"
+    },
+    {
+        "name": "Sarvadarshana",
+        "exp": "The Lord Who Sees (Knows) Everything"
+    },
+    {
+        "name": "Aja",
+        "exp": "The Lord Who Does Not Have Birth"
+    },
+    {
+        "name": "Sarveshwara",
+        "exp": "The Lord of All"
+    },
+    {
+        "name": "Siddha",
+        "exp": "The Lord Who is Always Everywhere"
+    },
+    {
+        "name": "Siddhi",
+        "exp": "The Lord Who is the Desirable Effect of Everything"
+    },
+    {
+        "name": "Sarvadi",
+        "exp": "The Lord Who is the Primary Reason for Everything"
+    },
+    {
+        "name": "Achyuta",
+        "exp": "The Lord Who Does Not Slip"
+    },
+    {
+        "name": "Vrishakapi",
+        "exp": "The Lord Who is the Personification of Dharma and Varaha"
+    },
+    {
+        "name": "Ameyatma",
+        "exp": "The Lord Whose Stature Cannot be Measured"
+    },
+    {
+        "name": "Sarva Yogavinih Srita",
+        "exp": "The Lord Who is Known by All Yogas"
+    },
+    {
+        "name": "Vasu",
+        "exp": "The Lord Who Lives in Every Being"
+    },
+    {
+        "name": "Vasumana",
+        "exp": "The Lord Who has a Good Heart"
+    },
+    {
+        "name": "Satya",
+        "exp": "The Lord Who is Truth Personified"
+    },
+    {
+        "name": "Samatma",
+        "exp": "The Lord Who is the Same in All"
+    },
+    {
+        "name": "Sammita",
+        "exp": "The Unlimited in All"
+    },
+    {
+        "name": "Sama",
+        "exp": "The Lord Who is Unchanging at All Times"
+    },
+    {
+        "name": "Amogha",
+        "exp": "Ever Useful"
+    },
+    {
+        "name": "Pundarikaksha",
+        "exp": "Pervading the Lotus of the Heart"
+    },
+    {
+        "name": "Vrishakarma",
+        "exp": "The Lord Whose Every Act is Righteous"
+    },
+    {
+        "name": "Vrishakriti",
+        "exp": "The Lord Who is Born to Uphold Dharma"
+    },
+    {
+        "name": "Rudra",
+        "exp": "The Lord Who Drives Away Sadness and the Reasons for it"
+    },
+    {
+        "name": "Bahushira",
+        "exp": "The Lord Who has Many Heads"
+    },
+    {
+        "name": "Babhru",
+        "exp": "The Lord Who Carries the Worlds"
+    },
+    {
+        "name": "Vishwayoni",
+        "exp": "The Source of the Universe"
+    },
+    {
+        "name": "Suchishrava",
+        "exp": "The Lord Who has Beautiful, Sacred Names"
+    },
+    {
+        "name": "Amrita",
+        "exp": "The Lord Who is Immortal"
+    },
+    {
+        "name": "Shashwata Sthanu",
+        "exp": "The Lord Who is Permanent and Unmovable"
+    },
+    {
+        "name": "Vararoha",
+        "exp": "The Most Glorious Destination"
+    },
+    {
+        "name": "Mahatapa",
+        "exp": "The Lord Who is Extremely Knowledgeable"
+    },
+    {
+        "name": "Sarvaga",
+        "exp": "All pervading"
+    },
+    {
+        "name": "Sarvavidbhanu",
+        "exp": "All Knowing and Effulgent"
+    },
+    {
+        "name": "Vishwaksena",
+        "exp": "The Lord Who Attacks the Armies of Demons from All Directions"
+    },
+    {
+        "name": "Janardana",
+        "exp": "The Lord Who Troubles Bad People"
+    },
+    {
+        "name": "Veda",
+        "exp": "The Lord Who is the Vedas"
+    },
+    {
+        "name": "Vedavida",
+        "exp": "The Lord Who Knower of the Vedas"
+    },
+    {
+        "name": "Avyanga",
+        "exp": "The Perfect"
+    },
+    {
+        "name": "Vedanga",
+        "exp": "The Lord Whose Limbs are the Vedas"
+    },
+    {
+        "name": "Vedavit",
+        "exp": "The Lord Who Contemplates Upon the Vedas"
+    },
+    {
+        "name": "Kavi",
+        "exp": "The Lord Who Sees (Knows) Everything"
+    },
+    {
+        "name": "Lokadhyaksha",
+        "exp": "The Lord Who Presides Over the Universe"
+    },
+    {
+        "name": "Suradhyaksha",
+        "exp": "The Lord Who Presides Over All Devas"
+    },
+    {
+        "name": "Dharmadhyaksha",
+        "exp": "The Lord Who Presides Over Darma"
+    },
+    {
+        "name": "KritaKrita",
+        "exp": "The Lord Who is the Means and Result of Everything"
+    },
+    {
+        "name": "Chaturatma",
+        "exp": "The Lord Who is Fourfold in His Nature"
+    },
+    {
+        "name": "Chaturvyuha",
+        "exp": "The Lord of Four Manifestations"
+    },
+    {
+        "name": "Chaturdamshtra",
+        "exp": "The Lord Who has Four Horns"
+    },
+    {
+        "name": "Chaturbhuja",
+        "exp": "The Lord Who has Four Hands"
+    },
+    {
+        "name": "Bhrajishnu",
+        "exp": "The Lord Who is the Radiant"
+    },
+    {
+        "name": "Bhojanam",
+        "exp": "The Lord Who is in the Form Which can be Enjoyed Like Food"
+    },
+    {
+        "name": "Bhokta",
+        "exp": "The Lord Who is the consumer of nature"
+    },
+    {
+        "name": "Sahishnu",
+        "exp": "The Lord Who can Suffer Patiently"
+    },
+    {
+        "name": "Jagadadija",
+        "exp": "The Lord Who was Born Before the World"
+    },
+    {
+        "name": "Anagha",
+        "exp": "The Lord Who is Sinless"
+    },
+    {
+        "name": "Vijaya",
+        "exp": "The Lord Who is Victorious"
+    },
+    {
+        "name": "Jeta",
+        "exp": "The Lord Who is Ever-Successful"
+    },
+    {
+        "name": "Vishwayoni",
+        "exp": "The Lord Who is the Universal source"
+    },
+    {
+        "name": "Punarvasu",
+        "exp": "The Repeated Dweller in the Bodies"
+    },
+    {
+        "name": "Upendra",
+        "exp": "The Younger Brother of Indra"
+    },
+    {
+        "name": "Vamana",
+        "exp": "The Lord with a Dwarf Body"
+    },
+    {
+        "name": "Pramshu",
+        "exp": "The Lord With a Huge Body"
+    },
+    {
+        "name": "Amogha",
+        "exp": "The Lord Whose Acts are for a Great Purpose"
+    },
+    {
+        "name": "Suchi",
+        "exp": "The Lord Who is Spotlessly Clean"
+    },
+    {
+        "name": "Urjita",
+        "exp": "The Lord Who is Very Powerful"
+    },
+    {
+        "name": "Ateendra",
+        "exp": "The Lord Who is Above Indra"
+    },
+    {
+        "name": "Sangraha",
+        "exp": "The Lord Who Holds Everything Together"
+    },
+    {
+        "name": "Sarga",
+        "exp": "The Lord Who Creates the World From Himself"
+    },
+    {
+        "name": "Dhritatma",
+        "exp": "The Lord Who Established in Himself"
+    },
+    {
+        "name": "Niyama",
+        "exp": "The Appointing Authority"
+    },
+    {
+        "name": "Yama",
+        "exp": "The Administrator"
+    },
+    {
+        "name": "Vedya",
+        "exp": "The Lord Who can be Known"
+    },
+    {
+        "name": "Vaidya",
+        "exp": "The Lord Who is Knower of all Lores"
+    },
+    {
+        "name": "Sadayogi",
+        "exp": "The Lord Who is Always in Yoga"
+    },
+    {
+        "name": "Veeraha",
+        "exp": "The Lord Who is the Slayer of Valiant Demons"
+    },
+    {
+        "name": "Madhava",
+        "exp": "The Lord Who is the Lord of Knowledge"
+    },
+    {
+        "name": "Madhu",
+        "exp": "The Lord Who is Like Honey"
+    },
+    {
+        "name": "Atindriya",
+        "exp": "The Lord Who is Beyond the Sense Organs"
+    },
+    {
+        "name": "Mahamaya",
+        "exp": "The Great Illusionist"
+    },
+    {
+        "name": "Mahotsaha",
+        "exp": "The Lord Who has Great Enthusiasm"
+    },
+    {
+        "name": "Mahabala",
+        "exp": "The Lord Who is Very Strong"
+    },
+    {
+        "name": "Mahabuddhi",
+        "exp": "The Lord Who has Tremendous Knowledge"
+    },
+    {
+        "name": "Mahaveerya",
+        "exp": "The Lord of Great Energy"
+    },
+    {
+        "name": "Mahashakti",
+        "exp": "The Lord of Superior Strength"
+    },
+    {
+        "name": "Mahadyuti",
+        "exp": "The Lord Who has Great Luster"
+    },
+    {
+        "name": "Anirdeshyavapu",
+        "exp": "The Lord of Indefinable Form"
+    },
+    {
+        "name": "Shrimana",
+        "exp": "The Lord of All Prosperity"
+    },
+    {
+        "name": "Ameyatma",
+        "exp": "The Lord whose Essence is Immeasurable"
+    },
+    {
+        "name": "Mahadridhrik",
+        "exp": "The Lord Who Lifted Large Mountains"
+    },
+    {
+        "name": "Maheshvasa",
+        "exp": "Wielder of Mighty Bow"
+    },
+    {
+        "name": "Maheebharta",
+        "exp": "The Supporter of Earth"
+    },
+    {
+        "name": "Shrinivasa",
+        "exp": "The Permanent Abode of Shree"
+    },
+    {
+        "name": "Satamgati",
+        "exp": "The Goal for All Virtuous People"
+    },
+    {
+        "name": "Aniruddha",
+        "exp": "The Lord Who Cannot be Obstructed"
+    },
+    {
+        "name": "Surananda",
+        "exp": "The Lord Who Gives Out Happiness"
+    },
+    {
+        "name": "Govinda",
+        "exp": "The Protector of the Cows"
+    },
+    {
+        "name": "Govidampati",
+        "exp": "Lord of the Wise"
+    },
+    {
+        "name": "Marichi",
+        "exp": "The Effulgent"
+    },
+    {
+        "name": "Damana",
+        "exp": "The Subduer"
+    },
+    {
+        "name": "Hamsa",
+        "exp": "Destroyer of Fear"
+    },
+    {
+        "name": "Suparna",
+        "exp": "The Lord Who has Beautiful Wings"
+    },
+    {
+        "name": "Bhujagottama",
+        "exp": "The Lord Who is Excellant Among reptiles"
+    },
+    {
+        "name": "Hiranyanabha",
+        "exp": "The Lord Who has a Golden Navel"
+    },
+    {
+        "name": "Sutapa",
+        "exp": "The Lord Who has done Great Penance"
+    },
+    {
+        "name": "Padmanabha",
+        "exp": "The Lord Having a Navel With the Lotus"
+    },
+    {
+        "name": "Prajapati",
+        "exp": "The Lord Who is the Chief of People"
+    },
+    {
+        "name": "Amrityu",
+        "exp": "The Lord Who does not Have Death"
+    },
+    {
+        "name": "Sarvadrik",
+        "exp": "The Lord Who sees Everything"
+    },
+    {
+        "name": "Simha",
+        "exp": "The Destroyer of sins"
+    },
+    {
+        "name": "Sandhata",
+        "exp": "The Regulator"
+    },
+    {
+        "name": "Sandhiman",
+        "exp": "The Lord Who Seems to be Conditioned"
+    },
+    {
+        "name": "Sthira",
+        "exp": "The Lord Who is Constant"
+    },
+    {
+        "name": "Aja",
+        "exp": "The Lord Who Takes the Form of Aja, Brahma"
+    },
+    {
+        "name": "Durmarshana",
+        "exp": "The Lord Who cannot be vanquished"
+    },
+    {
+        "name": "Shasta",
+        "exp": "The Lord Who Rules Over the Universe"
+    },
+    {
+        "name": "Vishrutatma",
+        "exp": "The Lord Who is Called Atma in the Vedas"
+    },
+    {
+        "name": "Surariha",
+        "exp": "Destroyer of the Enemies of the Devas"
+    },
+    {
+        "name": "Guru",
+        "exp": "The Lord Who is a Teacher of All Knowledge"
+    },
+    {
+        "name": "Gurutama",
+        "exp": "The Lord Who is the Teacher of Teachers"
+    },
+    {
+        "name": "Dhama",
+        "exp": "Supreme Abode of All"
+    },
+    {
+        "name": "Satya",
+        "exp": "The Lord Who is Himself the Truth"
+    },
+    {
+        "name": "Satyaparakrama",
+        "exp": "The Lord Who has a Truthful Valour"
+    },
+    {
+        "name": "Nimisha",
+        "exp": "The Lord Who has Closed Eyes in Contemplation"
+    },
+    {
+        "name": "Animisha",
+        "exp": "The Lord Remains Unwinking; Ever Knowing"
+    },
+    {
+        "name": "Sragvi",
+        "exp": "The Lord Who Always Wears a Garland of Undecaying Flowers"
+    },
+    {
+        "name": "Vachaspati Udaradhi",
+        "exp": "The Lord of Eloquent Speech and of Noble Thought"
+    },
+    {
+        "name": "Agrani",
+        "exp": "The Lord Who Guides Us to the Peak"
+    },
+    {
+        "name": "Gramani",
+        "exp": "The Lord Who Leads the Flock"
+    },
+    {
+        "name": "Shriman",
+        "exp": "The possessor of Light, Effulgence, Glory"
+    },
+    {
+        "name": "Nyaya",
+        "exp": "The Lord Who is Justice"
+    },
+    {
+        "name": "Neta",
+        "exp": "The Lord Who is the Leader of the World"
+    },
+    {
+        "name": "Sameerana",
+        "exp": "The Lord Who in the Form of Wind Makes Beings Move"
+    },
+    {
+        "name": "Sahasra Moordha",
+        "exp": "The Lord Who has Countless Heads"
+    },
+    {
+        "name": "Vishwatma",
+        "exp": "The Soul of the Universe"
+    },
+    {
+        "name": "Sahasraksha",
+        "exp": "The Lord Who has Thousand Eyes"
+    },
+    {
+        "name": "Sahasrapaat",
+        "exp": "The Lord Who has Thousand Feet"
+    },
+    {
+        "name": "Avartana",
+        "exp": "The Lord Who Rotates (the Wheel of Life)"
+    },
+    {
+        "name": "Nivrittatma",
+        "exp": "The Lord Who is not Attached to Life"
+    },
+    {
+        "name": "Samvrita",
+        "exp": "The Lord Who is enclosed in secrecy"
+    },
+    {
+        "name": "Sampramardana",
+        "exp": "The Crusher of Evil Doers"
+    },
+    {
+        "name": "Ahah Samvartaka",
+        "exp": "The Lord Who Makes Day in the Form of Sun"
+    },
+    {
+        "name": "Vahni",
+        "exp": "The Lord Who is in the Form of Fire"
+    },
+    {
+        "name": "Anila",
+        "exp": "The Lord Who is in the Form of Air"
+    },
+    {
+        "name": "Dharanidhara",
+        "exp": "The Lord Who Supports the Earth"
+    },
+    {
+        "name": "Suprasada",
+        "exp": "The Lord Who is Mercy Personified"
+    },
+    {
+        "name": "Prasannatma",
+        "exp": "The Lord Who is Ever Pure and All-Blissful Self"
+    },
+    {
+        "name": "Vishwadhrik",
+        "exp": "The Lord Who Takes Care of the World"
+    },
+    {
+        "name": "Vishwabhuja",
+        "exp": "Enjoyer of the Universe"
+    },
+    {
+        "name": "Vibhu",
+        "exp": "Vibhu"
+    },
+    {
+        "name": "Satkarta",
+        "exp": "The Lord Who Adores Good and Wise People"
+    },
+    {
+        "name": "Satkrita",
+        "exp": "The Lord Who is Adored by All Good People"
+    },
+    {
+        "name": "Sadhu",
+        "exp": "The Lord Who Walks in the Righteous Path"
+    },
+    {
+        "name": "Jahnunu",
+        "exp": "Leader of Men"
+    },
+    {
+        "name": "Narayana",
+        "exp": "The Lord Who Resides in All Things that He Creates"
+    },
+    {
+        "name": "Nara",
+        "exp": "The Leader of Human Beings"
+    },
+    {
+        "name": "Asankhyeya",
+        "exp": "The Lord Who has Numberlesss Names and Forms"
+    },
+    {
+        "name": "Aprameyatma",
+        "exp": "The Lord Who is Beyond Knowledge"
+    },
+    {
+        "name": "Vishishta",
+        "exp": "The Lord Who Transcends All in His Glory"
+    },
+    {
+        "name": "Shishtakrita",
+        "exp": "The Lord Who is Law-Maker"
+    },
+    {
+        "name": "Suchi",
+        "exp": "The Lord Who is Impeccable and Without Blemish"
+    },
+    {
+        "name": "Siddhartha",
+        "exp": "The Lord Who has Gained All that has to be Gained"
+    },
+    {
+        "name": "Siddha Sankalpa",
+        "exp": "The Lord Who Realizes All that He Wants"
+    },
+    {
+        "name": "Siddhida",
+        "exp": "The Giver of Benedictions"
+    },
+    {
+        "name": "Siddhi Sadhana",
+        "exp": "The Aid for Success"
+    },
+    {
+        "name": "Vrishahi",
+        "exp": "The Lord Who is the Controller of All Actions and the Dispenser of the Results"
+    },
+    {
+        "name": "Vrishabha",
+        "exp": "The Lord Who Showers All Dharmas"
+    },
+    {
+        "name": "Vishnu",
+        "exp": "The Occupant of Universe"
+    },
+    {
+        "name": "Vrishaparva",
+        "exp": "The Ladder Leading to Dharma"
+    },
+    {
+        "name": "Vrishodara",
+        "exp": "The Lord"
+    },
+    {
+        "name": "Vardhana",
+        "exp": "The Lord Who is the Nurturer and Nourisher"
+    },
+    {
+        "name": "Vardhamana",
+        "exp": "The Lord Who can Grow Himself into any Dimensions"
+    },
+    {
+        "name": "Vivikta",
+        "exp": "Ever Standing Apart From Everything"
+    },
+    {
+        "name": "Shrutisagara",
+        "exp": "The Ocean for All Scriptures"
+    },
+    {
+        "name": "Subhuja",
+        "exp": "The Lord Who has Graceful Arms"
+    },
+    {
+        "name": "Durdhara",
+        "exp": "The Lord Who Cannot be Comprehended Even by Great Yogis"
+    },
+    {
+        "name": "Vagmi",
+        "exp": "The Lord Who is Eloquent in Speech"
+    },
+    {
+        "name": "Mahendra",
+        "exp": "Lord of the Lords"
+    },
+    {
+        "name": "Vasuda",
+        "exp": "The Lord Who Gives Good Pleasures and Wealth"
+    },
+    {
+        "name": "Vasu",
+        "exp": "The Lord Who is Wealth"
+    },
+    {
+        "name": "Naikaroopa",
+        "exp": "The Lord Who is of Infinite Forms in His"
+    },
+    {
+        "name": "Brihadroopa",
+        "exp": "The Lord Who is Vast, of Infinite Dimensions"
+    },
+    {
+        "name": "Shipivishta",
+        "exp": "The very Subsistence of Life"
+    },
+    {
+        "name": "Prakashana",
+        "exp": "The Lord Who Illuminates Himself as All-Pervading Consciousness"
+    },
+    {
+        "name": "Ojastejo-Dyutidhara",
+        "exp": "The Lord Who is the possessor of Vitality, Effulgence and Beauty"
+    },
+    {
+        "name": "Prakashatma",
+        "exp": "The Effulgent Self"
+    },
+    {
+        "name": "Pratapana",
+        "exp": "The Lord Who Emits Heat"
+    },
+    {
+        "name": "Riddha",
+        "exp": "The Lord Who is Ever Full of Prosperity"
+    },
+    {
+        "name": "Spashtakshara",
+        "exp": "The Lord Who is Clearly Indicated by the Supreme Sound OM"
+    },
+    {
+        "name": "Mantra",
+        "exp": "The Lord Who is Vedic Hymn"
+    },
+    {
+        "name": "Chandramshu",
+        "exp": "The Lord Who is as Pleasant as the Ray of Moon"
+    },
+    {
+        "name": "Bhaskaradyuti",
+        "exp": "The Lord Who is the Effulgence of the Sun"
+    },
+    {
+        "name": "Amritamshudbhava",
+        "exp": "The Lord Who made Moon Appear From the Ocean of Milk"
+    },
+    {
+        "name": "Bhanu",
+        "exp": "The Lord Who Shines Himself"
+    },
+    {
+        "name": "Shashabindu",
+        "exp": "The moon Who has a Rabbit-Like Sspot"
+    },
+    {
+        "name": "Sureshwara",
+        "exp": "The God of Gods"
+    },
+    {
+        "name": "Aushadham",
+        "exp": "The Lord Who is the Divine Medicine"
+    },
+    {
+        "name": "Jagata-Setu",
+        "exp": "The Lord Who is a Bridge Across the Material Energy"
+    },
+    {
+        "name": "Satya-Dharma-Parakramah",
+        "exp": "The One Who Champions Heroically for Truth and Righteousness"
+    },
+    {
+        "name": "Bhoota-Bhavya-Bhavannatha",
+        "exp": "The One Who is the Lord of Past, Present and Future"
+    },
+    {
+        "name": "Pavana",
+        "exp": "The Air that Fills the Universe"
+    },
+    {
+        "name": "Paavana",
+        "exp": "The Lord Who Gives the Life Sustaining Power to the Atmospheric Air"
+    },
+    {
+        "name": "Anala",
+        "exp": "The Lord Who is in the Form of Fire, and Sustains Life"
+    },
+    {
+        "name": "Kamaha",
+        "exp": "The Lord Who Destroys All Desires"
+    },
+    {
+        "name": "Kama-Krit",
+        "exp": "The Lord Who Fulfils All Desires"
+    },
+    {
+        "name": "Kanta",
+        "exp": "The Lord Who is of Enchanting Form"
+    },
+    {
+        "name": "Kama",
+        "exp": "The Lord Who is Much Desired by the Seekers"
+    },
+    {
+        "name": "Kamaprada",
+        "exp": "The Lord Who Supplies the Desired Objects"
+    },
+    {
+        "name": "Prabhu",
+        "exp": "Prabhu"
+    },
+    {
+        "name": "Yugadi-Krit",
+        "exp": "The Lord Who Created the Divisions of Time"
+    },
+    {
+        "name": "Yugavarta",
+        "exp": "The Lord Who Makes Time Periods Come Again and Again"
+    },
+    {
+        "name": "Naikamaya",
+        "exp": "The Lord Who Creates Many Illusions"
+    },
+    {
+        "name": "Mahashana",
+        "exp": "The Lord Who Swallows Everything"
+    },
+    {
+        "name": "Adrishya",
+        "exp": "The Lord Who is not Visible"
+    },
+    {
+        "name": "Vyaktaroopa",
+        "exp": "The Lord Who is Visible to the Yogis"
+    },
+    {
+        "name": "Sahasrajit",
+        "exp": "The Lord Who Vanquishes Thousands"
+    },
+    {
+        "name": "Anantajit",
+        "exp": "Anantajit"
+    },
+    {
+        "name": "Ishta",
+        "exp": "The Lord Who is Loved by All"
+    },
+    {
+        "name": "Avishishta",
+        "exp": "Avishishta"
+    },
+    {
+        "name": "Shishteshta",
+        "exp": "The Lord Who is Dear to the Learned"
+    },
+    {
+        "name": "Shikhandi",
+        "exp": "The Lord Who Wears the Feathers of Peacock"
+    },
+    {
+        "name": "Nahusha",
+        "exp": "The Lord Who Ties Souls by Illusion"
+    },
+    {
+        "name": "Vrisha",
+        "exp": "The Lord Who Fulfills All Desires Like Rain"
+    },
+    {
+        "name": "Krodhaha",
+        "exp": "The Lord Who Destroys Anger in Sincere Seekers"
+    },
+    {
+        "name": "Krodha Kritkarta",
+        "exp": "The Lord Who Generates Anger Against the Lower Tendency"
+    },
+    {
+        "name": "Vishwa Baahu",
+        "exp": "The Lord Who has Hands All Over the Universe"
+    },
+    {
+        "name": "Maheedhara",
+        "exp": "The Lord Who Supports the Earth"
+    },
+    {
+        "name": "Achyuta",
+        "exp": "The Lord Who Never Changes"
+    },
+    {
+        "name": "Prathita",
+        "exp": "The Lord Who Exists Pervading All"
+    },
+    {
+        "name": "Prana",
+        "exp": "The Soul in All Living Creatures"
+    },
+    {
+        "name": "Pranada",
+        "exp": "The Lord Who Gives Strength to Everywhere"
+    },
+    {
+        "name": "Vasavanuja",
+        "exp": "The Younger Brother of Indra"
+    },
+    {
+        "name": "Apam Nidhi",
+        "exp": "The Lord Who is the Ocean"
+    },
+    {
+        "name": "Adhishthanam",
+        "exp": "The Lord Who is the Substratum of the Universe"
+    },
+    {
+        "name": "Apramatta",
+        "exp": "The Lord Who Never Commits a Mistake in Judgement"
+    },
+    {
+        "name": "Pratishthita",
+        "exp": "The One Who is Self Established"
+    },
+    {
+        "name": "Skanda",
+        "exp": "The One Whose Glory is Expressed Through Subrahmanya"
+    },
+    {
+        "name": "Skandadhara",
+        "exp": "The One Who Establishes the Way of Dharma"
+    },
+    {
+        "name": "Dhurya",
+        "exp": "The Lord Who Carries the Weight of the World"
+    },
+    {
+        "name": "Varada",
+        "exp": "The Lord Who Gives Boons"
+    },
+    {
+        "name": "Vayu Vahana",
+        "exp": "The Lord Who Controls and Regulates the Great Winds"
+    },
+    {
+        "name": "Vasudeva",
+        "exp": "The Lord Who is in Everything and Plays There"
+    },
+    {
+        "name": "Brihadbhanu",
+        "exp": "The Lord Who has Wide Rays Which Go Everywhere"
+    },
+    {
+        "name": "Adideva",
+        "exp": "The Lord Who is the Primary Source of Everything"
+    },
+    {
+        "name": "Purandara",
+        "exp": "The Destroyer of Cities"
+    },
+    {
+        "name": "Ashoka",
+        "exp": "The Lord Who has No Sorrows"
+    },
+    {
+        "name": "Tarana",
+        "exp": "The Lord Who Enables Others to Cross the Ocean of Samsara"
+    },
+    {
+        "name": "Tara",
+        "exp": "The Lord Who Saves from All Sorrows of Birth and Death"
+    },
+    {
+        "name": "Shoora",
+        "exp": "The Lord Who is the Valiant"
+    },
+    {
+        "name": "Shauri",
+        "exp": "The Lord Who Incarnated in the Dynasty of Shoora"
+    },
+    {
+        "name": "Janeshwara",
+        "exp": "The Lord of the People"
+    },
+    {
+        "name": "Anukoola",
+        "exp": "Well-Wisher of Everyone"
+    },
+    {
+        "name": "Shatavarta",
+        "exp": "The Lord Who Takes Infinite Varieties of Forms"
+    },
+    {
+        "name": "Padmi",
+        "exp": "The Lord Who has the Lotus in His Hand"
+    },
+    {
+        "name": "Padma Nibhekshana",
+        "exp": "The Lord Whose Eyes are as Beautiful as the Lotus"
+    },
+    {
+        "name": "Padmanabha",
+        "exp": "The Lord Who has the Lotus in his Navel"
+    },
+    {
+        "name": "Aravindaksha",
+        "exp": "The Lord Whose Eyes are as Beautiful as Lotus"
+    },
+    {
+        "name": "Padmagarbha",
+        "exp": "Padmagarbha"
+    },
+    {
+        "name": "Sharirabhrit",
+        "exp": "The Lord Who Sustains and Nourishes All Bodies"
+    },
+    {
+        "name": "Mahardi",
+        "exp": "Mahardi"
+    },
+    {
+        "name": "Riddha",
+        "exp": "The Lord Who has Expanded Himself as the Universe"
+    },
+    {
+        "name": "Vriddhatma",
+        "exp": "The Ancient Self"
+    },
+    {
+        "name": "Mahaksha",
+        "exp": "The Lord Who has Big Eyes"
+    },
+    {
+        "name": "Garuda-Dwaja",
+        "exp": "The Lord Who has Garuda (Eagle) in his Flag"
+    },
+    {
+        "name": "Atula",
+        "exp": "The Lord Who is Incomparable"
+    },
+    {
+        "name": "Sharabha",
+        "exp": "The Lord Who Dwells and Shines Forth Through the Bodies"
+    },
+    {
+        "name": "Bheema",
+        "exp": "The One Who is All-Inspiring and the Terrible"
+    },
+    {
+        "name": "Samayajna",
+        "exp": "The Lord Whose Worship is Nothing More Than Keeping an Equal Vision of the Mind by the Devotee"
+    },
+    {
+        "name": "Havirhari",
+        "exp": "The Receiver of All Oblations"
+    },
+    {
+        "name": "Sarvalakshana-Lakshanya",
+        "exp": "The Lord Who is Known Through All the Methods of Research"
+    },
+    {
+        "name": "Lakshmivan",
+        "exp": "The Consort of Laksmi"
+    },
+    {
+        "name": "Samitinjaya",
+        "exp": "Ever-Victorious Lord"
+    },
+    {
+        "name": "Vikshara",
+        "exp": "The Lord Who is Imperishable"
+    },
+    {
+        "name": "Rohita",
+        "exp": "The Red-Hued in Matysavatara"
+    },
+    {
+        "name": "Marga",
+        "exp": "The Lord Who is the Path for Eternal Bliss"
+    },
+    {
+        "name": "Hetu",
+        "exp": "The Lord Who is the Supreme Cause of this Universe"
+    },
+    {
+        "name": "Damodara",
+        "exp": "Damodara"
+    },
+    {
+        "name": "Saha",
+        "exp": "The Lord Who has Patience at Everything"
+    },
+    {
+        "name": "Maheedhara",
+        "exp": "The Lord Who is the Supporter or the Bearer of the Earth"
+    },
+    {
+        "name": "Mahabhaga",
+        "exp": "The Lord Who Receives the Best Share Offered by Devotees in Yajna"
+    },
+    {
+        "name": "Vegavaan",
+        "exp": "The Lord Who is Fastest in Reaching the call of Devotee From the Heart"
+    },
+    {
+        "name": "Amitashana",
+        "exp": "The Lord of Endless Appetite"
+    },
+    {
+        "name": "Udbhava",
+        "exp": "The Originator of the Entire Universe"
+    },
+    {
+        "name": "Kshobhana",
+        "exp": "The Agitator Who Thrills the World and Makes it so Beautiful With Life"
+    },
+    {
+        "name": "Deva",
+        "exp": "The Lord Who Revels (or) The One Whom We Like to Praise"
+    },
+    {
+        "name": "Shreegarbha",
+        "exp": "The Lord Containing All Glories Within"
+    },
+    {
+        "name": "Parmeshwara",
+        "exp": "The Supreme Lord"
+    },
+    {
+        "name": "Karanam",
+        "exp": "The Lord Who is the Instrument for Creation of the World"
+    },
+    {
+        "name": "Kaaranam",
+        "exp": "The Lord Who is the Cause for Creation of the World"
+    },
+    {
+        "name": "Karta",
+        "exp": "The Doer"
+    },
+    {
+        "name": "Vikarta",
+        "exp": "The Creator of the Endless Varieties that Make Up the Universe"
+    },
+    {
+        "name": "Gahana",
+        "exp": "The Lord whose Shape, Strength and Actions are Difficult to Know"
+    },
+    {
+        "name": "Guha",
+        "exp": "The Lord Who Dwells in the Cave of the Heart"
+    },
+    {
+        "name": "Vyavasaya",
+        "exp": "The Lord Who is Resolute"
+    },
+    {
+        "name": "Vyavasthana",
+        "exp": "The Lord Who is the Substratum"
+    },
+    {
+        "name": "Sansthana",
+        "exp": "The Lord Who is the Ultimate Authority"
+    },
+    {
+        "name": "Sthanada",
+        "exp": "The Lord Who Confers the Right Abode to Each Living Organism"
+    },
+    {
+        "name": "Dhruva",
+        "exp": "The Lord Who is Imperishable"
+    },
+    {
+        "name": "Pararddhi",
+        "exp": "The Lord Who has Supreme Manifestations"
+    },
+    {
+        "name": "Paramaspashta",
+        "exp": "The Lord Who is Extremely Vivid"
+    },
+    {
+        "name": "Tushta",
+        "exp": "The Lord Who is Ever-Contented"
+    },
+    {
+        "name": "Pushta",
+        "exp": "The Lord Who is Ever-Full"
+    },
+    {
+        "name": "Shubhekshana",
+        "exp": "The Lord Whose Very Gaze Brings Auspiciousness to the Devotee"
+    },
+    {
+        "name": "Rama",
+        "exp": "The Lord Who is of Delightful Form"
+    },
+    {
+        "name": "Virama",
+        "exp": "The Lord Who is the Ultimate End of Everything"
+    },
+    {
+        "name": "Viraja",
+        "exp": "The Lord Who is Passionless"
+    },
+    {
+        "name": "Marga",
+        "exp": "The Lord Who is the Path to Immortality"
+    },
+    {
+        "name": "Neya",
+        "exp": "The Lord Who is the Guide for Living Beings"
+    },
+    {
+        "name": "Naya",
+        "exp": "The One Who Leads"
+    },
+    {
+        "name": "Anaya",
+        "exp": "The Lord Who Cannot be Lead by Anybody"
+    },
+    {
+        "name": "Veera",
+        "exp": "The Lord Who is Personification of Valor"
+    },
+    {
+        "name": "Shaktimataam Shreshtha",
+        "exp": "The Best Among the Powerful"
+    },
+    {
+        "name": "Dharma",
+        "exp": "The Law of Being"
+    },
+    {
+        "name": "Dharmaviduttama",
+        "exp": "The Lord Who is the Best of the knowers of Dharma"
+    },
+    {
+        "name": "Vaikuntha",
+        "exp": "The Lord Who Prevents Beings from Straying on Wrong Paths"
+    },
+    {
+        "name": "Purusha",
+        "exp": "The Lord Who Dwells in All Bodies"
+    },
+    {
+        "name": "Prana",
+        "exp": "The Lord Who is the Soul"
+    },
+    {
+        "name": "Pranada",
+        "exp": "The Lord Who Gives Life"
+    },
+    {
+        "name": "Pranava",
+        "exp": "The Lord Who is Praised by the Gods"
+    },
+    {
+        "name": "Prithu",
+        "exp": "The Immense"
+    },
+    {
+        "name": "Hiranyagarbha",
+        "exp": "The One Who Keeps the Golden Source for All Creations"
+    },
+    {
+        "name": "Shatrughna",
+        "exp": "The Destroyer of Enemies"
+    },
+    {
+        "name": "Vyapta",
+        "exp": "The Lord Who Pervades in All Beings as the Cause"
+    },
+    {
+        "name": "Vayu",
+        "exp": "The Wafter of Fragrance"
+    },
+    {
+        "name": "Adhokshaja",
+        "exp": "The Lord Whose Vitality Never Flows Downwards"
+    },
+    {
+        "name": "Ritu",
+        "exp": "The Lord Who is the Seasons"
+    },
+    {
+        "name": "Sudarshana",
+        "exp": "The Lord Who can be Easily Seen by His Devotees"
+    },
+    {
+        "name": "Kaala",
+        "exp": "The Lord Who is The Reckoner"
+    },
+    {
+        "name": "Parameshthi",
+        "exp": "The Lord Who is Centered in His Glory"
+    },
+    {
+        "name": "Parigraha",
+        "exp": "The Lord Who is the Receiver"
+    },
+    {
+        "name": "Ugra",
+        "exp": "The Lord Who is Formidable"
+    },
+    {
+        "name": "Samvatsara",
+        "exp": "The Lord Who Makes All Things Reside in Him"
+    },
+    {
+        "name": "Daksha",
+        "exp": "The Lord Who Completes All Jobs Quickly"
+    },
+    {
+        "name": "Vishrama",
+        "exp": "The Lord Who Provides Rest for Those Who are Tired"
+    },
+    {
+        "name": "Vishwadakshina",
+        "exp": "The Most Skilful and Efficient"
+    },
+    {
+        "name": "Vistara",
+        "exp": "The Lord Who Makes All the World Broaden in Him"
+    },
+    {
+        "name": "Sthavarasthanu",
+        "exp": "The Lord Who is Firm and Motionless"
+    },
+    {
+        "name": "Pramanam",
+        "exp": "The Lord Who is Personification of Knowledge"
+    },
+    {
+        "name": "Bijamavyayam",
+        "exp": "The Lord Who is the Immutable Seed"
+    },
+    {
+        "name": "Artha",
+        "exp": "The Lord Who is Worshiped by All"
+    },
+    {
+        "name": "Anartha",
+        "exp": "The One to Whom There is Nothing Yet to be Fulfilled"
+    },
+    {
+        "name": "Mahakosha",
+        "exp": "The Great Treasury"
+    },
+    {
+        "name": "Mahabhoga",
+        "exp": "The Lord Who is of the Nature of Enjoyment"
+    },
+    {
+        "name": "Mahadhana",
+        "exp": "The Lord Who has Great Wealth"
+    },
+    {
+        "name": "Anirvinna",
+        "exp": "The Lord Who has No Discontent"
+    },
+    {
+        "name": "Sthavishtha",
+        "exp": "The Lord Who is Immense"
+    },
+    {
+        "name": "Abhu",
+        "exp": "The Lord Who has No Birth"
+    },
+    {
+        "name": "Dharmayupa",
+        "exp": "The Post to Which all Dharma is Tied"
+    },
+    {
+        "name": "Mahamakha",
+        "exp": "The Great Sacrificer"
+    },
+    {
+        "name": "Nakshatranemi",
+        "exp": "The Lord Who is the Nave of the Stars"
+    },
+    {
+        "name": "Nakshatri",
+        "exp": "The Lord Who is the Chief of Stars"
+    },
+    {
+        "name": "Kshama",
+        "exp": "The Lord Who is Perennially Patient"
+    },
+    {
+        "name": "Kshaama",
+        "exp": "The Lord Who Remains Alone After the Deluge"
+    },
+    {
+        "name": "Sameehana",
+        "exp": "The Lord Whose Desires are Auspicious"
+    },
+    {
+        "name": "Yajna",
+        "exp": "The Lord Who is Personification of Sacrifice"
+    },
+    {
+        "name": "Ijya",
+        "exp": "The Lord Who is Fit to be Invoked Through Yajna"
+    },
+    {
+        "name": "Mahejya",
+        "exp": "The Lord Who is to be Most Worshiped by Yajna"
+    },
+    {
+        "name": "Kratu",
+        "exp": "The Sacrificial Ceremony"
+    },
+    {
+        "name": "Satram",
+        "exp": "The Lord Who Protects Good People"
+    },
+    {
+        "name": "Satamgati",
+        "exp": "The Lord Who is the Ultimate Goal of Those Who Seek for Salvation"
+    },
+    {
+        "name": "Sarvadarshi",
+        "exp": "The Lord Who Knows Everything Naturally"
+    },
+    {
+        "name": "Vimuktatma",
+        "exp": "The Lord Who is the Soul Which has Left All its Bondages"
+    },
+    {
+        "name": "Sarvajna",
+        "exp": "The Lord Who is Omniscient"
+    },
+    {
+        "name": "Jnanamuttamam",
+        "exp": "The Lord Who is the Supreme Knowledge"
+    },
+    {
+        "name": "Suvrata",
+        "exp": "The Lord Who Ever-Performing the Pure Vow"
+    },
+    {
+        "name": "Sumukha",
+        "exp": "The Lord Who has a Charming Face"
+    },
+    {
+        "name": "Sukshma",
+        "exp": "The Lord Who is the Smallest Known Thing from Which Everything Came"
+    },
+    {
+        "name": "Sughosha",
+        "exp": "The Lord of Auspicious Sound"
+    },
+    {
+        "name": "Sukhada",
+        "exp": "The Lord Who is the Giver of Happiness"
+    },
+    {
+        "name": "Suhrit",
+        "exp": "The Lord Who is the Friend and Well Wisher of All Creatures"
+    },
+    {
+        "name": "Manohara",
+        "exp": "The Lord Who Captivates the Mind"
+    },
+    {
+        "name": "Jitakrodha",
+        "exp": "The Lord Who has Conquered Anger"
+    },
+    {
+        "name": "Veerabahu",
+        "exp": "The Lord Who is Having Mighty Arms"
+    },
+    {
+        "name": "Vidarana",
+        "exp": "The Destroyer of Unrighteous"
+    },
+    {
+        "name": "Svapana",
+        "exp": "The Lord Who Puts People to Sleep"
+    },
+    {
+        "name": "Svavasha",
+        "exp": "The Lord Who has Everything under His control"
+    },
+    {
+        "name": "Vyapi",
+        "exp": "The Lord Who has Spread Everywhere"
+    },
+    {
+        "name": "Naikatma",
+        "exp": "The Lord Who Takes Various Forms Depending on Need"
+    },
+    {
+        "name": "Naikakarmakrit",
+        "exp": "The Lord Who Performs Many Actions"
+    },
+    {
+        "name": "Vatsara",
+        "exp": "The Lord Who is the Abode of Everything"
+    },
+    {
+        "name": "Vatsala",
+        "exp": "The Lord Who Loves His Devotees"
+    },
+    {
+        "name": "Vatsi",
+        "exp": "The Lord Who is the Protector of the People"
+    },
+    {
+        "name": "Ratnagarbha",
+        "exp": "The Lord Who is the Ocean Which Keeps Pearls Within Itself"
+    },
+    {
+        "name": "Dhaneshwara",
+        "exp": "The One Who is the God of wealth"
+    },
+    {
+        "name": "Dharmagupa",
+        "exp": "The Protector of Dharma"
+    },
+    {
+        "name": "Dharmakrit",
+        "exp": "The Lord Who Acts According to Dharma"
+    },
+    {
+        "name": "Dharmi",
+        "exp": "The Supporter of Dharma"
+    },
+    {
+        "name": "Sat",
+        "exp": "The Lord Who is the Ultimate Permanent Truth"
+    },
+    {
+        "name": "Asat",
+        "exp": "The Lord Who is the Ultimate Truth Which is Hidden by Illusion"
+    },
+    {
+        "name": "Ksharam",
+        "exp": "The Lord Who Appears to Perish"
+    },
+    {
+        "name": "Aksharam",
+        "exp": "The Lord Who is Imperishable"
+    },
+    {
+        "name": "Avijnata",
+        "exp": "The Lord Who is Not One Who Does Not Know"
+    },
+    {
+        "name": "Sahasramshu",
+        "exp": "The Lord Who has Thousand Rays"
+    },
+    {
+        "name": "Vidhata",
+        "exp": "The Lord Who Carries the World"
+    },
+    {
+        "name": "Kritalakshana",
+        "exp": "The One Who is Famous for His Qualities"
+    },
+    {
+        "name": "Gabhastinemi",
+        "exp": "The Hub of the Universal Wheel"
+    },
+    {
+        "name": "Sattvastha",
+        "exp": "The Lord Who is Situated in Sattva"
+    },
+    {
+        "name": "Simha",
+        "exp": "The Lord Who is as Royal as a Lion"
+    },
+    {
+        "name": "Bhuta-maheshwara",
+        "exp": "The Lord Who is the First and Ultimate God of All Beings"
+    },
+    {
+        "name": "Adideva",
+        "exp": "The First Diety"
+    },
+    {
+        "name": "Mahadeva",
+        "exp": "The Great Diety"
+    },
+    {
+        "name": "Devesha",
+        "exp": "The Lord Who Appears to Perish"
+    },
+    {
+        "name": "Devabhridguru",
+        "exp": "The Lord Who is the Lord of All Devas"
+    },
+    {
+        "name": "Uttara",
+        "exp": "The Lord Who Saves All Beings from the Miserable Ocean of Mortal Life"
+    },
+    {
+        "name": "Gopati",
+        "exp": "The Lord Who Rears the Cattle"
+    },
+    {
+        "name": "Gopta",
+        "exp": "The Lord Who is the Protector"
+    },
+    {
+        "name": "Jnanagamya",
+        "exp": "The Lord Who can Only be Attained Through Pure Knowledge"
+    },
+    {
+        "name": "Puratana",
+        "exp": "The Lord Who is Very Ancient"
+    },
+    {
+        "name": "Shareera-bhoota-bhrit",
+        "exp": "The Lord Who is the Soul of Pancha Bhoothas Which is the Basis of All Beings"
+    },
+    {
+        "name": "Bhokta",
+        "exp": "The Lord Who Enjoys the Truth in Himself"
+    },
+    {
+        "name": "Kapindra",
+        "exp": "The Lord Who is Rama, Dear to All Monkeys"
+    },
+    {
+        "name": "Bhooridakshina",
+        "exp": "The Lord Who Conducts Yajnas and Gives Cash Benefits"
+    },
+    {
+        "name": "Somapa",
+        "exp": "The Lord Who Drinks Soma"
+    },
+    {
+        "name": "Amritapa",
+        "exp": "The Lord Who Drinks the Nectar"
+    },
+    {
+        "name": "Soma",
+        "exp": "The Lord Who in the Form of Moon Helps Plants to Grow"
+    },
+    {
+        "name": "Purujita",
+        "exp": "The Lord Who has Conquered Numerous Enemies"
+    },
+    {
+        "name": "Purusattama",
+        "exp": "The Lord Who is the Best in Several Forms"
+    },
+    {
+        "name": "Vinaya",
+        "exp": "The Lord Who Humiliates Those Who are Unrighteous"
+    },
+    {
+        "name": "Jaya",
+        "exp": "The Victorious Lord"
+    },
+    {
+        "name": "Satyasandha",
+        "exp": "The Lord Who is Veracious in Mental Decisions"
+    },
+    {
+        "name": "Dasharha",
+        "exp": "The Lord Who Was Born in the Dasharha Race"
+    },
+    {
+        "name": "Satvatampati",
+        "exp": "The Lord of the Satvatas"
+    },
+    {
+        "name": "Jiva",
+        "exp": "The Living Being"
+    },
+    {
+        "name": "Vinayitasakshi",
+        "exp": "The Witness of Modesty"
+    },
+    {
+        "name": "Mukunda",
+        "exp": "The Giver of Liberation"
+    },
+    {
+        "name": "Amitavikrama",
+        "exp": "The Lord of Immeasurable Prowess"
+    },
+    {
+        "name": "Ambhonidhi",
+        "exp": "The Lord Who is the Ultimate Sojourn to Devas, Manushyas, Asuras and Pitrs"
+    },
+    {
+        "name": "Anantatma",
+        "exp": "The Infinite Self"
+    },
+    {
+        "name": "Mahodadhishaya",
+        "exp": "The Lord Who Rests on the Great Ocean"
+    },
+    {
+        "name": "Antaka",
+        "exp": "The Lord Who Brings About End of Everything"
+    },
+    {
+        "name": "Aja",
+        "exp": "The One Who Never Takes Birth"
+    },
+    {
+        "name": "Maharha",
+        "exp": "The Lord Who Deserves the Highest Worship"
+    },
+    {
+        "name": "Svabhavya",
+        "exp": "The Lord Who Ever-rooted in the Nature of His Own Self"
+    },
+    {
+        "name": "Jitamitra",
+        "exp": "The Lord Who has Conquered All Enemies"
+    },
+    {
+        "name": "Pramodana",
+        "exp": "The Lord Who is Always Happy"
+    },
+    {
+        "name": "Ananda",
+        "exp": "The Lord Who is the Personification of Happiness"
+    },
+    {
+        "name": "Nandana",
+        "exp": "The Lord Who Makes Others Blissful"
+    },
+    {
+        "name": "Nanda",
+        "exp": "The Lord Who is Free from All Worldly Pleasures"
+    },
+    {
+        "name": "Satyadharmaa",
+        "exp": "The Lord Who is the Truthful Dharma"
+    },
+    {
+        "name": "Trivikrama",
+        "exp": "The Lord Who Measured the Worlds in Three Steps"
+    },
+    {
+        "name": "Maharshi Kapilacharya",
+        "exp": "The Lord Who Incarnated as Kapila, the Great Sage"
+    },
+    {
+        "name": "Kritajna",
+        "exp": "The Knower of the World"
+    },
+    {
+        "name": "Medinipati",
+        "exp": "The Lord of the Earth"
+    },
+    {
+        "name": "Tripada",
+        "exp": "The Lord Who has Taken Three Steps"
+    },
+    {
+        "name": "Tridashadhyaksha",
+        "exp": "The Lord of Three States of Consciousness - Wakefulness, Sleep and Dream"
+    },
+    {
+        "name": "Mahashringa",
+        "exp": "The Lord has the Great Horn (Matsya Avatar)"
+    },
+    {
+        "name": "Kritantakrit",
+        "exp": "The Lord Who Destroys the World Created by Himself"
+    },
+    {
+        "name": "Mahavaraha",
+        "exp": "The Great Boar (Varaha)"
+    },
+    {
+        "name": "Govinda",
+        "exp": "The Lord Who is Known through Vedanta"
+    },
+    {
+        "name": "Sushena",
+        "exp": "The Lord Who has Magnificent Army"
+    },
+    {
+        "name": "Kanakangadi",
+        "exp": "The Lord Who has Golden Armlets"
+    },
+    {
+        "name": "Guhya",
+        "exp": "The Mysterious"
+    },
+    {
+        "name": "Gabhira",
+        "exp": "The Unfathomable"
+    },
+    {
+        "name": "Gahana",
+        "exp": "The Lord Whose Depth Cannot be Measured"
+    },
+    {
+        "name": "Gupta",
+        "exp": "The Lord Who is Hidden from Mind and the Words"
+    },
+    {
+        "name": "Chakragadadhara",
+        "exp": "The Lord Who Keeps the Holy Wheel and Holy Mace"
+    },
+    {
+        "name": "Vedha",
+        "exp": "The Creator of the Universe"
+    },
+    {
+        "name": "Svanga",
+        "exp": "The Lord Who is the Instrument Reason and Cause for Existence"
+    },
+    {
+        "name": "Ajita",
+        "exp": "The Unconquered"
+    },
+    {
+        "name": "Krishna",
+        "exp": "The Dark-complexioned Lord"
+    },
+    {
+        "name": "Dridha",
+        "exp": "The Lord Who has No Change in Character and Ability"
+    },
+    {
+        "name": "Sankarshanoachyuta",
+        "exp": "The Lord Who Withdraw the Beings Within Himself During the Deluge"
+    },
+    {
+        "name": "Varuna",
+        "exp": "The One Who Sets on the Horizon"
+    },
+    {
+        "name": "Vaaruna",
+        "exp": "The Son of Varuna (Vasishta)"
+    },
+    {
+        "name": "Vriksha",
+        "exp": "The Lord Who is Firm and Stable like the Tree"
+    },
+    {
+        "name": "Pushkaraksha",
+        "exp": "The Lotus Eyed"
+    },
+    {
+        "name": "Mahamanaa",
+        "exp": "The Lord Who of Great Mind"
+    },
+    {
+        "name": "Bhagawan",
+        "exp": "The Lord Who Possesses Six Opulences"
+    },
+    {
+        "name": "Bagahaa",
+        "exp": "The Lord Who Destroys Wealth During Deluge"
+    },
+    {
+        "name": "Anandi",
+        "exp": "The Lord Who Gives Delight"
+    },
+    {
+        "name": "Vanamali",
+        "exp": "The Lord Who Wears a Garland of Forest Flowers"
+    },
+    {
+        "name": "Halayudha",
+        "exp": "The Lord Who has a Plough as His Weapon"
+    },
+    {
+        "name": "Aditya",
+        "exp": "The Lord Who was Born of Aditi"
+    },
+    {
+        "name": "Jyotiraditya",
+        "exp": "The Resplendence of the Sun"
+    },
+    {
+        "name": "Sahishnu",
+        "exp": "The Lord Who Calmly Endures Duality"
+    },
+    {
+        "name": "Gatisattama",
+        "exp": "The Ultimate Refuge for All Devotees"
+    },
+    {
+        "name": "Sudhanva",
+        "exp": "The Lord Who has the Holy Bow Salled Saranga"
+    },
+    {
+        "name": "Khandaparashu",
+        "exp": "The Lord Who has Axe as a Weapon to Kill Enemies"
+    },
+    {
+        "name": "Daruna",
+        "exp": "Merciless Towards the Unrighteous"
+    },
+    {
+        "name": "Dravinaprada",
+        "exp": "The Lord Who Lavishly Gives Wealth"
+    },
+    {
+        "name": "Divahsprik",
+        "exp": "The Lord Who Touches the Sky"
+    },
+    {
+        "name": "Sarvadrigvyasa",
+        "exp": "The Lord Who Writes About All Knowledge"
+    },
+    {
+        "name": "Vachaspatirayonija",
+        "exp": "The Unborn Lord of Vidyas"
+    },
+    {
+        "name": "Trisama",
+        "exp": "The Lord Who is Worshipped by the Three Samas"
+    },
+    {
+        "name": "Samaga",
+        "exp": "The Chanter of Sama Hymns"
+    },
+    {
+        "name": "Sama",
+        "exp": "The Lord Who is the Sama Veda"
+    },
+    {
+        "name": "Nirvanam",
+        "exp": "Joy of Renunciation"
+    },
+    {
+        "name": "Bheshajam",
+        "exp": "The Lord Who is the Medicine"
+    },
+    {
+        "name": "Bhishak",
+        "exp": "The Lord Who is The Physician"
+    },
+    {
+        "name": "Sanyasakrit",
+        "exp": "The Institutor of Sanyasa"
+    },
+    {
+        "name": "Shama",
+        "exp": "The Lord Who is Calm"
+    },
+    {
+        "name": "Shanta",
+        "exp": "The Lord Who is Peaceful"
+    },
+    {
+        "name": "Nishtha",
+        "exp": "The Abode of All Beings"
+    },
+    {
+        "name": "Shanti",
+        "exp": "The Lord Whose Very Nature is Peace"
+    },
+    {
+        "name": "Parayanam",
+        "exp": "The way to Liberation"
+    },
+    {
+        "name": "Shubhanga",
+        "exp": "The Lord Who has the Most Beautiful Form"
+    },
+    {
+        "name": "Shantida",
+        "exp": "The Giver of Peace"
+    },
+    {
+        "name": "Srashtaa",
+        "exp": "The Creator of all Beings"
+    },
+    {
+        "name": "Kumuda",
+        "exp": "The Lord Who Delights in the Earth"
+    },
+    {
+        "name": "Kuvaleshaya",
+        "exp": "The Lord Who Reclines in the Waters"
+    },
+    {
+        "name": "Gohita",
+        "exp": "The Lord Who does Welfare for Cows"
+    },
+    {
+        "name": "Gopati",
+        "exp": "The One Who is Lord of the Earth"
+    },
+    {
+        "name": "Gopta",
+        "exp": "The Lord Who is the Protector of the Universe"
+    },
+    {
+        "name": "Vrishabhaksha",
+        "exp": "The Lord Whose Merciful Eyes Showers Whatever is Prayed for"
+    },
+    {
+        "name": "Vrishapriya",
+        "exp": "The Lord Who Delights in Dharma"
+    },
+    {
+        "name": "Anivarti",
+        "exp": "The Lord Who Never Retreats"
+    },
+    {
+        "name": "Nivrittatma",
+        "exp": "The Lord Who is Fully Restrained from All Sense Indulgences"
+    },
+    {
+        "name": "Samkshepta",
+        "exp": "The Condensor During Pralaya"
+    },
+    {
+        "name": "Kshemakrit",
+        "exp": "The Preserver of Welfare"
+    },
+    {
+        "name": "Shiva",
+        "exp": "The Lord Who is Eternally Pure"
+    },
+    {
+        "name": "Shrivatsavakshaa",
+        "exp": "The Lord Who has Shrivatsa on His Chest"
+    },
+    {
+        "name": "Srivasa",
+        "exp": "The Lord in Whom Goddess Lakshmi Lives"
+    },
+    {
+        "name": "Shripati",
+        "exp": "The One Who is the Lord of Goddess Lakshmi"
+    },
+    {
+        "name": "Shrimatam Vara",
+        "exp": "The Best Among Glorious"
+    },
+    {
+        "name": "Shrida",
+        "exp": "The Giver of Opulence"
+    },
+    {
+        "name": "Shrisha",
+        "exp": "The Lord of Shri (Goddess of Fortune)"
+    },
+    {
+        "name": "Shrinivasa",
+        "exp": "The Lord in Whom Goddess Lakshmi Lives"
+    },
+    {
+        "name": "Shrinidhi",
+        "exp": "The Treasure of Shri"
+    },
+    {
+        "name": "Shrivibhavana",
+        "exp": "The Distributor of Wealth"
+    },
+    {
+        "name": "Shridhara",
+        "exp": "The Bearer of Shri"
+    },
+    {
+        "name": "Shrikara",
+        "exp": "The Lord Who Gives All Wealth to His Devotees"
+    },
+    {
+        "name": "Shreya",
+        "exp": "The Lord Who is the Personification of Perennial Happiness"
+    },
+    {
+        "name": "Shrimana",
+        "exp": "The Professor of Shri"
+    },
+    {
+        "name": "Lokatrayashraya",
+        "exp": "The Refuge of the Three Worlds"
+    },
+    {
+        "name": "Svaksha",
+        "exp": "The Beautiful Eyed Lord"
+    },
+    {
+        "name": "Svanga",
+        "exp": "The Lord Who has Beautiful Limbs"
+    },
+    {
+        "name": "Shatananda",
+        "exp": "The Lord of Infinite Varieties and Joys"
+    },
+    {
+        "name": "Nandi",
+        "exp": "The Lord Who is Personification of Supreme Happiness"
+    },
+    {
+        "name": "Jyotirganeshwara",
+        "exp": "The Lord of the Luminaries in the Cosmos"
+    },
+    {
+        "name": "Vijitatma",
+        "exp": "The Lord Who has Conquered the Sense Organs"
+    },
+    {
+        "name": "Avidheyatma",
+        "exp": "The Lord Who is not Under the Control of Anybody"
+    },
+    {
+        "name": "Satkirti",
+        "exp": "The Lord Who has True Fame"
+    },
+    {
+        "name": "Chinnasamshaya",
+        "exp": "The Lord Who is Cleared of All Doubts"
+    },
+    {
+        "name": "Udirna",
+        "exp": "The Lord Who is Greater than All Beings"
+    },
+    {
+        "name": "Sarvatashchakshu",
+        "exp": "The Lord Who Sees Everything Everywhere"
+    },
+    {
+        "name": "Anisha",
+        "exp": "The One Who does not Have Any God Above Him"
+    },
+    {
+        "name": "Shashvatasthira",
+        "exp": "The Lord Who is Eternal and Stable"
+    },
+    {
+        "name": "Bhooshaya",
+        "exp": "The Lord Who Rested on the Ground"
+    },
+    {
+        "name": "Bhooshana",
+        "exp": "The Lord Who Adorns the World"
+    },
+    {
+        "name": "Bhooti",
+        "exp": "The Lord Who has Pure Existence"
+    },
+    {
+        "name": "Vishoka",
+        "exp": "The Lord Who is Sorrowless"
+    },
+    {
+        "name": "Shokanashana",
+        "exp": "The Lord Who Destroys Sadness of His Devotees"
+    },
+    {
+        "name": "Archishmana",
+        "exp": "The Effulgent"
+    },
+    {
+        "name": "Archita",
+        "exp": "The Lord Who is Constantly Worshipped by His Devotees"
+    },
+    {
+        "name": "Kumbha",
+        "exp": "The Pot Within Whom Everything is Contained"
+    },
+    {
+        "name": "Vishuddhatma",
+        "exp": "The One Who has the Purest Soul"
+    },
+    {
+        "name": "Vishodhana",
+        "exp": "The Great Purifier"
+    },
+    {
+        "name": "Aniruddha",
+        "exp": "The Lord Who is Invincible by Any Enemy"
+    },
+    {
+        "name": "Apratiratha",
+        "exp": "The Lord Who has no Enemies to Threaten Him"
+    },
+    {
+        "name": "Pradyumna",
+        "exp": "The Lord Who has Great Wealth"
+    },
+    {
+        "name": "Amitavikrama",
+        "exp": "The Lord Who has Immeasurable Prowess"
+    },
+    {
+        "name": "Kalaneminiha",
+        "exp": "The Slayer of Kalanemi"
+    },
+    {
+        "name": "Veera",
+        "exp": "The Lord Who is Valorous"
+    },
+    {
+        "name": "Shauri",
+        "exp": "The Lord Who was Born in the Sura Dynasty"
+    },
+    {
+        "name": "Shoorajaneshwara",
+        "exp": "Lord of the Valiant"
+    },
+    {
+        "name": "Trilokatma",
+        "exp": "The Soul of the Three Worlds"
+    },
+    {
+        "name": "Trilokesha",
+        "exp": "The Lord of the Three Worlds"
+    },
+    {
+        "name": "Keshava",
+        "exp": "The Lord Whose Rays Illumine the Cosmos"
+    },
+    {
+        "name": "Keshiha",
+        "exp": "The Slayer of Demon Kesi"
+    },
+    {
+        "name": "Hari",
+        "exp": "Destroyer of the Cycle of Birth"
+    },
+    {
+        "name": "Kamadeva",
+        "exp": "The One Who is Passionately Loved by His Devotees"
+    },
+    {
+        "name": "Kamapala",
+        "exp": "The Lord Who Takes Care of Desires"
+    },
+    {
+        "name": "Kaami",
+        "exp": "The Lord of Fulfilled Desires"
+    },
+    {
+        "name": "Kanta",
+        "exp": "The Lord of Enchanting Form"
+    },
+    {
+        "name": "Kritagama",
+        "exp": "The Author of the Agama Scriptures"
+    },
+    {
+        "name": "Anirdeshyavapu",
+        "exp": "The Lord Whose Forms Cannot be Defined"
+    },
+    {
+        "name": "Vishnu",
+        "exp": "All-Pervading Lord"
+    },
+    {
+        "name": "Veera",
+        "exp": "The Courageous"
+    },
+    {
+        "name": "Ananta",
+        "exp": "The Lord Who is Endless"
+    },
+    {
+        "name": "Dhananjaya",
+        "exp": "The Lord Who Gained Wealth Through Conquest"
+    },
+    {
+        "name": "Brahmanya",
+        "exp": "Patron of Brahman"
+    },
+    {
+        "name": "Brahmakrit",
+        "exp": "The Lord Who Acts in Brahman"
+    },
+    {
+        "name": "Brahma",
+        "exp": "The Creator"
+    },
+    {
+        "name": "Brahma",
+        "exp": "The Lord Who is Brahmam"
+    },
+    {
+        "name": "Brahmavivardhana",
+        "exp": "The Promoter of Brahma Vidya"
+    },
+    {
+        "name": "Brahmavita",
+        "exp": "The Lord Who Knows Brahman"
+    },
+    {
+        "name": "Braahmana",
+        "exp": "The Lord Who in the Form of Brahmins Teaches Vedas"
+    },
+    {
+        "name": "Brahmi",
+        "exp": "The Lord Who Controls All that is Denoted by Brahma"
+    },
+    {
+        "name": "Brahmajna",
+        "exp": "The Lord Who Knows Vedas as Himself"
+    },
+    {
+        "name": "Braahmanapriya",
+        "exp": "The Lord Who is Dear to the Brahmanas"
+    },
+    {
+        "name": "Mahakrama",
+        "exp": "The Lord Who Takes Gig Steps"
+    },
+    {
+        "name": "Mahakarma",
+        "exp": "The Lord Who Performs Great Deeds"
+    },
+    {
+        "name": "Mahateja",
+        "exp": "The Lord of Great Resplendence"
+    },
+    {
+        "name": "Mahoraga",
+        "exp": "The Lord Who has the Form of the Great Serpent"
+    },
+    {
+        "name": "Mahakratu",
+        "exp": "The Great Sacrifice"
+    },
+    {
+        "name": "Mahayajva",
+        "exp": "The Lord Who Performed Great Yajnas"
+    },
+    {
+        "name": "Mahayajna",
+        "exp": "The Great Yajna"
+    },
+    {
+        "name": "Mahahavi",
+        "exp": "The Greatest Sacrificial Offering in the Yajna"
+    },
+    {
+        "name": "Stavya",
+        "exp": "The Lord Who is Being Praised by Everybody"
+    },
+    {
+        "name": "Stavapriya",
+        "exp": "The Lord Who Likes Being Praised"
+    },
+    {
+        "name": "Stotram",
+        "exp": "The Hymn Itself"
+    },
+    {
+        "name": "Stuti",
+        "exp": "The Act of Praise"
+    },
+    {
+        "name": "Stota",
+        "exp": "The Lord Who Adores or Praises"
+    },
+    {
+        "name": "Ranapriya",
+        "exp": "The Lord Who is the Lover of Battles"
+    },
+    {
+        "name": "Poorna",
+        "exp": "The Lord Who is Complete"
+    },
+    {
+        "name": "Poorayita",
+        "exp": "The Lord Who Fulfills the Wishes of His Devotees"
+    },
+    {
+        "name": "Punya",
+        "exp": "The Truly Holy"
+    },
+    {
+        "name": "Punyakirti",
+        "exp": "The Lord of Holy Fame"
+    },
+    {
+        "name": "Anamaya",
+        "exp": "The Lord Who Never Becomes Ill"
+    },
+    {
+        "name": "Manojava",
+        "exp": "The Lord Who is Swift as the Mind"
+    },
+    {
+        "name": "Tirthakara",
+        "exp": "The Lord Who Created Methods for Salvation of All Beings in the World"
+    },
+    {
+        "name": "Vasureta",
+        "exp": "The Lord Whose Essence is Golden"
+    },
+    {
+        "name": "Vasuprada",
+        "exp": "The Bestower of Wealth"
+    },
+    {
+        "name": "Vasuprada",
+        "exp": "The Lord Who Leads His Devotees to Salvation"
+    },
+    {
+        "name": "Vasudeva",
+        "exp": "The Lord Who was Born as Son of Vasudeva"
+    },
+    {
+        "name": "Vasu",
+        "exp": "The Refuge for All Beings"
+    },
+    {
+        "name": "Vasumana",
+        "exp": "The Lord of Great Mind"
+    },
+    {
+        "name": "Havi",
+        "exp": "The Lord Who is the Sacrificial Offering in the Yajnas"
+    },
+    {
+        "name": "Sadgati",
+        "exp": "The Lord Who is Attained by Good People"
+    },
+    {
+        "name": "Satkriti",
+        "exp": "The Lord Who is Full of Good Actions"
+    },
+    {
+        "name": "Satta",
+        "exp": "The Lord Who is Personification of Non Differential Knowledge"
+    },
+    {
+        "name": "Sadbhuti",
+        "exp": "The Lord Who is Undenied Being"
+    },
+    {
+        "name": "Satparayana",
+        "exp": "The Supreme Goal of the Good"
+    },
+    {
+        "name": "Shoorasena",
+        "exp": "The Lord Who has Heroic and Valiant Armies"
+    },
+    {
+        "name": "Yadushreshta",
+        "exp": "The Lord Who is the Greatest Among Yadus"
+    },
+    {
+        "name": "Sannivasa",
+        "exp": "The One Who is the Ultimate Place Where Scholars Go"
+    },
+    {
+        "name": "suyamuna",
+        "exp": "The One Who is Attended by the People Dwelling on the Banks of Yamuna"
+    },
+    {
+        "name": "Bhootavasa",
+        "exp": "The Dwelling Place of the Elements"
+    },
+    {
+        "name": "Vasudeva",
+        "exp": "The Lord Who Envelops the Universe by Illusion"
+    },
+    {
+        "name": "Sarvasunilaya",
+        "exp": "The Lord Who is the Shelter of All Living Beings"
+    },
+    {
+        "name": "Anala",
+        "exp": "The Lord of Unlimited Wealth, Power and Glory"
+    },
+    {
+        "name": "Darpaha",
+        "exp": "The Destroyer of Pride in Evil-Minded People"
+    },
+    {
+        "name": "Darpada",
+        "exp": "The Giver of Pride to Those Who Walks on the Path of Dharma"
+    },
+    {
+        "name": "Dripta",
+        "exp": "The Lord Who Never Gets Proud of His Strength"
+    },
+    {
+        "name": "Durdhara",
+        "exp": "The Lord Who can be Brought to the Mind with Difficulty"
+    },
+    {
+        "name": "Aparajita",
+        "exp": "The Unvanquished"
+    },
+    {
+        "name": "Vishwamurti",
+        "exp": "The Universe Personified"
+    },
+    {
+        "name": "Mahamurti",
+        "exp": "The Lord Who is Monumental in Form"
+    },
+    {
+        "name": "Deeptamurti",
+        "exp": "The Lord Of Resplendent Form"
+    },
+    {
+        "name": "Amurtiman",
+        "exp": "The Lord Who is Formless"
+    },
+    {
+        "name": "Anekamurti",
+        "exp": "The Lord of Multi Form"
+    },
+    {
+        "name": "Avyakta",
+        "exp": "The Lord Who is Unmanifested"
+    },
+    {
+        "name": "Shatamurti",
+        "exp": "The Lord Who has Several Forms"
+    },
+    {
+        "name": "Shatanana",
+        "exp": "The Lord Who has Several Faces"
+    },
+    {
+        "name": "Eka",
+        "exp": "The Lord Who is The One"
+    },
+    {
+        "name": "Naika",
+        "exp": "The Lord Who Appears as in Different Forms by Illusion"
+    },
+    {
+        "name": "Sava",
+        "exp": "The Lord Who is the Personification of Soma Yajna"
+    },
+    {
+        "name": "Kah",
+        "exp": "The Lord Who is Worshipped as Ka Indicating Pleasures"
+    },
+    {
+        "name": "Kim",
+        "exp": "The One to be Inquired"
+    },
+    {
+        "name": "Yat",
+        "exp": "The Lord Who is Indicated by yat (Which)"
+    },
+    {
+        "name": "Tat",
+        "exp": "The Lord Who is Indicated by the Word That"
+    },
+    {
+        "name": "Padamanuttamam",
+        "exp": "The Unequalled State of Perfection"
+    },
+    {
+        "name": "Lokabandhu",
+        "exp": "The Kinsman of the Universe"
+    },
+    {
+        "name": "Lokanatha",
+        "exp": "Lord of the Universe"
+    },
+    {
+        "name": "Madhava",
+        "exp": "The Lord Who Born in the Family of Madhu"
+    },
+    {
+        "name": "Bhaktavatsala",
+        "exp": "The Lord Who Loves His Devotees"
+    },
+    {
+        "name": "Suvarnavarna",
+        "exp": "The Lord Who is of a Golden Colour"
+    },
+    {
+        "name": "Hemanga",
+        "exp": "The Lord Who has Limbs of Gold"
+    },
+    {
+        "name": "Varanga",
+        "exp": "The Lord with Beautiful Limbs"
+    },
+    {
+        "name": "Chandanangadi",
+        "exp": "The Lord Who has Attractive Armlets"
+    },
+    {
+        "name": "Veeraha",
+        "exp": "The Slayer of the Valiant Foes"
+    },
+    {
+        "name": "Vishama",
+        "exp": "The Lord Who Cannot be Compared to Anyone Else"
+    },
+    {
+        "name": "Shoonya",
+        "exp": "The Void"
+    },
+    {
+        "name": "Ghritashi",
+        "exp": "The Lord Who has No Need for Good Wishes"
+    },
+    {
+        "name": "Achala",
+        "exp": "The Lord Who is Supremely Stable"
+    },
+    {
+        "name": "Chala",
+        "exp": "The Lord Who is Moving"
+    },
+    {
+        "name": "Amani",
+        "exp": "The Lord Who Does Not have Pride and Willing to be Anything"
+    },
+    {
+        "name": "Manada",
+        "exp": "The Lord Who Generates Egoistic Conciousness"
+    },
+    {
+        "name": "Manya",
+        "exp": "The Lord Who is to be Honoured"
+    },
+    {
+        "name": "Lokaswami",
+        "exp": "The Lord of the World"
+    },
+    {
+        "name": "Trilokadhrik",
+        "exp": "The Lord Who Carries the Three Worlds"
+    },
+    {
+        "name": "Sumedha",
+        "exp": "The Lord Who has Pure Intelligence"
+    },
+    {
+        "name": "Medhaja",
+        "exp": "The Lord Who is Born Out of Sacrifices"
+    },
+    {
+        "name": "Dhanya",
+        "exp": "The Lord Who is Fortunate"
+    },
+    {
+        "name": "Satyamedha",
+        "exp": "The Lord Whose Intelligence Never Fails"
+    },
+    {
+        "name": "Dharaadhara",
+        "exp": "The Sole Support of the Earth"
+    },
+    {
+        "name": "Tejovrisha",
+        "exp": "The Lord Who Showers Radiance"
+    },
+    {
+        "name": "Dyutidhara",
+        "exp": "The Lord Who Bears an Effulgent Form"
+    },
+    {
+        "name": "Sarvashastra-bhritamvara",
+        "exp": "The Best Among Those Who Wield Weapons"
+    },
+    {
+        "name": "Pragraha",
+        "exp": "The Receiver of the Humblest Gifts"
+    },
+    {
+        "name": "Nigraha",
+        "exp": "The Lord Who Keeps Every Thing Within Himself"
+    },
+    {
+        "name": "Vyagra",
+        "exp": "The Lord Who is Ever Engaged in Fulfilling the desires of Devotee"
+    },
+    {
+        "name": "Naikashringa",
+        "exp": "The Lord Who has Several Horns"
+    },
+    {
+        "name": "Gadagraja",
+        "exp": "The Lord Who is Invoked Through Mantra"
+    },
+    {
+        "name": "Chaturmurti",
+        "exp": "The Lord Who has Four Forms"
+    },
+    {
+        "name": "Chaturbahu",
+        "exp": "The Lord Who has Four Arms"
+    },
+    {
+        "name": "Chaturvyooha",
+        "exp": "The Lord Who Expresses Himself as the Dynamic Centre in the Four Vyoohas"
+    },
+    {
+        "name": "Chaturgati",
+        "exp": "The Ultimate Goal of All Four Varnas and Asramas"
+    },
+    {
+        "name": "Chaturatma",
+        "exp": "The Lord Who is Clear Minded"
+    },
+    {
+        "name": "Chaturbhava",
+        "exp": "The Source of the Four Purushartas"
+    },
+    {
+        "name": "Chaturvedavit",
+        "exp": "The Knower of Four Vedas"
+    },
+    {
+        "name": "Ekapaat",
+        "exp": "The Lord of One Foot"
+    },
+    {
+        "name": "Samavarta",
+        "exp": "The Lord Who is the Skillfull Turner"
+    },
+    {
+        "name": "Anivrittatma",
+        "exp": "The Lord Who is Always Available Everywhere"
+    },
+    {
+        "name": "Durjaya",
+        "exp": "The Unconquered"
+    },
+    {
+        "name": "Duratikrama",
+        "exp": "The Lord Whose Orders Can Never be Disobeyed"
+    },
+    {
+        "name": "Durlabha",
+        "exp": "The Lord Who Obtained with Effort"
+    },
+    {
+        "name": "Durgama",
+        "exp": "The Lord Who is Realised with Great Effort"
+    },
+    {
+        "name": "Durga",
+        "exp": "The Lord Who is Not Easily Attained"
+    },
+    {
+        "name": "Duravasa",
+        "exp": "The Lord Who can be Kept"
+    },
+    {
+        "name": "Durariha",
+        "exp": "The Slayer of the Demons"
+    },
+    {
+        "name": "shubhanga",
+        "exp": "The One with Enchanting Limbs"
+    },
+    {
+        "name": "Lokasaranga",
+        "exp": "The Lord Who Understands the Essence of the World"
+    },
+    {
+        "name": "Sutantu",
+        "exp": "The Lord Who has Expanded this Universe Starting From Himself"
+    },
+    {
+        "name": "Tantuvardhana",
+        "exp": "The Lord Who Broadens the World"
+    },
+    {
+        "name": "Indrakarma",
+        "exp": "The Lord Who Resembling Indra in his Glorious Actions"
+    },
+    {
+        "name": "Mahakarma",
+        "exp": "The Lord Who Accomplishes Great Acts"
+    },
+    {
+        "name": "Kritakarma",
+        "exp": "The Lord Who has Fulfilled His Acts"
+    },
+    {
+        "name": "Kritagama",
+        "exp": "The Author of Vedas"
+    },
+    {
+        "name": "Udbhava",
+        "exp": "The Lord Who Attains Great Births"
+    },
+    {
+        "name": "Sundara",
+        "exp": "The Lord Who is the Epitome of Beauty"
+    },
+    {
+        "name": "Sunda",
+        "exp": "The Lord of Great Mercy"
+    },
+    {
+        "name": "Ratna-nabha",
+        "exp": "The Lord Who has a Beautiful Navel"
+    },
+    {
+        "name": "Sulochana",
+        "exp": "The Lord Who has the Most Enchanting Eyes"
+    },
+    {
+        "name": "Arka",
+        "exp": "The Lord Who is Suitable to be Worshipped by All Great Gods"
+    },
+    {
+        "name": "Vaajasana",
+        "exp": "The Giver of Food"
+    },
+    {
+        "name": "Shringi",
+        "exp": "The Lord Who was Born as a Fish with Horn"
+    },
+    {
+        "name": "Jayanta",
+        "exp": "The Conqueror of All Enemies"
+    },
+    {
+        "name": "Sarvavijjayi",
+        "exp": "The Lord Who is at Once Omniscient and Victorious"
+    },
+    {
+        "name": "Suvarnabindu",
+        "exp": "The Lord Who has Limbs Radiant Like Gold"
+    },
+    {
+        "name": "Akshobhya",
+        "exp": "The Lord Who is Ever Unruffled"
+    },
+    {
+        "name": "Sarva vageeshvareshwara",
+        "exp": "The One Who is the Chief Among Gods Who Speak"
+    },
+    {
+        "name": "Mahahrida",
+        "exp": "The Lord Whose Heart is Full of the Eternal Water of Happiness"
+    },
+    {
+        "name": "Mahagarta",
+        "exp": "The Great Chasm"
+    },
+    {
+        "name": "Mahabhoota",
+        "exp": "The Lord Who is the Great Being"
+    },
+    {
+        "name": "Mahanidhi",
+        "exp": "The Lord in Whom All Wealth is Saved"
+    },
+    {
+        "name": "Kumuda",
+        "exp": "The Lord Who Makes the Earth Happy"
+    },
+    {
+        "name": "Kundara",
+        "exp": "The Lord Who Recognizes Results of Good Deeds"
+    },
+    {
+        "name": "Kunda",
+        "exp": "The Lord Who is as Attractive as Kunda (Jasmine) Flowers"
+    },
+    {
+        "name": "Parjanya",
+        "exp": "The Lord Who is Similar to Rain-Bearing Clouds"
+    },
+    {
+        "name": "Paavana",
+        "exp": "The One Who Ever Purifies"
+    },
+    {
+        "name": "Anila",
+        "exp": "The Lord Who Never Slips"
+    },
+    {
+        "name": "Amritamsha",
+        "exp": "The Drinker of Nectar"
+    },
+    {
+        "name": "Amritavapu",
+        "exp": "The Lord Whose Form is Immortal"
+    },
+    {
+        "name": "Sarvajna",
+        "exp": "The Lord Who is Omniscient"
+    },
+    {
+        "name": "Sarvatomukha",
+        "exp": "The Lord Who has Faces Everywhere"
+    },
+    {
+        "name": "Sulabha",
+        "exp": "The Lord Who can be Easily Attained"
+    },
+    {
+        "name": "Suvrata",
+        "exp": "The Lord Who has Accepts Good Vows"
+    },
+    {
+        "name": "Siddha",
+        "exp": "The Lord Who is Perfection"
+    },
+    {
+        "name": "Shatrujita",
+        "exp": "The Lord Who is Ever Victorious Over Foes"
+    },
+    {
+        "name": "Shatrutapana",
+        "exp": "The Lord Who Makes his Enemies Suffer"
+    },
+    {
+        "name": "Nyagrodha",
+        "exp": "The Lord is Above All Beings in the Worlds"
+    },
+    {
+        "name": "Udumbara",
+        "exp": "Nourishment of All Living Creatures"
+    },
+    {
+        "name": "Ashwattha",
+        "exp": "The Impermanent Tree"
+    },
+    {
+        "name": "Chanoorandhranishoodana",
+        "exp": "The Slayer of Chanura Demon"
+    },
+    {
+        "name": "Sahasrarchi",
+        "exp": "The Lord Who has Thousands of Rays"
+    },
+    {
+        "name": "Saptajihva",
+        "exp": "The Lord Who Expresses Himself as the Seven Tongues of Fire"
+    },
+    {
+        "name": "Saptaidha",
+        "exp": "The Lord Who has Seven Flames"
+    },
+    {
+        "name": "Saptavahana",
+        "exp": "The Lord Who has a Vehicle of Seven Horses"
+    },
+    {
+        "name": "Amoorti",
+        "exp": "The Lord Who Does Not Have Shape"
+    },
+    {
+        "name": "Anagha",
+        "exp": "The Lord Who is Sinless"
+    },
+    {
+        "name": "Achintya",
+        "exp": "The Inconceivable"
+    },
+    {
+        "name": "Bhayakrit",
+        "exp": "The Lord Who Creates Fear in Bad People"
+    },
+    {
+        "name": "Bhayanashana",
+        "exp": "The Lord Who Destroys Fear in Good People"
+    },
+    {
+        "name": "Anu",
+        "exp": "The Lord Who is Subtle and Minute"
+    },
+    {
+        "name": "Brihata",
+        "exp": "The Lord Who is Extremely Big"
+    },
+    {
+        "name": "Krisha",
+        "exp": "The Lord Who is Slender"
+    },
+    {
+        "name": "Sthoola",
+        "exp": "The Lord Who is Stout"
+    },
+    {
+        "name": "Gunabhrita",
+        "exp": "The Bearer of Attributes"
+    },
+    {
+        "name": "Nirguna",
+        "exp": "The Lord Who does not have Any Properties"
+    },
+    {
+        "name": "Mahaan",
+        "exp": "The Mighty"
+    },
+    {
+        "name": "Adhrita",
+        "exp": "The Lord Who is not Carried by Anything"
+    },
+    {
+        "name": "Svadhrita",
+        "exp": "The Lord Who Carries Himself"
+    },
+    {
+        "name": "Svaasya",
+        "exp": "The Lord Who has a Beautiful Face"
+    },
+    {
+        "name": "Pragvamsha",
+        "exp": "The Lord Who Belongs to the First Dynasty"
+    },
+    {
+        "name": "Vamshavardhana",
+        "exp": "The Lord Who Makes Dynasties Grow"
+    },
+    {
+        "name": "Bharabrit",
+        "exp": "The Lord Who Carries the Load of the Universe"
+    },
+    {
+        "name": "Kathita",
+        "exp": "The Lord Who is Glorified in All Scriptures"
+    },
+    {
+        "name": "Yogi",
+        "exp": "The Lord Who can be Realised Through Yoga"
+    },
+    {
+        "name": "Yogisha",
+        "exp": "The Lord Who is the Greatest Among Yogis"
+    },
+    {
+        "name": "Sarvakamada",
+        "exp": "The Lord Who Fulfills All Desires"
+    },
+    {
+        "name": "Ashrama",
+        "exp": "The Lord Who is the Place Where Beings can Relax"
+    },
+    {
+        "name": "Shramana",
+        "exp": "The Lord Who Gives Sorrow to Sinners"
+    },
+    {
+        "name": "Kshaama",
+        "exp": "The Lord Who Destroys Everything During Deluge"
+    },
+    {
+        "name": "Suparna",
+        "exp": "The Lord Who is Having Vedas as Leaves"
+    },
+    {
+        "name": "Vayu Vahana",
+        "exp": "The Lord Who Makes Winds Move"
+    },
+    {
+        "name": "Dhanurdhara",
+        "exp": "The Wielder of the Bow"
+    },
+    {
+        "name": "Dhanurveda",
+        "exp": "The Lord Who Knows the Science of Archery"
+    },
+    {
+        "name": "Danda",
+        "exp": "The Lord Who Punishes the Wicked"
+    },
+    {
+        "name": "Damayita",
+        "exp": "The Lord Who Controls and Rules People"
+    },
+    {
+        "name": "Dama",
+        "exp": "The Lord Who is Also the Patience When Being Ruled"
+    },
+    {
+        "name": "Aparajita",
+        "exp": "The Lord Who Cannot be Defeated"
+    },
+    {
+        "name": "Sarvasaha",
+        "exp": "The One That Tolerates All"
+    },
+    {
+        "name": "Niyanta",
+        "exp": "The Lord Who Makes People Obey Pules"
+    },
+    {
+        "name": "Aniyama",
+        "exp": "The Lord Who is not Subject to Any Rules"
+    },
+    {
+        "name": "Ayama",
+        "exp": "The Lord Who is Deathless"
+    },
+    {
+        "name": "Sattvavaan",
+        "exp": "The Lord Who is Full of Exploits and Courage"
+    },
+    {
+        "name": "Sattvika",
+        "exp": "The Lord Who is Full of Satvic Qualities"
+    },
+    {
+        "name": "Satya",
+        "exp": "The Lord Who is Truth"
+    },
+    {
+        "name": "Satyadharma parayana",
+        "exp": "The One Who is Devoted to Truth and Dharma"
+    },
+    {
+        "name": "Abhipraya",
+        "exp": "The One Who is Approached by Seekers of Salvation"
+    },
+    {
+        "name": "Priyarha",
+        "exp": "The One Who Deserves All our Love"
+    },
+    {
+        "name": "Arha",
+        "exp": "The One Who s Most Appropriate for Worship"
+    },
+    {
+        "name": "Priyakrit",
+        "exp": "The Fulfiller of Desires"
+    },
+    {
+        "name": "Preetivardhana",
+        "exp": "The One Who Increases Joy in the heart of Devotee"
+    },
+    {
+        "name": "Vihaayasagati",
+        "exp": "The One Who Travels in Space"
+    },
+    {
+        "name": "Jyoti",
+        "exp": "The One Who is Self-Effulgent"
+    },
+    {
+        "name": "Suruchi",
+        "exp": "The One Who Shines Beautifully"
+    },
+    {
+        "name": "Hutabhuka",
+        "exp": "The One Who Enjoys All that is Offered in Yajna"
+    },
+    {
+        "name": "Vibhu",
+        "exp": "All-Pervading Lord"
+    },
+    {
+        "name": "Ravi",
+        "exp": "The One Who Dries up Everything"
+    },
+    {
+        "name": "Virochana",
+        "exp": "The One Who Shines in Different Forms"
+    },
+    {
+        "name": "Surya",
+        "exp": "The One Source From Where Everything is Born"
+    },
+    {
+        "name": "Savita",
+        "exp": "The One Who Brings Forth the Universe from Himself"
+    },
+    {
+        "name": "Ravilochana",
+        "exp": "The One Who has the Sun for His Eyes"
+    },
+    {
+        "name": "Ananta",
+        "exp": "The One Who is Endless"
+    },
+    {
+        "name": "Hutabhuka",
+        "exp": "The One Who Accepts Oblations"
+    },
+    {
+        "name": "Bhokta",
+        "exp": "The One Who is the Consumer of Nature"
+    },
+    {
+        "name": "Sukhada",
+        "exp": "The Giver of Bliss to those Who are Liberated"
+    },
+    {
+        "name": "Naikaja",
+        "exp": "The One Who is Born Many Times"
+    },
+    {
+        "name": "Agraja",
+        "exp": "The One Who is First-Born"
+    },
+    {
+        "name": "Anirvinna",
+        "exp": "The One Who Feels No Disappointment"
+    },
+    {
+        "name": "Sadamarshee",
+        "exp": "The Lord Who Forgives the Mistakes Committed by His Devotees"
+    },
+    {
+        "name": "Lokadhishthanam",
+        "exp": "The One Who is the Basis of the World"
+    },
+    {
+        "name": "Adbhuta",
+        "exp": "The One Who is the Wonder"
+    },
+    {
+        "name": "Sanat",
+        "exp": "The Lord Who is the Beginningless and Endless Factor"
+    },
+    {
+        "name": "Sanatanatama",
+        "exp": "The One Who is Most Ancient"
+    },
+    {
+        "name": "Kapila",
+        "exp": "The Great Sage Kapila"
+    },
+    {
+        "name": "Kapi",
+        "exp": "The One Who is the Sun"
+    },
+    {
+        "name": "Avyaya",
+        "exp": "The One in Whom All Disappear During the Deluge"
+    },
+    {
+        "name": "Svastida",
+        "exp": "The Lord Who Gives All Good Things to His Devotees"
+    },
+    {
+        "name": "Svastikrit",
+        "exp": "The Lord Who does Good"
+    },
+    {
+        "name": "Svasti",
+        "exp": "The Lord Who is the Source of All Auspiciouness"
+    },
+    {
+        "name": "Svastibhuka",
+        "exp": "The Lord Who Constantly Enjoys Auspiciousness"
+    },
+    {
+        "name": "Svastidakshina",
+        "exp": "The Distributor of Auspiciousness"
+    },
+    {
+        "name": "Araudra",
+        "exp": "The Lord Who is Never Cruel"
+    },
+    {
+        "name": "Kundali",
+        "exp": "The Lord Who Wears Shining Ear Globes"
+    },
+    {
+        "name": "Chakri",
+        "exp": "The Holder of Chakra"
+    },
+    {
+        "name": "Vikrami",
+        "exp": "The Most Daring"
+    },
+    {
+        "name": "Urjita-shasana",
+        "exp": "The Lord Who Gives Firm Orders"
+    },
+    {
+        "name": "Shabdatiga",
+        "exp": "The Lord Who Transcends All Words"
+    },
+    {
+        "name": "Shabdasaha",
+        "exp": "The Lord Who Allows Himself to be Invoked by Vedic Declarations"
+    },
+    {
+        "name": "Shishira",
+        "exp": "The Lord Who is Cool Like Winter"
+    },
+    {
+        "name": "Sharvarikara",
+        "exp": "The Creator of Darkness"
+    },
+    {
+        "name": "Akroora",
+        "exp": "The Lord Who is not Cruel"
+    },
+    {
+        "name": "Peshala",
+        "exp": "The Lord Who is Supremely Soft"
+    },
+    {
+        "name": "Daksha",
+        "exp": "The Lord Who is Clever"
+    },
+    {
+        "name": "Dakshina",
+        "exp": "The Most Liberal"
+    },
+    {
+        "name": "Kshaminamvara",
+        "exp": "The One with the Greatest of Forgiving Powers"
+    },
+    {
+        "name": "Vidvattama",
+        "exp": "The Lord Who has the Greatest Wisdom"
+    },
+    {
+        "name": "Veetabhaya",
+        "exp": "The Lord Who has No Fear"
+    },
+    {
+        "name": "Punya-shravana-keertana",
+        "exp": "The Lord Who Increases Boons to Those Who Sing About Him"
+    },
+    {
+        "name": "Uttarana",
+        "exp": "The Lord Who Lifts Us Out of the Ocean of Change"
+    },
+    {
+        "name": "Dushkritiha",
+        "exp": "The Destroyer of Bad Actions"
+    },
+    {
+        "name": "Punya",
+        "exp": "The Lord Who is Supremely Pure"
+    },
+    {
+        "name": "Duh-svapna-nashana",
+        "exp": "The Lord Who Destroys All Bad Dreams"
+    },
+    {
+        "name": "Veeraha",
+        "exp": "The Slayer of the Valiant Foes"
+    },
+    {
+        "name": "Rakshana",
+        "exp": "The Protector of the Universe"
+    },
+    {
+        "name": "Santa",
+        "exp": "The Lord Who is Expressed Through Saintly Men"
+    },
+    {
+        "name": "Jeevana",
+        "exp": "The Life Spark in All Creatures"
+    },
+    {
+        "name": "Paryavasthita",
+        "exp": "The Lord Who Dwells Everywhere"
+    },
+    {
+        "name": "Anantaroopa",
+        "exp": "The Lord Who has Countless Forms"
+    },
+    {
+        "name": "Anantashree",
+        "exp": "The Lord Full of Infinite Glories"
+    },
+    {
+        "name": "Jitamanyu",
+        "exp": "The Lord Who has won over anger"
+    },
+    {
+        "name": "Bhayapaha",
+        "exp": "The Lord Who Destroys All Fears"
+    },
+    {
+        "name": "Chaturashra",
+        "exp": "The Lord Who Deals Squarely"
+    },
+    {
+        "name": "Gabhiratma",
+        "exp": "The Lord of Deep and Profound Nature"
+    },
+    {
+        "name": "Vidisha",
+        "exp": "The Lord Who is Unique in His Giving"
+    },
+    {
+        "name": "Vyaadisha",
+        "exp": "The Lord Who is Unique in His Commanding Power"
+    },
+    {
+        "name": "Disha",
+        "exp": "The Lord Who Advises and Gives Knowledge"
+    },
+    {
+        "name": "Anadi",
+        "exp": "The Lord Who has No Beginning"
+    },
+    {
+        "name": "Bhuvo-bhuva",
+        "exp": "The One Who Exists in Himself Without Any Other Support"
+    },
+    {
+        "name": "Lakshmi",
+        "exp": "The Lord Who is the Abode of All Wealth"
+    },
+    {
+        "name": "Suveera",
+        "exp": "The Lord Who Moves with Great and Divine Glories"
+    },
+    {
+        "name": "Ruchirangada",
+        "exp": "The Lord Who Wears Resplendent Shoulder Caps"
+    },
+    {
+        "name": "Janana",
+        "exp": "The Lord Who Delivers All Living Creatures"
+    },
+    {
+        "name": "Jana-janmadi",
+        "exp": "The One Who is the Cause of the Birth of All Creatures"
+    },
+    {
+        "name": "Bheema",
+        "exp": "The One Who is of Fearful Form"
+    },
+    {
+        "name": "Bheema-parakrama",
+        "exp": "The Oen Whose Prowess is Fearful to His Enemies"
+    },
+    {
+        "name": "Adharanilaya",
+        "exp": "The Lord Who is the Fundamental Sustainer"
+    },
+    {
+        "name": "Adhata",
+        "exp": "The One Who has No Authority Above Him to Give Him Directions"
+    },
+    {
+        "name": "Pushpahasa",
+        "exp": "The Lord Who Opens Like a Flower at the Time of Primal Creation"
+    },
+    {
+        "name": "Prajagara",
+        "exp": "The Lord Who is Always Awake"
+    },
+    {
+        "name": "Urdhvaga",
+        "exp": "The Lord Who is on Top of Everything"
+    },
+    {
+        "name": "Sadpathachara",
+        "exp": "The Lord Who Moves Only in the Path of Truth"
+    },
+    {
+        "name": "Pranada",
+        "exp": "The Lord Who Gives Life to the Physical Body"
+    },
+    {
+        "name": "Pranava",
+        "exp": "The Lord Who is Omkara Which Denotes the Supreme Truth"
+    },
+    {
+        "name": "Pana",
+        "exp": "The Supreme Universal Manager"
+    },
+    {
+        "name": "Pramanam",
+        "exp": "The Lord Who is the Basis of All Scriptures"
+    },
+    {
+        "name": "Prananilaya",
+        "exp": "The Lord in Whom All Life Exists"
+    },
+    {
+        "name": "Pranabhrit",
+        "exp": "The Lord Who Controls and Rules All Activities of Life"
+    },
+    {
+        "name": "Pranajeevana",
+        "exp": "The Lord Who Gives the Breath of Life to the Living Creatures"
+    },
+    {
+        "name": "Tattvam",
+        "exp": "The Lord Who is the Real and Only Truth"
+    },
+    {
+        "name": "Tattvavit",
+        "exp": "The Lord Who Manifests as the Knowledge of the Supreme Truth"
+    },
+    {
+        "name": "Ekatma",
+        "exp": "The Lord Who is the One and Only One Soul"
+    },
+    {
+        "name": "Janma-mrityu-jaratiga",
+        "exp": "The Lord Who has No Birth, No Death and is Not Affected by Time"
+    },
+    {
+        "name": "Bhoor-bhuvah-swastaru",
+        "exp": "The Lord Who Nourishes the Tree (of Bhoo, Bhuvah and sva) of Life"
+    },
+    {
+        "name": "Taara",
+        "exp": "The Lord Who Helps to Get Across the Ocean of Life"
+    },
+    {
+        "name": "Savita",
+        "exp": "The Father of the Universe"
+    },
+    {
+        "name": "Prapitamaha",
+        "exp": "The Lord Who is the Great Old Grand Father of the Universe"
+    },
+    {
+        "name": "Yajna",
+        "exp": "The Lord Who has the Form of Sincere and Peaceful Co-Existence"
+    },
+    {
+        "name": "Yajnapati",
+        "exp": "The Lord of All Yajnas"
+    },
+    {
+        "name": "Yajva",
+        "exp": "The Lord Who Performs Yajna"
+    },
+    {
+        "name": "Yajnanga",
+        "exp": "The Lord Whose Limbs are the Things Employed in Yajna"
+    },
+    {
+        "name": "Yajnavahana",
+        "exp": "The Lord Who Fulfils Yajnas in Complete"
+    },
+    {
+        "name": "Yajnabhrit",
+        "exp": "The Lord Who Accepts Yajna"
+    },
+    {
+        "name": "Yajnakrit",
+        "exp": "The Lord Who Created Yajna"
+    },
+    {
+        "name": "Yajnee",
+        "exp": "The Enjoyer of Yajnas"
+    },
+    {
+        "name": "Yajnabhuka",
+        "exp": "The Receiver of All that is Offered"
+    },
+    {
+        "name": "Yajnasadhana",
+        "exp": "The Lord Who Fulfils All Yajnas"
+    },
+    {
+        "name": "Yajnantakrit",
+        "exp": "The Lord Who Performs the Concluding Act of the Yajna"
+    },
+    {
+        "name": "Yajnaguhyam",
+        "exp": "The Lord Who is the Secret of Yajna"
+    },
+    {
+        "name": "Annam",
+        "exp": "The Lord Who is Food"
+    },
+    {
+        "name": "Annada",
+        "exp": "The Lord Who Eats Food"
+    },
+    {
+        "name": "Atmayoni",
+        "exp": "The Lord Who has No Cause or Source Except Himself"
+    },
+    {
+        "name": "Svayamjata",
+        "exp": "The Lord Who is the Cause of His Own Birth"
+    },
+    {
+        "name": "Vaikhana",
+        "exp": "The One Who Dug the Earth as a Boar (Varaha)"
+    },
+    {
+        "name": "Samagayana",
+        "exp": "The One Who Chants the Sama Veda"
+    },
+    {
+        "name": "Devakee-nandana",
+        "exp": "The Lord Who is the Son of Devaki"
+    },
+    {
+        "name": "Srishta",
+        "exp": "The One Who Creates the World"
+    },
+    {
+        "name": "Kshiteesha",
+        "exp": "The Lord of the Earth"
+    },
+    {
+        "name": "Paapa-nashana",
+        "exp": "Destroyer of All Sins"
+    },
+    {
+        "name": "Shankha-bhrit",
+        "exp": "The Lord Who Carries and Blows the Shell Named Panchajanya"
+    },
+    {
+        "name": "Nandakee",
+        "exp": "The Lord Who Holds the Nandaka Sword"
+    },
+    {
+        "name": "Chakri",
+        "exp": "The Lord Who Carries the Wheel Called Sudarshana"
+    },
+    {
+        "name": "Sharnga-dhanva",
+        "exp": "The Lord Who has the Bow Called Saranga"
+    },
+    {
+        "name": "Gadadhara",
+        "exp": "The Lord Who has a Mace Called Kaumodaki"
+    },
+    {
+        "name": "Rathangapani",
+        "exp": "The Lord Who Keeps the Wheel called Sudarshana in his Hand"
+    },
+    {
+        "name": "Akshobhya",
+        "exp": "The Lord Who Cannot be Annoyed by Anyone"
+    },
+    {
+        "name": "Sarva-praharanayudha",
+        "exp": "The Lord Who has All Implements for All Kinds of Assault and Fight"
+    }
+        ];
+        
+        // Global variables
+        let quizData = [];
+        let quizNames = []; // All possible names for the current quiz
+        let userAnswers = {}; // Map of meaningId -> selected nameId
+        
+        // DOM elements
+        const questionCount = document.getElementById('questionCount');
+        const newQuizButton = document.getElementById('newQuizButton');
+        const submitButton = document.getElementById('submitButton');
+        const quizSection = document.getElementById('quizSection');
+        const quizTableBody = document.getElementById('quizTableBody');
+        const resultsSection = document.getElementById('resultsSection');
+        const loadingIndicator = document.getElementById('loadingIndicator');
+        const scoreDisplay = document.getElementById('scoreDisplay');
+        const resultsContainer = document.getElementById('resultsContainer');
+        const newGameButton = document.getElementById('newGameButton');
+        
+        // Event listeners
+        newQuizButton.addEventListener('click', startNewQuiz);
+        submitButton.addEventListener('click', submitQuiz);
+        newGameButton.addEventListener('click', resetQuiz);
+        
+        // Initialize - Adjust max questions based on data size
+        document.addEventListener('DOMContentLoaded', function() {
+            const maxQuestions = Math.min(25, sahasranamData.length);
+            questionCount.max = maxQuestions;
+            if (parseInt(questionCount.value) > maxQuestions) {
+                questionCount.value = maxQuestions;
+            }
+        });
+        
+        // Functions
+        function shuffleArray(array) {
+            // Fisher-Yates shuffle algorithm
+            for (let i = array.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [array[i], array[j]] = [array[j], array[i]];
+            }
+            return array;
+        }
+        
+        function startNewQuiz() {
+            loadingIndicator.style.display = 'block';
+            
+            setTimeout(() => {
+                // Clear previous quiz
+                userAnswers = {};
+                
+                // Get number of questions
+                const numQuestions = parseInt(questionCount.value);
+                if (isNaN(numQuestions) || numQuestions < 5 || numQuestions > Math.min(25, sahasranamData.length)) {
+                    alert("Please enter a valid number of questions (5-25)");
+                    loadingIndicator.style.display = 'none';
+                    return;
+                }
+                
+                // Shuffle all data and pick requested number of items
+                const shuffledData = [...sahasranamData];
+                shuffleArray(shuffledData);
+                
+                quizData = shuffledData.slice(0, numQuestions);
+                
+                // Get all names for the dropdown options (include all possible names, not just the correct ones)
+                quizNames = [...quizData.map(item => item.name)];
+                
+                // Prepare quiz display
+                renderQuiz();
+                
+                // Show quiz section
+                quizSection.style.display = 'block';
+                resultsSection.style.display = 'none';
+                loadingIndicator.style.display = 'none';
+            }, 300); // Small delay to show loading indicator
+        }
+        
+        function renderQuiz() {
+            // Clear previous content
+            quizTableBody.innerHTML = '';
+            
+            // Create a shuffled copy of the names array
+            const shuffledNames = [...quizNames];
+            shuffleArray(shuffledNames);
+            
+            // Create quiz rows
+            quizData.forEach((item, index) => {
+                const row = document.createElement('tr');
+                
+                // Meaning cell
+                const meaningCell = document.createElement('td');
+                const meaningDiv = document.createElement('div');
+                meaningDiv.className = 'meaning-cell';
+                meaningDiv.textContent = item.exp;
+                meaningCell.appendChild(meaningDiv);
+                
+                // Name selection cell
+                const nameCell = document.createElement('td');
+                const nameSelect = document.createElement('select');
+                nameSelect.className = 'names-dropdown';
+                nameSelect.id = `name-select-${index}`;
+                nameSelect.dataset.meaningId = index;
+                
+                // Add a default option
+                const defaultOption = document.createElement('option');
+                defaultOption.value = '';
+                defaultOption.textContent = '-- Select the correct name --';
+                nameSelect.appendChild(defaultOption);
+                
+                // Add all possible names in shuffled order
+                shuffledNames.forEach((name, nameIndex) => {
+                    const option = document.createElement('option');
+                    // Find the original index of this name in quizNames array
+                    option.value = quizNames.indexOf(name);
+                    option.textContent = name;
+                    nameSelect.appendChild(option);
+                });
+                
+                // Event listener for selection
+                nameSelect.addEventListener('change', (e) => {
+                    const meaningId = e.target.dataset.meaningId;
+                    const selectedNameId = e.target.value;
+                    
+                    if (selectedNameId === '') {
+                        delete userAnswers[meaningId];
+                    } else {
+                        userAnswers[meaningId] = selectedNameId;
+                    }
+                });
+                
+                nameCell.appendChild(nameSelect);
+                
+                // Add cells to row
+                row.appendChild(meaningCell);
+                row.appendChild(nameCell);
+                
+                // Add row to table
+                quizTableBody.appendChild(row);
+            });
+        }
+        
+        function submitQuiz() {
+            // Calculate score
+            let correctCount = 0;
+            const results = [];
+            
+            quizData.forEach((item, meaningIndex) => {
+                const selectedNameId = userAnswers[meaningIndex];
+                const isAnswered = selectedNameId !== undefined && selectedNameId !== '';
+                const isCorrect = isAnswered && parseInt(selectedNameId) === meaningIndex;
+                
+                if (isCorrect) {
+                    correctCount++;
+                }
+                
+                results.push({
+                    meaning: item.exp,
+                    correctName: item.name,
+                    selectedName: isAnswered ? quizNames[parseInt(selectedNameId)] : "Not answered",
+                    isCorrect: isCorrect
+                });
+            });
+            
+            // Display results
+            scoreDisplay.textContent = `Score: ${correctCount} out of ${quizData.length} correct`;
+            
+            // Clear previous results
+            resultsContainer.innerHTML = '';
+            
+            // Generate result items
+            results.forEach(result => {
+                const resultItem = document.createElement('div');
+                resultItem.className = `result-item ${result.isCorrect ? 'correct' : 'incorrect'}`;
+                
+                const meaningDiv = document.createElement('div');
+                meaningDiv.className = 'result-meaning';
+                meaningDiv.innerHTML = `<div class="result-title">Meaning:</div>${result.meaning}`;
+                
+                const userAnswerDiv = document.createElement('div');
+                userAnswerDiv.className = `result-user-answer ${result.isCorrect ? '' : 'wrong'}`;
+                userAnswerDiv.innerHTML = `<div class="result-title">Your Answer:</div>${result.selectedName}`;
+                
+                const correctAnswerDiv = document.createElement('div');
+                correctAnswerDiv.className = 'result-correct-answer';
+                correctAnswerDiv.innerHTML = `<div class="result-title">Correct Name:</div>${result.correctName}`;
+                
+                resultItem.appendChild(meaningDiv);
+                resultItem.appendChild(userAnswerDiv);
+                resultItem.appendChild(correctAnswerDiv);
+                resultsContainer.appendChild(resultItem);
+            });
+            
+            // Show results section, hide quiz section
+            quizSection.style.display = 'none';
+            resultsSection.style.display = 'block';
+        }
+        
+        function resetQuiz() {
+            quizSection.style.display = 'none';
+            resultsSection.style.display = 'none';
+        }
+    </script>
+</body>
+</html>
