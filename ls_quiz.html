@@ -1,0 +1,4496 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lalitha Sahasranamam: Name and Meaning Matching</title>
+    <style>
+        :root {
+            --primary-color: #5e35b1;
+            --primary-light: #9162e4;
+            --primary-dark: #280680;
+            --accent-color: #ff9800;
+            --text-light: #ffffff;
+            --text-dark: #333333;
+            --background-light: #f5f5f5;
+            --background-card: #ffffff;
+            --success-color: #4caf50;
+            --error-color: #f44336;
+            --border-color: #dddddd;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: var(--text-dark);
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: var(--background-light);
+        }
+
+        h1 {
+            text-align: center;
+            color: var(--primary-color);
+            margin-bottom: 30px;
+            font-size: 2.2rem;
+        }
+
+        .container {
+            background-color: var(--background-card);
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+
+        .quiz-options {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            padding: 15px;
+            background-color: rgba(94, 53, 177, 0.05);
+            border-radius: 8px;
+        }
+
+        .question-count {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .question-count label {
+            font-weight: bold;
+            color: var(--primary-dark);
+        }
+
+        .question-count input {
+            width: 60px;
+            padding: 5px;
+            border: 1px solid var(--border-color);
+            border-radius: 4px;
+            text-align: center;
+            font-size: 16px;
+        }
+
+        .btn {
+            background-color: var(--primary-color);
+            color: var(--text-light);
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            margin: 10px 5px;
+            transition: background-color 0.3s;
+        }
+
+        .btn:hover {
+            background-color: var(--primary-dark);
+        }
+
+        .btn:disabled {
+            background-color: #9e9e9e;
+            cursor: not-allowed;
+        }
+
+        .btn-accent {
+            background-color: var(--accent-color);
+        }
+
+        .btn-accent:hover {
+            background-color: #e68a00;
+        }
+
+        .quiz-section {
+            display: none;
+            margin-top: 20px;
+        }
+
+        .results-section {
+            display: none;
+            margin-top: 20px;
+            padding: 20px;
+            background-color: rgba(94, 53, 177, 0.05);
+            border-radius: 8px;
+        }
+
+        .quiz-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+
+        .quiz-table th {
+            background-color: var(--primary-color);
+            color: white;
+            padding: 10px;
+            text-align: left;
+        }
+
+        .quiz-table td {
+            padding: 10px;
+            border-bottom: 1px solid var(--border-color);
+            vertical-align: middle;
+        }
+
+        .meaning-cell {
+            background-color: var(--accent-color);
+            color: white;
+            padding: 10px 15px;
+            border-radius: 4px;
+            font-weight: bold;
+        }
+
+        .names-dropdown {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid var(--border-color);
+            border-radius: 4px;
+            background-color: white;
+            font-size: 16px;
+        }
+
+        .score {
+            font-size: 24px;
+            font-weight: bold;
+            text-align: center;
+            margin: 20px 0;
+            color: var(--primary-color);
+        }
+
+        .result-item {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            gap: 10px;
+            margin-bottom: 10px;
+            padding: 10px;
+            border-radius: 4px;
+        }
+
+        .result-item.correct {
+            background-color: rgba(76, 175, 80, 0.1);
+            border-left: 4px solid var(--success-color);
+        }
+
+        .result-item.incorrect {
+            background-color: rgba(244, 67, 54, 0.1);
+            border-left: 4px solid var(--error-color);
+        }
+
+        .result-meaning, .result-user-answer, .result-correct-answer {
+            padding: 0 10px;
+            overflow-wrap: break-word;
+        }
+
+        .result-title {
+            font-weight: bold;
+            margin-bottom: 5px;
+            color: var(--primary-color);
+        }
+
+        .result-user-answer.wrong {
+            color: var(--error-color);
+        }
+
+        .loading {
+            text-align: center;
+            margin: 20px;
+            font-style: italic;
+            color: #757575;
+        }
+
+        .status-message {
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 4px;
+            text-align: center;
+        }
+
+        .status-message.success {
+            background-color: rgba(76, 175, 80, 0.1);
+            color: var(--success-color);
+        }
+
+        .status-message.error {
+            background-color: rgba(244, 67, 54, 0.1);
+            color: var(--error-color);
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        @media (max-width: 768px) {
+            .result-item {
+                grid-template-columns: 1fr;
+            }
+
+            .container {
+                padding: 15px;
+            }
+
+            .quiz-options {
+                flex-direction: column;
+                align-items: stretch;
+            }
+
+            .question-count {
+                margin-bottom: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Lalitha Sahasranamam: Name and Meaning Matching</h1>
+
+    <div class="container">
+        <div id="quizOptions" class="quiz-options">
+            <div class="question-count">
+                <label for="questionCount">Number of Questions:</label>
+                <input type="number" id="questionCount" min="5" max="25" value="10">
+            </div>
+
+            <div class="controls">
+                <button id="newQuizButton" class="btn">New Quiz</button>
+                <button id="submitButton" class="btn">Submit Answers</button>
+            </div>
+        </div>
+
+        <div id="loadingIndicator" class="loading" style="display: none;">
+            Loading quiz...
+        </div>
+
+        <div id="quizSection" class="quiz-section">
+            <h2>Match Each Meaning with the Correct Name</h2>
+
+            <table class="quiz-table">
+                <thead>
+                    <tr>
+                        <th width="50%">Meaning</th>
+                        <th width="50%">Select the Correct Name</th>
+                    </tr>
+                </thead>
+                <tbody id="quizTableBody">
+                    <!-- Quiz rows will be added here dynamically -->
+                </tbody>
+            </table>
+        </div>
+
+        <div id="resultsSection" class="results-section">
+            <h2>Quiz Results</h2>
+            <div class="score" id="scoreDisplay"></div>
+            <div id="resultsContainer">
+                <!-- Results will be dynamically added here -->
+            </div>
+            <button id="newGameButton" class="btn btn-accent">Play Again</button>
+        </div>
+    </div>
+
+    <script>
+        // Replace this array with your own Sahasranamam data
+        const sahasranamData = [
+  {
+    "name": "Sri maatha",
+    "exp": "She who is the auspicious Mother"
+  },
+  {
+    "name": "Sri maharajni",
+    "exp": "She who is the empress who takes care of the universe- indicates her role of protection"
+  },
+  {
+    "name": "Sri math simasaneshwari",
+    "exp": "She who sits on the throne of lions-indicates her role of destruction"
+  },
+  {
+    "name": "Chidagni Kunda Sambootha",
+    "exp": "She who rose from the fire of knowledge and is the ultimate truth"
+  },
+  {
+    "name": "Deva karya samudhyatha",
+    "exp": "She who is interested in helping devas"
+  },
+  {
+    "name": "Udyath bhanu sahasrabha",
+    "exp": "She who glitters like thousand rising suns"
+  },
+  {
+    "name": "Chadur bahu samanvidha",
+    "exp": "She who has four arms"
+  },
+  {
+    "name": "Ragha Swaroopa pasadya",
+    "exp": "She who has love for all in the form of rope(pasa)-She has this in one of her left hands"
+  },
+  {
+    "name": "Krodhakarankusojwala",
+    "exp": "She who glitters and has anger in the form of Anghusa –in one of her right hands."
+  },
+  {
+    "name": "Mano Rupeshu Kodanda",
+    "exp": "She who has the bow of sweet cane which is her mind-in one of her left hands"
+  },
+  {
+    "name": "Pancha than mathra sayaka",
+    "exp": "She who has five bows of touch , smell, hearing, taste and sight"
+  },
+  {
+    "name": "Nijaruna prabha poora majjath brahmanda mandala",
+    "exp": "She who makes all the universe immerse in her red colour which is like the sun in the dawn"
+  },
+  {
+    "name": "Champakasoka –punnaga-sowgandhika- lasath kacha",
+    "exp": "She who wears in her hair flowers like Champaka, Punnaga and Sowgandhika"
+  },
+  {
+    "name": "Kuru vinda mani –sreni-kanath kotira manditha",
+    "exp": "She whose crown glitters with rows of inlaid precious stones (Padmaraga stones)"
+  },
+  {
+    "name": "Ashtami chandra vibhraja –dhalika sthala shobhitha",
+    "exp": "She who has a beautiful forehead like the half moon (visible on eighth day from new moon)"
+  },
+  {
+    "name": "Muka chandra kalankabha mriganabhi viseshaka",
+    "exp": "She who has the thilaka(dot) of Musk in her forehead which is like the black shadow in the moon"
+  },
+  {
+    "name": "Vadana smara mangalya griha thorana chillaka",
+    "exp": "She who has beautiful eyelids which look like the ornaments to her face which is like cupids home"
+  },
+  {
+    "name": "Vakthra lakshmi –parivaha-chalan meenabha lochana",
+    "exp": "She who has beautiful eyes which look like fish in the pond of her face"
+  },
+  {
+    "name": "Nava champaka –pushpabha-nasa dhanda virajitha",
+    "exp": "She who has nose like freshly opened flowers of Champaka"
+  },
+  {
+    "name": "Thara kanthi thiraskari nasabharana bhasura",
+    "exp": "She who has a nose ring which shines more than the star"
+  },
+  {
+    "name": "Kadambha manjari kluptha karna poora manohara",
+    "exp": "She who has beautiful ears like the kadamba flowers"
+  },
+  {
+    "name": "Thadanga yugali bhootha thapanodupa mandala",
+    "exp": "She who wears the sun and the moon as her ear studs"
+  },
+  {
+    "name": "Padma raga sila darsha paribhavika polabhu",
+    "exp": "She who has cheeks which shine more than the mirror made of Padmaraga"
+  },
+  {
+    "name": "Nava vidhruma bimbha sri nyakkari rathna chhadha",
+    "exp": "She whose lips are like beautiful new corals"
+  },
+  {
+    "name": "Shuddha vidyangurakara dwija pangthi dwayojjala",
+    "exp": "She who has teeth which look like germinated true knowledge(Shodasakshari vidya)"
+  },
+  {
+    "name": "Karpoora Veedi Kamodha Samakarsha digandara",
+    "exp": "She who chews betel leaf with the spices which give perfume in all directions"
+  },
+  {
+    "name": "Nija Sallabha Madhurya Vinirbhardista Kacchabhi",
+    "exp": "She who has voice sweeter than the notes produced by Sarawathi Devis Veena(This is called Kachabhi)"
+  },
+  {
+    "name": "Mandasmitha prabha poora majjat Kamesha manasa",
+    "exp": "She who has lovely smile which is like the river in which the mind of cupid plays"
+  },
+  {
+    "name": "Anakalidha Sadrushya Chibuka sri virajitha",
+    "exp": "She who has a beautiful chin which has nothing else to compare"
+  },
+  {
+    "name": "Kamesha baddha mangalya sutra shobitha kandhara",
+    "exp": "She who shines with the sacred thread in her neck tied by Lord Kameshwara"
+  },
+  {
+    "name": "Kankangadha Keyura Kamaniya Bujanvidha",
+    "exp": "She who wears golden Armlets"
+  },
+  {
+    "name": "Rathna graiveya chinthaka lola muktha phalanvitha",
+    "exp": "She who wears necklace with moving pearls and dollar inlaid with gems"
+  },
+  {
+    "name": "Kameswara prema rathna mani prathi pana sthani",
+    "exp": "She who gave her breasts which are like the pot made of Rathna(precious stones) and has obtained the love of Kameshwara"
+  },
+  {
+    "name": "Nabhyala vala Romali latha phala kucha dwayi",
+    "exp": "She who has two breasts that are like fruits borne on the creeper of tiny hairs raising from her belly."
+  },
+  {
+    "name": "Lakshya roma latha dharatha samunneya madhyama",
+    "exp": "She who is suspected to have a waist because of the creeper like hairs raising from there"
+  },
+  {
+    "name": "Sthana bhara dalan Madhya patta bhandha valithraya",
+    "exp": "She who has three stripes in her belly which looks like having been created to protect her tiny waist from her heavy breasts"
+  },
+  {
+    "name": "Arunaruna kausumba vasthra bhaswat kati thati",
+    "exp": "She who shines in her light reddish silk cloth worn over her tiny waist"
+  },
+  {
+    "name": "Rathna kinkinika ramya rasana dhama bhooshitha",
+    "exp": "She who wears a golden thread below her waist decorated with bells made of precious stones"
+  },
+  {
+    "name": "Kamesha gnatha sowbhagya mardworu dwayanvitha",
+    "exp": "She who has pretty and tender thighs known only to her consort, Kameshwara"
+  },
+  {
+    "name": "Manikhya mukuta kara janu dwaya virajitha",
+    "exp": "She who has knee joints like the crown made of manikya below her thighs"
+  },
+  {
+    "name": "Indra kopa parikshiptha smarathunabha jangika",
+    "exp": "She who has forelegs like the cupids case of arrows followed by the bee called Indra kopa"
+  },
+  {
+    "name": "Kooda Gulpha",
+    "exp": "She who has round ankles"
+  },
+  {
+    "name": "Koorma prashta jayishnu prapadanvidha",
+    "exp": "She who has upper feet like the back of the tortoise"
+  },
+  {
+    "name": "Nakadhi dhithi samchanna namajjana thamoguna",
+    "exp": "She who removes the darkness in the mind of her devotees by the sparkle of nails"
+  },
+  {
+    "name": "Pada dwaya Prabha jala parakrutha saroruha",
+    "exp": "She who has two feet which are much more beautiful than lotus flowers"
+  },
+  {
+    "name": "Sinchana mani manjira manditha sri pamambuja",
+    "exp": "She who has feet wearing musical anklets filled with gem stones"
+  },
+  {
+    "name": "Marali Mandha Gamana",
+    "exp": "She who has the slow gait like the swan"
+  },
+  {
+    "name": "Maha Lavanya Sewadhi",
+    "exp": "She who has the store house of supreme beauty"
+  },
+  {
+    "name": "Sarvaruna",
+    "exp": "She who has light reddish colour of the dawn in all her aspects"
+  },
+  {
+    "name": "Anavadhyangi",
+    "exp": "She who has most beautiful limbs which do not lack any aspect of beauty"
+  },
+  {
+    "name": "Srvabharana Bhooshita",
+    "exp": "She who wears all the ornaments"
+  },
+  {
+    "name": "Shivakameswarangastha",
+    "exp": "She who sits on the lap of Kameswara(shiva)"
+  },
+  {
+    "name": "Shiva",
+    "exp": "She who is the personification of Shiva"
+  },
+  {
+    "name": "Swadheena Vallabha",
+    "exp": "She whose husband obeys her"
+  },
+  {
+    "name": "Summeru Madhya sringastha",
+    "exp": "She who lives in the central peak of Mount Meru"
+  },
+  {
+    "name": "Sriman nagara nayika",
+    "exp": "She who is the chief of Srinagara(a town)"
+  },
+  {
+    "name": "Chinthamani grihanthastha",
+    "exp": "She who lives in the all wish full filling house"
+  },
+  {
+    "name": "Pancha brahmasana sthitha",
+    "exp": "She who sits on the five brahmas viz., Brahma, Vishnu, Rudra, Esana and Sadashiva"
+  },
+  {
+    "name": "Maha padma davi samstha",
+    "exp": "She who lives in the forest of lotus flowers"
+  },
+  {
+    "name": "Kadambha vana vasini",
+    "exp": "She who lives in the forest of Kadmbha (Madurai city is also called Kadambha vana)"
+  },
+  {
+    "name": "Sudha sagara madhyastha",
+    "exp": "She who lives in the middle of the sea of nectar"
+  },
+  {
+    "name": "Kamakshi",
+    "exp": "She who fulfills desires by her sight"
+  },
+  {
+    "name": "Kamadhayini",
+    "exp": "She who gives what is desired"
+  },
+  {
+    "name": "Devarshi Gana-sangatha-stuyamanathma-vaibhava",
+    "exp": "She who has all the qualities fit to be worshipped by sages and devas"
+  },
+  {
+    "name": "Bhandasura vadodyuktha shakthi sena samavitha",
+    "exp": "She who is surrounded by army set ready to kill Bandasura"
+  },
+  {
+    "name": "Sampathkari samarooda sindhoora vrija sevitha",
+    "exp": "She who is surrounded by Sampathkari (that which gives wealth) elephant brigade"
+  },
+  {
+    "name": "Aswaroodadishidaswa kodi kodi biravrutha",
+    "exp": "She who is surrounded by crores of cavalry of horses"
+  },
+  {
+    "name": "Chakra raja ratha rooda sarvayudha parishkridha",
+    "exp": "She who is fully armed and rides in the Srichakra chariot with nine stories"
+  },
+  {
+    "name": "Geya chakra ratha rooda manthrini pari sevitha",
+    "exp": "She who rides in the chariot with seven stories and is served by manthrini who is the goddess of music"
+  },
+  {
+    "name": "Giri chakra ratharooda dhanda natha puraskrutha",
+    "exp": "She who rides in the chariot with five stories and is served by goddess Varahi otherwise called Dhanda natha"
+  },
+  {
+    "name": "Jwalimalika ksiptha vanhi prakara madhyaka",
+    "exp": "She who is in the middle of the fort of fire built by the Goddess Jwalamalini"
+  },
+  {
+    "name": "Bhanda sainya vadodyuktha shakthi vikrama harshitha",
+    "exp": "She who was pleased by the various Shakthis(literally strength but a goddess) who helped in killing the army of Bhandasura"
+  },
+  {
+    "name": "Nithya parakamatopa nireekshana samutsuka",
+    "exp": "She who is interested and happy in observing the valour of Nithya devathas (literally goddess of every day)"
+  },
+  {
+    "name": "Banda puthra vadodyuktha bala vikrama nandhita",
+    "exp": "She who was pleased by the valour of Bala devi(her daughter) in destroying the sons of Banda"
+  },
+  {
+    "name": "Manthrinyamba virachitha vishangavatha Doshitha",
+    "exp": "She who became happy at seeing Goddess Manthrini kill Vishanga(this ogre (brother of Banda) represents our desires for physical things)"
+  },
+  {
+    "name": "Vishuka prana harana varahi veeerya nandhitha",
+    "exp": "She who appreciates the valour of Varahi in killing Vishuka (another brother of Banda-he is personification of ignorance)"
+  },
+  {
+    "name": "Kameshwara mukaloka kalpitha sri Ganeshwara",
+    "exp": "She who created God Ganesh by the mere look of the face of her Lord , Kameshwara"
+  },
+  {
+    "name": "Mahaganesha nirbhinna vignayanthra praharshitha",
+    "exp": "She who became happy at seeing Lord Ganesha destroy the Vigna Yanthra (contraption meant to delay ) created by Vishuka"
+  },
+  {
+    "name": "Banda surendra nirmuktha sashtra prathyasthra varshani",
+    "exp": "She who rained arrows and replied with arrows against Bandasura"
+  },
+  {
+    "name": "Karanguli nakhothpanna narayana dasakrithi",
+    "exp": "She who created the ten avatharas of Narayana from the tip of her nails (when Bandasura send the Sarvasura asthra (arrow), she destroyed it by creating the ten avatharas of Vishnu)"
+  },
+  {
+    "name": "Maha pasupathasthragni nirdagdhasura sainika",
+    "exp": "She who destroyed the army of asuras by the Maha pasupatha arrow."
+  },
+  {
+    "name": "Kameshwarasthra nirdhagdha sabandasura sunyaka",
+    "exp": "She who destroyed Bandasura and his city called sunyaka by the Kameshwara arrow."
+  },
+  {
+    "name": "Brhmopendra mahendradhi deva samsthutha vaibhava",
+    "exp": "She who is prayed by Lord Brahma , Vishnu, indra and other devas"
+  },
+  {
+    "name": "Hara nethragni sandhagdha kama sanjeevanoushadhi",
+    "exp": "She who brought back to life the God of love Manmatha who was burnt to ashes by the fire from the eyes of Shiva"
+  },
+  {
+    "name": "Sri vagbhave koodaiga swaroopa mukha pankaja",
+    "exp": "She whose lotus face is Vagnhava Koota"
+  },
+  {
+    "name": "Kantatha kadi paryantha Madhya koodaiga swaroopini",
+    "exp": "She whose portion from neck to hips is Madya koota"
+  },
+  {
+    "name": "Sakthi koodaiga thapanna Kadyatho bhaga dharini",
+    "exp": "She whose portion below hips is the Shakthi koota"
+  },
+  {
+    "name": "Moola manthrathmikha",
+    "exp": "She who is the meaning of Moola manthra (root manthra) or She who is the cause"
+  },
+  {
+    "name": "Moola kooda thraya kalebhara",
+    "exp": "She whose body is the three parts of the basic manthra i.e. pancha dasakshari manthra"
+  },
+  {
+    "name": "Kulamruthaika rasika",
+    "exp": "She who enjoys the ecstatic state of oneness of one who sees, sight and what is seen or She who gets pleasure in drinking the nectar flowing from the thousand petalled lotus below the brain."
+  },
+  {
+    "name": "Kula sanketha palini",
+    "exp": "She who protects the powerful truths from falling into unsuitable people"
+  },
+  {
+    "name": "Kulangana",
+    "exp": "She who is a lady belonging to cultured family or She who is like Srividya known only to one whom it belongs"
+  },
+  {
+    "name": "Kulanthastha",
+    "exp": "She who is fit to be worshipped any where"
+  },
+  {
+    "name": "Kaulini",
+    "exp": "She who is the unification of the principles of Shiva and Shakthi"
+  },
+  {
+    "name": "Kula yogini",
+    "exp": "She who is related to the family or She who is related to the ultimate knowledge"
+  },
+  {
+    "name": "Akula",
+    "exp": "She who is beyond kula or She who is beyond any knowledge"
+  },
+  {
+    "name": "Samayanthastha",
+    "exp": "She who is within the mental worship of Shiva and Shakthi"
+  },
+  {
+    "name": "Samayachara that para",
+    "exp": "She who likes Samayachara i.e. worship stepwise from mooladhara Chakra"
+  },
+  {
+    "name": "Moladharaika nilaya",
+    "exp": "She who exists in Mooladhara In Mooladhara which is in the form of four petalled lotus the kundalini sleeps."
+  },
+  {
+    "name": "Brhama Grandhi Vibhedini",
+    "exp": "She who breaks the tie in Brahma grandhi i.e she who helps us to cross the ties due to our birth."
+  },
+  {
+    "name": "Mani poorantharudhitha",
+    "exp": "She who exists in Mani pooraka chakra full dressed in her fineries"
+  },
+  {
+    "name": "Vishnu grandhi vibedhini",
+    "exp": "She who breaks the ties of Vishnu grandhi i.e she who helps us cross the ties due to our position."
+  },
+  {
+    "name": "Agna chakarantharalastha",
+    "exp": "She who lives in between two eye lids in the form of she who orders"
+  },
+  {
+    "name": "Rudra grandhi vibhedini",
+    "exp": "She who breaks the ties of Rudra grandhi i.e she who helps us cross the ties due to our violent thoughts and nature"
+  },
+  {
+    "name": "Sahararambhujarooda",
+    "exp": "She who has climbed sahasrara the thousand petalled lotus which is the point of ultimate awakening"
+  },
+  {
+    "name": "Sudha sarabhi varshini",
+    "exp": "She who makes nectar flow in all our nerves from sahasrara i.e. she who gives the very pleasant experience of the ultimate"
+  },
+  {
+    "name": "Thadillatha samaruchya",
+    "exp": "She who shines like the streak of lightning"
+  },
+  {
+    "name": "Shad chakropari samshitha",
+    "exp": "She who is on the top of six wheels starting from mooladhara"
+  },
+  {
+    "name": "Maha ssakthya",
+    "exp": "She who likes worship by her devotees"
+  },
+  {
+    "name": "Kundalini",
+    "exp": "She who is in the form of Kundalini ( a form which is a snake hissing and exists in mooladhara)"
+  },
+  {
+    "name": "Bisa thanthu thaniyasi",
+    "exp": "She who is as thin as the thread from lotus"
+  },
+  {
+    "name": "Bhavani",
+    "exp": "She who gives life to the routine life of human beings or She who is the consort of Lord Shiva"
+  },
+  {
+    "name": "Bhavana gamya",
+    "exp": "She who can be attained by thinking"
+  },
+  {
+    "name": "Bhavarany kudariga",
+    "exp": "She who is like the axe used to cut the miserable life of the world"
+  },
+  {
+    "name": "Bhadra priya",
+    "exp": "She who is interested in doing good to her devotees"
+  },
+  {
+    "name": "Bhadra moorthy",
+    "exp": "She who is personification of all that is good"
+  },
+  {
+    "name": "Bhaktha sowbhagya dhayini",
+    "exp": "She who gives all good and luck to her devotees"
+  },
+  {
+    "name": "Bhakthi priya",
+    "exp": "She who likes devotion to her"
+  },
+  {
+    "name": "Bhakthi gamya",
+    "exp": "She who can be reached by devotion"
+  },
+  {
+    "name": "Bhakthi vasya",
+    "exp": "She who can be controlled by devotion"
+  },
+  {
+    "name": "Bhayapaha",
+    "exp": "She who removes fear"
+  },
+  {
+    "name": "Sambhavya",
+    "exp": "She who is married to Shambhu"
+  },
+  {
+    "name": "Saradharadya",
+    "exp": "She who is to be worshipped during Navarathri celebrated during autumn"
+  },
+  {
+    "name": "Sarvani",
+    "exp": "She who is the consort of Lord Shiva in the form of Sarvar"
+  },
+  {
+    "name": "Sarmadhayini",
+    "exp": "She who gives pleasures"
+  },
+  {
+    "name": "Sankari",
+    "exp": "She who is the consort of Sankara"
+  },
+  {
+    "name": "Sreekari",
+    "exp": "She who gives all forms of wealth and happiness"
+  },
+  {
+    "name": "Sadhwi",
+    "exp": "She who is eternally devoted to her husband"
+  },
+  {
+    "name": "Sarat chandra nibhanana",
+    "exp": "She who has the face like moon in the autumn"
+  },
+  {
+    "name": "Satho dhari",
+    "exp": "She who has a thin belly"
+  },
+  {
+    "name": "Santhimathi",
+    "exp": "She who is peace personified"
+  },
+  {
+    "name": "Niradhara",
+    "exp": "She who does not need any support to herself"
+  },
+  {
+    "name": "Niranjana",
+    "exp": "She who is devoid of any blemishes or scars"
+  },
+  {
+    "name": "Nirlepa",
+    "exp": "She who does not have any attachment"
+  },
+  {
+    "name": "Nirmala",
+    "exp": "She who is personification of clarity or She who is devoid of any dirt"
+  },
+  {
+    "name": "Nithya",
+    "exp": "She who is permanently stable"
+  },
+  {
+    "name": "Nirakara",
+    "exp": "She who does not have any shape"
+  },
+  {
+    "name": "Nirakula",
+    "exp": "She who cannot be attained by confused people"
+  },
+  {
+    "name": "Nirguna",
+    "exp": "She who is beyond any characteristics"
+  },
+  {
+    "name": "Nishkala",
+    "exp": "She who is not divided"
+  },
+  {
+    "name": "Santha",
+    "exp": "She who is peace"
+  },
+  {
+    "name": "Nishkama",
+    "exp": "She who does not have any desires"
+  },
+  {
+    "name": "Niruppallava",
+    "exp": "She who is never destroyed"
+  },
+  {
+    "name": "Nithya muktha",
+    "exp": "She who is forever free of the ties of the world"
+  },
+  {
+    "name": "Nirvikara",
+    "exp": "She never undergoes alteration"
+  },
+  {
+    "name": "Nishprapancha",
+    "exp": "She who is beyond this world"
+  },
+  {
+    "name": "Nirasraya",
+    "exp": "She who does not need support"
+  },
+  {
+    "name": "Nithya shuddha",
+    "exp": "She who is forever clean"
+  },
+  {
+    "name": "Nithya bhuddha",
+    "exp": "She who is for ever knowledge"
+  },
+  {
+    "name": "Niravadhya",
+    "exp": "She who can never be accused"
+  },
+  {
+    "name": "Niranthara",
+    "exp": "She who is forever continuous"
+  },
+  {
+    "name": "Nishkarana",
+    "exp": "She who does not have cause"
+  },
+  {
+    "name": "Nishkalanka",
+    "exp": "She who does not have blemishes"
+  },
+  {
+    "name": "Nirupadhi",
+    "exp": "She who does not have basis"
+  },
+  {
+    "name": "Nireeswara",
+    "exp": "She who does not have any one controlling her"
+  },
+  {
+    "name": "Neeraga",
+    "exp": "She who does not have any desires"
+  },
+  {
+    "name": "Ragha madhani",
+    "exp": "She who removes desires from us"
+  },
+  {
+    "name": "Nirmadha",
+    "exp": "She who does not have any firm beliefs"
+  },
+  {
+    "name": "Madhanasini",
+    "exp": "She who destroys beliefs"
+  },
+  {
+    "name": "Nischintha",
+    "exp": "She who is not worried"
+  },
+  {
+    "name": "Nirahankara",
+    "exp": "She who does not have an ego"
+  },
+  {
+    "name": "Nirmoha",
+    "exp": "She who does not have any passion"
+  },
+  {
+    "name": "Mohanasini",
+    "exp": "She who destroys passion"
+  },
+  {
+    "name": "Nirmama",
+    "exp": "She who does not have selfish feelings"
+  },
+  {
+    "name": "Mamatha hanthri",
+    "exp": "She who destroys selfishness"
+  },
+  {
+    "name": "Nishpapa",
+    "exp": "She who does not have any sin"
+  },
+  {
+    "name": "Papa nashini",
+    "exp": "She who destroys sin"
+  },
+  {
+    "name": "Nishkrodha",
+    "exp": "She who is devoid of anger"
+  },
+  {
+    "name": "Krodha –samani",
+    "exp": "She who destroys anger"
+  },
+  {
+    "name": "Nir Lobha",
+    "exp": "She who is not miserly"
+  },
+  {
+    "name": "Lobha nasini",
+    "exp": "She who removes miserliness"
+  },
+  {
+    "name": "Nissamsaya",
+    "exp": "She who does not have any doubts"
+  },
+  {
+    "name": "Samsayagni",
+    "exp": "She who clears doubts"
+  },
+  {
+    "name": "Nirbhava",
+    "exp": "She who does not have another birth"
+  },
+  {
+    "name": "Bhava nasini",
+    "exp": "She who helps us not have another birth"
+  },
+  {
+    "name": "Nirvikalpa",
+    "exp": "She who does not do anything she does not desire"
+  },
+  {
+    "name": "Nirabhadha",
+    "exp": "She who is not affected by anything"
+  },
+  {
+    "name": "Nirbhedha",
+    "exp": "She who does not have any difference"
+  },
+  {
+    "name": "Bhedha nasini",
+    "exp": "She who promotes oneness"
+  },
+  {
+    "name": "Nirnasa",
+    "exp": "She who does not die"
+  },
+  {
+    "name": "Mrityu madhani",
+    "exp": "She who removes fear of death"
+  },
+  {
+    "name": "Nishkriya",
+    "exp": "She who does not have any work"
+  },
+  {
+    "name": "Nishparigraha",
+    "exp": "She who does not accept help from others"
+  },
+  {
+    "name": "Nisthula",
+    "exp": "She who does not have anything to be compared to"
+  },
+  {
+    "name": "Neela chikura",
+    "exp": "She who has dark black hair"
+  },
+  {
+    "name": "Nirapaya",
+    "exp": "She who is never destroyed"
+  },
+  {
+    "name": "Nirathyaya",
+    "exp": "She who does not cross limits of rules she herself created"
+  },
+  {
+    "name": "Dhurlabha",
+    "exp": "She who is difficult to obtain"
+  },
+  {
+    "name": "Dhurgama",
+    "exp": "She who can not be neared easily"
+  },
+  {
+    "name": "Dhurga",
+    "exp": "She who is Dhurga who is a nine year old girl"
+  },
+  {
+    "name": "Dhuka hanthri",
+    "exp": "She who removes sorrows"
+  },
+  {
+    "name": "Sukha prada",
+    "exp": "She who gives pleasures and happiness"
+  },
+  {
+    "name": "Dushta doora",
+    "exp": "She who keeps far away from evil men"
+  },
+  {
+    "name": "Durachara samani",
+    "exp": "She who destroys evil practices"
+  },
+  {
+    "name": "Dosha varjitha",
+    "exp": "She who does not have anything bad"
+  },
+  {
+    "name": "Sarvangna",
+    "exp": "She who knows everything"
+  },
+  {
+    "name": "Saandra karuna",
+    "exp": "She who is full of mercy"
+  },
+  {
+    "name": "Samanadhika varjitha",
+    "exp": "She who is incomparable"
+  },
+  {
+    "name": "Sarva shakthi mayi",
+    "exp": "She who has personification of all strengths"
+  },
+  {
+    "name": "Sarva mangala",
+    "exp": "She who is personification of all that is good"
+  },
+  {
+    "name": "Sad gathi prada",
+    "exp": "She who gives us good path"
+  },
+  {
+    "name": "Sarveshwari",
+    "exp": "She who is goddess of all"
+  },
+  {
+    "name": "Sarva mayi",
+    "exp": "She who is everywhere"
+  },
+  {
+    "name": "Sarva manthra swaroopini",
+    "exp": "She who is personification of all manthras"
+  },
+  {
+    "name": "Sarva yanthrathmika",
+    "exp": "She who is represented by all yantras(Talisman)"
+  },
+  {
+    "name": "Sarva thanthra roopa",
+    "exp": "She who is also goddess of all Thanthras which is a method of worship"
+  },
+  {
+    "name": "Manonmani",
+    "exp": "She who is the result of mental thoughts of thoughts and actions"
+  },
+  {
+    "name": "Maaheswari",
+    "exp": "She who is the consort of Maheswara (Lord of everything)"
+  },
+  {
+    "name": "Mahaa devi",
+    "exp": "She who is the consort of Mahe Deva(God of all gods)"
+  },
+  {
+    "name": "Maha lakshmi",
+    "exp": "She who takes the form of Mahalaksmi, the goddess of wealth"
+  },
+  {
+    "name": "Mrida priya",
+    "exp": "She who is dear to Mrida (a name of Lord Shiva)"
+  },
+  {
+    "name": "Maha roopa",
+    "exp": "She who is very big"
+  },
+  {
+    "name": "Maha poojya",
+    "exp": "She who is fit to be worshipped by great people"
+  },
+  {
+    "name": "Maha pathaka nasini",
+    "exp": "She who destroys the major misdemeanors"
+  },
+  {
+    "name": "Maha maya",
+    "exp": "She who is the great illusion"
+  },
+  {
+    "name": "Maha sathva",
+    "exp": "She who is greatly knowledgeable"
+  },
+  {
+    "name": "Maha sakthi",
+    "exp": "She who is very strong"
+  },
+  {
+    "name": "Maha rathi",
+    "exp": "She who gives great happiness"
+  },
+  {
+    "name": "Maha bhoga",
+    "exp": "She who enjoys great pleasures"
+  },
+  {
+    "name": "Mahaiswarya",
+    "exp": "She who has great wealth"
+  },
+  {
+    "name": "Maha veerya",
+    "exp": "She who has great valour"
+  },
+  {
+    "name": "Maha bala",
+    "exp": "She who is very strong"
+  },
+  {
+    "name": "Maha bhudhi",
+    "exp": "She who is very intelligent"
+  },
+  {
+    "name": "Maha sidhi",
+    "exp": "She who has great super natural powers"
+  },
+  {
+    "name": "Maha yogeswareswari",
+    "exp": "She who is goddess of great yogis"
+  },
+  {
+    "name": "Mahathanthra",
+    "exp": "She who has the greatest Thantra sasthras"
+  },
+  {
+    "name": "Mahamanthra",
+    "exp": "She who has the greatest manthras"
+  },
+  {
+    "name": "Mahayanthra",
+    "exp": "She who has the greatest yanthras"
+  },
+  {
+    "name": "Mahasana",
+    "exp": "She who has the greatest seat"
+  },
+  {
+    "name": "Maha yaga kramaradhya",
+    "exp": "She who should be worshipped by performing great sacrifices( Bhavana yaga and Chidagni Kunda yaga)"
+  },
+  {
+    "name": "Maha bhairava poojitha",
+    "exp": "She who is being worshipped by the great Bhairava"
+  },
+  {
+    "name": "Maheswara Mahakalpa Maha thandava sakshini",
+    "exp": "She who will be the witness to the great dance to be performed by the great lord at the end of the worlds"
+  },
+  {
+    "name": "Maha kamesha mahishi",
+    "exp": "She who is the prime consort of the great Kameshwara"
+  },
+  {
+    "name": "Maha tripura sundari",
+    "exp": "She who is the beauty of the three great cities"
+  },
+  {
+    "name": "Chatustatyupacharadya",
+    "exp": "She who should be worshipped with sixty four offerings"
+  },
+  {
+    "name": "Chathu sashti kala mayi",
+    "exp": "She who has sixty four sections"
+  },
+  {
+    "name": "Maha Chathusashti kodi yogini gana sevitha",
+    "exp": "She who is being worshipped by the sixty four crore yoginis in the nine different charkas"
+  },
+  {
+    "name": "Manu Vidya",
+    "exp": "She who is personification of Sri Vidya as expounded by Manu"
+  },
+  {
+    "name": "Chandra Vidya",
+    "exp": "She who is personification of Sri Vidya as expounded by Moon"
+  },
+  {
+    "name": "Chandra mandala Madhyaga",
+    "exp": "She who is in the center of the universe around the moon"
+  },
+  {
+    "name": "Charu Roopa",
+    "exp": "She who is very beautiful"
+  },
+  {
+    "name": "Charu Hasa",
+    "exp": "She who has a beautiful smile"
+  },
+  {
+    "name": "Charu Chandra Kaladhara",
+    "exp": "She who wears the beautiful crescent"
+  },
+  {
+    "name": "Charachara Jagannatha",
+    "exp": "She who is the Lord of all moving and immobile things"
+  },
+  {
+    "name": "Chakra Raja Nikethana",
+    "exp": "She who lives in the middle of Sree Chakra"
+  },
+  {
+    "name": "Parvathi",
+    "exp": "She who is the daughter of the mountain"
+  },
+  {
+    "name": "Padma nayana",
+    "exp": "She who has eyes like the lotus"
+  },
+  {
+    "name": "Padma raga samaprabha",
+    "exp": "She who shines as much as the Padma Raga jewel"
+  },
+  {
+    "name": "Pancha prethasana seena",
+    "exp": "She who sits on the seat of five dead bodies ( these are Brahma , Vishnu, Rudra, Eesa and Sadasiva without their Shakthi(consort))"
+  },
+  {
+    "name": "Pancha brahma swaroopini",
+    "exp": "She who is personification of five brahmas ( they are the gods mentioned in the last name with their Shakthi)"
+  },
+  {
+    "name": "Chinmayi",
+    "exp": "She who is the personification action in every thing"
+  },
+  {
+    "name": "Paramananda",
+    "exp": "She who is supremely happy"
+  },
+  {
+    "name": "Vignana Gana Roopini",
+    "exp": "She who is the personification of knowledge based on science"
+  },
+  {
+    "name": "Dhyana Dhyathru dhyeya roopa",
+    "exp": "She who is personification of meditation, the being who meditates and what is being meditated upon"
+  },
+  {
+    "name": "Dharmadhrama vivarjitha",
+    "exp": "She who is beyond Dharma (justice) and Adharma(injustice)"
+  },
+  {
+    "name": "Viswa roopa",
+    "exp": "She who has the form of the universe"
+  },
+  {
+    "name": "Jagarini",
+    "exp": "She who is always awake"
+  },
+  {
+    "name": "Swapanthi",
+    "exp": "She who is always in the state of dream"
+  },
+  {
+    "name": "Thaijasathmika",
+    "exp": "She who is the form of Thaijasa which is microbial concept"
+  },
+  {
+    "name": "Suptha",
+    "exp": "She who is in deep sleep"
+  },
+  {
+    "name": "Prangnathmika",
+    "exp": "She who is awake"
+  },
+  {
+    "name": "Thurya",
+    "exp": "She who is in trance"
+  },
+  {
+    "name": "Sarvavastha vivarjitha",
+    "exp": "She who is above all states"
+  },
+  {
+    "name": "Srishti karthri",
+    "exp": "She who creates"
+  },
+  {
+    "name": "Brahma roopa",
+    "exp": "She who is the personification of ultimate"
+  },
+  {
+    "name": "Gopthri",
+    "exp": "She who saves"
+  },
+  {
+    "name": "Govinda roopini",
+    "exp": "She who is of the form of Govinda"
+  },
+  {
+    "name": "Samharini",
+    "exp": "She who destroys"
+  },
+  {
+    "name": "Rudhra roopa",
+    "exp": "She who is of the form of Rudhra"
+  },
+  {
+    "name": "Thirodhana kari",
+    "exp": "She who hides herself from us"
+  },
+  {
+    "name": "Eeswari",
+    "exp": "She who is of the form of easwara"
+  },
+  {
+    "name": "Sadashivaa",
+    "exp": "She who is of the form of Sadashiva"
+  },
+  {
+    "name": "Anugrahada",
+    "exp": "She who blesses"
+  },
+  {
+    "name": "Pancha krithya parayana",
+    "exp": "She who is engaged in the five duties of creation, existence, dissolving, disappearing, and blessing"
+  },
+  {
+    "name": "Bhanu mandala madhyastha",
+    "exp": "She who is in the middle of the sun’s universe"
+  },
+  {
+    "name": "Bhairavi",
+    "exp": "She who is the consort of Bhairava"
+  },
+  {
+    "name": "Bhaga malini",
+    "exp": "She who is the goddess bhaga malini"
+  },
+  {
+    "name": "Padmasana",
+    "exp": "She who sits on a lotus"
+  },
+  {
+    "name": "Bhagavathi",
+    "exp": "She who is with all wealth and knowledge"
+  },
+  {
+    "name": "Padmanabha sahodari",
+    "exp": "She who is the sister of Vishnu"
+  },
+  {
+    "name": "Unmesha nimishotpanna vipanna bhuvanavali",
+    "exp": "She who creates and destroys the universe by opening and closing of her eye lids"
+  },
+  {
+    "name": "Sahasra seersha vadana",
+    "exp": "She who has thousands of faces and heads"
+  },
+  {
+    "name": "Saharakshi",
+    "exp": "She who has thousands of eyes"
+  },
+  {
+    "name": "Sahasra path",
+    "exp": "She who has thousands of feet"
+  },
+  {
+    "name": "Aabrahma keeda janani",
+    "exp": "She has created all beings from worm to Lord Brahma"
+  },
+  {
+    "name": "Varnashrama vidhayini",
+    "exp": "She who created the four fold division of society"
+  },
+  {
+    "name": "Nijangna roopa nigama",
+    "exp": "She who gave orders which are based on Vedas"
+  },
+  {
+    "name": "Punyapunya phala pradha",
+    "exp": "She who gives compensation for sins and good deeds"
+  },
+  {
+    "name": "Sruthi seemantha kula sindhoori kritha padabjha dhooliga",
+    "exp": "She whose dust from her lotus feet is the sindhoora fills up in the parting of the hair of the Vedic mother"
+  },
+  {
+    "name": "Sakalagama sandoha shukthi samputa maukthika",
+    "exp": "She who is like the pearl in the pearl holding shell of Vedas"
+  },
+  {
+    "name": "Purashartha pradha",
+    "exp": "She who gives us the purusharthas of Charity, assets, joy and moksha"
+  },
+  {
+    "name": "Poorna",
+    "exp": "She who is complete"
+  },
+  {
+    "name": "Bhogini",
+    "exp": "She who enjoys pleasures"
+  },
+  {
+    "name": "Bhuvaneshwari",
+    "exp": "She who is the Goddess presiding over the universe"
+  },
+  {
+    "name": "Ambika",
+    "exp": "She who is the mother of the world"
+  },
+  {
+    "name": "Anadhi nidhana",
+    "exp": "She who does not have either end or beginning"
+  },
+  {
+    "name": "Hari brahmendra sevitha",
+    "exp": "She who is served by Gods like Vishnu,Indra and Brahma"
+  },
+  {
+    "name": "Naarayani",
+    "exp": "She who is like Narayana"
+  },
+  {
+    "name": "Naada roopa",
+    "exp": "She who is the shape of music (sound)"
+  },
+  {
+    "name": "Nama roopa vivarjitha",
+    "exp": "She who does not have either name or shape"
+  },
+  {
+    "name": "Hrim kari",
+    "exp": "She who makes the holy sound Hrim"
+  },
+  {
+    "name": "Harimathi",
+    "exp": "She who is shy"
+  },
+  {
+    "name": "Hrudya",
+    "exp": "She who is in the heart (devotees)"
+  },
+  {
+    "name": "Heyopadeya varjitha",
+    "exp": "She who does not have aspects which can be accepted or rejected"
+  },
+  {
+    "name": "Raja rajarchitha",
+    "exp": "She who is being worshipped by king of kings"
+  },
+  {
+    "name": "Rakhini",
+    "exp": "She who is the queen of Kameshwara"
+  },
+  {
+    "name": "Ramya",
+    "exp": "She who makes others happy"
+  },
+  {
+    "name": "Rajeeva lochana",
+    "exp": "She who is lotus eyed"
+  },
+  {
+    "name": "Ranjani",
+    "exp": "She who by her red colour makes Shiva also red"
+  },
+  {
+    "name": "Ramani",
+    "exp": "She who plays with her devotees"
+  },
+  {
+    "name": "Rasya",
+    "exp": "She who feeds the juice of everything"
+  },
+  {
+    "name": "Ranath kinkini mekhala",
+    "exp": "She who wears the golden waist band with tinkling bells"
+  },
+  {
+    "name": "Ramaa",
+    "exp": "She who is like Lakshmi"
+  },
+  {
+    "name": "Raakendu vadana",
+    "exp": "She who has a face like the full moon"
+  },
+  {
+    "name": "Rathi roopa",
+    "exp": "She who attracts others with her features like Rathi (wife of God of love-Manmatha)"
+  },
+  {
+    "name": "Rathi priya",
+    "exp": "She who likes Rathi"
+  },
+  {
+    "name": "Rakshaa kari",
+    "exp": "She who protects"
+  },
+  {
+    "name": "Rakshasagni",
+    "exp": "She who kills Rakshasas-ogres opposed to the heaven"
+  },
+  {
+    "name": "Raamaa",
+    "exp": "She who is feminine"
+  },
+  {
+    "name": "Ramana lampata",
+    "exp": "She who is interested in making love to her lord"
+  },
+  {
+    "name": "Kaamya",
+    "exp": "She who is of the form of love"
+  },
+  {
+    "name": "Kamakala roopa",
+    "exp": "She who is the personification of the art of love"
+  },
+  {
+    "name": "Kadambha kusuma priya",
+    "exp": "She who likes the flowers of Kadamba"
+  },
+  {
+    "name": "Kalyani",
+    "exp": "She who does good"
+  },
+  {
+    "name": "Jagathi kandha",
+    "exp": "She who is like a root to the world"
+  },
+  {
+    "name": "Karuna rasa sagara",
+    "exp": "She who is the sea of the juice of mercy"
+  },
+  {
+    "name": "Kalavathi",
+    "exp": "She who is an artist or she who has crescents"
+  },
+  {
+    "name": "Kalaalapa",
+    "exp": "She whose talk is artful"
+  },
+  {
+    "name": "Kaantha",
+    "exp": "She who glitters"
+  },
+  {
+    "name": "Kadambari priya",
+    "exp": "She who likes the wine called Kadambari or She who likes long stories"
+  },
+  {
+    "name": "Varadha",
+    "exp": "She who gives boons"
+  },
+  {
+    "name": "Vama nayana",
+    "exp": "She who has beautiful eyes"
+  },
+  {
+    "name": "Vaaruni madha vihwala",
+    "exp": "She who gets drunk with the wine called varuni(The wine of happiness)"
+  },
+  {
+    "name": "Viswadhika",
+    "exp": "She who is above all universe"
+  },
+  {
+    "name": "Veda vedya",
+    "exp": "She who can be understood by Vedas"
+  },
+  {
+    "name": "Vindhyachala nivasini",
+    "exp": "She who lives on Vindhya mountains"
+  },
+  {
+    "name": "Vidhatri",
+    "exp": "She who carries the world"
+  },
+  {
+    "name": "Veda janani",
+    "exp": "She who created the Vedas"
+  },
+  {
+    "name": "Vishnu maya",
+    "exp": "She who lives as the Vishnu maya"
+  },
+  {
+    "name": "Vilasini",
+    "exp": "She who enjoys love making"
+  },
+  {
+    "name": "Kshetra swaroopa",
+    "exp": "She who is personification of the Kshetra or body"
+  },
+  {
+    "name": "Kshetresi",
+    "exp": "She who is goddess of bodies"
+  },
+  {
+    "name": "Kshethra kshethragna palini",
+    "exp": "She who looks after bodies and their lord"
+  },
+  {
+    "name": "Kshaya vridhi nirmuktha",
+    "exp": "She who neither decreases or increases"
+  },
+  {
+    "name": "Kshetra pala samarchitha",
+    "exp": "She who is worshipped by those who look after bodies"
+  },
+  {
+    "name": "Vijaya",
+    "exp": "She who is always victorious"
+  },
+  {
+    "name": "Vimala",
+    "exp": "She who is clean of ignorance and illusion"
+  },
+  {
+    "name": "Vandhya",
+    "exp": "She who is being worshipped by every body"
+  },
+  {
+    "name": "Vandharu jana vatsala",
+    "exp": "She who has affection towards all those who worship her"
+  },
+  {
+    "name": "Vaag vadhini",
+    "exp": "She who uses words with great effect in arguments"
+  },
+  {
+    "name": "Vama kesi",
+    "exp": "She who has beautiful hair"
+  },
+  {
+    "name": "Vahni mandala vaasini",
+    "exp": "She who lives in the universe of fire which is Mooladhara"
+  },
+  {
+    "name": "Bhakthi mat kalpa lathika",
+    "exp": "She who is the wish giving creeper Kalpaga"
+  },
+  {
+    "name": "Pasu pasa vimochani",
+    "exp": "She who removes shackles from the living"
+  },
+  {
+    "name": "Samhrutha sesha pashanda",
+    "exp": "She who destroys those people who have left their faith"
+  },
+  {
+    "name": "Sadachara pravarthika",
+    "exp": "She who makes things happen through good conduct"
+  },
+  {
+    "name": "Thapatryagni santhaptha samahladahna chandrika",
+    "exp": "She who is like the pleasure giving moon to those who suffer from the three types of pain"
+  },
+  {
+    "name": "Tharuni",
+    "exp": "She who is ever young"
+  },
+  {
+    "name": "Thapasa aradhya",
+    "exp": "She who is being worshipped by sages"
+  },
+  {
+    "name": "Thanu Madhya",
+    "exp": "She who has a narrow middle (hip)"
+  },
+  {
+    "name": "Thamopaha",
+    "exp": "She who destroys darkness"
+  },
+  {
+    "name": "Chithi",
+    "exp": "She who is personification of wisdom"
+  },
+  {
+    "name": "Thatpada lakshyartha",
+    "exp": "She who is the indicative meaning of the word “thath” which is the first word of vedic saying “that thou art”"
+  },
+  {
+    "name": "Chidekara swaroopini",
+    "exp": "She who is wisdom through out"
+  },
+  {
+    "name": "Swathmananda lavi bhootha brahmadyanantha santhathi",
+    "exp": "She who in her ocean of wisdom makes Wisdom about Brahmam look like a wave"
+  },
+  {
+    "name": "Paraa",
+    "exp": "She who is the outside meaning of every thing"
+  },
+  {
+    "name": "Prathyak chidi roopa",
+    "exp": "She who makes us look for wisdom inside"
+  },
+  {
+    "name": "Pasyanthi",
+    "exp": "She who sees everything within herself"
+  },
+  {
+    "name": "Para devatha",
+    "exp": "She who gives power to all gods"
+  },
+  {
+    "name": "Madhyama",
+    "exp": "She who is in the middle of everything"
+  },
+  {
+    "name": "Vaikhari roopa",
+    "exp": "She who is of the form with words"
+  },
+  {
+    "name": "Bhaktha manasa hamsikha",
+    "exp": "She who is like a swan in the lake called mind"
+  },
+  {
+    "name": "Kameshwara prana nadi",
+    "exp": "She who is the life source of Kameswara"
+  },
+  {
+    "name": "Kruthagna",
+    "exp": "She who watches all actions of every one or She who knows all"
+  },
+  {
+    "name": "Kama poojitha",
+    "exp": "She who is being worshipped by the god of love in the kama giri peeta of Mooladhara chakra-Kama"
+  },
+  {
+    "name": "Srungara rasa sampoorna",
+    "exp": "She who is lovely"
+  },
+  {
+    "name": "Jayaa",
+    "exp": "She who is personification of victory"
+  },
+  {
+    "name": "Jalandhara sthitha",
+    "exp": "She who is on Jalandhara peetha or She who is purest of the pure"
+  },
+  {
+    "name": "Odyana peeda nilaya",
+    "exp": "She who is on Odyana peetha or She who lives in orders"
+  },
+  {
+    "name": "Bindu mandala vaasini",
+    "exp": "She who lives in the dot in the center of Srichakra"
+  },
+  {
+    "name": "Raho yoga kramaradhya",
+    "exp": "She who can be worshipped by secret sacrificial rites"
+  },
+  {
+    "name": "Rahas tarpana tarpitha",
+    "exp": "She who is pleased of chants knowing its meaning"
+  },
+  {
+    "name": "Sadya prasadini",
+    "exp": "She who is pleased immediately"
+  },
+  {
+    "name": "Viswa sakshini",
+    "exp": "She who is the witness for the universe"
+  },
+  {
+    "name": "Sakshi varjitha",
+    "exp": "She who does not have witness for herself"
+  },
+  {
+    "name": "Shadanga devatha yuktha",
+    "exp": "She who has her six parts as gods viz., heart, head, hair. Battle dress, eyes and arrows"
+  },
+  {
+    "name": "Shadgunya paripooritha",
+    "exp": "She who is full of six characteristics viz., wealth, duty, fame, knowledge, assets and renunciation"
+  },
+  {
+    "name": "Nithya klinna",
+    "exp": "She in whose heart there is always mercy"
+  },
+  {
+    "name": "Nirupama",
+    "exp": "She who does not have anything to be compared to"
+  },
+  {
+    "name": "Nirvanasukha dayini",
+    "exp": "She who gives redemption"
+  },
+  {
+    "name": "Nithya shodasika roopa",
+    "exp": "She who is of the form sixteen goddesses"
+  },
+  {
+    "name": "Sri kandartha sareerini",
+    "exp": "She who occupies half the body of Lord Shiva"
+  },
+  {
+    "name": "Prabhavathi",
+    "exp": "She who is lustrous of supernatural powers"
+  },
+  {
+    "name": "Prabha roopa",
+    "exp": "She who is personification of the light provided by super natural powers"
+  },
+  {
+    "name": "Prasiddha",
+    "exp": "She who is famous"
+  },
+  {
+    "name": "Parameshwari",
+    "exp": "She who is the ultimate goddess"
+  },
+  {
+    "name": "Moola prakrithi",
+    "exp": "She who is the root cause"
+  },
+  {
+    "name": "Avyaktha",
+    "exp": "She who is not clearly seen"
+  },
+  {
+    "name": "Vyktha Avyaktha swaroopini",
+    "exp": "She who is visible and not visible"
+  },
+  {
+    "name": "Vyapini",
+    "exp": "She who is spread everywhere"
+  },
+  {
+    "name": "Vividhakara",
+    "exp": "She who has several different forms"
+  },
+  {
+    "name": "Vidhya avidhya swaroopini",
+    "exp": "She who is the form of knowledge as well as ignorance"
+  },
+  {
+    "name": "Maha kamesha nayana kumudahladha kaumudhi",
+    "exp": "She who is like the full moon which opens the lotus like eyes of Lord Kameshwara"
+  },
+  {
+    "name": "Bhaktha hardha thamo bedha bhanu mat bhanu santhathi",
+    "exp": "She who is like the sun’s rays which remove the darkness from the heart of devotees"
+  },
+  {
+    "name": "Shivadhoothi",
+    "exp": "She who sent Shiva as her representative"
+  },
+  {
+    "name": "Shivaradhya",
+    "exp": "She who is worshipped by Lord Shiva"
+  },
+  {
+    "name": "Shiva moorthi",
+    "exp": "She who is of the form of Lord Shiva"
+  },
+  {
+    "name": "Shivangari",
+    "exp": "She who makes good to happen"
+  },
+  {
+    "name": "Shiva priya",
+    "exp": "She who is dear to Lord Shiva"
+  },
+  {
+    "name": "Shivapara",
+    "exp": "She who does not have any other interest except Lord Shiva"
+  },
+  {
+    "name": "Shishteshta",
+    "exp": "She who likes people with good habits"
+  },
+  {
+    "name": "Shishta poojitha",
+    "exp": "She who is being worshipped by good people"
+  },
+  {
+    "name": "Aprameya",
+    "exp": "She who cannot be measured"
+  },
+  {
+    "name": "Swaprakasha",
+    "exp": "She who has her own luster"
+  },
+  {
+    "name": "Mano vachama gochara",
+    "exp": "She who is beyond the mind and the word"
+  },
+  {
+    "name": "Chitsakthi",
+    "exp": "She who is the strength of holy knowledge"
+  },
+  {
+    "name": "Chethana roopa",
+    "exp": "She who is the personification of the power behind action"
+  },
+  {
+    "name": "Jada shakthi",
+    "exp": "She who is the strength of the immobile"
+  },
+  {
+    "name": "Jadathmikha",
+    "exp": "She who is the world of immobile"
+  },
+  {
+    "name": "Gayathri",
+    "exp": "She who is Gayathri"
+  },
+  {
+    "name": "Vyahruthi",
+    "exp": "She who is the grammar originating from letters"
+  },
+  {
+    "name": "Sandhya",
+    "exp": "She who is the union of souls and the God"
+  },
+  {
+    "name": "Dwija brinda nishewitha",
+    "exp": "She who is being worshipped by all beings"
+  },
+  {
+    "name": "Tatwasana",
+    "exp": "She who sits on principles"
+  },
+  {
+    "name": "Tat",
+    "exp": "She who is that"
+  },
+  {
+    "name": "Twam",
+    "exp": "She who is you"
+  },
+  {
+    "name": "Ayee",
+    "exp": "She who is the mother"
+  },
+  {
+    "name": "Pancha kosandara sthitha",
+    "exp": "She who is in between the five holy parts"
+  },
+  {
+    "name": "Nissema mahima",
+    "exp": "She who has limitless fame"
+  },
+  {
+    "name": "Nithya youawana",
+    "exp": "She who is ever young"
+  },
+  {
+    "name": "Madha shalini",
+    "exp": "She who shines by her exuberance"
+  },
+  {
+    "name": "Madha goornitha rakthakshi",
+    "exp": "She who has rotating red eyes due to her exuberance"
+  },
+  {
+    "name": "Madha patala khandaboo",
+    "exp": "She who has red cheeks due to excessive action"
+  },
+  {
+    "name": "Chandana drava dhigdhangi",
+    "exp": "She who applies sandal paste all over her body"
+  },
+  {
+    "name": "Champeya kusuma priya",
+    "exp": "She who likes the flowers of Champaka tree"
+  },
+  {
+    "name": "Kusala",
+    "exp": "She who is intelligent"
+  },
+  {
+    "name": "Komalakara",
+    "exp": "She who has soft beautiful form"
+  },
+  {
+    "name": "Kuru kulla",
+    "exp": "She who is of the form of Kuru kulla devi who lives in Vimarsa"
+  },
+  {
+    "name": "Kuleshwari",
+    "exp": "She who is the goddess for the clan"
+  },
+  {
+    "name": "Kula kundalaya",
+    "exp": "She who lives in kula kunda or She who is the power called Kundalani"
+  },
+  {
+    "name": "Kaula marga that para sevitha",
+    "exp": "She who is being worshipped by people who follow Kaula matha"
+  },
+  {
+    "name": "Kumara gana nadambha",
+    "exp": "She who is mother to Ganesha and Subrahmanya"
+  },
+  {
+    "name": "Thushti",
+    "exp": "She who is personification of happiness"
+  },
+  {
+    "name": "Pushti",
+    "exp": "She who is personification of health"
+  },
+  {
+    "name": "Mathi",
+    "exp": "She who is personification of wisdom"
+  },
+  {
+    "name": "Dhrithi",
+    "exp": "She who is personification of courage"
+  },
+  {
+    "name": "Santhi",
+    "exp": "She who is peaceful"
+  },
+  {
+    "name": "Swasthimathi",
+    "exp": "She who always keeps well"
+  },
+  {
+    "name": "Kanthi",
+    "exp": "She who is personification of light"
+  },
+  {
+    "name": "Nandhini",
+    "exp": "She who is personification of Nadhini daughter of Kama denu"
+  },
+  {
+    "name": "Vigna nasini",
+    "exp": "She who removes obstacles"
+  },
+  {
+    "name": "Tejowathi",
+    "exp": "She who shines"
+  },
+  {
+    "name": "Trinayana",
+    "exp": "She who has three eyes"
+  },
+  {
+    "name": "Lolakshi-Kamaroopini",
+    "exp": "She who has wandering passionate eyes"
+  },
+  {
+    "name": "Malini",
+    "exp": "She who wears a garland"
+  },
+  {
+    "name": "Hamsini",
+    "exp": "She who is surrounded by swans"
+  },
+  {
+    "name": "Matha",
+    "exp": "She who is the mother"
+  },
+  {
+    "name": "Malayachala vasini",
+    "exp": "She who lives in the Malaya mountain"
+  },
+  {
+    "name": "Sumukhi",
+    "exp": "She who has a pleasing disposition"
+  },
+  {
+    "name": "Nalini",
+    "exp": "She who is tender"
+  },
+  {
+    "name": "Subru",
+    "exp": "She who has beautiful eyelids"
+  },
+  {
+    "name": "Shobhana",
+    "exp": "She who brings good things"
+  },
+  {
+    "name": "Sura Nayika",
+    "exp": "She who is the leader of devas"
+  },
+  {
+    "name": "Kala kanti",
+    "exp": "She who is the consort of he who killed the god of death"
+  },
+  {
+    "name": "Kanthi mathi",
+    "exp": "She who has ethereal luster"
+  },
+  {
+    "name": "Kshobhini",
+    "exp": "She who creates high emotions or She who gets agitated"
+  },
+  {
+    "name": "Sukshma roopini",
+    "exp": "She who has a micro stature"
+  },
+  {
+    "name": "Vajreshwari",
+    "exp": "She who is Vajreswari (lord of diamonds) who occupies jalandhara peetha"
+  },
+  {
+    "name": "Vamadevi",
+    "exp": "She who is the consort of Vama deva"
+  },
+  {
+    "name": "Vayovastha vivarjitha",
+    "exp": "She who does not change with age"
+  },
+  {
+    "name": "Sidheswari",
+    "exp": "She who is the goddess of Siddhas (saints with super natural powers)"
+  },
+  {
+    "name": "Sidha vidya",
+    "exp": "She who is personification of pancha dasa manthra which is called siddha vidya"
+  },
+  {
+    "name": "Sidha matha",
+    "exp": "She who is the mother of Siddhas"
+  },
+  {
+    "name": "Yasawini",
+    "exp": "She who is famous"
+  },
+  {
+    "name": "Vishudhichakra Nilaya",
+    "exp": "She who is in sixteen petalled lotus"
+  },
+  {
+    "name": "Aarakthavarni",
+    "exp": "She who is slightly red"
+  },
+  {
+    "name": "Trilochana",
+    "exp": "She who has three eyes"
+  },
+  {
+    "name": "Khadwangadhi prakarana",
+    "exp": "She who has arms like the sword"
+  },
+  {
+    "name": "Vadanaika samavidha",
+    "exp": "She who has one face"
+  },
+  {
+    "name": "Payasanna priya",
+    "exp": "She who likes sweet rice (Payasam)"
+  },
+  {
+    "name": "Twakstha",
+    "exp": "She who lives in the sensibility of the skin"
+  },
+  {
+    "name": "Pasu loka Bhayamkari",
+    "exp": "She who creates fear for animal like men"
+  },
+  {
+    "name": "Amruthathi maha sakthi samvrutha",
+    "exp": "She who is surrounded by Maha shakthis like Amrutha,Karshini, Indrani, Eesani, uma,Urdwa kesi"
+  },
+  {
+    "name": "Dakineeswari",
+    "exp": "She who is goddess of the south(denoting death)"
+  },
+  {
+    "name": "Anahathabja nilaya",
+    "exp": "She who lives in the twelve petalled lotus"
+  },
+  {
+    "name": "Syamabha",
+    "exp": "She who is greenish black"
+  },
+  {
+    "name": "Vadanadwaya",
+    "exp": "She who has two faces"
+  },
+  {
+    "name": "Dhamshtrojwala",
+    "exp": "She who shines with long protruding teeth"
+  },
+  {
+    "name": "Aksha maladhi dhara",
+    "exp": "She who wears meditation chains"
+  },
+  {
+    "name": "Rudhira samsthida",
+    "exp": "She who is in blood"
+  },
+  {
+    "name": "Kala rathryadhi Shakthi youga vrudha",
+    "exp": "She who is surrounded by Shakthis like Kalarathri. Kanditha, Gayathri, ….etc"
+  },
+  {
+    "name": "Sniggdowdhana priya",
+    "exp": "She who likes Ghee mixed rice"
+  },
+  {
+    "name": "Maha veerendra varadha",
+    "exp": "She who gives boons to great heroes or She who gives boons to great sages"
+  },
+  {
+    "name": "Rakinyambha swaroopini",
+    "exp": "She who has names like rakini"
+  },
+  {
+    "name": "Mani poorabja nilaya",
+    "exp": "She who lives in ten petalled lotus"
+  },
+  {
+    "name": "Vadana thraya samyudha",
+    "exp": "She who has three faces"
+  },
+  {
+    "name": "Vajradhikayudhopetha",
+    "exp": "She who has weapons like Vajrayudha"
+  },
+  {
+    "name": "Damaryadhibhi ravrutha",
+    "exp": "She who is surrounded by Goddess like Damari"
+  },
+  {
+    "name": "Raktha varna",
+    "exp": "She who is of the colour of blood"
+  },
+  {
+    "name": "Mamsa nishta",
+    "exp": "She who is in flesh"
+  },
+  {
+    "name": "Gudanna preetha manasa",
+    "exp": "She who likes rice mixed with jaggery"
+  },
+  {
+    "name": "Samastha bhaktha sukhadha",
+    "exp": "She who gives pleasure to all her devotees"
+  },
+  {
+    "name": "Lakinyambha swaroopini",
+    "exp": "She who is famous in the name of “Lakini”"
+  },
+  {
+    "name": "Swadhishtanambujagatha",
+    "exp": "She who lives in the six petalled lotus"
+  },
+  {
+    "name": "Chathur vakthra manohara",
+    "exp": "She who has four beautiful faces"
+  },
+  {
+    "name": "Sulayudha sampanna",
+    "exp": "She who has weapons like Spear"
+  },
+  {
+    "name": "Peetha varna",
+    "exp": "She who is of golden colour"
+  },
+  {
+    "name": "Adhi garvitha",
+    "exp": "She who is very proud"
+  },
+  {
+    "name": "Medho nishta",
+    "exp": "She who is in the fatty layer"
+  },
+  {
+    "name": "Madhu preetha",
+    "exp": "She who likes honey"
+  },
+  {
+    "name": "Bhandinyadhi samanvidha",
+    "exp": "She who is surrounded by Shakthis called Bandhini"
+  },
+  {
+    "name": "Dhadyanna saktha hridhaya",
+    "exp": "She who likes curd rice"
+  },
+  {
+    "name": "Kakini roopa dharini",
+    "exp": "She who resembles “Kakini”"
+  },
+  {
+    "name": "Mooladrambujarooda",
+    "exp": "She who sits on the mooladhara kamala or the lotus which is the basic support"
+  },
+  {
+    "name": "Pancha vakthra",
+    "exp": "She who has five faces"
+  },
+  {
+    "name": "Sthithi samsthitha",
+    "exp": "She who is in the bones"
+  },
+  {
+    "name": "Ankusathi praharana",
+    "exp": "She who holds Ankusha and other weapons"
+  },
+  {
+    "name": "Varadadhi nishevitha",
+    "exp": "She who is surrounded by Vardha and other shakthis"
+  },
+  {
+    "name": "Mudgou danasaktha chittha",
+    "exp": "She who likes rice mixed with green gram dhal"
+  },
+  {
+    "name": "Sakinyambha swaroopini",
+    "exp": "She who has the name “Sakini”"
+  },
+  {
+    "name": "Agna chakrabja nilaya",
+    "exp": "She who sits on the lotus called Agna chakra or the wheel of order"
+  },
+  {
+    "name": "Shukla varna",
+    "exp": "She who is white coloured"
+  },
+  {
+    "name": "Shadanana",
+    "exp": "She who has six faces"
+  },
+  {
+    "name": "Majja samstha",
+    "exp": "She who is in the fat surrounding the body"
+  },
+  {
+    "name": "Hamsavathi mukhya shakthi samanvitha",
+    "exp": "She who is surrounded by shakthis called Hamsavathi"
+  },
+  {
+    "name": "Hardrannaika rasika",
+    "exp": "She who likes rice mixed with turmeric powder"
+  },
+  {
+    "name": "Hakini roopa dharini",
+    "exp": "She who has the name “Hakini”"
+  },
+  {
+    "name": "Sahasra dhala padhmastha",
+    "exp": "She who sits on thousand petalled lotus"
+  },
+  {
+    "name": "Sarva varnopi shobitha",
+    "exp": "She who shines in all colours"
+  },
+  {
+    "name": "Sarvayudha dhara",
+    "exp": "She who is armed with all weapons"
+  },
+  {
+    "name": "Shukla samsthitha",
+    "exp": "She who is in shukla or semen"
+  },
+  {
+    "name": "Sarvathomukhi",
+    "exp": "She who has faces everywhere"
+  },
+  {
+    "name": "Sarvou dhana preetha chittha",
+    "exp": "She who likes all types of rice"
+  },
+  {
+    "name": "Yakinyambha swaroopini",
+    "exp": "She who is named as “yakini”"
+  },
+  {
+    "name": "Swaha",
+    "exp": "She who is personification of Swaha ( the manthra chanted during fire sacrifice )"
+  },
+  {
+    "name": "Swadha",
+    "exp": "She who is of the form of Swadha"
+  },
+  {
+    "name": "Amathi",
+    "exp": "She who is ignorance"
+  },
+  {
+    "name": "Medha",
+    "exp": "She who is knowledge"
+  },
+  {
+    "name": "Sruthi",
+    "exp": "She who is Vedas"
+  },
+  {
+    "name": "Smrithi",
+    "exp": "She who is the guide to Vedas"
+  },
+  {
+    "name": "Anuthama",
+    "exp": "She who is above all"
+  },
+  {
+    "name": "Punya keerthi",
+    "exp": "She who is famous for good deeds"
+  },
+  {
+    "name": "Punya labhya",
+    "exp": "She who can be attained by good deeds"
+  },
+  {
+    "name": "Punya sravana keerthana",
+    "exp": "She who gives good for those who listen and those who sing about her"
+  },
+  {
+    "name": "Pulomajarchidha",
+    "exp": "She who is worshipped by wife of Indra"
+  },
+  {
+    "name": "Bandha mochini",
+    "exp": "She who releases us from bondage"
+  },
+  {
+    "name": "Barbharalaka",
+    "exp": "She who has forelocks which resembles waves"
+  },
+  {
+    "name": "Vimarsa roopini",
+    "exp": "She who is hidden from view"
+  },
+  {
+    "name": "Vidhya",
+    "exp": "She who is “learning”"
+  },
+  {
+    "name": "Viyadhadhi jagat prasu",
+    "exp": "She who created the earth and the sky"
+  },
+  {
+    "name": "Sarva vyadhi prasamani",
+    "exp": "She who cures all diseases"
+  },
+  {
+    "name": "Sarva mrutyu nivarini",
+    "exp": "She who avoids all types of death"
+  },
+  {
+    "name": "Agra ganya",
+    "exp": "She who is at the top"
+  },
+  {
+    "name": "Achintya roopa",
+    "exp": "She who is beyond thought"
+  },
+  {
+    "name": "Kali kalmasha nasini",
+    "exp": "She who removes the ills of the dark age"
+  },
+  {
+    "name": "Kathyayini",
+    "exp": "She who is Kathyayini in Odyana peetha or She who is the daughter of sage Kathyayana"
+  },
+  {
+    "name": "Kala hanthri",
+    "exp": "She who kills god of death"
+  },
+  {
+    "name": "Kamalaksha nishevitha",
+    "exp": "She who is being worshipped by the lotus eyed Vishnu"
+  },
+  {
+    "name": "Thamboola pooritha mukhi",
+    "exp": "She whose mouth is filled with betel leaves , betel nut and lime"
+  },
+  {
+    "name": "Dhadimi kusuma prabha",
+    "exp": "She whose colour is like the pomegranate bud"
+  },
+  {
+    "name": "Mrgakshi",
+    "exp": "She who has eyes like deer"
+  },
+  {
+    "name": "Mohini",
+    "exp": "She who bewitches"
+  },
+  {
+    "name": "Mukhya",
+    "exp": "She who is the chief"
+  },
+  {
+    "name": "Mridani",
+    "exp": "She who gives pleasure"
+  },
+  {
+    "name": "Mithra roopini",
+    "exp": "She who is of the form of Sun"
+  },
+  {
+    "name": "Nithya Truptha",
+    "exp": "She who is satisfied always"
+  },
+  {
+    "name": "Bhaktha Nidhi",
+    "exp": "She who is the treasure house of devotees"
+  },
+  {
+    "name": "Niyanthri",
+    "exp": "She who controls"
+  },
+  {
+    "name": "Nikhileswari",
+    "exp": "She who is goddess for every thing"
+  },
+  {
+    "name": "Maitryadhi vasana Labhya",
+    "exp": "She who can be attained by habits like Maithree (friendship)"
+  },
+  {
+    "name": "Maha pralaya sakshini",
+    "exp": "She who is the witness to the great deluge"
+  },
+  {
+    "name": "Para Shakthi",
+    "exp": "She who is the end strength"
+  },
+  {
+    "name": "Para Nishta",
+    "exp": "She who is at the end of concentration"
+  },
+  {
+    "name": "Prgnana Gana roopini",
+    "exp": "She who is personification of all superior knowledge"
+  },
+  {
+    "name": "Madhvi pana lasaa",
+    "exp": "She who is not interested in anything else due to drinking of toddy"
+  },
+  {
+    "name": "Matha",
+    "exp": "She who appears to be fainted"
+  },
+  {
+    "name": "Mathruka varna roopini",
+    "exp": "She who is the model of colour and shape"
+  },
+  {
+    "name": "Maha Kailasa nilaya",
+    "exp": "She who sits on Maha Kailasa"
+  },
+  {
+    "name": "Mrinala mrudhu dhorllatha",
+    "exp": "She who has arms as tender as lotus stalk"
+  },
+  {
+    "name": "Mahaneeya",
+    "exp": "She who is fit to be venerated"
+  },
+  {
+    "name": "Dhaya moorthi",
+    "exp": "She who is personification of mercy"
+  },
+  {
+    "name": "Maha samrajya shalini",
+    "exp": "She who is the chef of all the worlds"
+  },
+  {
+    "name": "Atma vidhya",
+    "exp": "She who is the science of soul"
+  },
+  {
+    "name": "Maha Vidhya",
+    "exp": "She who is the great knowledge"
+  },
+  {
+    "name": "Srividhya",
+    "exp": "She who is the knowledge of Goddess"
+  },
+  {
+    "name": "Kama sevitha",
+    "exp": "She who is worshipped by Kama, the God of love"
+  },
+  {
+    "name": "Sri Shodasakshari vidhya",
+    "exp": "She who is the sixteen lettered knowledge"
+  },
+  {
+    "name": "Trikoota",
+    "exp": "She who is divided in to three parts"
+  },
+  {
+    "name": "Kama Kotika",
+    "exp": "She who sits on Kama Koti peetha"
+  },
+  {
+    "name": "Kataksha kimkari bhootha kamala koti sevitha",
+    "exp": "She who is attended by crores of Lakshmis who yearn for her simple glance"
+  },
+  {
+    "name": "Shira sthitha",
+    "exp": "She who is in the head"
+  },
+  {
+    "name": "Chandra nibha",
+    "exp": "She who is like the full moon"
+  },
+  {
+    "name": "Bhalastha",
+    "exp": "She who is in the forehead"
+  },
+  {
+    "name": "Indra Dhanu Prabha",
+    "exp": "She who is like the rain bow"
+  },
+  {
+    "name": "Hridayastha",
+    "exp": "She who is in the heart"
+  },
+  {
+    "name": "Ravi pragya",
+    "exp": "She who has luster like Sun God"
+  },
+  {
+    "name": "Tri konanthara deepika",
+    "exp": "She who is like a light in a triangle"
+  },
+  {
+    "name": "Dakshayani",
+    "exp": "She who is the daughter of Daksha"
+  },
+  {
+    "name": "Dhithya hanthri",
+    "exp": "She who kills asuras"
+  },
+  {
+    "name": "Daksha yagna vinasini",
+    "exp": "She who destroyed the sacrifice of Rudra"
+  },
+  {
+    "name": "Dharandholitha deergakshi",
+    "exp": "She who has long eyes which have slight movement"
+  },
+  {
+    "name": "Dharahasojwalanmukhi",
+    "exp": "She who has face that glitters with her smile"
+  },
+  {
+    "name": "Guru moorthi",
+    "exp": "She who is the teacher"
+  },
+  {
+    "name": "Guna nidhi",
+    "exp": "She who is the treasure house of good qualities"
+  },
+  {
+    "name": "Gomatha",
+    "exp": "She who is the mother cow"
+  },
+  {
+    "name": "Guhajanma bhoo",
+    "exp": "She who is the birth place of Lord Subrahmanya"
+  },
+  {
+    "name": "Deveshi",
+    "exp": "She who is the goddess of Gods"
+  },
+  {
+    "name": "Dhanda neethistha",
+    "exp": "She who judges and punishes"
+  },
+  {
+    "name": "Dhaharakasa roopini",
+    "exp": "She who is of the form of wide sky"
+  },
+  {
+    "name": "Prathi panmukhya rakantha thidhi mandala poojitha",
+    "exp": "She who is being worshipped on all the fifteen days from full moon to new moon"
+  },
+  {
+    "name": "Kalathmika",
+    "exp": "She who is the soul of arts"
+  },
+  {
+    "name": "Kala nadha",
+    "exp": "She who is the chief of arts"
+  },
+  {
+    "name": "Kavya labha vimodhini",
+    "exp": "She who enjoys being described in epics"
+  },
+  {
+    "name": "Sachamara rama vani savya dhakshina sevitha",
+    "exp": "She who is being fanned by Lakshmi the goddess of wealth and Saraswathi the goddess of knowledge"
+  },
+  {
+    "name": "Adishakthi",
+    "exp": "She who is the primeval force"
+  },
+  {
+    "name": "Ameya",
+    "exp": "She who cannot be measured"
+  },
+  {
+    "name": "Atma",
+    "exp": "She who is the soul"
+  },
+  {
+    "name": "Parama",
+    "exp": "She who is better than all others"
+  },
+  {
+    "name": "Pavana krithi",
+    "exp": "She who is personification of purity"
+  },
+  {
+    "name": "Aneka koti Bramanda janani",
+    "exp": "She who is the mother of several billions of universes"
+  },
+  {
+    "name": "Divya Vigraha",
+    "exp": "She who is beautifully made"
+  },
+  {
+    "name": "Klim karee",
+    "exp": "She who is the shape of “Klim”"
+  },
+  {
+    "name": "Kevalaa",
+    "exp": "She who is she herself"
+  },
+  {
+    "name": "Guhya",
+    "exp": "She who is secret"
+  },
+  {
+    "name": "Kaivalya Padha dhayini",
+    "exp": "She who gives redemption as well as position"
+  },
+  {
+    "name": "Tripura",
+    "exp": "She who lives everything in three aspects"
+  },
+  {
+    "name": "Trijagat vandhya",
+    "exp": "She who is worshipped by all in three worlds"
+  },
+  {
+    "name": "Trimurthi",
+    "exp": "She who is the trinity"
+  },
+  {
+    "name": "Tri daseswari",
+    "exp": "She who is the goddess for all gods"
+  },
+  {
+    "name": "Tryakshya",
+    "exp": "She who is of the form of three letters"
+  },
+  {
+    "name": "Divya Gandhadya",
+    "exp": "She who has godly smell"
+  },
+  {
+    "name": "Sindhura thila kanchidha",
+    "exp": "She who wears the sindhoora dot in her forehead"
+  },
+  {
+    "name": "Uma",
+    "exp": "She who is in “om”"
+  },
+  {
+    "name": "Sailendra Thanaya",
+    "exp": "She who is the daughter of the king of mountains"
+  },
+  {
+    "name": "Gowri",
+    "exp": "She who is white coloured"
+  },
+  {
+    "name": "Gandharwa Sevitha",
+    "exp": "She who is worshipped by gandharwas"
+  },
+  {
+    "name": "Viswa Grabha",
+    "exp": "She who carries the universe in her belly"
+  },
+  {
+    "name": "Swarna Garbha",
+    "exp": "She who is personification of gold"
+  },
+  {
+    "name": "Avaradha",
+    "exp": "She who punishes bad people"
+  },
+  {
+    "name": "Vagadeeswaree",
+    "exp": "She who is the goddess of words"
+  },
+  {
+    "name": "Dhyanagamya",
+    "exp": "She who can be attained by meditation"
+  },
+  {
+    "name": "Aparichedya",
+    "exp": "She who cannot be predicted to be in a certain place"
+  },
+  {
+    "name": "Gnadha",
+    "exp": "She who gives out knowledge"
+  },
+  {
+    "name": "Gnana Vigraha",
+    "exp": "She who is personification of knowledge"
+  },
+  {
+    "name": "Sarva vedhantha samvedya",
+    "exp": "She who can be known by all Upanishads"
+  },
+  {
+    "name": "Satyananda swaroopini",
+    "exp": "She who is personification of truth and happiness"
+  },
+  {
+    "name": "Lopa mudrarchitha",
+    "exp": "She who is worshipped by Lopa Mudhra the wife of Agasthya"
+  },
+  {
+    "name": "Leela kluptha brahmanda mandala",
+    "exp": "She who creates the different universes by simple play"
+  },
+  {
+    "name": "Adurshya",
+    "exp": "She who cannot be seen"
+  },
+  {
+    "name": "Drusya rahitha",
+    "exp": "She who does not see things differently"
+  },
+  {
+    "name": "Vignathree",
+    "exp": "She who knows all sciences"
+  },
+  {
+    "name": "Vedhya varjitha",
+    "exp": "She who does not have any need to know anything"
+  },
+  {
+    "name": "Yogini",
+    "exp": "She who is personification of Yoga"
+  },
+  {
+    "name": "Yogadha",
+    "exp": "She who gives knowledge and experience of yoga"
+  },
+  {
+    "name": "Yogya",
+    "exp": "She who can be reached by yoga"
+  },
+  {
+    "name": "Yogananda",
+    "exp": "She who gets pleasure out of yoga"
+  },
+  {
+    "name": "Yugandhara",
+    "exp": "She who wears the yuga (Division of eons of time)"
+  },
+  {
+    "name": "Iccha shakthi-Gnana shakthi-Kriya shakthi swaroopini",
+    "exp": "She who has desire as her head, Knowledge as her body and work as her feet"
+  },
+  {
+    "name": "Sarvaadhara",
+    "exp": "She who is the basis of everything"
+  },
+  {
+    "name": "Suprathishta",
+    "exp": "She who is the best place of stay"
+  },
+  {
+    "name": "Sada sadroopa dharini",
+    "exp": "She who always has truth in her"
+  },
+  {
+    "name": "Ashta moorthy",
+    "exp": "She who has eight forms"
+  },
+  {
+    "name": "Aja jethree",
+    "exp": "She who has won over ignorance"
+  },
+  {
+    "name": "Loka yathra vidahyini",
+    "exp": "She who makes the world rotate(travel)"
+  },
+  {
+    "name": "Ekakini",
+    "exp": "She who is only herself and alone"
+  },
+  {
+    "name": "Bhooma roopa",
+    "exp": "She who is what we see , hear and understand"
+  },
+  {
+    "name": "Nirdwaitha",
+    "exp": "She who makes everything as one"
+  },
+  {
+    "name": "Dwaitha varjitha",
+    "exp": "She who is away from “more than one”"
+  },
+  {
+    "name": "Annadha",
+    "exp": "She who gives food"
+  },
+  {
+    "name": "Vasudha",
+    "exp": "She who gives wealth"
+  },
+  {
+    "name": "Vriddha",
+    "exp": "She who is old"
+  },
+  {
+    "name": "Brhmatmykya swaroopini",
+    "exp": "She who merges herself in brahma-the ultimate truth"
+  },
+  {
+    "name": "Brihathi",
+    "exp": "She who is big"
+  },
+  {
+    "name": "Brahmani",
+    "exp": "She who is the wife of easwara"
+  },
+  {
+    "name": "Brahmi",
+    "exp": "She who has one aspect of Brhma"
+  },
+  {
+    "name": "Brahmananda",
+    "exp": "She who is the ultimate happiness"
+  },
+  {
+    "name": "Bali priya",
+    "exp": "She who likes the strong"
+  },
+  {
+    "name": "Bhasha roopa",
+    "exp": "She who is personification of language"
+  },
+  {
+    "name": "Brihat sena",
+    "exp": "She who has big army"
+  },
+  {
+    "name": "Bhavabhava vivarjitha",
+    "exp": "She who does not have birth or death"
+  },
+  {
+    "name": "Sukharadhya",
+    "exp": "She who can be worshipped with pleasure"
+  },
+  {
+    "name": "Shubhakaree",
+    "exp": "She who does good"
+  },
+  {
+    "name": "Shobhana sulabha gathi",
+    "exp": "She who is easy to attain and does only good"
+  },
+  {
+    "name": "Raja rajeswari",
+    "exp": "She who is goddess to king of kings like Devaraja, Yaksha raja, , Brahma, Vishnu and Rudra"
+  },
+  {
+    "name": "Rajya Dhayini",
+    "exp": "She who gives kingdoms like Vaikunta, kailasa etc"
+  },
+  {
+    "name": "Rajya vallabha",
+    "exp": "She who likes such kingdoms"
+  },
+  {
+    "name": "Rajat krupa",
+    "exp": "She whose mercy shines everywhere"
+  },
+  {
+    "name": "Raja peetha nivesitha nijasritha",
+    "exp": "She who makes people approaching her as kings"
+  },
+  {
+    "name": "Rajya lakshmi",
+    "exp": "She who is the wealth of kingdoms"
+  },
+  {
+    "name": "Kosa natha",
+    "exp": "She who protects the treasury"
+  },
+  {
+    "name": "Chathuranga baleswai",
+    "exp": "She who is the leader of the four fold army (Mind, brain, thought and ego)"
+  },
+  {
+    "name": "Samrajya Dhayini",
+    "exp": "She who makes you emperor"
+  },
+  {
+    "name": "Sathya Sandha",
+    "exp": "She who is truthful"
+  },
+  {
+    "name": "Sagara Mekhala",
+    "exp": "She who is the earth surrounded by the sea"
+  },
+  {
+    "name": "Deekshitha",
+    "exp": "She who gives the right to do fire sacrifice"
+  },
+  {
+    "name": "Dhaitya Shamani",
+    "exp": "She who controls anti gods"
+  },
+  {
+    "name": "Sarva loka vasam kari",
+    "exp": "She who keeps all the world within her control"
+  },
+  {
+    "name": "Sarvartha Dhatri",
+    "exp": "She who gives all wealth"
+  },
+  {
+    "name": "Savithri",
+    "exp": "She who is shines like the sun"
+  },
+  {
+    "name": "Sachidananda roopini",
+    "exp": "She who is personification of the ultimate truth"
+  },
+  {
+    "name": "Desa kala parischinna",
+    "exp": "She who is not divided by region or time"
+  },
+  {
+    "name": "Sarvaga",
+    "exp": "She who is full of everywhere"
+  },
+  {
+    "name": "Sarva mohini",
+    "exp": "She who attracts every thing"
+  },
+  {
+    "name": "Saraswathi",
+    "exp": "She who is the goddess of knowledge"
+  },
+  {
+    "name": "Sasthra mayi",
+    "exp": "She who is the meaning of sciences"
+  },
+  {
+    "name": "Guhamba",
+    "exp": "She who is mother of Lord Subrahmanya (Guha)"
+  },
+  {
+    "name": "Guhya roopini",
+    "exp": "She whose form is hidden from all"
+  },
+  {
+    "name": "Sarvo padhi vinirmuktha",
+    "exp": "She who does not have any doctrines"
+  },
+  {
+    "name": "Sada shiva pathi vritha",
+    "exp": "She who is devoted wife for all times to Lord Shiva"
+  },
+  {
+    "name": "Sampradhayeshwari",
+    "exp": "She who is goddess to rituals or She who is goddess to teacher-student hierarchy"
+  },
+  {
+    "name": "Sadhu",
+    "exp": "She who is innocent"
+  },
+  {
+    "name": "Ee",
+    "exp": "She who is the letter “e”"
+  },
+  {
+    "name": "Guru mandala roopini",
+    "exp": "She who is the universe round teachers"
+  },
+  {
+    "name": "Kulotheerna",
+    "exp": "She who is beyond the group of senses"
+  },
+  {
+    "name": "Bhagaradhya",
+    "exp": "She who is to be worshipped in the universe round the sun"
+  },
+  {
+    "name": "Maya",
+    "exp": "She who is illusion"
+  },
+  {
+    "name": "Madhumathi",
+    "exp": "She who is the trance stage (seventh ) in yoga"
+  },
+  {
+    "name": "Mahee",
+    "exp": "She who is personification of earth"
+  },
+  {
+    "name": "Ganamba",
+    "exp": "She who is mother to Ganesha and bhootha ganas"
+  },
+  {
+    "name": "Guhyakaradhya",
+    "exp": "She who should be worshipped in secret places"
+  },
+  {
+    "name": "Komalangi",
+    "exp": "She who has beautiful limbs"
+  },
+  {
+    "name": "Guru Priya",
+    "exp": "She who likes teachers"
+  },
+  {
+    "name": "Swathanthra",
+    "exp": "She who is independent"
+  },
+  {
+    "name": "Sarwa thanthresi",
+    "exp": "She who is goddess to all thanthras (tricks to attain God)"
+  },
+  {
+    "name": "Dakshina moorthi roopini",
+    "exp": "She who is the personification of God facing South (The teacher form of Shiva)"
+  },
+  {
+    "name": "Sanakadhi samaradhya",
+    "exp": "She who is being worshipped by Sanaka sages"
+  },
+  {
+    "name": "Siva gnana pradhayini",
+    "exp": "She who gives the knowledge of God"
+  },
+  {
+    "name": "Chid kala",
+    "exp": "She who is the micro power deep within"
+  },
+  {
+    "name": "Ananda Kalika",
+    "exp": "She who is the happiness in beings"
+  },
+  {
+    "name": "Prema roopa",
+    "exp": "She who is the form of love"
+  },
+  {
+    "name": "Priyamkaree",
+    "exp": "She who does what is liked"
+  },
+  {
+    "name": "Nama parayana preetha",
+    "exp": "She who likes repetition of her various names"
+  },
+  {
+    "name": "Nandhi vidhya",
+    "exp": "She who is the knowledge taught by Nandi deva (The bull god on whom shiva rides)"
+  },
+  {
+    "name": "Nateshwaree",
+    "exp": "She who is the goddess of dance"
+  },
+  {
+    "name": "Mithya Jagat athishtana",
+    "exp": "She who is luck to this world of illusion"
+  },
+  {
+    "name": "Mukthida",
+    "exp": "She who gives redemption"
+  },
+  {
+    "name": "Mukthi roopini",
+    "exp": "She who is redemption"
+  },
+  {
+    "name": "Lasya priya",
+    "exp": "She who likes feminine dance"
+  },
+  {
+    "name": "Laya karee",
+    "exp": "She who is the bridge between dance and music"
+  },
+  {
+    "name": "Lajja",
+    "exp": "She who is shy"
+  },
+  {
+    "name": "Rambha adhi vandhitha",
+    "exp": "She who is worshipped by the celestial dancers"
+  },
+  {
+    "name": "Bhava dhava sudha vrishti",
+    "exp": "She who douses the forest fire of the sad life of mortals with a rain of nectar."
+  },
+  {
+    "name": "Paparanya dhavanala",
+    "exp": "She who is the forest fire that destroys the forest of sin"
+  },
+  {
+    "name": "Daurbhagya thoolavathoola",
+    "exp": "She who is the cyclone that blows away the cotton of bad luck."
+  },
+  {
+    "name": "Jaradwanthara viprabha",
+    "exp": "She who is the suns rays that swallows the darkness of old age"
+  },
+  {
+    "name": "Bhagyabdhi chandrika",
+    "exp": "She who is the full moon to the sea of luck"
+  },
+  {
+    "name": "Bhaktha Chitta Keki Ganagana",
+    "exp": "She who is the black cloud to the peacock which is he devotees mind"
+  },
+  {
+    "name": "Roga parvatha Dhambola",
+    "exp": "She who is the Vajra weapon which breaks the sickness which is like the mountain"
+  },
+  {
+    "name": "Mrutyu Dharu Kudarika",
+    "exp": "She who is like the axe which fells the tree of death"
+  },
+  {
+    "name": "Maheswaree",
+    "exp": "She who is the greatest goddess"
+  },
+  {
+    "name": "Maha kali",
+    "exp": "She who is the great Kalee"
+  },
+  {
+    "name": "Maha grasa",
+    "exp": "She who is like a great drinking bowl"
+  },
+  {
+    "name": "Mahasana",
+    "exp": "She who is the great eater"
+  },
+  {
+    "name": "Aparna",
+    "exp": "She who did meditation without even eating a leaf"
+  },
+  {
+    "name": "Chandika",
+    "exp": "She who is supremely angry"
+  },
+  {
+    "name": "Chanda mundasura nishoodhini",
+    "exp": "She who killed the asuras called Chanda and Munda"
+  },
+  {
+    "name": "Ksharaksharathmika",
+    "exp": "She who can never be destroyed and also destroyed"
+  },
+  {
+    "name": "Sarva lokesi",
+    "exp": "She who is goddess to all the worlds"
+  },
+  {
+    "name": "Viswa Dharini",
+    "exp": "She who carries all the universe"
+  },
+  {
+    "name": "Thrivarga Dhathri",
+    "exp": "She who gives dharma, Assets and pleasure"
+  },
+  {
+    "name": "Subhaga",
+    "exp": "She who is pleasing to look at"
+  },
+  {
+    "name": "Thryambhaga",
+    "exp": "She who has three eyes"
+  },
+  {
+    "name": "Trigunathmika",
+    "exp": "She who is personification of three gunas viz .,Thamo (Kali), Rajo (Dhurga) and Sathva (Parvathy)"
+  },
+  {
+    "name": "Swargapavargadha",
+    "exp": "She who gives heaven and the way to it"
+  },
+  {
+    "name": "Shuddha",
+    "exp": "She who is clean"
+  },
+  {
+    "name": "Japapushpa nibhakrithi",
+    "exp": "She who has the colour of hibiscus"
+  },
+  {
+    "name": "Ojovathi",
+    "exp": "She who is full of vigour"
+  },
+  {
+    "name": "Dhyuthidhara",
+    "exp": "She who has light"
+  },
+  {
+    "name": "Yagna roopa",
+    "exp": "She who is of the form of sacrifice"
+  },
+  {
+    "name": "Priyavrudha",
+    "exp": "She who likes penances"
+  },
+  {
+    "name": "Dhuraradhya",
+    "exp": "She who is rarely available for worship"
+  },
+  {
+    "name": "Dhuradharsha",
+    "exp": "She who cannot be won"
+  },
+  {
+    "name": "Patali kusuma priya",
+    "exp": "She who likes the buds of Patali tree"
+  },
+  {
+    "name": "Mahathi",
+    "exp": "She who is big"
+  },
+  {
+    "name": "Meru nilaya",
+    "exp": "She who lives in Meru mountain"
+  },
+  {
+    "name": "Mandhara kusuma priya",
+    "exp": "She who likes the buds of Mandhara tree"
+  },
+  {
+    "name": "Veeraradhya",
+    "exp": "She who is worshipped by heroes"
+  },
+  {
+    "name": "Virad Roopa",
+    "exp": "She who a universal look"
+  },
+  {
+    "name": "Viraja",
+    "exp": "She who does not have any blemish"
+  },
+  {
+    "name": "Viswathomukhi",
+    "exp": "She who sees through every ones eyes"
+  },
+  {
+    "name": "Prathyg roopa",
+    "exp": "She who can be seen by looking inside"
+  },
+  {
+    "name": "Parakasa",
+    "exp": "She who is the great sky"
+  },
+  {
+    "name": "Pranadha",
+    "exp": "She who gives the soul"
+  },
+  {
+    "name": "Prana roopini",
+    "exp": "She who is the soul"
+  },
+  {
+    "name": "Marthanda Bhairavaradhya",
+    "exp": "She who is being worshipped by Marthanda Bhairava"
+  },
+  {
+    "name": "Manthrini nyashtha rajyadhoo",
+    "exp": "She who gave the power to rule to her form of Manthrini"
+  },
+  {
+    "name": "Tripuresi",
+    "exp": "She who is the head of three cities"
+  },
+  {
+    "name": "Jayatsena",
+    "exp": "She who has an army which wins"
+  },
+  {
+    "name": "Nistrai gunya",
+    "exp": "She who is above the three qualities"
+  },
+  {
+    "name": "Parapara",
+    "exp": "She who is outside and inside"
+  },
+  {
+    "name": "Satya gnananda roopa",
+    "exp": "She who is personification of truth, knowledge and happiness"
+  },
+  {
+    "name": "Samarasya parayana",
+    "exp": "She who stands in peace"
+  },
+  {
+    "name": "Kapardhini",
+    "exp": "She who is the wife of Kapardhi (Siva with hair)"
+  },
+  {
+    "name": "Kalamala",
+    "exp": "She who wears arts as garlands"
+  },
+  {
+    "name": "Kamadhukh",
+    "exp": "She who fulfills desires"
+  },
+  {
+    "name": "Kama roopini",
+    "exp": "She who can take any form"
+  },
+  {
+    "name": "Kala nidhi",
+    "exp": "She who is the treasure of arts"
+  },
+  {
+    "name": "Kavya kala",
+    "exp": "She who is the art of writing"
+  },
+  {
+    "name": "Rasagna",
+    "exp": "She who appreciates arts"
+  },
+  {
+    "name": "Rasa sevadhi",
+    "exp": "She who is the treasure of arts"
+  },
+  {
+    "name": "Pushta",
+    "exp": "She who is healthy"
+  },
+  {
+    "name": "Purathana",
+    "exp": "She who is ancient"
+  },
+  {
+    "name": "Poojya",
+    "exp": "She who is fit to be worshipped"
+  },
+  {
+    "name": "Pushkara",
+    "exp": "She who gives exuberance"
+  },
+  {
+    "name": "Pushkarekshana",
+    "exp": "She who has lotus like eyes"
+  },
+  {
+    "name": "Paramjyothi",
+    "exp": "She who is the ultimate light"
+  },
+  {
+    "name": "Param dhama",
+    "exp": "She who is the ultimate resting place"
+  },
+  {
+    "name": "Paramanu",
+    "exp": "She who is the ultimate atom"
+  },
+  {
+    "name": "Parath para",
+    "exp": "She who is better than the best"
+  },
+  {
+    "name": "Pasa Hastha",
+    "exp": "She who has rope in her hand"
+  },
+  {
+    "name": "Pasa Hanthri",
+    "exp": "She who cuts off attachment"
+  },
+  {
+    "name": "Para manthra Vibhedini",
+    "exp": "She who destroys the effect of spells cast"
+  },
+  {
+    "name": "Moortha",
+    "exp": "She who has a form"
+  },
+  {
+    "name": "Amoortha",
+    "exp": "She who does not have a form"
+  },
+  {
+    "name": "Anithya thriptha",
+    "exp": "She who gets happy with prayers using temporary things"
+  },
+  {
+    "name": "Muni manasa hamsika",
+    "exp": "She who is the swan in the mind ( lake like) of sages"
+  },
+  {
+    "name": "Satya vritha",
+    "exp": "She who has resolved to speak only truth"
+  },
+  {
+    "name": "Sathya roopa",
+    "exp": "She who is the real form"
+  },
+  {
+    "name": "Sarvantharyamini",
+    "exp": "She who is within everything"
+  },
+  {
+    "name": "Sathee",
+    "exp": "She who is Sathee the daughter of Daksha"
+  },
+  {
+    "name": "Brahmani",
+    "exp": "She who is the strength behind creator"
+  },
+  {
+    "name": "Brahmaa",
+    "exp": "She who is the creator"
+  },
+  {
+    "name": "Janani",
+    "exp": "She who is the mother"
+  },
+  {
+    "name": "Bahu roopa",
+    "exp": "She who has several forms"
+  },
+  {
+    "name": "Budharchitha",
+    "exp": "She who is being worshipped by the enlightened"
+  },
+  {
+    "name": "Prasavithri",
+    "exp": "She who has given birth to everything"
+  },
+  {
+    "name": "Prachanda",
+    "exp": "She who is very angry"
+  },
+  {
+    "name": "Aagna",
+    "exp": "She who is the order"
+  },
+  {
+    "name": "Prathishta",
+    "exp": "She who has been installed"
+  },
+  {
+    "name": "Prakata Krithi",
+    "exp": "She who is clearly visible"
+  },
+  {
+    "name": "Praneshwari",
+    "exp": "She who is goddess to the soul"
+  },
+  {
+    "name": "Prana Dhatri",
+    "exp": "She who gives the soul"
+  },
+  {
+    "name": "Panchast peeta roopini",
+    "exp": "She who is in fifty Shakthi peethas like Kama ropa, Varanasi. Ujjain etc"
+  },
+  {
+    "name": "Vishungala",
+    "exp": "She who is not chained"
+  },
+  {
+    "name": "Vivikthastha",
+    "exp": "She who is in lonely places"
+  },
+  {
+    "name": "Veera matha",
+    "exp": "She who is the mother of heroes"
+  },
+  {
+    "name": "Viyat prasoo",
+    "exp": "She who has created the sky"
+  },
+  {
+    "name": "Mukundaa",
+    "exp": "She who gives redemption"
+  },
+  {
+    "name": "Mukthi nilaya",
+    "exp": "She who is the seat of redemption"
+  },
+  {
+    "name": "Moola vigraha roopini",
+    "exp": "She who is the basic statue"
+  },
+  {
+    "name": "Bavagna",
+    "exp": "She who understands wishes and thoughts"
+  },
+  {
+    "name": "Bhava rokagni",
+    "exp": "She who cures the sin of birth"
+  },
+  {
+    "name": "Bhava Chakra Pravarthani",
+    "exp": "She makes the wheel of birth rotate"
+  },
+  {
+    "name": "Chanda sara",
+    "exp": "She who is the meaning of Vedas"
+  },
+  {
+    "name": "Sasthra sara",
+    "exp": "She who is the meaning of Puranas(epics)"
+  },
+  {
+    "name": "Manthra sara",
+    "exp": "She who is the meaning of Manthras ( chants)"
+  },
+  {
+    "name": "Thalodharee",
+    "exp": "She who has a small belly"
+  },
+  {
+    "name": "Udara keerthi",
+    "exp": "She who has wide and tall fame"
+  },
+  {
+    "name": "Uddhhama vaibhava",
+    "exp": "She who has immeasurable fame"
+  },
+  {
+    "name": "Varna roopini",
+    "exp": "She who is personification of alphabets"
+  },
+  {
+    "name": "Janma mrutyu jara thaptha jana vishranthi dhayini",
+    "exp": "She who is the panacea of ills of birth, death and aging"
+  },
+  {
+    "name": "Sarvopanisha dhudh gushta",
+    "exp": "She who is being loudly announced as the greatest by Upanishads"
+  },
+  {
+    "name": "Shantyathheetha kalathmika",
+    "exp": "She who is a greater art than peace"
+  },
+  {
+    "name": "Gambheera",
+    "exp": "She whose depth cannot be measured"
+  },
+  {
+    "name": "Gagananthastha",
+    "exp": "She who is situated in the sky"
+  },
+  {
+    "name": "Garvitha",
+    "exp": "She who is proud"
+  },
+  {
+    "name": "Gana lolupa",
+    "exp": "She who likes songs"
+  },
+  {
+    "name": "Kalpana rahitha",
+    "exp": "She who does not imagine"
+  },
+  {
+    "name": "Kashta",
+    "exp": "She who is in the ultimate boundary"
+  },
+  {
+    "name": "Akantha",
+    "exp": "She who removes sins"
+  },
+  {
+    "name": "Kanthatha vigraha",
+    "exp": "She who is half of her husband (kantha)"
+  },
+  {
+    "name": "Karya karana nirmuktha",
+    "exp": "She who is beyond the action and the cause"
+  },
+  {
+    "name": "Kama keli tharangitha",
+    "exp": "She who is the waves of the sea of the play of the God"
+  },
+  {
+    "name": "Kanath kanaka thadanga",
+    "exp": "She who wears the glittering golden ear studs"
+  },
+  {
+    "name": "Leela vigraha dharini",
+    "exp": "She who assumes several forms as play"
+  },
+  {
+    "name": "Ajha",
+    "exp": "She who does not have birth"
+  },
+  {
+    "name": "Kshaya nirmuktha",
+    "exp": "She who does not have death"
+  },
+  {
+    "name": "Gubdha",
+    "exp": "She who is beautiful"
+  },
+  {
+    "name": "Ksipra prasadhini",
+    "exp": "She who is pleased quickly"
+  },
+  {
+    "name": "Anthar mukha samaradhya",
+    "exp": "She who is worshipped by internal thoughts"
+  },
+  {
+    "name": "Bahir mukha sudurlabha",
+    "exp": "She who can be attained by external prayers"
+  },
+  {
+    "name": "Thrayee",
+    "exp": "She who is of the form of three Vedas viz Rik, yajur and sama"
+  },
+  {
+    "name": "Trivarga nilaya",
+    "exp": "She who is in three aspects of self, assets and pleasure"
+  },
+  {
+    "name": "Thristha",
+    "exp": "She who is in three"
+  },
+  {
+    "name": "Tripura malini",
+    "exp": "She who is in tripura the sixth section of Srichakra"
+  },
+  {
+    "name": "Niramaya",
+    "exp": "She who is without diseases"
+  },
+  {
+    "name": "Niralamba",
+    "exp": "She who does not need another birth"
+  },
+  {
+    "name": "Swatma rama",
+    "exp": "She who enjoys within herself"
+  },
+  {
+    "name": "Sudha sruthi",
+    "exp": "She who is the rain of nectar"
+  },
+  {
+    "name": "Samsara panga nirmagna samuddharana panditha",
+    "exp": "She who is capable of saving people who drown in the mud of day today life"
+  },
+  {
+    "name": "Yagna priya",
+    "exp": "She who likes fire sacrifice"
+  },
+  {
+    "name": "Yagna karthree",
+    "exp": "She who carries out fire sacrifice"
+  },
+  {
+    "name": "Yajamana swaroopini",
+    "exp": "She who is the doer of fire sacrifice"
+  },
+  {
+    "name": "Dharma dhara",
+    "exp": "She who is the basis of Dharma-the rightful action"
+  },
+  {
+    "name": "Dhanadyaksha",
+    "exp": "She who presides over wealth"
+  },
+  {
+    "name": "Dhanadhanya vivardhani",
+    "exp": "She who makes wealth and grain to grow"
+  },
+  {
+    "name": "Vipra priya",
+    "exp": "She who likes those who learn Vedas"
+  },
+  {
+    "name": "Vipra roopa",
+    "exp": "She who is the learner of Vedas"
+  },
+  {
+    "name": "Viswa brhamana karini",
+    "exp": "She who makes the universe to rotate"
+  },
+  {
+    "name": "Viswa grasa",
+    "exp": "She who eats the universe in one handful"
+  },
+  {
+    "name": "Vidhrumabha",
+    "exp": "She who has the luster of coral"
+  },
+  {
+    "name": "Vaishnavi",
+    "exp": "She who is the power of Vishnu"
+  },
+  {
+    "name": "Vishnu roopini",
+    "exp": "She who is Vishnu"
+  },
+  {
+    "name": "Ayoni",
+    "exp": "She who does not have a cause or She who is not born"
+  },
+  {
+    "name": "Yoni nilaya",
+    "exp": "She who is the cause and source of everything"
+  },
+  {
+    "name": "Kootastha",
+    "exp": "She who is stable"
+  },
+  {
+    "name": "Kula roopini",
+    "exp": "She who is personification of culture"
+  },
+  {
+    "name": "Veera goshti priya",
+    "exp": "She who likes company of heroes"
+  },
+  {
+    "name": "Veera",
+    "exp": "She who has valour"
+  },
+  {
+    "name": "Naish karmya",
+    "exp": "She who does not have attachment to action"
+  },
+  {
+    "name": "Nadha roopini",
+    "exp": "She who is the form of sound"
+  },
+  {
+    "name": "Vignana kalana",
+    "exp": "She who makes science"
+  },
+  {
+    "name": "Kalya",
+    "exp": "She who is expert in arts"
+  },
+  {
+    "name": "Vidhagdha",
+    "exp": "She who is an expert"
+  },
+  {
+    "name": "Baindavasana",
+    "exp": "She who sits in the dot of the thousand petalled lotus"
+  },
+  {
+    "name": "Tathwadhika",
+    "exp": "She who is above all metaphysics"
+  },
+  {
+    "name": "Tatwa mayee",
+    "exp": "She who is Metaphysics"
+  },
+  {
+    "name": "Tatwa Martha swaroopini",
+    "exp": "She who is personification of this and that"
+  },
+  {
+    "name": "Sama gana priya",
+    "exp": "She who likes singing of sama"
+  },
+  {
+    "name": "Soumya",
+    "exp": "She who is peaceful or She who is as pretty as the moon"
+  },
+  {
+    "name": "Sada shiva kutumbini",
+    "exp": "She who is consort of Sada shiva"
+  },
+  {
+    "name": "Savyapa savya margastha",
+    "exp": "She who is birth, death and living or She who likes the priestly and tantric methods"
+  },
+  {
+    "name": "Sarva apadvi nivarini",
+    "exp": "She who removes all dangers"
+  },
+  {
+    "name": "Swastha",
+    "exp": "She who has everything within her or She who is peaceful"
+  },
+  {
+    "name": "Swabhava madura",
+    "exp": "She who is by nature sweet"
+  },
+  {
+    "name": "Dheera",
+    "exp": "She who is courageous"
+  },
+  {
+    "name": "Dheera samarchida",
+    "exp": "She who is being worshipped by the courageous"
+  },
+  {
+    "name": "Chaithnyarkya samaradhya",
+    "exp": "She who is worshipped by the ablation of water"
+  },
+  {
+    "name": "Chaitanya kusuma priya",
+    "exp": "She who likes the never fading flowers"
+  },
+  {
+    "name": "Saddothitha",
+    "exp": "She who never sets"
+  },
+  {
+    "name": "Sadha thushta",
+    "exp": "She who is always happy"
+  },
+  {
+    "name": "Tharunadithya patala",
+    "exp": "She who like the young son is red mixed with white"
+  },
+  {
+    "name": "Dakshina Daksinaradhya",
+    "exp": "She who is worshipped by the learned and ignorant"
+  },
+  {
+    "name": "Dharasmera mukhambuja",
+    "exp": "She who has a smiling face like the lotus in full bloom"
+  },
+  {
+    "name": "Kaulini kevala",
+    "exp": "She who is mixture of the koula and kevala methods"
+  },
+  {
+    "name": "Anargya kaivalya pada dhayini",
+    "exp": "She who gives the immeasurable heavenly stature"
+  },
+  {
+    "name": "Stotra priya",
+    "exp": "She who likes chants"
+  },
+  {
+    "name": "Sthuthi mathi",
+    "exp": "She who gives boons for those who sing her chants"
+  },
+  {
+    "name": "Sthuthi samsthutha vaibhava",
+    "exp": "She who is worshipped by the Vedas"
+  },
+  {
+    "name": "Manaswaini",
+    "exp": "She who has a stable mind"
+  },
+  {
+    "name": "Manavathi",
+    "exp": "She who has big heart"
+  },
+  {
+    "name": "Mahesi",
+    "exp": "She who is the greatest goddess"
+  },
+  {
+    "name": "Mangala kruthi",
+    "exp": "She who does only good"
+  },
+  {
+    "name": "Viswa Matha",
+    "exp": "The mother of the universe"
+  },
+  {
+    "name": "Jagat Dhathri",
+    "exp": "She who supports the world"
+  },
+  {
+    "name": "Visalakshi",
+    "exp": "She who is broad eyed"
+  },
+  {
+    "name": "Viragini",
+    "exp": "She who has renounced"
+  },
+  {
+    "name": "Pragalbha",
+    "exp": "She who is courageous"
+  },
+  {
+    "name": "Paramodhara",
+    "exp": "She who is great giver"
+  },
+  {
+    "name": "Paramodha",
+    "exp": "She who has great happiness"
+  },
+  {
+    "name": "Manomayi",
+    "exp": "She who is one with mind"
+  },
+  {
+    "name": "Vyoma kesi",
+    "exp": "She who is the wife of Shiva who has sky as his hair"
+  },
+  {
+    "name": "Vimanastha",
+    "exp": "She who is at the top"
+  },
+  {
+    "name": "Vajrini",
+    "exp": "She who has indra’s wife as a part"
+  },
+  {
+    "name": "Vamakeshwaree",
+    "exp": "She who is goddess of the people who follow the left path"
+  },
+  {
+    "name": "Pancha yagna priya",
+    "exp": "She who likes the five sacrifices"
+  },
+  {
+    "name": "Pancha pretha manchadhi sayini",
+    "exp": "She who sleeps on the cot made of five corpses"
+  },
+  {
+    "name": "Panchami",
+    "exp": "She who is the consort of Sadshiva –the fifth of the pancha brahmas"
+  },
+  {
+    "name": "Pancha bhoothesi",
+    "exp": "She who is the chief of Pancha bhoothas viz earth, sky, fire, air. And water"
+  },
+  {
+    "name": "Pancha sankhyopacharini",
+    "exp": "She who is to be worshipped by five methods of Gandha(sandal wood), Pushpa(flower), Dhoopa(incense), dheepa(light), Naivedya(offering)"
+  },
+  {
+    "name": "Saswathi",
+    "exp": "She who is permanent"
+  },
+  {
+    "name": "Saswathaiswarya",
+    "exp": "She who gives perennial wealth"
+  },
+  {
+    "name": "Sarmadha",
+    "exp": "She who gives pleasure"
+  },
+  {
+    "name": "Sambhu mohini",
+    "exp": "She who bewitches Lord Shiva"
+  },
+  {
+    "name": "Dhara",
+    "exp": "She who carries (beings like earth)"
+  },
+  {
+    "name": "Dharasutha",
+    "exp": "She who is the daughter of the mountain"
+  },
+  {
+    "name": "Dhanya",
+    "exp": "She who has all sort of wealth"
+  },
+  {
+    "name": "Dharmini",
+    "exp": "She who likes dharma"
+  },
+  {
+    "name": "Dharma vardhini",
+    "exp": "She who makes dharma grow"
+  },
+  {
+    "name": "Loka theetha",
+    "exp": "She who is beyond the world"
+  },
+  {
+    "name": "Guna theetha",
+    "exp": "She who is beyond properties"
+  },
+  {
+    "name": "Sarvatheetha",
+    "exp": "She who is beyond everything"
+  },
+  {
+    "name": "Samathmika",
+    "exp": "She who is peace"
+  },
+  {
+    "name": "Bhandhooka kusuma prakhya",
+    "exp": "She who has the glitter of bhandhooka flowers"
+  },
+  {
+    "name": "Bala",
+    "exp": "She who is a young maiden"
+  },
+  {
+    "name": "Leela Vinodhini",
+    "exp": "She who loves to play"
+  },
+  {
+    "name": "Sumangali",
+    "exp": "She who gives all good things"
+  },
+  {
+    "name": "Sukha kari",
+    "exp": "She who gives pleasure"
+  },
+  {
+    "name": "Suveshadya",
+    "exp": "She who is well made up"
+  },
+  {
+    "name": "Suvasini",
+    "exp": "She who is sweet scented(married woman)"
+  },
+  {
+    "name": "Suvasinyarchana preetha",
+    "exp": "She who likes the worship of married woman"
+  },
+  {
+    "name": "AAshobhana",
+    "exp": "She who has full glitter"
+  },
+  {
+    "name": "Shuddha manasa",
+    "exp": "She who has a clean mind"
+  },
+  {
+    "name": "Bindhu tharpana santhushta",
+    "exp": "She who is happy with the offering in the dot of Ananda maya chakra"
+  },
+  {
+    "name": "Poorvaja",
+    "exp": "She who preceded every one"
+  },
+  {
+    "name": "Tripurambika",
+    "exp": "She who is the goddess of three cities"
+  },
+  {
+    "name": "Dasa mudhra samaradhya",
+    "exp": "She who is worshipped by ten mudras(postures of the hand)"
+  },
+  {
+    "name": "Thrpura sree vasankari",
+    "exp": "She who keeps the goddess Tripura sree"
+  },
+  {
+    "name": "Gnana mudhra",
+    "exp": "She who shows the symbol of knowledge"
+  },
+  {
+    "name": "Gnana gamya",
+    "exp": "She who can be attained by knowledge"
+  },
+  {
+    "name": "Gnana gneya swaroopini",
+    "exp": "She who is what is thought and the thought"
+  },
+  {
+    "name": "Yoni mudhra",
+    "exp": "She who shows the symbol of pleasure"
+  },
+  {
+    "name": "Trikhandesi",
+    "exp": "She who is the lord of three zones of fire, moon and sun"
+  },
+  {
+    "name": "Triguna",
+    "exp": "She who is three characters"
+  },
+  {
+    "name": "Amba",
+    "exp": "She who is the mother"
+  },
+  {
+    "name": "Trikonaga",
+    "exp": "She who has attained at all vertices of a triangle"
+  },
+  {
+    "name": "Anaga",
+    "exp": "She who is not neared by sin"
+  },
+  {
+    "name": "Adbutha charithra",
+    "exp": "She who has a wonderful history"
+  },
+  {
+    "name": "Vanchithartha pradayini",
+    "exp": "She who gives what is desired"
+  },
+  {
+    "name": "Abhyasathisaya gnatha",
+    "exp": "She who can be realized by constant practice"
+  },
+  {
+    "name": "Shaddwatheetha roopini",
+    "exp": "She who supersedes the six methods of prayers"
+  },
+  {
+    "name": "Avyaja karuna moorhy",
+    "exp": "She who shows mercy without reason"
+  },
+  {
+    "name": "Agnana dwantha deepika",
+    "exp": "She who is the lamp that drives away ignorance"
+  },
+  {
+    "name": "Abala gopa vidhitha",
+    "exp": "She who is worshipped by all right from children and cowherds"
+  },
+  {
+    "name": "Sarvan ullangya sasana",
+    "exp": "She whose orders can never be disobeyed"
+  },
+  {
+    "name": "Sri chakra raja nilaya",
+    "exp": "She who lives in Srichakra"
+  },
+  {
+    "name": "Sri math thripura sundari",
+    "exp": "The beautiful goddess of wealth who is consort of the Lord of Tripura"
+  },
+  {
+    "name": "Sri shivaa",
+    "exp": "She who is the eternal peace"
+  },
+  {
+    "name": "Shiva shakthaikya roopini",
+    "exp": "She who is unification of Shiva and Shakthi"
+  },
+  {
+    "name": "Lalithambika",
+    "exp": "The easily approachable mother"
+  }
+        ];
+
+        // Global variables
+        let quizData = [];
+        let quizNames = []; // All possible names for the current quiz
+        let userAnswers = {}; // Map of meaningId -> selected nameId
+
+        // DOM elements
+        const questionCount = document.getElementById('questionCount');
+        const newQuizButton = document.getElementById('newQuizButton');
+        const submitButton = document.getElementById('submitButton');
+        const quizSection = document.getElementById('quizSection');
+        const quizTableBody = document.getElementById('quizTableBody');
+        const resultsSection = document.getElementById('resultsSection');
+        const loadingIndicator = document.getElementById('loadingIndicator');
+        const scoreDisplay = document.getElementById('scoreDisplay');
+        const resultsContainer = document.getElementById('resultsContainer');
+        const newGameButton = document.getElementById('newGameButton');
+
+        // Event listeners
+        newQuizButton.addEventListener('click', startNewQuiz);
+        submitButton.addEventListener('click', submitQuiz);
+        newGameButton.addEventListener('click', resetQuiz);
+
+        // Initialize - Adjust max questions based on data size
+        document.addEventListener('DOMContentLoaded', function() {
+            const maxQuestions = Math.min(25, sahasranamData.length);
+            questionCount.max = maxQuestions;
+            if (parseInt(questionCount.value) > maxQuestions) {
+                questionCount.value = maxQuestions;
+            }
+        });
+
+        // Functions
+        function shuffleArray(array) {
+            // Fisher-Yates shuffle algorithm
+            for (let i = array.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [array[i], array[j]] = [array[j], array[i]];
+            }
+            return array;
+        }
+
+        function startNewQuiz() {
+            loadingIndicator.style.display = 'block';
+
+            setTimeout(() => {
+                // Clear previous quiz
+                userAnswers = {};
+
+                // Get number of questions
+                const numQuestions = parseInt(questionCount.value);
+                if (isNaN(numQuestions) || numQuestions < 5 || numQuestions > Math.min(25, sahasranamData.length)) {
+                    alert("Please enter a valid number of questions (5-25)");
+                    loadingIndicator.style.display = 'none';
+                    return;
+                }
+
+                // Shuffle all data and pick requested number of items
+                const shuffledData = [...sahasranamData];
+                shuffleArray(shuffledData);
+
+                quizData = shuffledData.slice(0, numQuestions);
+
+                // Get all names for the dropdown options (include all possible names, not just the correct ones)
+                quizNames = [...quizData.map(item => item.name)];
+
+                // Prepare quiz display
+                renderQuiz();
+
+                // Show quiz section
+                quizSection.style.display = 'block';
+                resultsSection.style.display = 'none';
+                loadingIndicator.style.display = 'none';
+            }, 300); // Small delay to show loading indicator
+        }
+
+        function renderQuiz() {
+            // Clear previous content
+            quizTableBody.innerHTML = '';
+
+            // Create a shuffled copy of the names array
+            const shuffledNames = [...quizNames];
+            shuffleArray(shuffledNames);
+
+            // Create quiz rows
+            quizData.forEach((item, index) => {
+                const row = document.createElement('tr');
+
+                // Meaning cell
+                const meaningCell = document.createElement('td');
+                const meaningDiv = document.createElement('div');
+                meaningDiv.className = 'meaning-cell';
+                meaningDiv.textContent = item.exp;
+                meaningCell.appendChild(meaningDiv);
+
+                // Name selection cell
+                const nameCell = document.createElement('td');
+                const nameSelect = document.createElement('select');
+                nameSelect.className = 'names-dropdown';
+                nameSelect.id = `name-select-${index}`;
+                nameSelect.dataset.meaningId = index;
+
+                // Add a default option
+                const defaultOption = document.createElement('option');
+                defaultOption.value = '';
+                defaultOption.textContent = '-- Select the correct name --';
+                nameSelect.appendChild(defaultOption);
+
+                // Add all possible names in shuffled order
+                shuffledNames.forEach((name, nameIndex) => {
+                    const option = document.createElement('option');
+                    // Find the original index of this name in quizNames array
+                    option.value = quizNames.indexOf(name);
+                    option.textContent = name;
+                    nameSelect.appendChild(option);
+                });
+
+                // Event listener for selection
+                nameSelect.addEventListener('change', (e) => {
+                    const meaningId = e.target.dataset.meaningId;
+                    const selectedNameId = e.target.value;
+
+                    if (selectedNameId === '') {
+                        delete userAnswers[meaningId];
+                    } else {
+                        userAnswers[meaningId] = selectedNameId;
+                    }
+                });
+
+                nameCell.appendChild(nameSelect);
+
+                // Add cells to row
+                row.appendChild(meaningCell);
+                row.appendChild(nameCell);
+
+                // Add row to table
+                quizTableBody.appendChild(row);
+            });
+        }
+
+        function submitQuiz() {
+            // Calculate score
+            let correctCount = 0;
+            const results = [];
+
+            quizData.forEach((item, meaningIndex) => {
+                const selectedNameId = userAnswers[meaningIndex];
+                const isAnswered = selectedNameId !== undefined && selectedNameId !== '';
+                const isCorrect = isAnswered && parseInt(selectedNameId) === meaningIndex;
+
+                if (isCorrect) {
+                    correctCount++;
+                }
+
+                results.push({
+                    meaning: item.exp,
+                    correctName: item.name,
+                    selectedName: isAnswered ? quizNames[parseInt(selectedNameId)] : "Not answered",
+                    isCorrect: isCorrect
+                });
+            });
+
+            // Display results
+            scoreDisplay.textContent = `Score: ${correctCount} out of ${quizData.length} correct`;
+
+            // Clear previous results
+            resultsContainer.innerHTML = '';
+
+            // Generate result items
+            results.forEach(result => {
+                const resultItem = document.createElement('div');
+                resultItem.className = `result-item ${result.isCorrect ? 'correct' : 'incorrect'}`;
+
+                const meaningDiv = document.createElement('div');
+                meaningDiv.className = 'result-meaning';
+                meaningDiv.innerHTML = `<div class="result-title">Meaning:</div>${result.meaning}`;
+
+                const userAnswerDiv = document.createElement('div');
+                userAnswerDiv.className = `result-user-answer ${result.isCorrect ? '' : 'wrong'}`;
+                userAnswerDiv.innerHTML = `<div class="result-title">Your Answer:</div>${result.selectedName}`;
+
+                const correctAnswerDiv = document.createElement('div');
+                correctAnswerDiv.className = 'result-correct-answer';
+                correctAnswerDiv.innerHTML = `<div class="result-title">Correct Name:</div>${result.correctName}`;
+
+                resultItem.appendChild(meaningDiv);
+                resultItem.appendChild(userAnswerDiv);
+                resultItem.appendChild(correctAnswerDiv);
+                resultsContainer.appendChild(resultItem);
+            });
+
+            // Show results section, hide quiz section
+            quizSection.style.display = 'none';
+            resultsSection.style.display = 'block';
+        }
+
+        function resetQuiz() {
+            quizSection.style.display = 'none';
+            resultsSection.style.display = 'none';
+        }
+    </script>
+</body>
+</html>
