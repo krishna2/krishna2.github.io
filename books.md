@@ -69,7 +69,17 @@ These are the books I have read and am reading.
 
 30. Prof. Robert Cialdini: Influence
 
-31. 
+31. Geoffrey Moore: Crossing the Chasm
+
+32. Steve Blank: The Four Steps to the Epiphany
+
+33. Jason Jaggard: Beyond High Performance
+
+34. Seth Godin: All Marketers are Liars
+
+35. Steve Blank: Startup Owners Manual
+
+36. 
 
 
 ## Books in 2024
