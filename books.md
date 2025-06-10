@@ -79,7 +79,11 @@ These are the books I have read and am reading.
 
 35. Steve Blank: Startup Owners Manual
 
-36. 
+36. Seth Godin: This is Marketing
+
+37. Karen Armstrong: The Spiral Staircase
+
+38. 
 
 
 ## Books in 2024
