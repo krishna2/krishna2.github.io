@@ -83,7 +83,36 @@ These are the books I have read and am reading.
 
 37. Karen Armstrong: The Spiral Staircase
 
-38. 
+38. Cooper, Brant; Vlaskovits, Patrick: The Entrepreneur's Guide to Customer Development: A cheat sheet to The Four Steps to the Epiphany
+
+39. Long, Brian: Problem Hunting
+
+40. Bono, Edward de: Lateral Thinking
+
+41. Pfeffer, Jeffery: Power: Why Some People Have It—and Others Don't
+
+42. Gregersen, Hal B.: Questions Are the Answer
+
+43. Buckingham, Marcus; Coffman, Curt: First, Break All the Rules
+
+44. Asprey, Dave: Heavily Meditated
+
+45. Govindarajan, Vijay; Trimble, Chris: How Stella Saved the Farm
+
+46. Gallwey, W. Timothy: The Inner Game of Work
+
+47. Savoia, Alberto: The Right It
+
+48. 50 Cent (Curtis Jackson): Hustle Harder, Hustle Smarter
+
+49. Leonard, George: Mastery
+
+50. Horowitz, Ben: What You Do Is Who You Are
+
+51. Claude C. Hopkins: My Life In Advertising
+
+52. 
+
 
 
 ## Books in 2024
